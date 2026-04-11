@@ -118,5 +118,10 @@
     "timestamp": "2026-04-11T21:30:38.012372+08:00",
     "average_sentiment": 50.0,
     "news_count": 45
+  },
+  {
+    "timestamp": "2026-04-11T22:55:28.287434+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 48
   }
 ]
