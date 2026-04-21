@@ -2,6 +2,30 @@
   "date": "2026-04-21",
   "news": [
     {
+      "source": "CNBC Finance",
+      "title": "Trump says 'maybe' government should help struggling Spirit Airlines",
+      "link": "https://www.cnbc.com/2026/04/21/trump-spirit-airlines.html",
+      "summary": "Trump told CNBC's \"Squawk Box\": \"I think I'd love somebody to buy Spirit, as an example.\"",
+      "published": "Tue, 21 Apr 2026 13:56:25 GMT",
+      "display_time": "04/21 13:56"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "UPS and FedEx have begun filing for some tariff refunds",
+      "link": "https://www.cnbc.com/2026/04/21/ups-fedex-tariff-refunds-ieepa.html",
+      "summary": "UPS and FedEx have begun filing requests for some tariff refunds through the government's refund process, but those funds could take months to reach customers.",
+      "published": "Tue, 21 Apr 2026 13:50:18 GMT",
+      "display_time": "04/21 13:50"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "UnitedHealth tops quarterly estimates, hikes profit outlook as insurer manages high medical costs",
+      "link": "https://www.cnbc.com/2026/04/21/unitedhealth-group-unh-earnings-q1-2026.html",
+      "summary": "The nation's largest private insurer expects 2026 adjusted earnings of more than $18.25 per share, up from a previous outlook of greater than $17.75 per share.",
+      "published": "Tue, 21 Apr 2026 11:47:27 GMT",
+      "display_time": "04/21 11:47"
+    },
+    {
       "source": "Google News Global",
       "title": "外資買超台股逾600億居史上第7大　買最多 10檔一次看 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QZ0hYU3ZSVlJla0g3SUNZOVc0bTVJaVNsZDk2NnQwSnBPNTIzdU5Oa2I0M09pNEZvT1paT2JBNGRZMlRmNkJ4bEh3ZmpYSUhDUmfSAW5BVV95cUxPQUd5OTM0XzByelFhVElrbERBeE9TcTBzbXVvU3lEQjdSLWVaZnlnQVkzTjZzMmswcmo4TXJaS1RoU0F0X1JHU0puUFYtZkd1VVZCYlZMRnAtaXU2dGlvWVZTVFo1NS04bnU4SmQ1UQ?oc=5",
@@ -26,20 +50,36 @@
       "display_time": "04/21 08:17"
     },
     {
-      "source": "CNBC Finance",
-      "title": "Trump says 'maybe' government should help struggling Spirit Airlines",
-      "link": "https://www.cnbc.com/2026/04/21/trump-spirit-airlines.html",
-      "summary": "Trump told CNBC's \"Squawk Box\": \"I think I'd love somebody to buy Spirit, as an example.\"",
-      "published": "Tue, 21 Apr 2026 13:56:25 GMT",
-      "display_time": "04/21 13:56"
+      "source": "BBC Business",
+      "title": "Middle East war has pushed up air fares 24%, research shows",
+      "link": "https://www.bbc.com/news/articles/crr14qplxe8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The consultancy Teneo says airspace restrictions caused by the conflict have forced airlines to reroute many flights.",
+      "published": "Tue, 21 Apr 2026 15:20:51 GMT",
+      "display_time": "04/21 15:20"
     },
     {
-      "source": "CNBC Finance",
-      "title": "UPS and FedEx have begun filing for some tariff refunds",
-      "link": "https://www.cnbc.com/2026/04/21/ups-fedex-tariff-refunds-ieepa.html",
-      "summary": "UPS and FedEx have begun filing requests for some tariff refunds through the government's refund process, but those funds could take months to reach customers.",
-      "published": "Tue, 21 Apr 2026 13:50:18 GMT",
-      "display_time": "04/21 13:50"
+      "source": "Google News Global",
+      "title": "〈台股盤後〉千金股比價效應帶飛台股大漲646點改寫37605點收盤新高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hNG9PNWl3dmRsV1hVaDhFZGNMcDRtdnpET2JTSmRLcHlzTDJCanFkOFN5ZmtsYTl4Ukh5UHJDRUVwTF9VX0N6V2JTTGZTaGs?oc=5",
+      "summary": "〈台股盤後〉千金股比價效應帶飛台股大漲646點改寫37605點收盤新高 news.cnyes.com 台股神山不只一座！聯發科、台達電攜手破2000元撐出台股新視野｜Yahoo財經掃描 Yahoo股市 台股創高無極限？專家示警：股市走鋼索「這時」一翻兩瞪眼- 證券 工商時報 不只華星光、IET-KY！鎖定二大護城河族群，CPO＋PCB這10檔也可能翻倍？ 經濟日報 股王信驊飆15245元、指數收37605點 雙創收盤新猷 自由財經",
+      "published": "Tue, 21 Apr 2026 06:28:08 GMT",
+      "display_time": "04/21 06:28"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普：美國獲取伊朗濃縮鈾 將會漫長且艱難 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfTU9jTFE0cWp0aUtUR1o3Q21xM1hxMFd2X3Iyd01tMGQ4Rmd0anNlNWh5ODBnaUQxVFUtaS1aQkd3ai1vN1VSM0tvUU81Ny1zWjRLZFFNamROV016Rk9pdUZqRTlvUdIBa0FVX3lxTE56eXctN2YtSVpvblU3U3h3LUFJb0g3QlhSVWhiclEzaGhYUjdkS1NKMmoxcXlaeU96c2g1MVhMcWpiY0hiTHJqcS13akY2eVVRcXB5WW9iWFZtNnVPLVQxRV9NYjg3WUxlQ2ZB?oc=5",
+      "summary": "川普：美國獲取伊朗濃縮鈾 將會漫長且艱難 自由時報 川普稱將與伊朗達成「很棒」協議坦言美股沒跌兩成很意外| 美以轟炸伊朗| 全球 聯合新聞網 美伊停火倒數計時！華府德黑蘭和談「三大心結」：荷莫茲海峽、濃縮鈾與真主黨 Yahoo新聞 中、俄逼伊與美談判？突然未提關鍵字「濃縮鈾」 川普再嗆 :「停火不會延長」 Newtalk新聞 美伊14天停戰期即將屆滿 美國智庫報告：雙方從軍事實力較量、轉入政治對峙 | 杜宗熹 | 新聞 風傳媒",
+      "published": "Tue, 21 Apr 2026 05:50:42 GMT",
+      "display_time": "04/21 05:50"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股早盤／美伊停火期限將至！川普稱將達成很棒協議 道瓊漲逾300點 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kUnRxSExoZHpybkpMRkplZ3R2aU5BS2FmcjRLYXlXQXpkaFhKdHc4TzVCVjl1SnFQWjdQR1RLQUhiUjRtTXlISkRITDlLNkNL?oc=5",
+      "summary": "美股早盤／美伊停火期限將至！川普稱將達成很棒協議 道瓊漲逾300點 聯合新聞網 中東戰爭停火在即？美股開盤齊揚 道瓊飆升245點 Yahoo股市 美國與伊朗和談前景不明 華爾街股市多收跌 MSN 美股收盤》美伊和談前景不明 美股多收低、台積電ADR下跌1.15％ 自由時報 〈美股早盤〉美伊談判預期與財報支撐 主要指數走高 news.cnyes.com",
+      "published": "Tue, 21 Apr 2026 13:45:18 GMT",
+      "display_time": "04/21 13:45"
     },
     {
       "source": "Google News Global",
@@ -58,12 +98,12 @@
       "display_time": "04/21 04:32"
     },
     {
-      "source": "CNBC Finance",
-      "title": "UnitedHealth tops quarterly estimates, hikes profit outlook as insurer manages high medical costs",
-      "link": "https://www.cnbc.com/2026/04/21/unitedhealth-group-unh-earnings-q1-2026.html",
-      "summary": "The nation's largest private insurer expects 2026 adjusted earnings of more than $18.25 per share, up from a previous outlook of greater than $17.75 per share.",
-      "published": "Tue, 21 Apr 2026 11:47:27 GMT",
-      "display_time": "04/21 11:47"
+      "source": "Google News Global",
+      "title": "美軍扣押伊朗貨輪船員！伊外交部說話了 美伊談判前夕緊張升溫 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OUmlTVk0zdFhzdVF5M283VzVJb1NPZjU0Q0Jqa2laR0ZmT2ZUNk5TYXk3ejRoTk1oM1ZvbEdiRng4c1JoLVpnWDJCeEx5d1hrLWt30gFYQVVfeXFMT1Z5M0UwNmtFM0pTSkNKQXJybUppMDZPaDVCS3VTWFV6bnF0X2dlVDNDWFg0TFUyQ1RxQm93MmI2YXhWZzdBY2Nta1VvaGdVc0dOOUU3QkFxSw?oc=5",
+      "summary": "美軍扣押伊朗貨輪船員！伊外交部說話了 美伊談判前夕緊張升溫 聯合新聞網 美伊停火將結束美軍扣押與伊朗相關油輪| 國際 中央社 CNA 五角大廈：美軍在印度洋攔截一艘「受制裁」的油輪 經濟日報 美國為何要封鎖荷莫茲海峽 上報Up Media 霍爾木茲海峽：海上封鎖真的有用嗎？ Yahoo新聞",
+      "published": "Tue, 21 Apr 2026 04:25:42 GMT",
+      "display_time": "04/21 04:25"
     },
     {
       "source": "Google News Global",
@@ -80,6 +120,14 @@
       "summary": "台積電、聯發科、台達電領軍，加權指數一度衝破37,700點大關 Yahoo股市 台股短線乖離大漲多準備拉回？七多頭訊號透露後市玄機- 日報 工商時報 台股史上最高收盤！漲逾646點收37605點 Yahoo股市 不只華星光、IET-KY：CPO＋PCB這10檔也可能翻倍？ news.cnyes.com 台積電、聯發科、台達電領軍，加權指數一度衝破37,700 點大關 MSN",
       "published": "Tue, 21 Apr 2026 03:45:35 GMT",
       "display_time": "04/21 03:45"
+    },
+    {
+      "source": "Google News Global",
+      "title": "伊朗戰爭引爆史上最大能源危機 6億桶石油流失衝擊全球經濟 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWWxRTV9pMGMtY2ZPendNNnc1UmtHcEg3dnp0cFN1bFRlWFBOUUVjck9oVFlYTjhUX1lJaFN0QmRTUlNlcHFQRmdjakF1QzlmVGVFcHM3UFo5cGNqMWFUR0dXQWlJUUdFZjZaWC13dlM2MnptUW1ieGM0eDVyekg0ZlA3SnJtMVF3ZHAyZGVGUWZaSWhnTFdza2Z3ZS1zcWF3d24wbEZwa0tPdVdsYWxIMWlaaTJVT2dFTWdYR3hNMTVKNHE0U1FrQ3d1SGRKbGpuYWw0VDlpemRuQjQzd0I3anRDNEJYWGgyZXVBdHhLRnpwSFFJTjZBREVrQzc5WUlITnNOMDhZYXlsRFo2S0tNMTYtc0NRMVkyMTBWbzlTQXZDV05RNkhtNmxrZ0Z0SC1Sc2ZfUmthb2tpUlozeEdvY0Z3YVVUQm5uS1VNSjFLVG4zUkxvb3RXWVkwUmd6VU9TVkluaFV5ajVqd1BMTXFsUXc5elVrYlV5T29LblFZOUpjRmUxUVVoWjBxWW52ZEVZZWIwVXJR?oc=5",
+      "summary": "伊朗戰爭引爆史上最大能源危機 6億桶石油流失衝擊全球經濟 Yahoo股市 荷姆茲海峽再爆衝突、航運幾乎停滯！國際油價急拉大漲 自由財經 市場對美伊和談仍抱希望 亞股普遍收漲 MSN 花旗：荷姆茲若持續受阻油價恐飆130美元、庫存創8年新低- 財經新聞 玩股網 MoneyDJ新聞 2026-04-21 06:13:56 黃文章 發佈 MoneyDJ理財網",
+      "published": "Tue, 21 Apr 2026 01:48:23 GMT",
+      "display_time": "04/21 01:48"
     },
     {
       "source": "Google News Global",
@@ -107,6 +155,14 @@
     },
     {
       "source": "Google News Global",
+      "title": "【Follow法人】外資敲進601億元寫第七大買超 掃台玻3.6萬張居冠 加碼台積電逾2千張 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPeS1tdXhCS0pUakdON3dmOWFBeWJGRmVsSEFKQlVIRWFqNUh1aGtwMEhOUGM3NHBrV29yZ1dwcEExbFpzSlR6RzBTb1NuM2xhV182bGg1RUZ1N1AzTmM1YlQtM1FseWlRczVIazZubUEtemNMa243T3FCZWV0cHFualBxRVhxcTNJQ2NWSVBVUzdtR3F5MHZVeWdPSUY3U2lXRWN4aGROQkl5VDdxbGhfcmxkVUdZN3F0b0Z3dktiNnZPcHRNS3RyWWtXTGFZdUJjbVAtNjd6UEo3TDRLVzBickE3R21wNHNrOWhNcElBZXJISzh0b2IxQkZDRVNDQ1J6MHRUQ1Ffb2JkM056R2RYbjdEeWlHc1JEb3ZwSC1fT3BEb3JWaWlsQjk3akZFSDh3Z2twQjQ4YmNPN3FFUE1zZVo0UXVoTTQ3VE5fNnNJRzh4c252aFpucVctVll4clVXUzlFSUlWLVl5cnBZX2JEZ1NPQXVVZ2c0NU1udjYwSmRDWWRjbC1INmpLQzczQnFPLXB2UjZvNXF3QnJtNDFVUHhiWUVCZ0R1VUZsYzRtUjZOc0xxZGc5UXpmYVp0d1lOVFRCckJmbzg4YTkyQzEzWGdscGh0VUNCM19VVERKUDB2Zw?oc=5",
+      "summary": "【Follow法人】外資敲進601億元寫第七大買超 掃台玻3.6萬張居冠 加碼台積電逾2千張 Yahoo股市 前往 Google 新聞查看完整報導",
+      "published": "Tue, 21 Apr 2026 08:47:00 GMT",
+      "display_time": "04/21 08:47"
+    },
+    {
+      "source": "Google News Global",
       "title": "荷姆茲海峽再爆衝突、航運幾乎停滯！國際油價急拉大漲 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1scGZjanhaaE95RDZQZzBHSEpsUnIycjl1aGhyTzRFLXZxbVRONi1MVUZGeUFVenR6S2dZT0lnWGNqeU5qdXpYdnhtV2o5bWRvT3h1WVlRR3IwS3M1UDhF0gFkQVVfeXFMT3Byd3YzdEpqN3pCVXl5cmZpSDBvelM4YldtWTZXQ0hTaHdRTUJQZDgwTDFRUkdjREdYOTFVWGFEVXE4Ulc0d0wxcUhWN1NNa3ZkZkUwU1pid2tONi04SHdKVFpYUw?oc=5",
       "summary": "荷姆茲海峽再爆衝突、航運幾乎停滯！國際油價急拉大漲 自由財經 花旗：荷姆茲若持續受阻 油價恐飆130美元、庫存創8年新低 Yahoo股市 石油庫存銳減 若供應持續受阻、油價恐反彈 TechNews 科技新報 美股創高後遇阻 兩大風險成焦點 news.cnyes.com MoneyDJ新聞 2026-04-21 06:13:56 黃文章 發佈 MoneyDJ理財網",
@@ -123,11 +179,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "〈台股盤後〉千金股比價效應帶飛台股大漲646點改寫37605點收盤新高 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hNG9PNWl3dmRsV1hVaDhFZGNMcDRtdnpET2JTSmRLcHlzTDJCanFkOFN5ZmtsYTl4Ukh5UHJDRUVwTF9VX0N6V2JTTGZTaGs?oc=5",
-      "summary": "〈台股盤後〉千金股比價效應帶飛台股大漲646點改寫37605點收盤新高 news.cnyes.com 台股神山不只一座！聯發科、台達電攜手破2000元撐出台股新視野｜Yahoo財經掃描 Yahoo股市 台股創高無極限？專家示警：股市走鋼索「這時」一翻兩瞪眼- 證券 工商時報 不只華星光、IET-KY！鎖定二大護城河族群，CPO＋PCB這10檔也可能翻倍？ 經濟日報 股王信驊飆15245元、指數收37605點 雙創收盤新猷 自由財經",
-      "published": "Tue, 21 Apr 2026 06:28:08 GMT",
-      "display_time": "04/21 06:28"
+      "title": "Google新TPU帶旺！聯發科強鎖漲停、股價超車台積電 「砷化鎵大廠」噴天價炸量328億 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPUHY4aXB4aHE0UU5vNVgzY1hhbUNLSzFEWGRSSm4xcUdHdWpmLXZFUW84eFhhaGVzeUJha29laHNrcEo1VFBYN0hJaDN1UllXVkhGZkZrS1R1Mm9XckI4bXZGTU5rQk5uSDBWLXRuYjlhd256NURRUHZBREpvSkdjLUg5ekRPNmk4Y2lqRmdidURRa3dCM3I1aF82S0VJY1N4WFJ5MDJDdmQ5ZkFrVU5QMl9ISTFhSUlmNlVOdEY5WUlFb1dSSWVrNkxQWTVOT0JTVGI0cmJ5MlFxaXgyY3Q3QThMN1ltVl9XaEhWRUNFVjdlT2xBMUFiRGwxMU9TUGt6QUZPRXlLbF8tekF4Q292NkQ1VTRaN01pMk1oaG9QeG40bE9QaU9XR2I0NU5vbkdNOGdRa0xBVWZTbVl2dEExdU5RTngxQTNZVWdPT04zU1UzU1BBZmZmSERDMzZ3bmg5blR5ejNHbUE0bWxfMWhWZGptbGJtVS00TU1oVzFNQ0E5Skp1YndBSlZacnVGdFh2Qnd0Wkx5ZndORTdLTTR3ZVVMZUdQUUdEdUctZzRkZ1kwdk9uZElaQUF3MzQwZklm?oc=5",
+      "summary": "Google新TPU帶旺！聯發科強鎖漲停、股價超車台積電 「砷化鎵大廠」噴天價炸量328億 Yahoo股市 【Hot台股】聯發科漲停股價超車積哥！網嗨「買發哥賺一間房」 分析師：超車很正常 Yahoo股市 IC 設計春燕來了 分析師：「這幾檔絕不可能寂寞」 經濟日報 Google新TPU台廠6檔撿到槍！　聯發科漲停飆天價、廣達戰前高 ETtoday財經雲 聯發科(2454)可以買嗎？1430→2090元漲停大紅棒、10天飆快5成底氣曝光！最新目標價有多少肉能吃 今周刊",
+      "published": "Tue, 21 Apr 2026 07:00:00 GMT",
+      "display_time": "04/21 07:00"
     },
     {
       "source": "Google News Global",
@@ -136,14 +192,6 @@
       "summary": "美伊停火23日上午結束 川普：極不可能延長 Yahoo新聞 「只聽哈米尼，不看白痴推文」看懂荷姆茲海峽為什麼開開關關？ 天下雜誌 海灣國家憂區域安全遭邊緣化 成美伊談判「棄子」-新聞 rti.org.tw 范斯預計再赴會華爾街日報分析5種美伊走向| 國際 中央社 CNA 川普悄延長停火1天！伊朗最高領袖點頭再談判 美副總統今赴巴基斯坦 聯合新聞網",
       "published": "Mon, 20 Apr 2026 22:01:03 GMT",
       "display_time": "04/20 22:01"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普：美國獲取伊朗濃縮鈾 將會漫長且艱難 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfTU9jTFE0cWp0aUtUR1o3Q21xM1hxMFd2X3Iyd01tMGQ4Rmd0anNlNWh5ODBnaUQxVFUtaS1aQkd3ai1vN1VSM0tvUU81Ny1zWjRLZFFNamROV016Rk9pdUZqRTlvUdIBa0FVX3lxTE56eXctN2YtSVpvblU3U3h3LUFJb0g3QlhSVWhiclEzaGhYUjdkS1NKMmoxcXlaeU96c2g1MVhMcWpiY0hiTHJqcS13akY2eVVRcXB5WW9iWFZtNnVPLVQxRV9NYjg3WUxlQ2ZB?oc=5",
-      "summary": "川普：美國獲取伊朗濃縮鈾 將會漫長且艱難 自由時報 川普稱將與伊朗達成「很棒」協議坦言美股沒跌兩成很意外| 美以轟炸伊朗| 全球 聯合新聞網 美伊停火倒數計時！華府德黑蘭和談「三大心結」：荷莫茲海峽、濃縮鈾與真主黨 Yahoo新聞 中、俄逼伊與美談判？突然未提關鍵字「濃縮鈾」 川普再嗆 :「停火不會延長」 Newtalk新聞 美伊14天停戰期即將屆滿 美國智庫報告：雙方從軍事實力較量、轉入政治對峙 | 杜宗熹 | 新聞 風傳媒",
-      "published": "Tue, 21 Apr 2026 05:50:42 GMT",
-      "display_time": "04/21 05:50"
     },
     {
       "source": "Google News Global",
@@ -179,14 +227,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "美軍扣押伊朗貨輪船員！伊外交部說話了 美伊談判前夕緊張升溫 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OUmlTVk0zdFhzdVF5M283VzVJb1NPZjU0Q0Jqa2laR0ZmT2ZUNk5TYXk3ejRoTk1oM1ZvbEdiRng4c1JoLVpnWDJCeEx5d1hrLWt30gFYQVVfeXFMT1Z5M0UwNmtFM0pTSkNKQXJybUppMDZPaDVCS3VTWFV6bnF0X2dlVDNDWFg0TFUyQ1RxQm93MmI2YXhWZzdBY2Nta1VvaGdVc0dOOUU3QkFxSw?oc=5",
-      "summary": "美軍扣押伊朗貨輪船員！伊外交部說話了 美伊談判前夕緊張升溫 聯合新聞網 美伊停火將結束美軍扣押與伊朗相關油輪| 國際 中央社 CNA 五角大廈：美軍在印度洋攔截一艘「受制裁」的油輪 經濟日報 美國為何要封鎖荷莫茲海峽 上報Up Media 霍爾木茲海峽：海上封鎖真的有用嗎？ Yahoo新聞",
-      "published": "Tue, 21 Apr 2026 04:25:42 GMT",
-      "display_time": "04/21 04:25"
-    },
-    {
-      "source": "Google News Global",
       "title": "台股市值躍升全球第六 矢板明夫：擺脫中國，路越走越寬！ - 自由時報",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yTnNENFRhdHRCdGZDcnFxb2ozTEJtUUdvOTlnbC03RGt3X0xpazRBa3hMci1qaGotdk03OTM0YUswajhaQUpnZmxsVW1ESTVySHJtaHQ0WndnU0MxUXVxSUUzMFNGaTRwbGfSAW9BVV95cUxQX2dtSVV5UmdCeVl4WGF3Zkw2Q0VRQk5VSnBFQ0s3UzNPeWZMcjZUWjZTZU9qVzVRNlFKWUt6TFc5cFdKZFFfUWpiczlPVnIwaFVkTF9hUDZXTi1ndmpuTTFwM0U5Y3BfSVNIUm9FTUk?oc=5",
       "summary": "台股市值躍升全球第六 矢板明夫：擺脫中國，路越走越寬！ 自由時報 台股市值超越英國躍升全球第6 矢板明夫：不依賴中國反而走得更穩 Yahoo新聞 一口氣點名14檔！ 謝金河讚：站在AI浪尖上的科技巨擘 東森電視 水餃股變千金股怎麼辦到的？台光電、智邦、奇鋐…謝金河細數「翻身傳奇」 聯合新聞網 謝金河點名10檔黑馬　AI浪潮引爆翻身行情 ETtoday財經雲",
@@ -203,11 +243,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "伊朗戰爭引爆史上最大能源危機 6億桶石油流失衝擊全球經濟 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNWWxRTV9pMGMtY2ZPendNNnc1UmtHcEg3dnp0cFN1bFRlWFBOUUVjck9oVFlYTjhUX1lJaFN0QmRTUlNlcHFQRmdjakF1QzlmVGVFcHM3UFo5cGNqMWFUR0dXQWlJUUdFZjZaWC13dlM2MnptUW1ieGM0eDVyekg0ZlA3SnJtMVF3ZHAyZGVGUWZaSWhnTFdza2Z3ZS1zcWF3d24wbEZwa0tPdVdsYWxIMWlaaTJVT2dFTWdYR3hNMTVKNHE0U1FrQ3d1SGRKbGpuYWw0VDlpemRuQjQzd0I3anRDNEJYWGgyZXVBdHhLRnpwSFFJTjZBREVrQzc5WUlITnNOMDhZYXlsRFo2S0tNMTYtc0NRMVkyMTBWbzlTQXZDV05RNkhtNmxrZ0Z0SC1Sc2ZfUmthb2tpUlozeEdvY0Z3YVVUQm5uS1VNSjFLVG4zUkxvb3RXWVkwUmd6VU9TVkluaFV5ajVqd1BMTXFsUXc5elVrYlV5T29LblFZOUpjRmUxUVVoWjBxWW52ZEVZZWIwVXJR?oc=5",
-      "summary": "伊朗戰爭引爆史上最大能源危機 6億桶石油流失衝擊全球經濟 Yahoo股市 荷姆茲海峽再爆衝突、航運幾乎停滯！國際油價急拉大漲 自由財經 市場對美伊和談仍抱希望 亞股普遍收漲 MSN 花旗：荷姆茲若持續受阻油價恐飆130美元、庫存創8年新低- 財經新聞 玩股網 MoneyDJ新聞 2026-04-21 06:13:56 黃文章 發佈 MoneyDJ理財網",
-      "published": "Tue, 21 Apr 2026 01:48:23 GMT",
-      "display_time": "04/21 01:48"
+      "title": "被扣伊朗貨輪5000櫃物品曝光！從中國出發疑裝1類「有價值的東西」 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JTnE4d3ZLQndGVDRkM2JwV05scVdQV0JLblgxZEsyekhtMTNWY0I5MlNEbDlXdkJsbHk4U1d4cHVWQnlucEQ1cW1rWVFXWWJMY1hv0gFYQVVfeXFMTnA2TU1OM2ZWRHpucVlYUGJGMGZQUFZZVlRnR0RaTWVHNVZlYlM3REhlbHAwT0Y5U3MtbXotNVR1dG9wMkdtQUdnc2R2Y1BsZU9UVmJaZmRsWA?oc=5",
+      "summary": "被扣伊朗貨輪5000櫃物品曝光！從中國出發疑裝1類「有價值的東西」 聯合新聞網 見到中國船隻「偷載給伊朗禮物」 川普也驚訝 自由時報 川普：不願延長停火 美攔截中國運往伊朗「禮物」船 中央社 CNA 凌晨突轉向？美軍印度洋攔截「受制裁」油輪 曾走私伊朗原油 聯合新聞網 美軍扣押伊朗貨輪「圖斯卡號」運輸物品曝！曾停靠中國、馬來西亞裝載 news.cnyes.com",
+      "published": "Tue, 21 Apr 2026 01:14:56 GMT",
+      "display_time": "04/21 01:14"
     },
     {
       "source": "Google News Global",
@@ -344,6 +384,14 @@
       "summary": "從中國駛往伊朗貨輪遭美扣押！德黑蘭嗆報復「美軍是武裝海盜」 自由時報 美伊談判生變？伊朗為何敢和川普叫板 退將曝底氣：看出美軍短板 Yahoo新聞 封鎖海上要道成地緣政治手段 「麻六甲困境」恐再次浮上檯面 DIGITIMES 美伊僵局推向崩潰邊緣 油價飆漲5％逼近100美元 自由財經 川普稱美軍截獲伊貨船、和談前局勢惡化 油價飆-新聞內容-基金 MoneyDJ理財網",
       "published": "Mon, 20 Apr 2026 01:03:39 GMT",
       "display_time": "04/20 01:03"
+    },
+    {
+      "source": "Google News Global",
+      "title": "不用打贏也能撐！紐時專欄：伊朗戰法成警示 台海恐現「地獄景觀」 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MRHhWMkt5WWJIcF82SmVIUUgteDE3X0ItZWVoLWVFVkg4dEdKMkRmM180bzMxUkxaTzd5XzZPRjNMM2pzcVR3RzZEdy0yeVN2TlpvTmphaHpzX0ZSWkVYSnR4YlJEQdIBa0FVX3lxTFBaU3pxT3VHN180VWhzTTItdWVjYlFLendaeWNiOE9UUlhWaTNUeWlRUDNBbENZd1BmX2Y2SGY1RDJKMUJKcXVOSF9GQVlDWkZ0eFJnSFc5dUFTT1c4bFdwaFNFZEcxZ1BlVTlv?oc=5",
+      "summary": "不用打贏也能撐！紐時專欄：伊朗戰法成警示 台海恐現「地獄景觀」 自由時報 2/3民意不認同對伊處理手法! 紐時重批 : 川普正以「這4種」方式削弱美國….. Newtalk新聞 中東戰火洩川普軟肋！外媒示警「台日韓注意」 揭地緣政治關鍵籌碼 Yahoo新聞 4月21日美伊戰爭對國際經濟、財經市場與民生衝擊| 國際 中央社 CNA 【林廷輝時間】美伊戰爭進程與美中中東佈局 rti.org.tw",
+      "published": "Mon, 20 Apr 2026 08:58:49 GMT",
+      "display_time": "04/20 08:58"
     },
     {
       "source": "Google News Global",
