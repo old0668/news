@@ -3,11 +3,35 @@
   "news": [
     {
       "source": "BBC Business",
+      "title": "Could UK interest rates go up?",
+      "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "published": "Wed, 22 Apr 2026 10:17:43 GMT",
+      "display_time": "04/22 10:17"
+    },
+    {
+      "source": "BBC Business",
       "title": "Why are UK prices rising more quickly?",
       "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
       "summary": "The war in Iran has pushed UK Inflation further above the Bank of England's 2% target.",
       "published": "Wed, 22 Apr 2026 09:32:18 GMT",
       "display_time": "04/22 09:32"
+    },
+    {
+      "source": "Google News Global",
+      "title": "伊朗兩艘滿載油輪突破美軍海上封鎖線駛出波灣 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPNExRVDRROW5VQUNvWUU4N1pRbV9PcjZCNEJfVkdNcFRtUldtNkN1VlV4WjBSNUpZaHM2M3BSUE1HbThDZl84UHk4LXBxanp6cHRLVk1KdU92aUhLZUhQSGdYMmRyQnZqR3J0UEJaR1hncXg2VHZ5d0l5NEdRbXdwblVPV0F2TmVnVXZCNEh5eFRUNDQ3R0ZudlB0MFBIRkpPb0t0UWFtX3QtcWlFa2Z0OG5KTXZ2eFl5dzhwUndpRllwXzhyZGFnX3BPQXMtTEFvYVFUZVJnaTZtOHVkUHgzSFVSdHFkd3ItZGxqTnhNaWVib2Vyb1IxRGlEWFRrYnhrUUQ5QnA0Y3pudVVaZGt4ZXBKMFRZVDJXT2ZLb1dEWVBWcmlfMVprRnBYb0w0VmFBV3otZFVBVEVYSUVMNnZVaGcwYnBEbThSMV9DdG1Ccw?oc=5",
+      "summary": "伊朗兩艘滿載油輪突破美軍海上封鎖線駛出波灣 Yahoo新聞 美驅逐艦「史普魯恩斯號」5吋艦砲開轟！ 竟創美軍38年另類紀錄 自由軍武頻道 美財長稱哈格島儲油空間將滿 伊朗恐被迫減產 MSN 荷莫茲海峽一天至少3起貨船遇襲 美伊和談又添變數 聯合新聞網 伊朗哭哭！中國來的禮物被截胡 內容物讓川普「有點驚訝」 工商時報",
+      "published": "Wed, 22 Apr 2026 09:28:24 GMT",
+      "display_time": "04/22 09:28"
+    },
+    {
+      "source": "Google News Global",
+      "title": "重量級川粉認了「誤導選民」 怒轟川普「人品低劣」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYlhKM05fUWMydW90czZzVUJsVU5HOFBpZzdqOGI4djl0SlBBemVnYnd6aWE3d0kyLTY2WEhSbDg4SDJ1eDVieDZBSTcwNmhQSWlsS2UxVVQ4YkFWVnhuVmpZM0djU29GZF9jZGxJSGQ5cjBmeGNTejlidU5YbV9ZbFFSdE1DZXRYTWpJT2lzeWpneXNfY2wxTlJaM1N2T3JHVzQwSlM3Uk12eVI0UGdXT01rTzg2eDVCckw4d0Q4SmdVRlZiY005YXVDeWxvWTZzemhQcVJoaXNJT0pRWGx1dEJwQ1owLV9aOHlEdl9XeGN4cVJhQ0tzZ3k3alh3TXVlTEtkT19memFQVHNoWi1YZF9DVDhSS0pjRnk0SW8yMnNvN25tOEpMRmFiLVZ1Qk0xVk5lUGZsVmhNOE0?oc=5",
+      "summary": "重量級川粉認了「誤導選民」 怒轟川普「人品低劣」 Yahoo新聞 名嘴卡爾森 為助選川普「誤導選民」致歉 聯合新聞網 MAGA陣營分裂! 挺川大將卡爾森後悔道歉： 我誤導大眾 MSN 從頭號川粉到徹底反目！前福斯新聞主播卡爾森發道歉聲明 自由時報 伊朗戰爭引爆MAGA分裂 挺川大將卡爾森致歉：我誤導大眾 TVBS新聞網",
+      "published": "Wed, 22 Apr 2026 09:11:28 GMT",
+      "display_time": "04/22 09:11"
     },
     {
       "source": "Google News Finance",
@@ -51,11 +75,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "台股新紀錄38096點！股王股后、00929同創新高 00919填息 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQS014LW5KT2ZXYnhsNXF2U3RrOWtucGJIMy13M0ZZZUNWeks1NW5uOEgzNHVlWmIwMDktQ3AtSWh5UE1WRzNHWmZYUzBTakMzZjE3RzdYdS1QMjJQd25SNS0wZTF0V3VWbUNCNjVNOE5lSHRVaHVQOHE2U1JfaVNnVms5LWRwS1l1N19CeURrb0N0NVNzNUVPbExxbU5RVmQ3UE52cjFfUlRlQUZ6bXFaWGdxR2JyeDJxeEJnUlFkenNxNlpxczdSSkloVHdGYWhWd1JnOWV0WUtrcXNFUHo5WXdtMWdkeWZ3cXpZMFJ5aWw4bzdHVENRZVNPOWFGU2tFVUpKUW5XbXBnSUNsSU9mbFk4czAzejJ1NlJ6S3VlZ014blpVMXM3N2JsOA?oc=5",
+      "summary": "台股新紀錄38096點！股王股后、00929同創新高 00919填息 Yahoo新聞 台股創3高！股王信驊飆16085元、聯發科亮燈2295元、指數收37878點 自由財經 台股上看4萬背後的關鍵：資金外溢、選股邏輯與配置策略 Yahoo股市 台股憑什麼獨強？高盛逆天喊出40,000點「關鍵不只美伊戰爭停火」更有一場2,500元終極豪賭- 上市櫃 旺得富理財網 台股創高多頭行情延續法人押他盤中直接亮燈漲停| 財經 Newtalk新聞",
+      "published": "Wed, 22 Apr 2026 05:29:54 GMT",
+      "display_time": "04/22 05:29"
+    },
+    {
+      "source": "Google News Global",
       "title": "台積電法說超標演出，供應鏈誰吞大單？長興(1717)、中砂(1560)...18檔受惠股曝光！贏家揭轉機股2種操作法 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOUVnYzlNUm9ZX3EwWlNYU3p2dTNxZjAxeG8tSkFUanFRNlhaUHN0a3ppcHh2OEZ3OE0xa1RxQXVMQlZVX2JBRjFYTFZ3UVpqaUNGQllKZnlpX2UxVU1HYmF6b0FiVk14NGpmQVpKZnRWaExXNUVndmtOS3ZWMDFseXRuUkhyOEI5dFlIUUpyX3dkWTAxcWZKY3AtRk9ncEV0c3JUR1RUbVQ1clVHcE00VGs1SXljSjFFVnBId094Nk00MFFmMi1rc083QUdXdTAxelZxZmp5VEZyNzREVzFPTFVJS0J3U25QcnJ3am9UYjZSUnA3LS1TNUx2eDUzWkNobnZfSVBOVURIS0lWemRtOVJTOFl1Qy12QVhQeUszaHlWNUN4WC1VcGdoYTdnZHJFU2tCVkFfd1pxaDFDYmF2a08xQ1JMMlNGNl8xYWJR?oc=5",
       "summary": "台積電法說超標演出，供應鏈誰吞大單？長興(1717)、中砂(1560)...18檔受惠股曝光！贏家揭轉機股2種操作法 Yahoo新聞 前往 Google 新聞查看完整報導",
       "published": "Wed, 22 Apr 2026 04:18:53 GMT",
       "display_time": "04/22 04:18"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Three ways the latest inflation figures affect you",
+      "link": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
+      "summary": "How high could inflation get? And what could it mean for borrowers and savers around the country?",
+      "published": "Wed, 22 Apr 2026 11:39:25 GMT",
+      "display_time": "04/22 11:39"
     },
     {
       "source": "Google News Global",
@@ -64,14 +104,6 @@
       "summary": "快訊／日本又震！青森外海規模5.1「極淺層地震」 Yahoo新聞 日本恐有規模8以上地震？專家示警：2處爆強震 台灣就需高度警戒 聯合新聞網 日氣象廳才示警恐有強震 東北外海今再發生2起規模5以上地震 Yahoo新聞 日本強震衝擊NAND供應！鎧俠北上廠停工檢修台記憶體模組廠警戒- 日報 工商時報 一週內恐有規模8強震! 日東北7.7強震後海嘯警戒升級182市町村列巨震警報| 國際 Newtalk新聞",
       "published": "Wed, 22 Apr 2026 02:17:56 GMT",
       "display_time": "04/22 02:17"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Could UK interest rates go up?",
-      "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-      "published": "Wed, 22 Apr 2026 10:17:43 GMT",
-      "display_time": "04/22 10:17"
     },
     {
       "source": "Google News Global",
@@ -83,11 +115,19 @@
     },
     {
       "source": "Google News Global",
-      "title": "伊朗兩艘滿載油輪突破美軍海上封鎖線駛出波灣 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPNExRVDRROW5VQUNvWUU4N1pRbV9PcjZCNEJfVkdNcFRtUldtNkN1VlV4WjBSNUpZaHM2M3BSUE1HbThDZl84UHk4LXBxanp6cHRLVk1KdU92aUhLZUhQSGdYMmRyQnZqR3J0UEJaR1hncXg2VHZ5d0l5NEdRbXdwblVPV0F2TmVnVXZCNEh5eFRUNDQ3R0ZudlB0MFBIRkpPb0t0UWFtX3QtcWlFa2Z0OG5KTXZ2eFl5dzhwUndpRllwXzhyZGFnX3BPQXMtTEFvYVFUZVJnaTZtOHVkUHgzSFVSdHFkd3ItZGxqTnhNaWVib2Vyb1IxRGlEWFRrYnhrUUQ5QnA0Y3pudVVaZGt4ZXBKMFRZVDJXT2ZLb1dEWVBWcmlfMVprRnBYb0w0VmFBV3otZFVBVEVYSUVMNnZVaGcwYnBEbThSMV9DdG1Ccw?oc=5",
-      "summary": "伊朗兩艘滿載油輪突破美軍海上封鎖線駛出波灣 Yahoo新聞 美驅逐艦「史普魯恩斯號」5吋艦砲開轟！ 竟創美軍38年另類紀錄 自由軍武頻道 美財長稱哈格島儲油空間將滿 伊朗恐被迫減產 MSN 荷莫茲海峽一天至少3起貨船遇襲 美伊和談又添變數 聯合新聞網 伊朗哭哭！中國來的禮物被截胡 內容物讓川普「有點驚訝」 工商時報",
-      "published": "Wed, 22 Apr 2026 09:28:24 GMT",
-      "display_time": "04/22 09:28"
+      "title": "北京坐不住了？習近平首提荷莫茲海峽加大外交力度原因曝光| 美以轟炸伊朗| 全球 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xa2RrTTk1N0JnS1FLY1FGc09hTnY0dTlmZWZxXzNKQVFnNF94bUtSeE1nZDlUNk9VWGlhQWVOOFhEeWI4UU42bnY1bWFNYnZaajZz?oc=5",
+      "summary": "北京坐不住了？習近平首提荷莫茲海峽加大外交力度原因曝光| 美以轟炸伊朗| 全球 聯合新聞網 習近平首提荷莫茲海峽分析：北京或加大力度促通航| 兩岸 中央社 CNA 習近平首次表態！呼籲重新開放荷姆茲海峽 背後訊號曝光 自由時報 陸駛往伊朗貨輪被美軍扣押習近平與沙烏地王儲通話「立即全面停火」談通航| 美以轟炸伊朗| 全球 聯合新聞網 習近平致電沙國王儲 呼籲停火並維持荷姆茲航道開放 news.cnyes.com",
+      "published": "Wed, 22 Apr 2026 10:03:45 GMT",
+      "display_time": "04/22 10:03"
+    },
+    {
+      "source": "Google News Global",
+      "title": "少年股神賭錯邊？金居驚爆1.11億鉅額違約交割 創台股今年最慘 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OX0dPZmdNTnptS2U1Y1JWODlZbllfcEp0bWxMeDBBdWdJY2hwTlhGX3ZKQ0Z1RlIxNnFJMzNVMFluNFFWU3BtWHBfc1huOTZuU2swcFgtMVZQaXNibkp30gFkQVVfeXFMTnQ4dlVoUzBOVjFGc3AxS21FaVNraXdiQ2dyejNKZDRObHllY2VfdGctT1NEWUQ4dUFZNUQwa19jUTFKaEowYkJhbmM0ZlpiU0U5VmZfbGprTnB4dUVqOU5vdEMtQg?oc=5",
+      "summary": "少年股神賭錯邊？金居驚爆1.11億鉅額違約交割 創台股今年最慘 自由財經 快訊／PCB飆股金居罕見連2日翻車　新爆2344萬違約交割 ETtoday財經雲 罕見連2天翻車！金居再爆2,344萬元違約交割 Yahoo股市 大戶翻車實錄！放空金居被軋爆1.11億違約交割寫上櫃最慘紀錄- 日報 工商時報 銅箔廠金居爆1.1億違約交割 上市櫃今年來第4起 公視新聞網PNN",
+      "published": "Wed, 22 Apr 2026 01:34:00 GMT",
+      "display_time": "04/22 01:34"
     },
     {
       "source": "Google News Global",
@@ -107,11 +147,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "重量級川粉認了「誤導選民」 怒轟川普「人品低劣」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNYlhKM05fUWMydW90czZzVUJsVU5HOFBpZzdqOGI4djl0SlBBemVnYnd6aWE3d0kyLTY2WEhSbDg4SDJ1eDVieDZBSTcwNmhQSWlsS2UxVVQ4YkFWVnhuVmpZM0djU29GZF9jZGxJSGQ5cjBmeGNTejlidU5YbV9ZbFFSdE1DZXRYTWpJT2lzeWpneXNfY2wxTlJaM1N2T3JHVzQwSlM3Uk12eVI0UGdXT01rTzg2eDVCckw4d0Q4SmdVRlZiY005YXVDeWxvWTZzemhQcVJoaXNJT0pRWGx1dEJwQ1owLV9aOHlEdl9XeGN4cVJhQ0tzZ3k3alh3TXVlTEtkT19memFQVHNoWi1YZF9DVDhSS0pjRnk0SW8yMnNvN25tOEpMRmFiLVZ1Qk0xVk5lUGZsVmhNOE0?oc=5",
-      "summary": "重量級川粉認了「誤導選民」 怒轟川普「人品低劣」 Yahoo新聞 名嘴卡爾森 為助選川普「誤導選民」致歉 聯合新聞網 MAGA陣營分裂! 挺川大將卡爾森後悔道歉： 我誤導大眾 MSN 從頭號川粉到徹底反目！前福斯新聞主播卡爾森發道歉聲明 自由時報 伊朗戰爭引爆MAGA分裂 挺川大將卡爾森致歉：我誤導大眾 TVBS新聞網",
-      "published": "Wed, 22 Apr 2026 09:11:28 GMT",
-      "display_time": "04/22 09:11"
+      "title": "台玻上沖下洗兇手抓到了！它一出手就爆砍3.5萬 爆量狂瀉 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ScUFkXzJJSUd3OVh5OXcydTRrc0luZ0Jyd3pzcjdkbm12WTEzV0xOQVBlbExESWRfNWtzZnFwNXdPa0JMS1FZYU1YVFpMelNMS1g2R2lXbVdCUjVmVW1n0gFkQVVfeXFMUDRma2hYQlp6bERPSDVEeFhXTGtIVzZobDVydDR1LU9ndi01WXM1UXBkQzZMWUEzcjhWM3JnclBkLTlFS2pvRXpOdVNIN3o1S1AwWk1oRzBpSzlIelpaelV3WThxbw?oc=5",
+      "summary": "台玻上沖下洗兇手抓到了！它一出手就爆砍3.5萬 爆量狂瀉 自由財經 【Follow法人】外資掃貨仁寶近5萬張居冠 豪砸88億元買超鴻海4萬張 Yahoo股市 外資買超116億元連3買掃貨仁寶、聯電 聯發科獲投信連7買力捧 news.cnyes.com 三大法人聯手買超160億元相挺！ 聯發科攜手鴻海將台股推向新高度 聯合新聞網 外資回補台股116億元連3買　敲進老AI股仁寶登買超王 ETtoday財經雲",
+      "published": "Wed, 22 Apr 2026 09:04:53 GMT",
+      "display_time": "04/22 09:04"
     },
     {
       "source": "Google News Global",
@@ -131,11 +171,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "台股續創新高38K沒站穩BBU飆漲發哥再吃一根漲停板- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vUm9lUE1kRDFrX1NEUEtkZjVCTzdHRUVhQlBhVTZBSU5GeWFFRGpMSGE1blRwM1k0b0x4YUw1SUlPUE56REVvY0JOLW1wOV9nZnNKMHJxY2dxQzliZ1E0?oc=5",
+      "summary": "台股續創新高38K沒站穩BBU飆漲發哥再吃一根漲停板- 證券 工商時報 外資4月買超快4千億、台股38000要賣還是追？資深操盤人：掌握3大過熱指標，就能抱緊「幸福行情」 今周刊 台股盤中攻上38000點 台幣貶5.1分 Yahoo新聞 盤勢分析》5日線觀察重點 慎防多殺多回檔壓力 自由財經 臺股盤中衝破3萬8 收盤37878點閣創新懸 公視新聞網PNN",
+      "published": "Wed, 22 Apr 2026 06:49:00 GMT",
+      "display_time": "04/22 06:49"
+    },
+    {
+      "source": "Google News Global",
       "title": "台股「瘋牛」衝關4萬 外資回頭大買601億…再寫六驚奇 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRG05LVlIRUtDNm9NLTZVb2pKZ3l1bXR3ZXUyMVR5a1pFZ2tkQ3hzdndOalJ0SHhieFprc0gxUXdXWEkxY0pNYUh6WUhXZnkwWnJYT2xkYzVYMkw4Tm9yd2ZMUDcycU1pbllFLWRnUXZBTDdfWWp0YUxKdUpmZjlpYTdlV0VmU2JxcHl0bktVdFZ5elZ2Z2I4Vk9ERF81cnA4TEV0bXVQNFQtcnFPRFNvMnVtUEptTV9PenhLSmc1ZkE2Qmt6Q01BU2ZVVUlwUW5YTGZiR2Vya28xVkk5UFVHQ182VDB2QkNXdWdxeFBoREMyY1NoSS1jQkE4WWdoQ2ppOWtIVmZUMURwaWNBM3Q0NExIdnlDTm1oVWVOS2lyRjRONkRSQ2pxYTZGTWpsdDFDVldzSktoYmZHOHBsV3dWMXJR?oc=5",
       "summary": "台股「瘋牛」衝關4萬 外資回頭大買601億…再寫六驚奇 Yahoo新聞 台股創高無極限？專家示警：股市走鋼索「這時」一翻兩瞪眼- 證券 工商時報 〈台股盤前要聞〉台股飛上天 千金股發威 市值排名大洗牌、外銷訂單衝破900億美元 news.cnyes.com 是誰在摜殺？台指期夜盤上半場逆勢跌破38K大關 聯合新聞網 盤勢分析》5日線觀察重點 慎防多殺多回檔壓力 自由財經",
       "published": "Tue, 21 Apr 2026 22:43:44 GMT",
       "display_time": "04/21 22:43"
+    },
+    {
+      "source": "Google News Global",
+      "title": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdFMyOGF1RmJIRi14NGw0Z3RCSEUzZzl0V19XN0pQaDZQdlRHUUxNMUhTbTFGamY0cWtfb2FNcUoxdTJFajNwemlZV244VGVFSE5R?oc=5",
+      "summary": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」 東森新聞 伊朗開火！扣押荷莫茲海峽2艘船 船長：被告知獲准通行 聯合新聞網 一天至少3起！荷莫茲海峽貨船遇襲 美伊和談又添變數 Yahoo新聞 伊朗扣押兩艘商船 荷姆茲海峽緊張情勢升溫 news.cnyes.com 美伊延長停火2商船又遇襲 荷姆茲海峽再添和談變數 自由時報",
+      "published": "Wed, 22 Apr 2026 06:41:00 GMT",
+      "display_time": "04/22 06:41"
     },
     {
       "source": "Google News Global",
@@ -178,14 +234,6 @@
       "display_time": "04/21 22:01"
     },
     {
-      "source": "Google News Global",
-      "title": "台股新紀錄38096點！股王股后、00929同創新高 00919填息 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQS014LW5KT2ZXYnhsNXF2U3RrOWtucGJIMy13M0ZZZUNWeks1NW5uOEgzNHVlWmIwMDktQ3AtSWh5UE1WRzNHWmZYUzBTakMzZjE3RzdYdS1QMjJQd25SNS0wZTF0V3VWbUNCNjVNOE5lSHRVaHVQOHE2U1JfaVNnVms5LWRwS1l1N19CeURrb0N0NVNzNUVPbExxbU5RVmQ3UE52cjFfUlRlQUZ6bXFaWGdxR2JyeDJxeEJnUlFkenNxNlpxczdSSkloVHdGYWhWd1JnOWV0WUtrcXNFUHo5WXdtMWdkeWZ3cXpZMFJ5aWw4bzdHVENRZVNPOWFGU2tFVUpKUW5XbXBnSUNsSU9mbFk4czAzejJ1NlJ6S3VlZ014blpVMXM3N2JsOA?oc=5",
-      "summary": "台股新紀錄38096點！股王股后、00929同創新高 00919填息 Yahoo新聞 台股創3高！股王信驊飆16085元、聯發科亮燈2295元、指數收37878點 自由財經 台股上看4萬背後的關鍵：資金外溢、選股邏輯與配置策略 Yahoo股市 台股憑什麼獨強？高盛逆天喊出40,000點「關鍵不只美伊戰爭停火」更有一場2,500元終極豪賭- 上市櫃 旺得富理財網 台股創高多頭行情延續法人押他盤中直接亮燈漲停| 財經 Newtalk新聞",
-      "published": "Wed, 22 Apr 2026 05:29:54 GMT",
-      "display_time": "04/22 05:29"
-    },
-    {
       "source": "CNBC Finance",
       "title": "United Airlines slashes 2026 forecast as fuel costs surge",
       "link": "https://www.cnbc.com/2026/04/21/united-airlines-ual-q1-2026-earnings.html",
@@ -216,14 +264,6 @@
       "summary": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
       "published": "Tue, 21 Apr 2026 18:59:39 GMT",
       "display_time": "04/21 18:59"
-    },
-    {
-      "source": "Google News Global",
-      "title": "少年股神賭錯邊？金居驚爆1.11億鉅額違約交割 創台股今年最慘 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OX0dPZmdNTnptS2U1Y1JWODlZbllfcEp0bWxMeDBBdWdJY2hwTlhGX3ZKQ0Z1RlIxNnFJMzNVMFluNFFWU3BtWHBfc1huOTZuU2swcFgtMVZQaXNibkp30gFkQVVfeXFMTnQ4dlVoUzBOVjFGc3AxS21FaVNraXdiQ2dyejNKZDRObHllY2VfdGctT1NEWUQ4dUFZNUQwa19jUTFKaEowYkJhbmM0ZlpiU0U5VmZfbGprTnB4dUVqOU5vdEMtQg?oc=5",
-      "summary": "少年股神賭錯邊？金居驚爆1.11億鉅額違約交割 創台股今年最慘 自由財經 快訊／PCB飆股金居罕見連2日翻車　新爆2344萬違約交割 ETtoday財經雲 罕見連2天翻車！金居再爆2,344萬元違約交割 Yahoo股市 大戶翻車實錄！放空金居被軋爆1.11億違約交割寫上櫃最慘紀錄- 日報 工商時報 銅箔廠金居爆1.1億違約交割 上市櫃今年來第4起 公視新聞網PNN",
-      "published": "Wed, 22 Apr 2026 01:34:00 GMT",
-      "display_time": "04/22 01:34"
     },
     {
       "source": "Google News Global",
