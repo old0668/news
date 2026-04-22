@@ -3,11 +3,27 @@
   "news": [
     {
       "source": "BBC Business",
+      "title": "Three ways the latest inflation figures affect you",
+      "link": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
+      "summary": "How high could inflation get? And what could it mean for borrowers and savers around the country?",
+      "published": "Wed, 22 Apr 2026 11:39:25 GMT",
+      "display_time": "04/22 11:39"
+    },
+    {
+      "source": "BBC Business",
       "title": "Could UK interest rates go up?",
       "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
       "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
       "published": "Wed, 22 Apr 2026 10:17:43 GMT",
       "display_time": "04/22 10:17"
+    },
+    {
+      "source": "Google News Global",
+      "title": "北京坐不住了？習近平首提荷莫茲海峽加大外交力度原因曝光| 美以轟炸伊朗| 全球 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xa2RrTTk1N0JnS1FLY1FGc09hTnY0dTlmZWZxXzNKQVFnNF94bUtSeE1nZDlUNk9VWGlhQWVOOFhEeWI4UU42bnY1bWFNYnZaajZz?oc=5",
+      "summary": "北京坐不住了？習近平首提荷莫茲海峽加大外交力度原因曝光| 美以轟炸伊朗| 全球 聯合新聞網 習近平首提荷莫茲海峽分析：北京或加大力度促通航| 兩岸 中央社 CNA 習近平首次表態！呼籲重新開放荷姆茲海峽 背後訊號曝光 自由時報 陸駛往伊朗貨輪被美軍扣押習近平與沙烏地王儲通話「立即全面停火」談通航| 美以轟炸伊朗| 全球 聯合新聞網 習近平致電沙國王儲 呼籲停火並維持荷姆茲航道開放 news.cnyes.com",
+      "published": "Wed, 22 Apr 2026 10:03:45 GMT",
+      "display_time": "04/22 10:03"
     },
     {
       "source": "BBC Business",
@@ -34,6 +50,14 @@
       "display_time": "04/22 09:11"
     },
     {
+      "source": "Google News Global",
+      "title": "台玻上沖下洗兇手抓到了！它一出手就爆砍3.5萬 爆量狂瀉 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ScUFkXzJJSUd3OVh5OXcydTRrc0luZ0Jyd3pzcjdkbm12WTEzV0xOQVBlbExESWRfNWtzZnFwNXdPa0JMS1FZYU1YVFpMelNMS1g2R2lXbVdCUjVmVW1n0gFkQVVfeXFMUDRma2hYQlp6bERPSDVEeFhXTGtIVzZobDVydDR1LU9ndi01WXM1UXBkQzZMWUEzcjhWM3JnclBkLTlFS2pvRXpOdVNIN3o1S1AwWk1oRzBpSzlIelpaelV3WThxbw?oc=5",
+      "summary": "台玻上沖下洗兇手抓到了！它一出手就爆砍3.5萬 爆量狂瀉 自由財經 【Follow法人】外資掃貨仁寶近5萬張居冠 豪砸88億元買超鴻海4萬張 Yahoo股市 外資買超116億元連3買掃貨仁寶、聯電 聯發科獲投信連7買力捧 news.cnyes.com 三大法人聯手買超160億元相挺！ 聯發科攜手鴻海將台股推向新高度 聯合新聞網 外資回補台股116億元連3買　敲進老AI股仁寶登買超王 ETtoday財經雲",
+      "published": "Wed, 22 Apr 2026 09:04:53 GMT",
+      "display_time": "04/22 09:04"
+    },
+    {
       "source": "Google News Finance",
       "title": "台股盤中攻克三萬八！鴻海漲半根上演「老AI」大逆襲揪發哥狂歡｜Yahoo財經掃描 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPMElPMDFXTldVWkpaWVUxaUFQTjhBNnFHZHF1ZkpyT0lCLTJ1OXAyUWlrODVWYS1IM0xJemd6aV9YWUU1VmVFcU1meTZJWHZ2SlFycEJNVlRBbjV1Y3pHNGpEeXc2MmpTdjBUNzhzNW5US0NxRlpPNm4zVU9Pa1gxcE9TYWZKc2QyQzU1X1Z2Z2Y0SU9uXzFoUmJxNXJIanJ5Z2JyeWhBLVl1Zmt3aW4xQU54UF84cDVIem82SkhXMHpVbmpJc1drTWNUSkhTcmlTUjZIeERfVTVISTVUZ3RGQUw2Zk9QZzZoZWpoS214ZE9kZGFWWmdHelhlR1k5NDYwQ3dtLWNFLXVuTjhrdnZ6TlpseThXSG9XYUxMeFlaUElKVnlTQ0lYTXdEUTNZZU52ZnFzTUxnam9RSXY3ZkJZcUM2VHZWNlZlMDk0SkNQOFVZdnRERE96UzhFTHp1OGhkQUlfZ3JfYzVzaE80X1Z1eGVUWk4tS3MyaXFCMktrVncxS3NmWWtuZjE2RHhXc0xzOEtuVl9xbXJ4NzlidHQ5elNHMnBmcVk3d1BIaTJxU0FpVXcyMnhjWWhIWlA0VDZDcm5JRXMtbjRrcTBlWEdSQmRETGpmLTNlRnhZQ0hMc2dicmhQTGJMLTZ3bFJzMzZO?oc=5",
@@ -50,12 +74,36 @@
       "display_time": "04/22 07:28"
     },
     {
+      "source": "CNBC Finance",
+      "title": "Trump administration in advanced talks for Spirit Airlines rescue package, source says",
+      "link": "https://www.cnbc.com/2026/04/22/spirit-airlines-rescue-trump-administration.html",
+      "summary": "The Trump administration is preparing to rescue ailing budget carrier Spirit Airlines.",
+      "published": "Wed, 22 Apr 2026 15:16:58 GMT",
+      "display_time": "04/22 15:16"
+    },
+    {
       "source": "Google News Global",
       "title": "台積電年度大調薪！資深績優工程師爆加9%　平均調幅3～5% - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HMkhPTlFQc25HTERuRjJXakpvSkUwUVJVSTNzeFR3eWhPSEhXYkFidkhQZURGRVBHTk5hT0lFNGstY1YzVG92R2UwQ01Yb0xfblHSAW5BVV95cUxNTlBmYWU1cXZ5MVVxOTNESTBMVkljLW00aTU1VlVkaE9tRy1NNHpLeldydzJ5NkVTQmt6eDhiLWRjQy1xaFJsTHUyN1VrbUt5OTVfQk40dlRCc0pybWVQU083QnN3aEx0cXpON1JlQQ?oc=5",
       "summary": "台積電年度大調薪！資深績優工程師爆加9%　平均調幅3～5% ETtoday財經雲 好羨慕！台積電大調薪 資深績優工程師傳加9% Yahoo股市 台積電年度調薪定案確定！平均調薪 3%~5%，績優資深工程師上看 9% TechNews 科技新報 台積電年度調薪幅度確定了！平均調升3%至5% 聯合新聞網 台積電董座魏哲家年薪24億！日賺663萬薪水超越蘋果庫克- 上市櫃 旺得富理財網",
       "published": "Wed, 22 Apr 2026 06:58:00 GMT",
       "display_time": "04/22 06:58"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股續創新高38K沒站穩BBU飆漲發哥再吃一根漲停板- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vUm9lUE1kRDFrX1NEUEtkZjVCTzdHRUVhQlBhVTZBSU5GeWFFRGpMSGE1blRwM1k0b0x4YUw1SUlPUE56REVvY0JOLW1wOV9nZnNKMHJxY2dxQzliZ1E0?oc=5",
+      "summary": "台股續創新高38K沒站穩BBU飆漲發哥再吃一根漲停板- 證券 工商時報 外資4月買超快4千億、台股38000要賣還是追？資深操盤人：掌握3大過熱指標，就能抱緊「幸福行情」 今周刊 台股盤中攻上38000點 台幣貶5.1分 Yahoo新聞 盤勢分析》5日線觀察重點 慎防多殺多回檔壓力 自由財經 臺股盤中衝破3萬8 收盤37878點閣創新懸 公視新聞網PNN",
+      "published": "Wed, 22 Apr 2026 06:49:00 GMT",
+      "display_time": "04/22 06:49"
+    },
+    {
+      "source": "Google News Global",
+      "title": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdFMyOGF1RmJIRi14NGw0Z3RCSEUzZzl0V19XN0pQaDZQdlRHUUxNMUhTbTFGamY0cWtfb2FNcUoxdTJFajNwemlZV244VGVFSE5R?oc=5",
+      "summary": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」 東森新聞 伊朗開火！扣押荷莫茲海峽2艘船 船長：被告知獲准通行 聯合新聞網 一天至少3起！荷莫茲海峽貨船遇襲 美伊和談又添變數 Yahoo新聞 伊朗扣押兩艘商船 荷姆茲海峽緊張情勢升溫 news.cnyes.com 美伊延長停火2商船又遇襲 荷姆茲海峽再添和談變數 自由時報",
+      "published": "Wed, 22 Apr 2026 06:41:00 GMT",
+      "display_time": "04/22 06:41"
     },
     {
       "source": "Google News Global",
@@ -90,14 +138,6 @@
       "display_time": "04/22 04:18"
     },
     {
-      "source": "BBC Business",
-      "title": "Three ways the latest inflation figures affect you",
-      "link": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
-      "summary": "How high could inflation get? And what could it mean for borrowers and savers around the country?",
-      "published": "Wed, 22 Apr 2026 11:39:25 GMT",
-      "display_time": "04/22 11:39"
-    },
-    {
       "source": "Google News Global",
       "title": "快訊／日本又震！青森外海規模5.1「極淺層地震」 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWG54NWQ3UWxiN3h4TW9SRjVKRHNQS1JJTlVtNlIwb1dGWUZrSHZYLUFHb29haDI4eEFYUEhaajVNbUdfYnpjNGdQcjg1aUpPRy1LV2pkNDg0YXhVMXFsYmxBc0puOGhoSmZqUmxjZHI3cUxxVXFodVA3dGpFdS1qOGVxdUozZ3c3bTY1T21uSHRrc2liQ1AzZEdtaFFoRXB1Yl8zQm00V3ktRFktOHpzY0IyeXQtMnJYV2FKSFhqSUFWcnkyYVJDbWZxZkpVaUpkUUlsWjBuYUZiYXhOQ05BSW1zMlhJTHhEQmhKQzhXcGl3MFVISHc3ZElCUnk1Z3FsRTZNcTZGbnJsUXJzY3dhYXkzNGpBeWVZVTN1TnZLM0ZwNGlubjhr?oc=5",
@@ -112,14 +152,6 @@
       "summary": "不只有 iPhone 18！蘋果新任執行長 John Ternus 預告新產品 自由電子報3C科技 蘋果硬體大將特納斯9月接任執行長 童子賢：讚嘆、給予祝福 Yahoo股市 看好蘋果世代交替 童子賢：AI長期將重塑產業樣貌 自由財經 蘋果此時公布接班人 可能透露財報關鍵訊號 news.cnyes.com 蘋果新執行長是誰？John Ternus 接棒 Tim Cook，Apple 為何在 AI 時代選擇「硬體派」掌舵？ StockFeel 股感",
       "published": "Wed, 22 Apr 2026 02:15:00 GMT",
       "display_time": "04/22 02:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "北京坐不住了？習近平首提荷莫茲海峽加大外交力度原因曝光| 美以轟炸伊朗| 全球 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xa2RrTTk1N0JnS1FLY1FGc09hTnY0dTlmZWZxXzNKQVFnNF94bUtSeE1nZDlUNk9VWGlhQWVOOFhEeWI4UU42bnY1bWFNYnZaajZz?oc=5",
-      "summary": "北京坐不住了？習近平首提荷莫茲海峽加大外交力度原因曝光| 美以轟炸伊朗| 全球 聯合新聞網 習近平首提荷莫茲海峽分析：北京或加大力度促通航| 兩岸 中央社 CNA 習近平首次表態！呼籲重新開放荷姆茲海峽 背後訊號曝光 自由時報 陸駛往伊朗貨輪被美軍扣押習近平與沙烏地王儲通話「立即全面停火」談通航| 美以轟炸伊朗| 全球 聯合新聞網 習近平致電沙國王儲 呼籲停火並維持荷姆茲航道開放 news.cnyes.com",
-      "published": "Wed, 22 Apr 2026 10:03:45 GMT",
-      "display_time": "04/22 10:03"
     },
     {
       "source": "Google News Global",
@@ -147,14 +179,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "台玻上沖下洗兇手抓到了！它一出手就爆砍3.5萬 爆量狂瀉 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ScUFkXzJJSUd3OVh5OXcydTRrc0luZ0Jyd3pzcjdkbm12WTEzV0xOQVBlbExESWRfNWtzZnFwNXdPa0JMS1FZYU1YVFpMelNMS1g2R2lXbVdCUjVmVW1n0gFkQVVfeXFMUDRma2hYQlp6bERPSDVEeFhXTGtIVzZobDVydDR1LU9ndi01WXM1UXBkQzZMWUEzcjhWM3JnclBkLTlFS2pvRXpOdVNIN3o1S1AwWk1oRzBpSzlIelpaelV3WThxbw?oc=5",
-      "summary": "台玻上沖下洗兇手抓到了！它一出手就爆砍3.5萬 爆量狂瀉 自由財經 【Follow法人】外資掃貨仁寶近5萬張居冠 豪砸88億元買超鴻海4萬張 Yahoo股市 外資買超116億元連3買掃貨仁寶、聯電 聯發科獲投信連7買力捧 news.cnyes.com 三大法人聯手買超160億元相挺！ 聯發科攜手鴻海將台股推向新高度 聯合新聞網 外資回補台股116億元連3買　敲進老AI股仁寶登買超王 ETtoday財經雲",
-      "published": "Wed, 22 Apr 2026 09:04:53 GMT",
-      "display_time": "04/22 09:04"
-    },
-    {
-      "source": "Google News Global",
       "title": "AI伺服器代工王！　知情人士：「肉鬆店」明年會翻倍 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Rd1B1SERHM0gwSXNCSVFGbFRZdGx2T0JrdE1kc1VmRW1iMERQTWdfRGd5WnU2TUVmdVhQWGRfLS1pc25ibXlnS0d5eG1JVjRJSWfSAW5BVV95cUxPSHdvNXJnZk1hRTVtNlhiTm8yQzNWUnBVV1JhSFYtemtkYjc1SmpGWncyUDRfc0t3WW5La3h5SHYyMHk0RDRjbno4RUdTMDNhLTNmV05CMUxwbVViaFNYbXczMmRTaWFFc1kwbm5kQQ?oc=5",
       "summary": "AI伺服器代工王！　知情人士：「肉鬆店」明年會翻倍 ETtoday財經雲 廣達家庭日周六登場！老董林百里將揭最新AI市況 今追平345元歷史天價後翻黑 Yahoo股市 熱門股》蘋果低階筆電熱銷 廣達進補 自由時報 IT 硬體廠第1季營收超標 法人看好這些伺服器供應鏈 聯合新聞網 AI旺 台灣主要IT廠營收連25揚、首破2兆、創史高 台視全球資訊網",
@@ -171,11 +195,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "台股續創新高38K沒站穩BBU飆漲發哥再吃一根漲停板- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vUm9lUE1kRDFrX1NEUEtkZjVCTzdHRUVhQlBhVTZBSU5GeWFFRGpMSGE1blRwM1k0b0x4YUw1SUlPUE56REVvY0JOLW1wOV9nZnNKMHJxY2dxQzliZ1E0?oc=5",
-      "summary": "台股續創新高38K沒站穩BBU飆漲發哥再吃一根漲停板- 證券 工商時報 外資4月買超快4千億、台股38000要賣還是追？資深操盤人：掌握3大過熱指標，就能抱緊「幸福行情」 今周刊 台股盤中攻上38000點 台幣貶5.1分 Yahoo新聞 盤勢分析》5日線觀察重點 慎防多殺多回檔壓力 自由財經 臺股盤中衝破3萬8 收盤37878點閣創新懸 公視新聞網PNN",
-      "published": "Wed, 22 Apr 2026 06:49:00 GMT",
-      "display_time": "04/22 06:49"
+      "title": "荷莫茲海峽驚傳攻擊 伊朗砲艇「朝貨輪開火」重創駕駛艙 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNandMY1QwdTAxWlNSX3dsZ05XTGd2eHE2NUdGQXk2RzRBRFB2M1hBSkppbS1DQTM4M3BObE1ueTlVVzVXSXl4a1BYU1NWalFVRWttSmtJNUpBcDZzTi1DUm10NEVHWlYwektCV29hSEJJcGFiV2Q3a3lWMGR1QWw5dm5QNl9hYXY5aS1QcjlxZnNUQmNtcW5WTHR3RHZlS0ZIY0FRdTdNUDV4T1d5NjhQSGNlT0FSdDg2QjBaY0RlLS1ERUE5eUk1RzZKOFMwREZGOHQxZDVoX19ncXhfT3U3YUE4cW1uLVMyeEpmNXNMZV85U1EtTXBHeUtHTm1YYlUySVNkd19fekt4eEIyWmdaMDFUYTljTnE5d3ZraTlEZUhxMGg2WnQ1YWVBVjVhUUtlTjRxeVp2Z0dGclZJSW9HcnUtc3NOVnFyLXhMc2xlOTlKNXlxbjM0R0p6SU5LRHZHUFJBMjlTak1vem8?oc=5",
+      "summary": "荷莫茲海峽驚傳攻擊 伊朗砲艇「朝貨輪開火」重創駕駛艙 Yahoo新聞 開戰以來首度！伊朗在荷莫茲海峽扣押2艘貨輪 同日共3艘船隻遭攻擊 Yahoo新聞 美軍睽違近40年首度動用艦砲轟伊朗船隻 為何當年能嚇阻如今卻踢鐵板 上報Up Media 伊朗扣押兩艘商船 荷姆茲海峽緊張情勢升溫 news.cnyes.com 荷姆茲海峽海上封鎖真的有用嗎？盤點一戰以來各國制裁手段成敗邏輯 TNL The News Lens 關鍵評論網",
+      "published": "Wed, 22 Apr 2026 07:13:28 GMT",
+      "display_time": "04/22 07:13"
     },
     {
       "source": "Google News Global",
@@ -184,14 +208,6 @@
       "summary": "台股「瘋牛」衝關4萬 外資回頭大買601億…再寫六驚奇 Yahoo新聞 台股創高無極限？專家示警：股市走鋼索「這時」一翻兩瞪眼- 證券 工商時報 〈台股盤前要聞〉台股飛上天 千金股發威 市值排名大洗牌、外銷訂單衝破900億美元 news.cnyes.com 是誰在摜殺？台指期夜盤上半場逆勢跌破38K大關 聯合新聞網 盤勢分析》5日線觀察重點 慎防多殺多回檔壓力 自由財經",
       "published": "Tue, 21 Apr 2026 22:43:44 GMT",
       "display_time": "04/21 22:43"
-    },
-    {
-      "source": "Google News Global",
-      "title": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zdFMyOGF1RmJIRi14NGw0Z3RCSEUzZzl0V19XN0pQaDZQdlRHUUxNMUhTbTFGamY0cWtfb2FNcUoxdTJFajNwemlZV244VGVFSE5R?oc=5",
-      "summary": "快訊／伊朗開火了！貨輪無視警告 遭軍方「重創」 東森新聞 伊朗開火！扣押荷莫茲海峽2艘船 船長：被告知獲准通行 聯合新聞網 一天至少3起！荷莫茲海峽貨船遇襲 美伊和談又添變數 Yahoo新聞 伊朗扣押兩艘商船 荷姆茲海峽緊張情勢升溫 news.cnyes.com 美伊延長停火2商船又遇襲 荷姆茲海峽再添和談變數 自由時報",
-      "published": "Wed, 22 Apr 2026 06:41:00 GMT",
-      "display_time": "04/22 06:41"
     },
     {
       "source": "Google News Global",
@@ -272,6 +288,14 @@
       "summary": "台積電手機業務下滑11% 專家揭「關鍵營收比重」暴衝：手機賣不動沒關係 Yahoo新聞 美媒點名2公司「有望超車蘋果」1家來自台灣！台積電竟藏2風險 Yahoo股市 點名台積電！外媒看好3檔將加入「3兆美元俱樂部」 它最快年底達成 自由財經 誰說只有半導體和AI最強 台灣4產業具發展潛力 DIGITIMES 台積「千億美元軍備競賽」 EPS上看160元天花板被打開| 財經 Newtalk新聞",
       "published": "Tue, 21 Apr 2026 16:34:47 GMT",
       "display_time": "04/21 16:34"
+    },
+    {
+      "source": "Google News Global",
+      "title": "習近平呼籲霍爾木茲海峽重新開放- 紐約時報中文網 - 纽约时报中文网",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRExhSDFOU2FyQzFWM1N3UzY1akViN1I4S2VNMEpZR1YtLUpxb0JPUWQyYW5EUmZ5LTVrVjZTYzVuaXZBdlQzX3I0cU5GbmhMMmJTazZtQWtnS214dk1od096clplYXhZNjNzME1Ib3VoNzhCdU02NVVjTWRkdmd4TFN0SXV4dw?oc=5",
+      "summary": "習近平呼籲霍爾木茲海峽重新開放- 紐約時報中文網 纽约时报中文网 習近平首提荷莫茲海峽分析：北京或加大力度促通航| 兩岸 中央社 CNA 習近平首次表態！呼籲重新開放荷姆茲海峽 背後訊號曝光 自由時報 陸駛往伊朗貨輪被美軍扣押習近平與沙烏地王儲通話「立即全面停火」談通航| 美以轟炸伊朗| 全球 聯合新聞網 習近平致電沙國王儲 呼籲停火並維持荷姆茲航道開放 news.cnyes.com",
+      "published": "Wed, 22 Apr 2026 00:23:51 GMT",
+      "display_time": "04/22 00:23"
     },
     {
       "source": "Google News Global",
