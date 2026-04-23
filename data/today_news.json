@@ -2,12 +2,36 @@
   "date": "2026-04-23",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
+      "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
+      "published": "Wed, 22 Apr 2026 21:23:25 GMT",
+      "display_time": "04/22 21:23"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美伊停火延長！美股收盤4大指數皆漲 道瓊漲340點、費半漲破2％ - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZmR1cnhZeVdmN2F2YlFheTlWai1UcVJ5ZjJWMGVhbU1ES0dndWo0VVBXOGhibzRNMk9ya0xqdHFpVFZ4ajdZSVlmbWR4bWgxMHdhUUZzVWJueVFRU3V5dW02R2hXcmcyVHktVFpZa2FXTHVFRmg4RHBKdXQ2RU1jRUZ3WGNFdjVzVGZ5Z0MtTm9ra2FvYXotT2llQUR6dUJnSHBUYVV3WDk3UThJZ3ZzT3lHemYzNW1ubW93WHg1dTdvVllVTG1jZkNqU1hQNGJTMklHVEgtRmVTRWJqbXpLekp2bERYN28xVzJ3WFA4Mmc4RlM0YVV3Z2ZkYzJaUnAwRGxRRldSM3p0czMxa3BUekJEcEZLNm1YMUtxWF9xS1B3V2RWQ0I2QzBmbmZzaThneDd0RXVfai1hOExvUm1SNFZjaWx2eWs2eENqY1FLM2dxa3ZMMWR4RjBLT0NQODh3RmtkQWVUUU1MREMzWFc1MEJn?oc=5",
+      "summary": "美伊停火延長！美股收盤4大指數皆漲 道瓊漲340點、費半漲破2％ Yahoo新聞 川普延長停火「美股全面收漲」！標普那指齊創新高 台積電ADR飆漲逾5％ Yahoo股市 美伊延長停火、 投資人盯企業財報美股收紅 MSN 〈美股盤後〉川普延長對伊朗停火 標普那指齊創歷史新高 news.cnyes.com 美股收盤》台積電ADR飆逾5％！停火延長激勵 標普那指續創高 自由財經",
+      "published": "Wed, 22 Apr 2026 20:59:00 GMT",
+      "display_time": "04/22 20:59"
+    },
+    {
       "source": "CNBC Finance",
       "title": "Southwest Airlines forecasts quarterly earnings below estimates on higher fuel",
       "link": "https://www.cnbc.com/2026/04/22/southwest-airlines-luv-q1-2026-earnings.html",
       "summary": "The airline reported that revenue in its first-quarter period rose nearly 13% to $7.25 billion.",
       "published": "Wed, 22 Apr 2026 20:56:50 GMT",
       "display_time": "04/22 20:56"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "AI關鍵在算力與電力！中信009819掛牌遇台股巨震 早盤仍強漲16% - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMnZaNV9CTlFTWnRuV3FuZ0J5N2R3M1htRGVXaHRKdGtNSTJFYXY1cTF2YmR0OFpCenlJYThQdVZSU3RaZk1xbmgwZ2JoamJWUExnYXBaWTZsbGh0SXRkVmlDb3NGM2k1VTBScFNlWEVFeVFHdURfSHhTR3V3SjFxMg?oc=5",
+      "summary": "AI關鍵在算力與電力！中信009819掛牌遇台股巨震 早盤仍強漲16% 壹蘋新聞網",
+      "published": "Thu, 23 Apr 2026 02:53:00 GMT",
+      "display_time": "04/23 02:53"
     },
     {
       "source": "Google News Global",
@@ -18,12 +42,44 @@
       "display_time": "04/22 18:27"
     },
     {
+      "source": "Google News Global",
+      "title": "台積電飆天價！魏哲家身價1年增破百億元 張忠謀暴增1693億元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNS3pRd3JWXzhMYmo5R1J1QzBmVEN1NWI3TmcwemZiQzZ1em93SmRrYmZ5d2MyVkx5TjF4Zm1PVFZueVdOVy1XdDZ0Y2tuZnlxSlN3YTRmUGVsRHBQUllqR2ZJQmdJeVNDbmV3UXNCNEpOVEE2SzhYM2lPczdDWEVsMWZ6MzRaWFAzNThva1FEeW0xMHJ0cGdnaHBOb2dOQ0VSTDNhOTBGd0pVZkd1NG9fempvbGhFWE9zeGZTSVY2V2RvYlVsOTZjVmtvUHVqY3JzUVJ1dGJ4LTRERmxXajRNUXR5am5FYTFKeUxQNWRjNl9XTE0wN2J4QU44N291R3BYRWlYdEtNekRvX29BaGUyLXY1bkpjZXdsaUhRRmRGMW1ZZVhaQWlwQkNYdE9aRnpLNG5CN0V3Y0trMHF6YlBraDQtNmk5eTBSbTVoQTNuT0wtWkVYQVEwNlpUU1lPMXZGUmc5eDJ3dDZ1NTV4QWhKMlB4Tk5CdWktU05TOEs5MDdzajlmektEWVlpMzZfQ0E?oc=5",
+      "summary": "台積電飆天價！魏哲家身價1年增破百億元 張忠謀暴增1693億元 Yahoo股市 台股盤中登38900點創高後翻黑 震盪逾1600點 台積電一度漲85元 Yahoo新聞 40K近在咫尺！台股5路資金活水大解析外資籌碼、融資餘額、除息配息潮全面啟動- 日報 工商時報 39K快來了！權王、股王雙飆天價　台股盤中瘋漲1043點刷史上第8 ETtoday財經雲 櫃買連12紅後 今爆量急殺翻黑！盤中一度大跌近5% 聯合新聞網",
+      "published": "Thu, 23 Apr 2026 02:15:00 GMT",
+      "display_time": "04/23 02:15"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普出手了！美軍亞洲海域攔截3艘伊朗超級油輪 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNa3RwWnEyeHNSZVlCdk1ILU82TGp2UUc3eWhhMzB5dWRBaW1hd0FOZkYwd0tjNkI3SzM2b2l2MEVYRDNnUnJmMWlFZU5NeWtuamdfQWU2NnZVOEJHYjBaSHVwYk9QY3RTeUVIUTluVUFIZ0lXTWdkWXByN1hNanpLOGlPbmVpaWwzN3pvemE3VGxkOWt0VGNYYnIxZHRGc3RvTVJiZ3A4WllwT0NSN212VzlWRTJBZlRoTDB4NVlaeUJlcUtvLWZVZjFxelp3TU5ER3R2TDdMcUs4X3JLUzNuUkZDYVNzMW5YTGctNE95OXlqb0hodE91ZnYzZzZkRjFDV0Nhczh4VWtIMlRqZ0ZheDFueFRaeVh3WkJZd0NXYUZVVkRXOU02bHVBOWJoZHRwc082ZllNVlFlUW9oYmNiN3VhTkN0Zw?oc=5",
+      "summary": "川普出手了！美軍亞洲海域攔截3艘伊朗超級油輪 Yahoo新聞 華爾街日報：影子油輪往來中國伊朗美攔截可能斷德黑蘭金源| 國際 中央社 CNA 已讓31船掉頭 美軍中央司令部：「突破封鎖」是假消息 自由時報 避開荷莫茲海峽水雷威脅，美軍戰術轉移至亞洲海域攔截伊朗油輪 TechNews 科技新報 已獲准通行仍遭轟？伊朗對三艘貨櫃船開火 並扣押其中兩艘 news.cnyes.com",
+      "published": "Thu, 23 Apr 2026 01:10:55 GMT",
+      "display_time": "04/23 01:10"
+    },
+    {
       "source": "BBC Business",
       "title": "Inflation: What do price increases mean for you?",
       "link": "https://www.bbc.com/news/videos/cx2wdnnjp3go?at_medium=RSS&at_campaign=rss",
       "summary": "Prices went up by 3.3% in March, but what does that mean for you asks the BBC's Colletta Smith.",
       "published": "Wed, 22 Apr 2026 17:09:20 GMT",
       "display_time": "04/22 17:09"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈美股盤後〉川普延長對伊朗停火 標普那指齊創歷史新高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kMkQwZHlvZnJkMlAya09vOEltbVJQRXZxNHl2c1JfSGRpRHBmbVBjaDltUGVoR2xGdEdXc1RIdkppaDRPT1ZMMjZjekFhak0?oc=5",
+      "summary": "〈美股盤後〉川普延長對伊朗停火 標普那指齊創歷史新高 news.cnyes.com 前往 Google 新聞查看完整報導",
+      "published": "Thu, 23 Apr 2026 00:39:48 GMT",
+      "display_time": "04/23 00:39"
+    },
+    {
+      "source": "Google News Global",
+      "title": "降價換取營收平衡？微軟調降Xbox Game Pass訂閱費《決勝時刻》新作將取消首日加入| 遊戲/電競/手遊 - udn科技玩家",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CanBwMnRkckJ6YndIX0dZWE9xOTBQclBrTEN0bkVFQWl5dEJ1eDFKVjZQQmk3djNRdTFPMGhMZkE0SEtjVFRJdFplcXd1Qm1Zcmk5QkQtbFlsUF9QcXhROGJSN3c1SEhOR0lBeGFacDZwZV9ndjFCQV9za3g?oc=5",
+      "summary": "降價換取營收平衡？微軟調降Xbox Game Pass訂閱費《決勝時刻》新作將取消首日加入| 遊戲/電競/手遊 udn科技玩家 微軟宣布調降 Xbox Game Pass Ultimate 價格 今後《決勝時刻》系列將不再納入首日陣容 GNN 新聞網 Xbox新任CEO內部資訊透露Game Pass漲太多 但調降得移除決勝時刻 Cool3c Xbox Game Pass台灣降價！每月便宜200元　但這款大作不再首發 自由電子報3C科技 Xbox Game Pass 月費漲五成引反彈 微軟高層認「太貴」擬推新方案 PChome Online 新聞",
+      "published": "Thu, 23 Apr 2026 00:19:24 GMT",
+      "display_time": "04/23 00:19"
     },
     {
       "source": "BBC Business",
@@ -35,11 +91,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "正值美軍海上封鎖伊朗 美國海軍部長突離職、未公開原因 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TSkhMRTRjR1A3cmoyV3FiTXNPVFJPUk44bzdDREVkWkxmS2J6YzlSdWs3dGszbkNXYWV1elo5TFdhSEhXelkzd3R1NDZnb1R3YmxfMWlMRDNGVWpUSlJNbVVxTmhsUdIBa0FVX3lxTE1rbzBjamw0UXlFSnhmNi1pZG94RW9hQk04T2UzR25YNTlIalMyWDhzS25tZkxuV3BNU0RTVzFDTXJsWm5nbXY4TmtOaV9mZjRIRlJSdldDZUJMZXlfekxRRTlhV0gzaTZyeU1j?oc=5",
+      "summary": "正值美軍海上封鎖伊朗 美國海軍部長突離職、未公開原因 自由時報 繞過上司直通川普踩紅線！美海軍部長被逼辭 五角大廈權鬥內幕曝光 聯合新聞網 美海軍部長費倫無預警下台國防高層再洗牌| 國際 中央社 CNA 五角大廈：美國海軍部長去職立即生效 rti.org.tw 美國海軍部長突遭撤換 傳與戰爭部長關係緊張 Yahoo新聞",
+      "published": "Wed, 22 Apr 2026 23:23:50 GMT",
+      "display_time": "04/22 23:23"
+    },
+    {
+      "source": "Google News Global",
       "title": "荷姆茲海峽重啟也難救！全球油商警告供應鏈重組耗時 10億桶損失難補回 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwVkUxaktEUnd2a2tqUjk5Y2tfeWpLNkZTWUd5OEt1alBiU3FyOUpmeFFzWEpYdF9PR1hwNE0wWWtuWjVqaWhqX0RSTEF3TUU?oc=5",
       "summary": "荷姆茲海峽重啟也難救！全球油商警告供應鏈重組耗時 10億桶損失難補回 news.cnyes.com 停火後僅10船經荷莫茲海峽　川普批伊朗處理不力 三立新聞網SETN.com",
       "published": "Wed, 22 Apr 2026 15:00:03 GMT",
       "display_time": "04/22 15:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台積電技術論壇》宣布共同封裝光學 （CPO） 今年開始生產 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yWXk5RlBNSVpBSHJqaFk1UFBDdlQ0ZGJ1MVg5NXlLWVk1NWpUOHplN2NqZDVqRFZCM29MS0plUUVHTHJYZlYxNGZPY0doUTQ2ZGdYa3I5dE41T3U1dXBN0gFkQVVfeXFMTnNuVGZzSHZtY3h4Z0dzVGl5WlZIYUhESE9nbmVsek9mMGhCdFJVTV9kTFd5c1dFWXBESl9Id2p3Q0NpMlV4T2Z0UXVHeGNHTGM4djAwdGdYREVYS2MxVWluWTBzTw?oc=5",
+      "summary": "台積電技術論壇》宣布共同封裝光學 （CPO） 今年開始生產 自由財經 美製晶片不再「半套」！台積電將補上最後一塊拼圖 封裝廠時間曝光了 自由財經 〈台積技術論壇〉魏哲家預告A13、A12兩先進製程2029年投產 Yahoo股市 〈台積技術論壇〉瞄準大尺寸封裝 推出14倍光罩CoWoS、40倍光罩SoW-X news.cnyes.com 台積電喊「沒依賴用昂貴機台」股價大漲 ASML應聲跌1% ETtoday財經雲",
+      "published": "Wed, 22 Apr 2026 22:46:31 GMT",
+      "display_time": "04/22 22:46"
     },
     {
       "source": "Google News Global",
@@ -66,28 +138,12 @@
       "display_time": "04/22 13:41"
     },
     {
-      "source": "BBC Business",
-      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-      "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy.",
-      "published": "Wed, 22 Apr 2026 21:23:25 GMT",
-      "display_time": "04/22 21:23"
-    },
-    {
       "source": "Google News Global",
       "title": "油價、美股電子盤雙漲 台指期夜盤上半場卻軟腳 - 聯合新聞網",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JaEdqUmNsQzZlWVFGaVNEalVDTGtET2VxaHRKUm10T2FXRDVnVUNGeHBaWkgyWC14bFhObllHTHlBSUpUT1kyaXNJbXNFbE940gFWQVVfeXFMT2RFcFF5aDAxR3QybnZuMHk5UDB1YVlRU0RuVUkya0V3Q1hxdHlQSnRNWmVhM0Q5ZjhUTDJoMmVZM3dkSE5tYURNRzFvcWd1WFVsMGV4VHc?oc=5",
       "summary": "油價、美股電子盤雙漲 台指期夜盤上半場卻軟腳 聯合新聞網 台股盤中攻克三萬八！鴻海漲半根上演「老AI」大逆襲揪發哥狂歡｜Yahoo財經掃描 Yahoo股市 外資4月買超快4千億、台股38000要賣還是追？資深操盤人：掌握3大過熱指標，就能抱緊「幸福行情」 今周刊 盤勢分析》5日線觀察重點 慎防多殺多回檔壓力 自由財經 台股憑什麼獨強？高盛逆天喊出40,000點「關鍵不只美伊戰爭停火」更有一場2,500元終極豪賭- 上市櫃 旺得富理財網",
       "published": "Wed, 22 Apr 2026 13:04:34 GMT",
       "display_time": "04/22 13:04"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊停火延長！美股收盤4大指數皆漲 道瓊漲340點、費半漲破2％ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQZmR1cnhZeVdmN2F2YlFheTlWai1UcVJ5ZjJWMGVhbU1ES0dndWo0VVBXOGhibzRNMk9ya0xqdHFpVFZ4ajdZSVlmbWR4bWgxMHdhUUZzVWJueVFRU3V5dW02R2hXcmcyVHktVFpZa2FXTHVFRmg4RHBKdXQ2RU1jRUZ3WGNFdjVzVGZ5Z0MtTm9ra2FvYXotT2llQUR6dUJnSHBUYVV3WDk3UThJZ3ZzT3lHemYzNW1ubW93WHg1dTdvVllVTG1jZkNqU1hQNGJTMklHVEgtRmVTRWJqbXpLekp2bERYN28xVzJ3WFA4Mmc4RlM0YVV3Z2ZkYzJaUnAwRGxRRldSM3p0czMxa3BUekJEcEZLNm1YMUtxWF9xS1B3V2RWQ0I2QzBmbmZzaThneDd0RXVfai1hOExvUm1SNFZjaWx2eWs2eENqY1FLM2dxa3ZMMWR4RjBLT0NQODh3RmtkQWVUUU1MREMzWFc1MEJn?oc=5",
-      "summary": "美伊停火延長！美股收盤4大指數皆漲 道瓊漲340點、費半漲破2％ Yahoo新聞 川普延長停火「美股全面收漲」！標普那指齊創新高 台積電ADR飆漲逾5％ Yahoo股市 美伊延長停火、 投資人盯企業財報美股收紅 MSN 〈美股盤後〉川普延長對伊朗停火 標普那指齊創歷史新高 news.cnyes.com 美股收盤》台積電ADR飆逾5％！停火延長激勵 標普那指續創高 自由財經",
-      "published": "Wed, 22 Apr 2026 20:59:00 GMT",
-      "display_time": "04/22 20:59"
     },
     {
       "source": "Google News Global",
@@ -128,6 +184,14 @@
       "summary": "川普籲伊朗釋放8名面臨絞刑女性 以提高和談成功率 自由時報 川普急籲伊朗勿絞死8女性! 多為民權運動人士曾參與抗議示威 伊官方這樣回….. Newtalk新聞 人權組織：川普呼籲取消死刑 有兩婦女已獲釋 大紀元新聞網 美伊會談前景未明 川普稱伊朗撤銷處決8名女性計畫 經濟日報 伊朗2025死刑人數大增68% 插畫家盼以網漫喚起全球關注 公視新聞網PNN",
       "published": "Tue, 21 Apr 2026 15:49:14 GMT",
       "display_time": "04/21 15:49"
+    },
+    {
+      "source": "Google News Global",
+      "title": "德黑蘭警告鄰國：伊朗若遭攻擊將終結中東石油生產| 國際 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zQk1PNkhRM05sbjlOc0pZNWw1aWRJeGlsRm5QQUFjSHZKMFI5N1JOWThtay0yTFJPdkJCY0tTcDhoX2VBeXdvczRkSkJMbGxBazhRblBLaDVJTUZvbzJv?oc=5",
+      "summary": "德黑蘭警告鄰國：伊朗若遭攻擊將終結中東石油生產| 國際 中央社 CNA 伊朗議長：美軍取消海上封鎖 全面停火才有意義 news.cnyes.com 川普揚言恢復轟炸 伊朗反嗆：將全力反擊 中央社 CNA 川普稱伊朗「四分五裂」？專家打臉揭真相：更難對付- 國際 中時新聞網 伊朗還有四張「新牌」可打 拒絕栽在「投降桌」 自由財經",
+      "published": "Tue, 21 Apr 2026 22:31:00 GMT",
+      "display_time": "04/21 22:31"
     }
   ]
 }
