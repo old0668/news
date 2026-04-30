@@ -2,12 +2,28 @@
   "date": "2026-05-01",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "Trump to remove whisky tariffs after King's visit",
+      "link": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
+      "published": "Thu, 30 Apr 2026 19:46:03 GMT",
+      "display_time": "04/30 19:46"
+    },
+    {
       "source": "Google News Finance",
       "title": "川普變數與中東硝煙 台股劇烈震盪AI來護體 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91bUlyZXUzMjNwenpKVnNMUTl2dUZKWkt0LWxYeWxYZUFUV3FFdFQ5ZTc4Y0o1SVBmMVVCRllsd2FfUUZ5TG1vU1BmMDBMZEVRZ19hY1VnZGk0c2dLeEhvU1hLazg?oc=5",
       "summary": "川普變數與中東硝煙 台股劇烈震盪AI來護體 中央社 CNA",
       "published": "Thu, 30 Apr 2026 16:00:00 GMT",
       "display_time": "04/30 16:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "彭博社專訪！鄭麗文訪美行程聚焦交流和平 盼拜會最高層「當然是川普」 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MTkJmRXVIaGFyUjlYNXk1RVNKdHFPMnJyUUpEdG11OHFQWFNrVmhWZThmVTlFcjViZTJCclZkRlpMemFSSW4xY2VPQnptSkJr0gFWQVVfeXFMTzctUEthRkRTS3hocjYtYlpUcEdia1hKQTV5NGZJelNLN1QwRXlVNEVpQ0xWeTR5RXdUMFl4YUpsUldQRDRhTFBOOEFUWDBnN0E5T1lyekE?oc=5",
+      "summary": "彭博社專訪！鄭麗文訪美行程聚焦交流和平 盼拜會最高層「當然是川普」 聯合新聞網 軍購不放手卻喊話見川普！鄭麗文避戰尋外援 Yahoo新聞 鄭川會有譜？鄭麗文接受彭博專訪表示已請求訪美時能與川普見面| 政治 | 要聞 聯合新聞網 鄭麗文接受外媒專訪 談訪美最希望拜會川普 rti.org.tw 鄭麗文訪中和平之旅的政治作用 縣市長選舉統獨大戰已在所難免 MSN",
+      "published": "Thu, 30 Apr 2026 14:13:25 GMT",
+      "display_time": "04/30 14:13"
     },
     {
       "source": "Google News Global",
@@ -27,6 +43,14 @@
     },
     {
       "source": "Google News Global",
+      "title": "美股收盤「4大指數全收高」！道瓊飆漲近800點 那指漲219點再創新高 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxPS3ZBbTl6dlJsRzZkVDhEM3ZnUnFTbTlUUkRqZWZhaWVTakxST0JJc1JIX0FodDM5T1lzWnBkNjlSQ0RKSkIteXdmNlV2Z0FudDFyRm9WMFpIM0lpZll5MkVhRmNINW1yQWFKTWNLZndRMHNQcXdnY0ZJTkdWeDl1ZVoyRk43NGJGb01GemhqNkNZTjZZVkJPTF9tX3E1MTdWTFdkMVZ6ME8wSEh3eHlYM0VXRnhWbmRNcTlvNUJ1RGFSQXYtVzliMnY3Z2s2ZVJnU2kyX244SzE5MGkwSlJmSWZiYXRJOHdjSDA3b1Zjd20tSkpIdzA4dWhNTzM3OGtvcmp1LUE3OTUxZS0tUVJGMXZDNWM3ajFveEJCZUhUc0I3S1k3cW5NXzNrMHBLZkpPNVZOMk1MVmFCTmlMNERxVnNJcW8zQkY2X1BqQ29SbC1wQWNKR3dBUnhTQUpnb01UMnYyOEd3empvWjgzejUwWmxGc1Y0LW51N0JxZVc3WUg?oc=5",
+      "summary": "美股收盤「4大指數全收高」！道瓊飆漲近800點 那指漲219點再創新高 Yahoo新聞 美股收盤》企業財報強勁！道瓊飆近800點 台積電ADR走高 自由財經 快訊／企業財報強勁道瓊上漲700點！石油「出口大幅萎縮」 油價下滑 MSN 快訊》財報助攻 道指強彈600點 台指期夜盤飆漲500點 中時新聞網 美股早盤／企業獲利強勁＋油價下滑道瓊上漲逾400點但那指翻黑| 全球財經| 全球 聯合新聞網",
+      "published": "Thu, 30 Apr 2026 21:08:00 GMT",
+      "display_time": "04/30 21:08"
+    },
+    {
+      "source": "Google News Global",
       "title": "能源價格撐起通膨！美國3月PCE升溫 Fed降息路更遠了 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UV1l0YnVSZmpQLWQtYkppY0hIX29Zb2lueERnOXcyWkhTTzhDbmtmTVcwbUpfSWVtUFpTNm1oYXVoZ0NPQWpELXZ0bW1UR3M?oc=5",
       "summary": "能源價格撐起通膨！美國3月PCE升溫 Fed降息路更遠了 news.cnyes.com 3月PCE數字曝！美股開盤主要指數漲跌不一 Yahoo新聞 AI撐經濟！美國第一季GDP成長2% 戰事與通膨成隱憂 news.cnyes.com 能源價格推高通膨 美3月PCE年增3.5% MSN 伊朗戰爭期間美國第一季經濟成長達2% 通膨指標仍高於聯準會標準 | 太報 LINE TODAY",
@@ -42,12 +66,12 @@
       "display_time": "04/30 12:03"
     },
     {
-      "source": "BBC Business",
-      "title": "Trump to remove whisky tariffs after King's visit",
-      "link": "https://www.bbc.com/news/articles/cjrp3pew2d5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he would lift restrictions on Scotland's ability to work with the state of Kentucky on whisky and bourbon.",
-      "published": "Thu, 30 Apr 2026 19:46:03 GMT",
-      "display_time": "04/30 19:46"
+      "source": "Google News Global",
+      "title": "黃建豪觀點》鄭麗文路線失控揮刀韓國瑜公然向黨內宣戰| 政治 - Newtalk新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GU0RXZTZFcEdkUm5RWUh1UEZjM2ZrUTU3SVdKWjhXVUo2ckJzZ2pscEprMjdDX3pxZF9PTTlpS2xIRzdUMHFQeFRVeWhrNmJBU2hNLTQtS0FnMDg?oc=5",
+      "summary": "黃建豪觀點》鄭麗文路線失控揮刀韓國瑜公然向黨內宣戰| 政治 Newtalk新聞 國防特別預算案盧秀燕力挺韓國瑜：為國為民「負重前行」 Yahoo新聞 傳韓國瑜挺8千億軍購條例版本 季麟連：若賣黨求榮開除黨籍 公視新聞網PNN 聯合報黑白集／季麟連拖累鄭麗文 聯合新聞網 挺政院版國防預算？ 侯友宜：支持不低於GDP的3% rti.org.tw",
+      "published": "Thu, 30 Apr 2026 10:37:10 GMT",
+      "display_time": "04/30 10:37"
     },
     {
       "source": "Google News Global",
@@ -59,11 +83,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "彭博社專訪！鄭麗文訪美行程聚焦交流和平 盼拜會最高層「當然是川普」 - 聯合新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MTkJmRXVIaGFyUjlYNXk1RVNKdHFPMnJyUUpEdG11OHFQWFNrVmhWZThmVTlFcjViZTJCclZkRlpMemFSSW4xY2VPQnptSkJr0gFWQVVfeXFMTzctUEthRkRTS3hocjYtYlpUcEdia1hKQTV5NGZJelNLN1QwRXlVNEVpQ0xWeTR5RXdUMFl4YUpsUldQRDRhTFBOOEFUWDBnN0E5T1lyekE?oc=5",
-      "summary": "彭博社專訪！鄭麗文訪美行程聚焦交流和平 盼拜會最高層「當然是川普」 聯合新聞網 軍購不放手卻喊話見川普！鄭麗文避戰尋外援 Yahoo新聞 鄭川會有譜？鄭麗文接受彭博專訪表示已請求訪美時能與川普見面| 政治 | 要聞 聯合新聞網 鄭麗文接受外媒專訪 談訪美最希望拜會川普 rti.org.tw 鄭麗文訪中和平之旅的政治作用 縣市長選舉統獨大戰已在所難免 MSN",
-      "published": "Thu, 30 Apr 2026 14:13:25 GMT",
-      "display_time": "04/30 14:13"
+      "title": "與美國務卿魯比歐通話 王毅：台灣問題是中美關係的最大風險點 - 聯合新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvckRtU2dIVVo2VHpGaVhnNUlzVWRDTWxkNUVHaEpXWG5QRWQzdGs3NmJ4U1FOM21YVFp3eThZbUJTY2ZDZnBVcy04SnhfWUNN0gFWQVVfeXFMT1hIUjgyQUE5clc0SEFYMlI0OHc4cGQwX28tSDczazJvbVJfU19JNWNWd1IycGtGeGRxTDgtU29oSk1rU1Utd1MwM3pKMFZESFhuRWtmdXc?oc=5",
+      "summary": "與美國務卿魯比歐通話 王毅：台灣問題是中美關係的最大風險點 聯合新聞網 王毅與盧比歐通話 稱台灣是中美最大風險點 MSN 王毅通話盧比歐 稱台灣問題「是中美關係的最大風險點」 Yahoo新聞 美官員證實　盧比歐和王毅在川普訪中前通話 自由時報 何立峰視訊美財長關切經貿限令- 兩岸新聞- 旺報 中時新聞網",
+      "published": "Thu, 30 Apr 2026 14:59:57 GMT",
+      "display_time": "04/30 14:59"
     },
     {
       "source": "Google News Global",
@@ -75,19 +99,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "黃建豪觀點》鄭麗文路線失控揮刀韓國瑜公然向黨內宣戰| 政治 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GU0RXZTZFcEdkUm5RWUh1UEZjM2ZrUTU3SVdKWjhXVUo2ckJzZ2pscEprMjdDX3pxZF9PTTlpS2xIRzdUMHFQeFRVeWhrNmJBU2hNLTQtS0FnMDg?oc=5",
-      "summary": "黃建豪觀點》鄭麗文路線失控揮刀韓國瑜公然向黨內宣戰| 政治 Newtalk新聞 國防特別預算案盧秀燕力挺韓國瑜：為國為民「負重前行」 Yahoo新聞 傳韓國瑜挺8千億軍購條例版本 季麟連：若賣黨求榮開除黨籍 公視新聞網PNN 聯合報黑白集／季麟連拖累鄭麗文 聯合新聞網 挺政院版國防預算？ 侯友宜：支持不低於GDP的3% rti.org.tw",
-      "published": "Thu, 30 Apr 2026 10:37:10 GMT",
-      "display_time": "04/30 10:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "聯電股價逼81元快漲停！睽違6年實施庫藏股「暴露地板價」⋯2303現在可以買？最新目標價甜頭還有2成 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEVwRWF0Ry1KczBMcy01MlduQVBMSzV4eUV3N3lYUVpjc1FuVFp2UWRWOVhnYklXM3pWZmZ5WFg2ZHR0Z2o5aDNsQ1lhbEhDd3hfZnBobmtUeEpKVFNGOWlxWEFmVkw1LUFneFBBVXNrMTk0endOTlQwQjR0V21fcA?oc=5",
-      "summary": "聯電股價逼81元快漲停！睽違6年實施庫藏股「暴露地板價」⋯2303現在可以買？最新目標價甜頭還有2成 今周刊 聯電庫藏股建功！開盤放量大漲逾8%後收斂 分析師看法出爐 Yahoo股市 聯電22奈米領軍動能續旺組隊Intel拚美國製造5萬張庫藏股動向曝光- 日報 工商時報 聯電漲價強調不做「投機短打」 英特爾案、記憶體代工傳言受矚 DIGITIMES 下半年漲價不到10％？聯電法說涼了大摩「3原因」開槍：目標價剩6字頭- 上市櫃 旺得富理財網",
-      "published": "Thu, 30 Apr 2026 01:33:31 GMT",
-      "display_time": "04/30 01:33"
+      "title": "彭博專訪談訪美拜會層級 鄭麗文：希望是川普總統 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QQ05yMUtIXzlQOUxwOHhjY0lnZXFxazExcW5TenlRMm11TGpMWHNLZEJjeXZudnFzdFMwV01yR1BNckpYcW1NUnlGbzllRHFxNUZnRTMtY2prMHJpc3h6RFBHY3lqRlZDOFHSAW9BVV95cUxNY2tjcTMzZjNNVlhvVURibXE5anhuSkRoUzBMS2k3eTA0ZWxPUFhHWHJWWVRoTElKT25XMjNEVnlxbmRSSnJENmNPaW9XYnNKZ1BmQ0FIMms2VHQzc1prUzIxdzJnSjBUYklBM0FFYmc?oc=5",
+      "summary": "彭博專訪談訪美拜會層級 鄭麗文：希望是川普總統 自由時報 鄭麗文一面倒向中共還想見川普葉望輝斥｢不切實際」、美網友：她是共黨是間諜| 國際 Newtalk新聞 軍購不放手卻喊話見川普！鄭麗文避戰尋外援 Yahoo新聞 鄭麗文接受外媒專訪談訪美最希望拜會川普| 政治 中央社 CNA 鄭麗文談川習會：支持川普說出「反對台獨」 聯合新聞網",
+      "published": "Thu, 30 Apr 2026 13:00:58 GMT",
+      "display_time": "04/30 13:00"
     },
     {
       "source": "Google News Global",
@@ -96,6 +112,14 @@
       "summary": "邱毅譏趙少康「過氣金童」：鄭麗文根本不放眼裡 料跟「他」同下場 自由時報 趙少康批軍購黨版 國民黨深夜反擊：「3800億元＋N」具雙重正當性 聯合新聞網 拿軍購當籌碼拚訪美？ 他質疑鄭麗文：過度高估判斷恐失準| 政治 Newtalk新聞 立院將四度朝野協商國防條例 徐斯儉：1.25兆預算不能打折｜20260430 公視晚間新聞 公視新聞網PNN 重點在「川習會」前川普可能不決定軍售金額前藍委陳以信批川普政府：掛鉤對台軍售與美中關係違反「六項保證」 Yahoo新聞",
       "published": "Thu, 30 Apr 2026 03:27:56 GMT",
       "display_time": "04/30 03:27"
+    },
+    {
+      "source": "Google News Global",
+      "title": "聯電股價逼81元快漲停！睽違6年實施庫藏股「暴露地板價」⋯2303現在可以買？最新目標價甜頭還有2成 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWEVwRWF0Ry1KczBMcy01MlduQVBMSzV4eUV3N3lYUVpjc1FuVFp2UWRWOVhnYklXM3pWZmZ5WFg2ZHR0Z2o5aDNsQ1lhbEhDd3hfZnBobmtUeEpKVFNGOWlxWEFmVkw1LUFneFBBVXNrMTk0endOTlQwQjR0V21fcA?oc=5",
+      "summary": "聯電股價逼81元快漲停！睽違6年實施庫藏股「暴露地板價」⋯2303現在可以買？最新目標價甜頭還有2成 今周刊 聯電庫藏股建功！開盤放量大漲逾8%後收斂 分析師看法出爐 Yahoo股市 聯電22奈米領軍動能續旺組隊Intel拚美國製造5萬張庫藏股動向曝光- 日報 工商時報 聯電漲價強調不做「投機短打」 英特爾案、記憶體代工傳言受矚 DIGITIMES 下半年漲價不到10％？聯電法說涼了大摩「3原因」開槍：目標價剩6字頭- 上市櫃 旺得富理財網",
+      "published": "Thu, 30 Apr 2026 01:33:31 GMT",
+      "display_time": "04/30 01:33"
     },
     {
       "source": "Google News Global",
