@@ -1978,5 +1978,10 @@
     "timestamp": "2026-05-09T23:12:33.246874+08:00",
     "average_sentiment": 50.0,
     "news_count": 54
+  },
+  {
+    "timestamp": "2026-05-10T00:07:46.456468+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 2
   }
 ]
