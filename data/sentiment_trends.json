@@ -1988,5 +1988,10 @@
     "timestamp": "2026-05-10T01:12:25.501754+08:00",
     "average_sentiment": 50.0,
     "news_count": 4
+  },
+  {
+    "timestamp": "2026-05-10T02:04:19.079211+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 6
   }
 ]
