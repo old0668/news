@@ -1953,5 +1953,10 @@
     "timestamp": "2026-05-09T16:51:02.429701+08:00",
     "average_sentiment": 50.0,
     "news_count": 36
+  },
+  {
+    "timestamp": "2026-05-09T18:16:31.705267+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 42
   }
 ]
