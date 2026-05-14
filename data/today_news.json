@@ -2,6 +2,14 @@
   "date": "2026-05-15",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "Trump and Xi hold talks but no trade deal agreed",
+      "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "summary": "There was plenty of choreographed ceremonies, but there was no sweeping trade breakthrough as Trump met Xi in Beijing.",
+      "published": "Thu, 14 May 2026 21:06:44 GMT",
+      "display_time": "05/14 21:06"
+    },
+    {
       "source": "CNBC Finance",
       "title": "China will order 200 Boeing jets, Trump tells Fox News",
       "link": "https://www.cnbc.com/2026/05/14/china-boeing-order-airplanes-737-max-trump-says.html",
@@ -27,19 +35,19 @@
     },
     {
       "source": "Google News Global",
+      "title": "台積電被點名！川習會爆「稀土換ASML機」 華爾街示警：台韓3巨頭危險 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQT3VxeV9DSm9vaVFFNl9aS1ZJVnhsMFZaNktHTjF5VkRNQTB0aml3UzN4bkRMcWZ3UGVZdUNGTXg3QUlWZ3phTFVnSFc0MDFDWnlMcnVELWp5Nl9sS3lNazJXZUUzY3BjY2JsZEQwOWFJVUhWUy1Ub0dRU2dYWWtpX1BZMWhrZloyVTdkVmFVV2ZHZVNVUzhLYzEzTkVSamd1d2txTkY0NEp6NWZseG91ZTh4WkFKb29YR0tZbFduLTlNOWFvNHVPZ3FEeUljUW1sXzJXUy1za3o4Z2pSVzVIUjZrbmxvWjBPam9FZEhhb0kya3FxQlBPT0FFWW9IQ25fQ0xXa1VGcVZZcXVUNmc2LWx0T1ZQVEFOVHRjTkxMLWMwbFM5Qk1iTURRUG1rY3Q0UXdBZ0JldkU2UE84dERPdUc1Z0FTUmpsRlZFMTdXeFMwNlVwbmg4NGxtWGZPODh0MGhmWTNfQUxiNkRJQkljYldEQ1JuSVhwQkExSWc0YzIzbE0xTS13Tm5lSQ?oc=5",
+      "summary": "台積電被點名！川習會爆「稀土換ASML機」 華爾街示警：台韓3巨頭危險 Yahoo新聞 傳美批准10家中企採購輝達H200 巴隆：川普放行所圖甚大！ news.cnyes.com 為何最後一刻才加入川普訪中團 黃仁勳受訪親曝原因 自由財經 黃仁勳、馬斯克進核心會談！輝達晶片拚解禁，美企盼打開中國市場 遠見雜誌 隨川普訪中國！被問「會賣晶片給華為嗎」 黃仁勳傻眼3秒：奇怪的問題 Yahoo新聞",
+      "published": "Thu, 14 May 2026 22:11:00 GMT",
+      "display_time": "05/14 22:11"
+    },
+    {
+      "source": "Google News Global",
       "title": "00403A被盯上了...才剛掛牌溢價5.46％、3天吸金破千億ETF成當沖工具？2派散戶掀論戰-Money錢 - CMoney投資網誌",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JRTRTYVFlUDBiR212S1BjQWtPTVhqSEFqQ083RGI1SGJWdEpianBONnRoQll5bnhsVnp5QW54X0JWeW1XLWFwRVRCRHdhSnVBeEwyQlJNZkxpOUg5NGhuUWhRWS11WWtuOXRTWE1PM01pYm1VcUcwZGxJYno?oc=5",
       "summary": "00403A被盯上了...才剛掛牌溢價5.46％、3天吸金破千億ETF成當沖工具？2派散戶掀論戰-Money錢 CMoney投資網誌 跟00403A選股策略相近！不敗教主曝「00991A已經坐在轎子上」 ETtoday財經雲 台股ETF規模突破6兆大關 主動式科技火熱 Yahoo新聞 00403A、00981A差在哪？成份股名單、操盤經理人績效、股價一次看 經理人 00403A買盤過熱致溢價飆高 金管會督促強化造市 自由財經",
       "published": "Thu, 14 May 2026 13:33:21 GMT",
       "display_time": "05/14 13:33"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Trump and Xi hold talks but no trade deal agreed",
-      "link": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There was plenty of choreographed ceremonies, but there was no sweeping trade breakthrough as Trump met Xi in Beijing.",
-      "published": "Thu, 14 May 2026 21:06:44 GMT",
-      "display_time": "05/14 21:06"
     },
     {
       "source": "Google News Global",
@@ -48,6 +56,22 @@
       "summary": "川普滴酒不沾卻應習近平之邀「乾杯」！大批陸網友喊感動：相互尊重展現誠意 Yahoo新聞 川習會國宴菜色曝！烤鴨、鮭魚搭配川普愛歌 Yahoo新聞 習近平宴請特朗普 吃什麼菜？奏什麼曲？ 中國評論新聞 川習會晚宴菜單曝光 北京烤鴨、生煎包上桌 UDN 金湯龍蝦配神曲《Y.M.C.A.》！ 川普訪華國宴菜單曝光- 兩岸 工商時報",
       "published": "Thu, 14 May 2026 12:22:39 GMT",
       "display_time": "05/14 12:22"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川習會國宴菜色曝光！烤鴨、鮭魚配生煎包　現場演奏川普愛歌 - NOWnews今日新聞",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xQ1c0QXJYZFFHUTJpSUpNWWxkQ3RQRjJWZktRMy1INWVqZzlOeTNtSXlLWUhQUUpTQnFpTDNkdkFJakFJLUJhcU1iTU7SAVJBVV95cUxQS2ZnQUp1X25pTUxhLXR2cDJMMlhyaS16bDFIRWgyS1BUVHRFV2tES3RDd2ZRWHFHd1RqOUFPZ2l0OGVoRWVJelNUclBEVTN4VWtR?oc=5",
+      "summary": "川習會國宴菜色曝光！烤鴨、鮭魚配生煎包　現場演奏川普愛歌 NOWnews今日新聞 川習會國宴菜色曝！烤鴨、鮭魚搭配川普愛歌 Yahoo新聞 習近平宴請特朗普 吃什麼菜？奏什麼曲？ 中國評論新聞 川習會晚宴菜單曝光 北京烤鴨、生煎包上桌 聯合新聞網 金湯龍蝦配神曲《Y.M.C.A.》！ 川普訪華國宴菜單曝光- 兩岸 工商時報",
+      "published": "Thu, 14 May 2026 11:45:45 GMT",
+      "display_time": "05/14 11:45"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川習會盛大舉行華爾街日報：美國真正關鍵利益在台灣| 政治 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWXpQb0p2MXR6TUt2TUc1cHVDNDdsc0FPQXlZOER3WFJQQl9qSEFuVVZyTDY4VmZaSkxwM25EVTVNZEpSUEJyRjM3ejB6bWxMYXpjZ25EQ0Zfd1ZHbjc4?oc=5",
+      "summary": "川習會盛大舉行華爾街日報：美國真正關鍵利益在台灣| 政治 中央社 CNA 緊盯川習會 國安人士：正面看待任何能管理風險穩定區域局勢的作為 經濟日報 川習會／國安官員：台美具共同利益 台灣不會淪為籌碼 rti.org.tw 貝森特：川普了解台灣議題敏感性 回應將「非常堅定」 自由時報 討論牆 | 習近平警告好好台灣議題 行政院回應了 LINE TODAY",
+      "published": "Thu, 14 May 2026 11:22:00 GMT",
+      "display_time": "05/14 11:22"
     },
     {
       "source": "Google News Finance",
@@ -59,11 +83,35 @@
     },
     {
       "source": "Google News Global",
+      "title": "先養肥再殺？「這1檔」遭外資賣超20萬張 70萬股民淪韭菜被收割 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HWC1fa2tVaW5VQmZLOXdJeVN6eHY3VmpsTVdpcEIxVnlBRkZ0aHM2VFpXVS1UaVAxOW1UWWJ4dlZTaXVadnJCT2FzSQ?oc=5",
+      "summary": "先養肥再殺？「這1檔」遭外資賣超20萬張 70萬股民淪韭菜被收割 三立新聞網SETN.com 外資甩賣面板雙虎 森崴「下市倒數」集團股大逃殺｜Yahoo財經掃描 Yahoo股市 群創養肥開殺！外資瘋狂倒貨逾20萬張 70萬股東被扒一層皮 自由財經 華邦電爆41萬張攻漲停！外資5月幾乎天天買 衝上量值雙榜 聯合新聞網 外資買超台新新光金居冠 調節群創逾20 萬張最多 MSN",
+      "published": "Thu, 14 May 2026 09:49:18 GMT",
+      "display_time": "05/14 09:49"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "AI帶動半導體「超級循環」！分析師點名台積電外溢效應 受惠族群曝光 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWTdteGtDOGMzdFZlSVcwS1JWYUlBem9FWWE4MVdteXNoZjdfZnBHd01MNHBhanB2Y2phX0tBVllpRUo0Xzl1dmNTdlNVaWdUTlJ0anRrT1VTN2k4ZEE3azdadjIyYXJnZ2Vjell4WXg5bWRMUlQya3h6Zm03cENXdGx3?oc=5",
+      "summary": "AI帶動半導體「超級循環」！分析師點名台積電外溢效應 受惠族群曝光 壹蘋新聞網",
+      "published": "Thu, 14 May 2026 17:00:00 GMT",
+      "display_time": "05/14 17:00"
+    },
+    {
+      "source": "Google News Global",
       "title": "習近平送川普大禮 半天就收回 - 東森新聞",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MMEM5bURZN1lUVllMeUwyU3kzYzg4U0oxNG9XVUlmazBoSHA2RGI3d1VuWVByeHdWNE1HNTdxb3pReTY3SnFqUWRVT2kyMng4V0hv?oc=5",
       "summary": "習近平送川普大禮 半天就收回 東森新聞 收回大禮？陸方突核准數百家美國牛肉出口商許可 陸海關改口「暫停」 聯合新聞網 川習會召開之際 中國恢復數百家美牛加工廠出口許可 | 中央廣播電臺 LINE TODAY 延長美牛業者許可後改暫停 專家稱北京貿易談判出招 MSN 「川習會」禮包陸續簽400間美牛加工廠出口許可證- 兩岸 工商時報",
       "published": "Thu, 14 May 2026 08:58:00 GMT",
       "display_time": "05/14 08:58"
+    },
+    {
+      "source": "Google News Global",
+      "title": "波音苦等近10年！川普親口證實：習近平一口氣要買200架客機 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wbXlWWGk2SXpIV2x5MWllYTlBaHZ6V1VIdVZXOWVQVnRlVFhpX3E4RWhfTDdCQ1hIb19UTnJnRTFZWllsRVFpZEF4dngzNUk?oc=5",
+      "summary": "波音苦等近10年！川普親口證實：習近平一口氣要買200架客機 news.cnyes.com 川普公布波音訂單後股價急殺 市場到底失望什麼？ news.cnyes.com 川普稱中國同意訂購200架波音飛機 股價卻走跌 自由財經 習近平出手了！川普嗨曝：中國同意訂購「200架波音飛機」 三立新聞網SETN.com CEO隨川普訪華，波音終於有望重振中國業務 华尔街日报中文网",
+      "published": "Thu, 14 May 2026 16:48:59 GMT",
+      "display_time": "05/14 16:48"
     },
     {
       "source": "Google News Global",
@@ -83,27 +131,27 @@
     },
     {
       "source": "Google News Global",
-      "title": "川習會國宴菜色曝光！烤鴨、鮭魚配生煎包　現場演奏川普愛歌 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xQ1c0QXJYZFFHUTJpSUpNWWxkQ3RQRjJWZktRMy1INWVqZzlOeTNtSXlLWUhQUUpTQnFpTDNkdkFJakFJLUJhcU1iTU7SAVJBVV95cUxQS2ZnQUp1X25pTUxhLXR2cDJMMlhyaS16bDFIRWgyS1BUVHRFV2tES3RDd2ZRWHFHd1RqOUFPZ2l0OGVoRWVJelNUclBEVTN4VWtR?oc=5",
-      "summary": "川習會國宴菜色曝光！烤鴨、鮭魚配生煎包　現場演奏川普愛歌 NOWnews今日新聞 川習會國宴菜色曝！烤鴨、鮭魚搭配川普愛歌 Yahoo新聞 習近平宴請特朗普 吃什麼菜？奏什麼曲？ 中國評論新聞 川習會晚宴菜單曝光 北京烤鴨、生煎包上桌 聯合新聞網 金湯龍蝦配神曲《Y.M.C.A.》！ 川普訪華國宴菜單曝光- 兩岸 工商時報",
-      "published": "Thu, 14 May 2026 11:45:45 GMT",
-      "display_time": "05/14 11:45"
+      "title": "盧比歐「被中共制裁」仍訪中！習近平「出手1動作」他嘴角壓不住 - 民視新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XczlTTGF4Qm5ad1dBcFhYWlVxTnhCWGNHa3hIc1NBS1BSbjdBYW1XR3ZqYWRuZkN2eHdkZ18tdm9LVzYxd3FkdHZLZVAyZzQ2cnJKYUozLVJoNW9YcHZ2MA?oc=5",
+      "summary": "盧比歐「被中共制裁」仍訪中！習近平「出手1動作」他嘴角壓不住 民視新聞網 川習會登場！盧比歐遭北京認定反華人士制裁 透過「這方式」與習近平握上手 Yahoo新聞 和馬杜洛撞衫 魯比歐：沒別的意思只是覺得穿起來很舒服 經濟日報 盧比歐解禁陸改譯名變通過關- 國際 旺得富理財網 【錯誤】美國務卿因被中國制裁登不上飛機？不實說法！已隨川普搭空軍1號前往中國 MyGoPen",
+      "published": "Thu, 14 May 2026 04:57:40 GMT",
+      "display_time": "05/14 04:57"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "台積電技術論壇｜不只靠微縮！這技術成AI晶片神助攻 A14效能再飆15% - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14WDIxQi1nbjRVSXRkeGlnQWZqTW9qM2xLQlB2SmFPai10SG5zVkJBOVhDWjY2eXBFN1hmak9Ld0NjSzFDcHQya1dCakVkUURaWlNQUHpycV9GT3pQeFdvZjBGR3VVMXF6YVpaZWY2cGVEdm9DT3AtSHRXa2Itdw?oc=5",
+      "summary": "台積電技術論壇｜不只靠微縮！這技術成AI晶片神助攻 A14效能再飆15% 壹蘋新聞網",
+      "published": "Thu, 14 May 2026 10:10:00 GMT",
+      "display_time": "05/14 10:10"
     },
     {
       "source": "Google News Global",
-      "title": "川習會盛大舉行華爾街日報：美國真正關鍵利益在台灣| 政治 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWXpQb0p2MXR6TUt2TUc1cHVDNDdsc0FPQXlZOER3WFJQQl9qSEFuVVZyTDY4VmZaSkxwM25EVTVNZEpSUEJyRjM3ejB6bWxMYXpjZ25EQ0Zfd1ZHbjc4?oc=5",
-      "summary": "川習會盛大舉行華爾街日報：美國真正關鍵利益在台灣| 政治 中央社 CNA 緊盯川習會 國安人士：正面看待任何能管理風險穩定區域局勢的作為 經濟日報 川習會／國安官員：台美具共同利益 台灣不會淪為籌碼 rti.org.tw 貝森特：川普了解台灣議題敏感性 回應將「非常堅定」 自由時報 討論牆 | 習近平警告好好台灣議題 行政院回應了 LINE TODAY",
-      "published": "Thu, 14 May 2026 11:22:00 GMT",
-      "display_time": "05/14 11:22"
-    },
-    {
-      "source": "Google News Global",
-      "title": "先養肥再殺？「這1檔」遭外資賣超20萬張 70萬股民淪韭菜被收割 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HWC1fa2tVaW5VQmZLOXdJeVN6eHY3VmpsTVdpcEIxVnlBRkZ0aHM2VFpXVS1UaVAxOW1UWWJ4dlZTaXVadnJCT2FzSQ?oc=5",
-      "summary": "先養肥再殺？「這1檔」遭外資賣超20萬張 70萬股民淪韭菜被收割 三立新聞網SETN.com 外資甩賣面板雙虎 森崴「下市倒數」集團股大逃殺｜Yahoo財經掃描 Yahoo股市 群創養肥開殺！外資瘋狂倒貨逾20萬張 70萬股東被扒一層皮 自由財經 華邦電爆41萬張攻漲停！外資5月幾乎天天買 衝上量值雙榜 聯合新聞網 外資買超台新新光金居冠 調節群創逾20 萬張最多 MSN",
-      "published": "Thu, 14 May 2026 09:49:18 GMT",
-      "display_time": "05/14 09:49"
+      "title": "台積電狠甩英特爾、三星 最大尺寸CoWoS量產良率98% - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtR2dVc2stNzI1dDBHMUlWRVYtQkRqSUJsMkpFeklEUjFaeUgxdWZxVm92RE01WVBORkh3Ty0ya0JNb0dXX3hldTNaMVNUUThEbUV2RWVtV3BMQ1pfT3c?oc=5",
+      "summary": "台積電狠甩英特爾、三星 最大尺寸CoWoS量產良率98% 中央社 CNA 快買進台積電！外媒：「這一年」將正式進入「3兆美元俱樂部」、投報率高達47% news.cnyes.com AI未泡沫 「最好日子還在後面」 自由財經 藉由光電整合，台積電揭示從 CPO 封裝到矽光子 COUPE 技術布局 TechNews 科技新報 〈台股盤前要聞〉台積電勾勒AI藍圖 擴產火力全開、13金控4月海賺逾千億元 news.cnyes.com",
+      "published": "Thu, 14 May 2026 07:53:00 GMT",
+      "display_time": "05/14 07:53"
     },
     {
       "source": "Google News Global",
@@ -120,14 +168,6 @@
       "summary": "川習會在即 盧比歐：美國希望說服中國勸阻伊朗 Yahoo新聞 美國務卿魯比歐：中國傾向和平統一台灣 UDN 川習會後盧比歐：世界穩定符合每個人的利益| 兩岸 中央社 CNA 中國將出手協助重開荷姆茲海峽？美財長：因為中國更依賴該航道進口能源 cnyes.com 川習會談後 盧比歐：美對台政策沒有改變 rti.org.tw",
       "published": "Wed, 13 May 2026 22:08:51 GMT",
       "display_time": "05/13 22:08"
-    },
-    {
-      "source": "Google News Global",
-      "title": "盧比歐「被中共制裁」仍訪中！習近平「出手1動作」他嘴角壓不住 - 民視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XczlTTGF4Qm5ad1dBcFhYWlVxTnhCWGNHa3hIc1NBS1BSbjdBYW1XR3ZqYWRuZkN2eHdkZ18tdm9LVzYxd3FkdHZLZVAyZzQ2cnJKYUozLVJoNW9YcHZ2MA?oc=5",
-      "summary": "盧比歐「被中共制裁」仍訪中！習近平「出手1動作」他嘴角壓不住 民視新聞網 川習會登場！盧比歐遭北京認定反華人士制裁 透過「這方式」與習近平握上手 Yahoo新聞 和馬杜洛撞衫 魯比歐：沒別的意思只是覺得穿起來很舒服 經濟日報 盧比歐解禁陸改譯名變通過關- 國際 旺得富理財網 【錯誤】美國務卿因被中國制裁登不上飛機？不實說法！已隨川普搭空軍1號前往中國 MyGoPen",
-      "published": "Thu, 14 May 2026 04:57:40 GMT",
-      "display_time": "05/14 04:57"
     },
     {
       "source": "Google News Finance",
