@@ -2358,5 +2358,10 @@
     "timestamp": "2026-05-17T00:10:59.511188+08:00",
     "average_sentiment": 50.0,
     "news_count": 3
+  },
+  {
+    "timestamp": "2026-05-17T01:13:58.208177+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 7
   }
 ]
