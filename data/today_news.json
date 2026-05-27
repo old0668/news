@@ -1,341 +1,61 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "news": [
     {
       "source": "Google News Finance",
-      "title": "台股挑戰4萬5千點! 超車印度躍全球第五大股市 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPMUtDWjI1b3E3a2JVdmsyeTF3ZEdSZi1UY2tSTXBBVlRvQVdWNXJBbzBoaUZwUUZFRGdoWHE4ZlUxRGZ4LVg1Ymc3M0RYS0lkV0gwQkNuU19VN1BTLXRnNENqb3J5MmkwMk9oakc1RlFPMHI4QmNDbjZnZkoyM0VDejI3X1ZpaWVXV3pvZzNSNUVselJ1ODdYcnA4RnpZM1d6bUc3NUxuaGxYdjFJNTNfdzg2SkJQVlNmNGlsZi00YllnUjVXRjZmS0lSZ0phWkxlQnhMMklOdHJhdnRFUm9zN1pvczl5bFc0NTVDbGdrYXRRejB4Rlh0WVZJcjNzd3hUR3BkcHRyQ0xoVjU5ZkZFenFKTy1sQ2xrd0xCc0V2eEgybU4xY0tPR0hzWnVFUjNrS2ppWkU5aU9Fb0JYUy16VkhlZw?oc=5",
-      "summary": "台股挑戰4萬5千點! 超車印度躍全球第五大股市 Yahoo股市",
-      "published": "Wed, 27 May 2026 06:20:12 GMT",
-      "display_time": "05/27 06:20"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電員工分紅》魏哲家：今年會比去年多30％ 鼓勵員工拿分紅買自家股票 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uVms3OUtUVkFLUHJORHhJb2pkcGYyZmJrM1NlYWV0S2FRSXpCXzAtUUhZZVhlbU9XSlNjazNVV3piNDRpRUZxSlVfZE1Wc1pCQXdPcS14bVBoQ21FTi1z0gFkQVVfeXFMT1U0UVUxRk9xV3pvUEtreUlxVkdrbzdwUVRrOC1qM21taHZfa2pkcERHQVFQeDNHRXEycHp6UDFuTmt1MjZDYUpwWlFwWmRlVkYxTWtTemQ0NWpyWHpfMUZHWGpPZg?oc=5",
-      "summary": "台積電員工分紅》魏哲家：今年會比去年多30％ 鼓勵員工拿分紅買自家股票 自由財經 魏哲家與台積電員工溝通 今年分紅可望增加逾30% 中央社 CNA 魏哲家喊話也沒用？一票基層哀嚎被當耗材 「錢到位再做事」 Yahoo股市 「護國神山」分紅驚傳砍15%？台積電基層炸鍋- 新聞 MoneyDJ 魏哲家：台積電今年分紅至少增3成 買進自家股票不會錯 news.cnyes.com",
-      "published": "Wed, 27 May 2026 05:33:14 GMT",
-      "display_time": "05/27 05:33"
-    },
-    {
-      "source": "Google News Global",
-      "title": "PS5早期獨佔遊戲《毀滅群星》宣布關閉服務 - 4Gamers",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaDctSEFadTVoVFozTndDeURyLU9tRDVybGV0d2FrQy02amVJRDdBWGdqVVlDczRGUklaUDlaTVptYnBrQlp1d0UwNHAxSW96MTNzd1ZXTFdLelIycHlJd0dKTnpHT0lmdHpnSkg3a1B5eDZaZmtnSG0yZW1saHZ0Znd2d2J0ZHoyZlhaVUJuT1YtZ19oVDBHRlpWcw?oc=5",
-      "summary": "PS5早期獨佔遊戲《毀滅群星》宣布關閉服務 4Gamers PS5 獨佔《Destruction AllStars》終止營運 索尼關閉伺服器引熱議 蕃新聞 又一款PS服務型遊戲倒下　Sony《毀滅群星》5年無預警關服 ETtoday遊戲雲 PS5《毀滅群星》無預警下架！上線 5 年慘遭索尼砍掉，多人伺服器已全面關閉！ JUKSY 街星 PS5獨佔遊戲《毀滅群星Destruction AllStars》無預警下架並關閉伺服器| 動漫電台 GANK 電玩誌",
-      "published": "Wed, 27 May 2026 04:55:12 GMT",
-      "display_time": "05/27 04:55"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股盤中漲逾1200點寫新高 台積電漲60元 聯發科、聯電漲停 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOMkpRVlR0R202eFFldFNOSFFaQUNOR1NUN2t6SU1USDIwTmtQT0N3VlhtUWFKNjhVUUhBV1pVVU84d1NaYl9udDI2UmJGUDVrS3NpazlFRUpUT1RqNUxXUlJjLUhWZFE3SmczV0lOWHdHTl9DV0poUGU2SEpxdlRuenpseTdUNllBMjBjaFFxYm9WemFwNVhTNFVJaTA1TkxULXQ5NmpwWTlmd01Qc25saHpvQWlCUkdIRVFEODlXdVRhQmdncC1uSVpuQUozT08yMTd3Z3ExLXZzRGoydWlPUktvd3I3dVo0NkFtUG5zazFfNDNIaWM3djFwRjd5b3BuTnJObXVQTWMzcTNHNm0zMWRrVXV5czBFd2FQZkp2NG1XbU1obV9GbHk3eU4zNWpPREh6MGlTUDdyWXNJYkdOTTgzNjBuX2hyX0MyS3Q0U2JzNjZvUEZaaXN2OUYtOTFicnVXelNoeXpHMGw0YjdNbWJR?oc=5",
-      "summary": "台股盤中漲逾1200點寫新高 台積電漲60元 聯發科、聯電漲停 Yahoo新聞 台股爆衝1200點！台達、發哥創新高 記憶體「7檔」鎖漲停 Yahoo股市 台股大漲近1,300點 台積電漲到股號價 法人：量能變化成關鍵 經濟日報 美光瘋漲 費半飆5.5％再創史高 台指期夜盤漲破44K！ 旺得富理財網 專家看盤》大盤再創高 外資現貨連四日買超 AI記憶體轉強名單一次看 | 新頭殼 LINE TODAY",
-      "published": "Wed, 27 May 2026 03:54:05 GMT",
-      "display_time": "05/27 03:54"
+      "title": "台股衝4萬4創高！法人：部分AI股已反映前景 選股比選市更重要 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Lamd2cTRocmJOcWxGcnNGc2hqOWthZGR4d3l3azZNbUExUEllNEdYeTVrR2ZGcmVSbHRXU1FDTW01dEdwamNBQTJFdVM5dkRYTUZ3MTdPZ2V3bTJFVGU3QWJhX2NPdVJSOHJFMEdON1ZIdUc4Z2g0NVpkcUVadw?oc=5",
+      "summary": "台股衝4萬4創高！法人：部分AI股已反映前景 選股比選市更重要 壹蘋新聞網",
+      "published": "Wed, 27 May 2026 16:06:00 GMT",
+      "display_time": "05/27 16:06"
     },
     {
       "source": "CNBC Finance",
-      "title": "Foot Locker returns to growth but weighs on Dick's Sporting Goods as earnings miss",
-      "link": "https://www.cnbc.com/2026/05/27/dicks-sporting-goods-dks-earnings-q1-2026.html",
-      "summary": "Since acquiring Foot Locker, Dick's Sporting Goods sales have surged, but its profitability has taken a hit given the high costs of the brand's turnaround.",
-      "published": "Wed, 27 May 2026 11:24:27 GMT",
-      "display_time": "05/27 11:24"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股站穩4萬4！黃仁勳喊話成台股定心丸 資金續燒AI股 - 民視財經網",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaTFhPaVBiR0dTOUhZNHgxTTZOUFVCN2dpZzVfVDVSNklRRVI4RnNuU1VXazQxQjZYV1lWWVpKT2t4V3dmVFItcnNwaFZ6Rlo3OFVzQkQ1YXN3MGtnd0JwU213ZE9HUQ?oc=5",
-      "summary": "台股站穩4萬4！黃仁勳喊話成台股定心丸 資金續燒AI股 民視財經網",
-      "published": "Wed, 27 May 2026 11:21:33 GMT",
-      "display_time": "05/27 11:21"
+      "title": "Abercrombie shares jump 13% on earnings beat even as Iran conflict hits sales",
+      "link": "https://www.cnbc.com/2026/05/27/abercrombie-fitch-anf-earnings-q1-2026.html",
+      "summary": "Abercrombie & Fitch saw sales in Europe, Middle East and Africa decline by 10%, thanks in large part to the conflict in the Middle East.",
+      "published": "Wed, 27 May 2026 14:55:42 GMT",
+      "display_time": "05/27 14:55"
     },
     {
       "source": "Google News Global",
-      "title": "三星工會投票通過薪酬協議全球晶片供應鏈驚險避開大亂| 全球財經| 全球 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZRU1yR2tGejloTmVrd1JEN2tRa0tYUHdTaXFjcEl6OVhqa1FXUFo5S2laUExMeDJjbGlISW9UV0ZScF9nUmE1NGQ4NVI1ZGRu?oc=5",
-      "summary": "三星工會投票通過薪酬協議全球晶片供應鏈驚險避開大亂| 全球財經| 全球 udn 全球晶片供應鏈鬆口氣！三星工會拍板34萬美元獎金 股價飆新高 Yahoo股市 三星獎金方案鬧內訌！記憶體部門最高爽領 40 萬美元，DX 部門僅獲 4,000 美元 TechNews 科技新報 三星電子半導體獎金引發內鬥 恐動搖「One Samsung」策略 PChome Online 股市 三星電子工會矛盾 第3大工會申請停止投票假處分 rti.org.tw",
-      "published": "Wed, 27 May 2026 01:57:06 GMT",
-      "display_time": "05/27 01:57"
+      "title": "有深意？賴總統祝賀美國國慶 點名送川普「張忠謀傳」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yTG5RUzhnU3IwYkFULXY0RzNDMlZWb29VVVprRzJ0b2loQzA5ZEdmMUljdmRlVEZLam02c1JuMU1WZDVsUXZFQmUySUdjaW1N0gFWQVVfeXFMTlE0SEs1endPX2MxOVpjN2ZZdzE5c09aSG1wNzZyR2Q3cllfeXRnVE5YVFUxbDNZUjVxTXVKTTA5dF9vOGNXSEo1ekZUamFqLXFJTGVmeFE?oc=5",
+      "summary": "有深意？賴總統祝賀美國國慶 點名送川普「張忠謀傳」 UDN 美國獨立250年 谷立言以開國元勳啟示促民主溝通 rti.org.tw 【出席「慶祝美國建國250週年」活動】賴總統：維繫臺海和平 共促雙邊經濟繁榮 Yahoo新聞 賴總統出席美建國250年酒會 張忠謀自傳贈川普 | 中央廣播電臺 LINE TODAY 出席AIT國慶酒會 鄭麗文向谷立言談將訪美 | 政經焦點 | 要聞 經濟日報",
+      "published": "Wed, 27 May 2026 12:53:22 GMT",
+      "display_time": "05/27 12:53"
     },
     {
       "source": "Google News Global",
-      "title": "台股再炸1.55兆新天量！群創亮燈噴136萬張 美光狂飆台廠記憶體跟著衝｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9wNBVV95cUxOZTEwUmFiZ1RXUFA2Q0NKN3ZwWVZQRzJ6WlFpWlZZY2wxUng0Z05uNXM4c0pwUzJZMGtDcFZMUlFvbFJXeXVLemZSRTk2a3hMZGlGR0FjSG5sTWVEcV9jMDgwRFZKOFREbTBnLTcyeDk0MlJkd2ZLT2VkNmRXNDBLdTFtUEJlSldESDBMOGFmV2YzQ0xsWFFIUlZpanlacEhMcEdTOEc3QzY3QkpVTFBod2luSElLM2tsd0tXS2pERl94QTZUM2lTUi1ScHFrVGtzZzFNdExWWjFlQWtLckhQTzhYN2syTnB5OHR4VG0zelphZTVNMjhIcXhvU2I0U0dSbkswbGNnRU85T2dHM2hHckNUNUludjhkYzkxZFBJcVpmVGQyN29JWWttTnJScjdjQUVScU1OYW1Rak9sQXROdmZzUHowa3o2T19BeWF5cVp3ZHBhTzJaY3hkb3JKMVg4RTZtSWhxTksyR24zUGVQN0YtMm9JV3VGd3hIWlluUG5Sd1hUNXhUTzhhY3BYVjN0RUVsTmhaSjZvNmhuX1dZWFpuY0Z0bllfcnpTMzVJTldYS0liZlFGS2Y4UVhzdTVfWGlMZ1hMcFlBOW52dlhzWW1mYWtVQ0xyRC1MNHh6NVJyRXV0bHlSS2FhU0M3ZFJ3azlqaDd2NA?oc=5",
-      "summary": "台股再炸1.55兆新天量！群創亮燈噴136萬張 美光狂飆台廠記憶體跟著衝｜Yahoo財經掃描 Yahoo股市 台股爆天量闖關4萬4千點　外資續買381億元、狂敲力積電7萬張 ETtoday財經雲 大秀AI肌肉受寵！力積電獲外資猛灌5日「掃入逾37萬張奪冠」 這檔將發1元現金股利也吸逾3萬張卡位 Yahoo股市 台指期夜盤續揚突破45K 續創歷史新高- 證券 工商時報 外資連五買加碼381億、投信翻空 三大法人買超307.63億元 news.cnyes.com",
-      "published": "Wed, 27 May 2026 09:30:31 GMT",
-      "display_time": "05/27 09:30"
+      "title": "台股爆天量1.56兆元 外資加碼381億元連五買 掃貨力積電7.4萬張 回補群創 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOdDljdWxaendRbmxTZ0FmdXRpVDVFaDNSXy1ZWTlyVk9UbDhJRlFKQVozTVhYVzlJOGpDaWlPakI4UWlZNGRmR3FDSEtEd2lBdkwwTTUtdnluWExNNDE0U0dsWWNBMTZzRDdkYkRtUWZCSWtCdENENlBjdGVaRl9VQ09FaHppOGxVd1h2S3Ftbmt6aExDZzBCY3Z1NWw2bnYwY3o3c2JTYllVTDFsQUxzMFo0b2d1VUdpUFl1aENpbUZkbEdSUUlndHpjM2RhYU9ZV0NpZVlVMUptRHNKRUxmb3U4QkhJRnktRHVwUmRKdDBWeHk1bFJQX3dQeG0zRTMxWFZWTXNNLVlxSlFKQV9NNzRONk9nZVdtdF9HM1BZT2VDZWIwMjk3VmNPakhnSzVsN3J4SEJ2THkxalFFclNvYTd6aUUtV3ZKdE5fVFhuYjNkYmxGaEJTczRJWU1IYWV0TzBpTDNLQzlVX29lQVdHN0ZwQlBnUWhyM1JTOS1LUQ?oc=5",
+      "summary": "台股爆天量1.56兆元 外資加碼381億元連五買 掃貨力積電7.4萬張 回補群創 Yahoo股市 台股破4萬4怕崩盤？486先生曝最大風險是「這1事」 Yahoo股市 台指期夜盤續揚突破45K 續創歷史新高- 證券 工商時報 美光再大漲、台積電夜盤大漲100元 台指期夜盤欲奔46K UDN 台指期夜盤狂飆！翻紅後強攻46K關卡 ETtoday財經雲",
+      "published": "Wed, 27 May 2026 10:43:29 GMT",
+      "display_time": "05/27 10:43"
     },
     {
       "source": "Google News Global",
-      "title": "北約真要被「放生」？德媒曝美國恐撤出核潛 轟炸機戰機驅逐艦全縮水 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UQm40SFBJS1o1ZXBpQzVYWGNxYXJFLWtUblBkenl1ekJ3NFVaa3I3OXpwT3lfMjNNYVFzdzdYT3dDbm4ycXUzU2J6eDJHT1V10gFWQVVfeXFMT3djWWJjRlBrWkJKdmoyYmpwbUFyYVZtT1RtaUFJLUVaamZvS3NWQW1hS3BNWWZQVzN5Wm9HTmRfbDdEa1otZFYwVUhTa2wwQjdlN1d0ZkE?oc=5",
-      "summary": "北約真要被「放生」？德媒曝美國恐撤出核潛 轟炸機戰機驅逐艦全縮水 UDN 美撤30%駐歐空中武力 還調走核潛艇! 北約被「抽血」 降「二級聯盟」防務大缺口 Yahoo新聞 德國明鏡週刊：美擬大幅削減北約軍事資源 戰機與潛艦數量將銳減 自由時報 川普拿北約開刀？美軍核潛恐不再支援歐洲防線大縮水- 政治圈 中時新聞網 不爽未挺美伊戰爭？德媒曝美國砍北約資源 恐撤核潛艦、減供戰機 TVBS新聞網",
-      "published": "Wed, 27 May 2026 00:52:53 GMT",
-      "display_time": "05/27 00:52"
+      "title": "〈美股盤後〉美光一夕暴漲19%市值首破兆美元 聯電ADR飆超15% 標普那指再寫新高 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SdFdGT1lIYWRsbThjSWZhbGhsMlBlTTJKMXVZV1Y1N19DT21LTWZmZjRORjhMVkNuWHIxU2FCaTgtM1hKRDlFSWhWQUNEakU?oc=5",
+      "summary": "〈美股盤後〉美光一夕暴漲19%市值首破兆美元 聯電ADR飆超15% 標普那指再寫新高 news.cnyes.com 美股早盤／資安股拖累…三大指數漲跌互見費半跌1.2%、台積ADR還在漲| 全球財經| 全球 UDN 美伊和談現曙光 標普500、那斯達克指數創新高 Yahoo股市 美油價跌破90美元！傳伊朗1個月恢復荷姆茲航運 專家：至少需4個月 自由時報 科技股領漲亞股走勢不一 投資人關注美伊和談進展 MSN",
+      "published": "Wed, 27 May 2026 05:11:04 GMT",
+      "display_time": "05/27 05:11"
     },
     {
       "source": "Google News Global",
-      "title": "昔中國直播業績高達3.3億！郝劭文證實返台定居　親揭收入現況 - 噓！星聞",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1STEtwaHFaam52a2hxN21hZXNwS014enNOSnhxS18xNTd5eFhLcmhzcjk2aXJWZTVnNlg2UUh3V3NJcU8xRXFnTG40T3lHVThsS0JVV0oxRVU3Z9IBX0FVX3lxTE1uTXY4bzkyczhuOThVSW1TLXhKRS1qbWxZOGQ5dDR6TVVDclNDeHNPazhYNlp4M1ZyTFVFYTZreHJNbDVWdHNzSVZZZVM0bDBWNjBLZEZSM2RacF81SHMw?oc=5",
-      "summary": "昔中國直播業績高達3.3億！郝劭文證實返台定居　親揭收入現況 噓！星聞 爆中國直播月賺3.3億！郝劭文返台定居「揭收入內幕」 Yahoo新聞 郝劭文陸直播賺3.3億 「捨高收入決心回台」定居理由曝光- 娛樂 中時新聞網 從童星到帶貨天王 郝劭文直播月賺3.3億返台定居真實原因 自由娛樂 大陸直播月賺3.3億驚人營收！36歲郝劭文證實「舉家返台定居」 急流勇退真相曝光| TVBS LINE TODAY",
-      "published": "Wed, 27 May 2026 00:40:30 GMT",
-      "display_time": "05/27 00:40"
+      "title": "嘉義漁電共生撤照案延燒 養殖戶與地主聯名提告縣府 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXTl9Ddk1uc21MYnhETDRVOERRVUF0X1kyZnBDSnYtYnBWdXV6d3FQbHdYYW9BdExlOUNjWlh4bG4xU3UxbE94eVlZNU1zWm5SVkR0ZGNTRHhvLXNIU0RB0gFkQVVfeXFMUGt3cnBCbnN0aXZKb21NMExscXBDWExobWRtRUhYQlBPR0ZTSnRVSVZCQ2pMWjI3Ml9jSjJNY2pFNjFzMXgwWHpVRnF3clZxNURXb2ZhUVVpWVQ5NTdjS0xUOFRyag?oc=5",
+      "summary": "嘉義漁電共生撤照案延燒 養殖戶與地主聯名提告縣府 自由財經 光電板還在發電、魚還在養，政府卻要廢照！台泥綠能「踩煞車」，凸顯哪些問題？ | 林彥呈 | 財經 風傳媒 嘉義漁電共生撤照案養殖戶與地主聯名提告縣府| 地方 中央社 CNA 養殖戶與地主聯名提告嘉縣府 中華新聞雲／中華日報 嘉縣府撤銷漁電共生案場許可 綠能業者與4名地主漁民提告自救 UDN",
+      "published": "Wed, 27 May 2026 03:35:09 GMT",
+      "display_time": "05/27 03:35"
     },
     {
       "source": "Google News Global",
-      "title": "美軍空襲伊朗基地！德黑蘭怒批違反停火 國際油價應聲飆漲 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQYWFzb1plYllwZ09DMW5RdGgzbFpSd1dBR0huRDFQdmYtdEM5VU1UX2RJcHlXVUFCS3VSYl9BT09KTWZsczhsX252aUx6R1pkd1dVZ0p0eFhGSnlKTjUtMVRqeTI4MlRwS0ZkYnU1bTE4cXJHamdueWJDb3NEQV9DTWRGcnNxWnJKU0NkcUZYQll5RHlPWDF5bFZNLXhqZV9LZDVvUUlPQ09jSGEya3h5UGIwMWsyeU1GTjJzdFpJbFBnWDVFbEx2X3l3Z0lQWlR0VXlpVnhwRXRIczlYSlZjQWNnTWN2ZXpmaHlDZFFCZUF3aER6d3dESGxleXIyMVA3R0lZdVNMNmx6QnpxZkxVaFB6LTNFOW14YU5yemc1NE5nYjU3TVUtZGFTNldFY21ybDdnLWt4Z1JRV3p1dk9XSERYallBaVhvZVhRV2V4eXFiVDJyWnF4TFB2ZEc3eDJndDRaOC1keTZrNV8xa0tHUWFvbFlFSVlIaGE4d0IzeThjZw?oc=5",
-      "summary": "美軍空襲伊朗基地！德黑蘭怒批違反停火 國際油價應聲飆漲 Yahoo新聞 伊朗矢言報復美空襲 布蘭特原油再度站上100美元 自由財經 〈能源盤後〉美軍再襲伊朗 打亂停火期待 Brent飆回100美元關卡 news.cnyes.com 美再襲擊伊布雷船與飛彈陣地- 國際 旺得富理財網 伊朗稱美方新一波空襲「嚴重違反」停火 盧比歐坦承協議談判仍須數天時間 Yahoo新聞",
-      "published": "Wed, 27 May 2026 00:39:43 GMT",
-      "display_time": "05/27 00:39"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美軍空襲伊朗、以軍轟炸黎巴嫩，中東停火協議面臨破裂危機 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNeFEwWnEzSTdCQjB2X1Rhd0o3MWtSM2ZxdU9heFNGUU9kYVJVM21iYk9MUGtNV3hLcnphajNiWHJoSlRnV3Jvdm1DTF9rNm05ZnA2YUo5eVBadnpSQ0ZJZi00dXhjNzU5YzJKWnhxMk9OaUl1MFMxQ3JsNl9SN1FNaVpPcTNqWGdwTVBWUlkxZ2YtYVV0YXJwNG84TEVRX1dYT0RhQjVnVGRZc0Zaamk5YXhqYkd3bUFFajR6dXlQQ3p0eHpyYkpsVUVvVEk5YWotOWJBaldGLXhmTG1oUUlmTDN4N1RTM2pkLXJHRTRFQm13UVVTRG5FRXRIVEFKTUdURDJSRlNjVW90QmZQbnFhTEhVQm5maTVVY2tZUy1pb2dIMWNvMGxsbHNiN0JuaW5QTEltdmNWREZCNWlELWM4VjlhNzlQNEdhOXBlN0I0ZzNqRkpLeldydjlCV1AxOWNFUTdQdC1sdEswRHF1dm9SbU9FVi1HOXB4VFRQT2RGQkZGZw?oc=5",
-      "summary": "美軍空襲伊朗、以軍轟炸黎巴嫩，中東停火協議面臨破裂危機 Yahoo新聞 伊朗矢言報復美空襲 布蘭特原油再度站上100美元 自由財經 美再襲擊伊布雷船與飛彈陣地- 國際 旺得富理財網 (影) 伊公布擊落美軍死神無人機影片! 美軍強襲了伊朗這些基地...... Yahoo新聞 〈能源盤後〉美軍再襲伊朗 打亂停火期待 Brent飆回100美元關卡 news.cnyes.com",
-      "published": "Tue, 26 May 2026 23:14:27 GMT",
-      "display_time": "05/26 23:14"
-    },
-    {
-      "source": "Google News Global",
-      "title": "俄羅斯加大對烏克蘭威脅力度，這對戰爭意味著什麼？ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNb0dabW1QQk5BeER1cGd0MUhtNVVNd2dUNFh0cklOUlRiaFRNeTR1eWg0N2dOYnp2WjNOXzk3Wk42cXdyeXlDWElXdVhYRHVNcktOUDlobTA5SlFHUFpqSDBnbi1UOGdDMEs2NzRtcnZqVGxDQWxlYUROWlFxb00xVFhQX2FrYWRsQnVZc3lYWWwzWVZXUlp3LVVqSmtEc045S0k1MVQ1MDVCdy1GUUpOeVZpZUNBVjNvcTdXWnFSd0M0MHFuYkY1T1BTZ0tZOFZZUTM3NW12bm5XVTF5SzRENWFxTzVUQWtnOEFtMUFqVjNuZTR5QXFhcTFndHBOaXlTSUVkcmJBajltTHE4bmw1S0lVLXVxYWRsMlA2TExXS2V2V2UxZmVCS1V0VWloNUEwTnA3MmU4XzF5ZmFMOThwOHNHSzBRUEZ5bk9fekZKR2hRelhFWmRDQU0xa1A?oc=5",
-      "summary": "俄羅斯加大對烏克蘭威脅力度，這對戰爭意味著什麼？ Yahoo新聞 川普曾嗆「你沒牌」 烏軍無人機如今深入俄境1000公里 自由軍武頻道 俄羅斯逾越紅線 發射可攜核彈頭飛彈炸烏克蘭 中央社 CNA 俄警告外國使團撤離基輔 歐盟召見俄臨時代辦 rti.org.tw 俄極音速飛彈狂轟基輔！急電美籲撤僑歐盟霸氣回嗆：赤裸裸 「訛詐」 哪都不去| 國際 Newtalk新聞",
-      "published": "Wed, 27 May 2026 07:08:15 GMT",
-      "display_time": "05/27 07:08"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股收盤》美光暴漲19％、美股多收紅 日月光、聯電ADR暴漲 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUNW12RkVJVkh5WGR6RVJ1aG56QXM0eVlNN0Y1dXZveUc4RmUtVUdtcTFHQV9ObGI0clF1cVZENHpEejRGZjFpVlNBemQ1UUJqaXBhaWt0ek1YVHFtcGZr0gFkQVVfeXFMT2dtdnozcnB1RUVSVWtFYVdUNUhOUUNyUExja0V1eUdkOS1Mc0NhWFlSVTZ4d01RMWt0bEozeHJ1U2tsRVFNTE5mU2FwcnJweUlBSUpvb1R1UVhPYXlfYUIyOG5XXw?oc=5",
-      "summary": "美股收盤》美光暴漲19％、美股多收紅 日月光、聯電ADR暴漲 自由財經 美光大漲19%！記憶體這麼熱？ 天下雜誌 比輝達快10倍！美光科技市值從5000億到1兆美元 只用48天創美股史上最快紀錄 Yahoo股市 川普投顧唱多+瑞銀狂升目標價美光飆、族群嗨- 新聞 MoneyDJ理財網 535→1625元！美光目標價噴3倍南亞科、華邦電...記憶體股大復活法人最新目標價出爐了- 上市櫃 旺得富理財網",
-      "published": "Tue, 26 May 2026 22:36:41 GMT",
-      "display_time": "05/26 22:36"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗譴責美國空襲嚴重違反停火協議 揚言報復 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSTlScWdZYW9WTXZVcHN1bExHTE1EaVZMNXBBdVVyTzcxOHZ0SnFNZENIYjM3SVpwVVdNMVZzeUxCeTE4TWJlVmVpSzdXQ01jVGVRcXB3ZVFBZm5LM3hvcXNubEZIMzlkTjgzSVd2elpHOVQ0ZVJmalQ5c2I3OXQ4bFdiSjBsV3RXN0JQU09sSFVvUmh0T2c0RVZuZEJ3QnRla3A2bmJzUWcyWjk5cG1iYk1NaTBYZ1YyR3pGZ1JqWUVxYnBJQWJBZXlMZU5YY1djNkF4S00wOVRibEtLNHlQRTFNckVVbmhKNHJyMnpkWjd6S0JTckNUUjRXWXA2V294WXh2Ym54SGtkTWxPNE5TeFMwdkxWWVJVRThoTEszSUw3dXFQSXUzR0RvWmlWN0E2MDVrNnluZXVzZ0ltZTl1V05DeHY?oc=5",
-      "summary": "伊朗譴責美國空襲嚴重違反停火協議 揚言報復 Yahoo新聞 伊朗矢言報復美空襲 布蘭特原油再度站上100美元 自由財經 美軍空襲伊朗、以軍轟炸黎巴嫩，中東停火協議面臨破裂危機 Yahoo新聞 〈能源盤後〉美軍再襲伊朗 打亂停火期待 Brent飆回100美元關卡 news.cnyes.com 美軍發動新攻擊 盧比歐：仍可能數天內達成伊朗協議 rti.org.tw",
-      "published": "Tue, 26 May 2026 21:59:21 GMT",
-      "display_time": "05/26 21:59"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈美股盤後〉美光一夕暴漲19%市值首破兆美元 聯電ADR飆超15% 標普那指再寫新高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPRDFINmx3eFJsa2d5WTVKRVhCV2k0eXRPajZpNktyM0dlN2xkX0xKeFBXQ3g0aGMzV291TW0yWHV0cldvLUZoVHJlTUl4MTJ0U1V4Wi1wbm90TDV6TWVjTVIwQmp4VjBXWC0wc1BiY2YwekpIVUthcEFzbUdqVHhZenAwWDRZRmJzVThoeUFVc0pKZHh2c3Bsczg5LWlyXzF6SEFKdTIyUUZjWlNKaXNKNWZkdWYxUVZBeFBuaVZWcGhyWFpSOUpqSF9UaS03N1VxUHdrM1E0dHRzeFg2Y2JpLWExTG5qVGJ1czJTUERTN2JzdElDVkFGc0xnNDRDdFU2NzdfUUJLNHNwRkNuWnN3QnNjT2M4N0IwdkNtUEJqN2RRMjZZYXRTZW9GQ2N1RDJ3ckNoVldtRjU0djNOY1FHak9MbThBcG5vSVBEbmpFbFhIT3drZklBTlJn?oc=5",
-      "summary": "〈美股盤後〉美光一夕暴漲19%市值首破兆美元 聯電ADR飆超15% 標普那指再寫新高 Yahoo股市 美股｜標普那指再登高 費半狂飆逾5％ 美光暴衝19％ 聯電ADR強漲15.7％ 工商時報 美光暴漲19%！美股「標普、那指創高」 台積電ADR漲7.8美元 Yahoo股市 〈美股早盤〉AI熱潮續燒、美伊和談有望 主要指數開高 news.cnyes.com 美股早盤／西德州油價回落 四大指數齊揚、美光暴漲14% UDN",
-      "published": "Tue, 26 May 2026 21:27:49 GMT",
-      "display_time": "05/26 21:27"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黃仁勳喊話蔣萬安：輝達需要更多電力 能源成長對台灣GDP至關重要 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQNUpUUENoMDk1QTdGNm05MFNCM1FmZ3VKenV4N0pWdWZvUGtfZ1BNa2M4R0w2RHZDMlI1Y1JWTzVHdGdiMUFpcFhFaExCR1Z4VzBBcHdka2pTeDdXazh4YjZXMks2WWE2LWg5bVlVeU5UVGJ4VlZTYnNfck9zemJjemFrRi1kelRRNEQ0Z3NmWlQ2a1F4dnU0UWQ3WDZ2djFrczFvR0JFOUdsV2hnX0hqU0l2VW45T2tLdGVxNmk1WGE4cXByb0M0Z3dGbmU4VlVYdHZqeVhqbEJVU3lERzExSWZSa0h6Q2FLelJCTUZJakh6ZldNZ0c3Ml9yTkJrSjdXa3AzcW1vTl9TTl8zZG8zSjFPRTVhS01uTEt0SThyRk1BOEt1WkFZZ3JuOUF0RkxubnNVRmZsTGsxUEpSRnhiMV9Zd2h6TENrNGZBcTJIN2ZCM3B3UTZyM2kxdmFockNZekdJMmVmczk2WVAxaE5GY0xjRE44alpac1VpLVlDWEVfdFBJdlRkaEV2alM5eGhxSGpLS3NacVRtZmlLTVBKVElTVWlQR2pT?oc=5",
-      "summary": "黃仁勳喊話蔣萬安：輝達需要更多電力 能源成長對台灣GDP至關重要 Yahoo新聞 黃仁勳可放心了！北市同意台電折衷方案 經部：產業與國家之幸 自由財經 黃仁勳喊話需要更多電 北市府：北士科變電站與台電完成協調定案地下型 Yahoo新聞 人要吃飯AI需要電　黃仁勳喊話蔣萬安「我們需要更多電力」 ETtoday財經雲 綠拿輝達打變電所爭議 台電反市府是專業或政治盤算？ 聯合報數位版",
-      "published": "Wed, 27 May 2026 05:12:56 GMT",
-      "display_time": "05/27 05:12"
-    },
-    {
-      "source": "Google News Global",
-      "title": "人均GDP大漲、軍公教10年調薪14.7％ 全教會提2訴求：明年調10％ - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41N21jemttUEVGOFRvRzkyVVJRZnF2YkFnVHNqc0F0MEhNMXpsb3pfUUxEYnhpWEdjY0o5Z1dPbW4wbFkzSXg4MFJsSm12M0xIY3FiZ0Z6QkV0eTBtSlB3OXZDd2zSAWpBVV95cUxQSVVYSHlHSW5zU3I5TEV3LXVJUGxMOHhyeGdvLXZLeFZPcDIwVXJFMjc5M0Q3eXFLNU9Sa1NLS3BfemVnRFRwS0w2YmZ2c2hKd3NVVlRsQkJ3Y2N3VVpZc2V6b0NiMVhUdGdn?oc=5",
-      "summary": "人均GDP大漲、軍公教10年調薪14.7％ 全教會提2訴求：明年調10％ 自由時報 軍公教調薪破4%但低於10%？政院最新說法 民團籲本俸漲6000元：起薪這數字 Yahoo新聞 藍委緊盯未交貨軍購盼軍人大刀闊斧加薪| 軍事 | 要聞 UDN 軍公教調薪6%或8%？卓榮泰最新回應 他回顧漲13%背景：現在也是經濟大爆發 | 李瑋萱 | 新聞 風傳媒 經濟成果共享 全教會籲軍公教調薪依科學指標法制化 | 中央廣播電臺 LINE TODAY",
-      "published": "Wed, 27 May 2026 04:08:14 GMT",
-      "display_time": "05/27 04:08"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "AutoZone stock on pace for worst trading day since March 2020, despite retailer beating Wall Street estimates",
-      "link": "https://www.cnbc.com/2026/05/26/autozone-stock-on-pace-for-worst-trading-day-since-march-2020.html",
-      "summary": "Concerns included international growth, margin compression as well as pressures from inflation, energy costs and potential supply chain disruptions.",
-      "published": "Tue, 26 May 2026 18:39:10 GMT",
-      "display_time": "05/26 18:39"
-    },
-    {
-      "source": "Google News Global",
-      "title": "中東戰火再炸！伊朗控美國違反停火協議 油價急飆 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55LTB6TG8zcExZMDE5VTBoMVZnMUdRS0UtSjZVeTdvWWFmbE50NWNfal9zZ2g1RFZjVlI1MGJ3VE41UVlDQTNNTWlUZTJWZHp1MVpPYkIwTEg1SGw3SHVJ0gFkQVVfeXFMTVQ5eTlmNUlxN0kzTVRSamFIUTRiTUp5VVdTd0NFUzhLXzlmTktPQW92ckY0d21NaWs2c0lyZmFSWlFVQmtCSXkyRlczWEFISDFnUHlURFBLdDVnNHJMcjF2RDR3cw?oc=5",
-      "summary": "中東戰火再炸！伊朗控美國違反停火協議 油價急飆 自由財經 中東戰爭第88天》伊朗控美違反停火協議最新發展一次看| 國際 中央社 CNA 美伊停火剩張紙？伊朗最高領袖怒嗆：美國、以色列去死 自由時報 《油價》擔憂協議落空 布蘭特原油上漲3.6% - 產業 - 新聞 MoneyDJ (影) 伊公布擊落美軍死神無人機影片! 美軍強襲了伊朗這些基地...... Yahoo新聞",
-      "published": "Wed, 27 May 2026 01:16:01 GMT",
-      "display_time": "05/27 01:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美軍空襲伊朗南部！德黑蘭怒批違反停火協議 國際油價應聲大漲 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPdlcwcGhRMjdLd05rOVdJRVRDWGhycE5GRVdzdlJtOV94SFJDVzA3aFViaHg4TEhkbjZKa2M5NnB0RG4yWVVPV3VMS0FTVFdkN0lsUUlKM0Z6VTBkNmY1VFdiRkZiSFZzUTU1VFN5NExuc2otU0tTdGgza1N4dWlOTExEbFZZNUo4bUR1RlpyQTB3M0xOTTczb1VqODdqS3NuOVg1WmJRQmM5enY2MG1kQUY4NEc3SFEzamZRYU8tSHFWdHZMZXVnS0E1TVJRR3V4RldGc2pWQW9xcTZ3Znp0X3hEVmdjYVV0RUV0NUsyeHNqbkVrYXZrQ1NMa2cwVUExNnBKRGdTYmRRS25vRFdCdjVLR3hEdHNHaEdENjhpdlI1Zk5QUTBQX1N6S0dTZHFWSUREUklCXzRlN1VqUW9kS19vQ0h2QkxiZVU2QjlscVFIelkybzhhVWRnaUljWjgyWFVFS0RoVV82T0JQcVZlNFhmeUxCOGNBbnZELUExSTJfeWFKdmkzdlkxX0w2SVRvWjk2SEV3TWw5UQ?oc=5",
-      "summary": "美軍空襲伊朗南部！德黑蘭怒批違反停火協議 國際油價應聲大漲 Yahoo新聞 美軍空襲伊朗飛彈基地！德黑蘭怒控破壞停火 國際油價應聲大漲 Yahoo新聞 美再襲擊伊布雷船與飛彈陣地- 國際 旺得富理財網 美軍發動新攻擊 盧比歐：仍可能數天內達成伊朗協議 rti.org.tw 伊朗矢言報復美空襲 布蘭特原油再度站上100美元 自由財經",
-      "published": "Tue, 26 May 2026 16:03:52 GMT",
-      "display_time": "05/26 16:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊達協議？Piper Sandler潑冷水：荷莫茲海峽恐再封數月油價飆新高| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2Tklwd1FvX3RPdnRnYmZsc05tLVdHWGNyLUNMRkdlbko3QTY4a1NjQ1JJUk00ZGVreUV2eENoZGxKZXpXYklkbTJlS1YxLU5y?oc=5",
-      "summary": "美伊達協議？Piper Sandler潑冷水：荷莫茲海峽恐再封數月油價飆新高| 全球財經| 全球 UDN 樂觀看待美伊和平談判 國際油價回落 news.cnyes.com 美伊談判為何一直拉鋸？前美國安顧問：伊朗在耍川普 其實在拖延時間 經濟日報 天下晨間新聞：美伊即將停戰？｜不能買美股？中國整頓富途、老虎 天下雜誌 美伊協議如何讓雙方「宣布勝利」？川普提新要求、伊朗有兩個目標 Yahoo股市",
-      "published": "Tue, 26 May 2026 23:16:53 GMT",
-      "display_time": "05/26 23:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美光盤中市值首破1兆美元！AI記憶體熱潮引爆股價狂飆 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03Zjl1bU1VS3FMTGVHaTY5VEpCSm9vSWsxZlZtRTJXT1VhMUc0ZkhFV1VVVG4zVUR0aTVDQjVybWdPejZvOWk5QXZMMnVZRGs?oc=5",
-      "summary": "美光盤中市值首破1兆美元！AI記憶體熱潮引爆股價狂飆 news.cnyes.com 研調：美光回頭擴產DDR4 不影響供給短缺格局 news.cnyes.com 美光暴漲14%「市值衝破1兆美元」！瑞銀天價目標價狂飆3倍 ETtoday財經雲 記憶體股再吹利多漲風！瑞銀調高美光目標價漲達3倍 自由財經 HBM、DRAM和NAND產能跟不上AI需求！美光：記憶體荒將持續到2026年後 Yahoo股市",
-      "published": "Tue, 26 May 2026 14:58:06 GMT",
-      "display_time": "05/26 14:58"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黃仁勳：AI時代不必糾結孩子讀什麼科系 關鍵在如何用AI放大能力 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxOT3pmZ2lOUm5SbEFwT2ZOUUlBbzZpaG5uc0V6WDcwNk81bDV3b0c1RWNNeERSaFdNQmd2Tm8wbXgwSnR1ZXpLMEpvMkRXX3ltV0ptYUxoYV9yamR2OG1mYzNDc2pLNGE0WWhPSTdmRDFnRDhBbWdVMWRYNjJ3aG9KWWRWamlxUFJ5LUU0OFZUbExicmF2RzFZS2dmRUg1cXhzeURId0Q0dExzeHF1ZXVTUGdrdTdObjV5d3JnY0N2VTJFb3pZSFdYWml0bmhrdVJ3NTZMT0JVMTBmdmNUSmtvRU5TcEFaSUxPTDZmXzdEMlpNeVdfenEyOGg4dXo3cEhTXzdSVF9yMmtqNmJmSC1HcmJvemVEa0hwYzIxQV82ckFtUzJ6VGxYbkpSZXlJanptdTd4TkI1N1p4MDh6NE5oZk9oV0JwelNVa19rRWhidVJ6Z2hOVXFZOUhYTkY2UUJjaTBaanZ3X2xESk1XSWZVTVFESXBoSkpVTnJpYzZvQ25rbk5XWUd4T2pPd2JZNm9TMnE4cmd1WXZxV2c?oc=5",
-      "summary": "黃仁勳：AI時代不必糾結孩子讀什麼科系 關鍵在如何用AI放大能力 Yahoo股市 對自己和員工都狠！黃仁勳管理學源自「台灣父母」：永遠不夠好 TVBS新聞網 北士科用電蔣沈互槓黃仁勳罕撂重話3／黃仁勳對員工獨愛「台式家教」法？ 稱：有批評才能進步| 鏡新聞 LINE TODAY 稱用AI當裁員藉口「太懶惰」 黃仁勳撂重話批評這事：我真的很討厭| 全球財經| 全球 UDN AI是台灣核心 黃仁勳：沒有台積電和張忠謀 就沒有輝達今日成就 中時新聞網",
-      "published": "Tue, 26 May 2026 14:20:06 GMT",
-      "display_time": "05/26 14:20"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊談判露曙光！美股費半強彈4％ 台積電ADR紅通通 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPMnFFbndTemNnSzBUcDd0dUstTEtjbXRIcG0tWTFZbXIxVl80WGhVbGxhWTVRZTNlaXgzWUxpdXV0QW5zZTJFSG1DVWZESVBTcjBCZnZKVjQ0RW5DeDR4alVRR1JXNm8xTThUTTg4RGppZndMaUYtRUtHeWI2QlJoRFM5REdIc245SzFRX1lJRVhQNHdqYVRyNEtqTWV4UXZ3NDF1dmFWV1ZlSHhTTmJWei04dHVtemhFNTN4V1ZIZFRNbzJ3WnVnQTllWmlpaG85ZU1FbWVWLUZmaHlwQ05Ed0FUcWltZkRrNkFXUDBfS1Rqa1VELWI3MlUzUU5Ba09PWUdocVJjanpSSjJyejZ5NDduNW9RS2Z4MEN5ZWNEOXB6NFdENElPZko2elpmMHc0QjBlT19Fa0U1X1ltRThmazdtRFMwZXc?oc=5",
-      "summary": "美伊談判露曙光！美股費半強彈4％ 台積電ADR紅通通 Yahoo股市 台股大漲原因？飆1376點史上第4大、43000點站上去！何時見高點？郭恭克：瘋狂買股留意3變數 今周刊 快訊／美伊和談露曙光！AI熱潮續燒 費半噴逾500點、美光狂飆18% Yahoo新聞 黃仁勳旋風點火！ AI概念股狂飆 台股劍指44000點新天價 東森電視 台股收43644點新高 分析師：輝達兆元宴、COMPUTEX助攻 rti.org.tw",
-      "published": "Tue, 26 May 2026 14:18:00 GMT",
-      "display_time": "05/26 14:18"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股早盤／西德州油價回落 四大指數齊揚、美光暴漲14% - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0bUcyVDRVbHc4d2hpUlpGNVAzX2I5Qi0tb0ZWMFQtZ0NOVjEyaERpX0Z3M1o3eGp6TjY5OVdaSDRZWnN6TWc5WUVwM3JPbjZW?oc=5",
-      "summary": "美股早盤／西德州油價回落 四大指數齊揚、美光暴漲14% UDN 〈美股盤後〉美光一夕暴漲19%市值首破兆美元 聯電ADR飆超15% 標普那指再寫新高 news.cnyes.com 美光盤中飆漲18%帶動！美股3指數收漲 費半漲破5％、那指漲312點創新高 Yahoo新聞 快訊／美伊和談露曙光！AI熱潮續燒 費半噴逾500點、美光狂飆18% 三立新聞網SETN.com 《美股》Fed主席華許就職高通/戴爾飆費半史高- 新聞 MoneyDJ",
-      "published": "Tue, 26 May 2026 13:52:51 GMT",
-      "display_time": "05/26 13:52"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電爆砍15%分紅？魏哲家急喊停出差　全台溝通會「半小時爆滿」 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5INjFBdlpicXREZ00zQVZZMzhqZTFqM3YzNU5QcFVYcWhCa004SV90WTliVS1paW5WSGdESm5lb3RtdGJrZTRwQjgxUXRJUXc0ZVHSAW5BVV95cUxPRnlsMlZHckJwOENyUmg2a0hDcmxhVktsZ2VnYTlJemRiX1VyVE5QNXRiZlNkMGZGcWRocTNUaXpzTS01ZUtQY0ZDYnhqanRiV0kyWlQyWW16NFE5UkdWZlIzcklDVE45OElrTjM4UQ?oc=5",
-      "summary": "台積電爆砍15%分紅？魏哲家急喊停出差　全台溝通會「半小時爆滿」 ETtoday財經雲 台積電月底分紅傳砍15%員工釀罷工？董事長魏哲家取消出差明親自說明 Yahoo新聞 驚傳「分紅被砍15%」台積電基層想學三星大罷工？作家揭殘酷現實：不可能的事 | 張大任 | 新聞 風傳媒 「護國神山」分紅驚傳砍15%？台積電基層炸鍋- 新聞 MoneyDJ 台積電：盈餘分配將加大投入社會永續 員工分紅仍會增 rti.org.tw",
-      "published": "Tue, 26 May 2026 13:49:00 GMT",
-      "display_time": "05/26 13:49"
-    },
-    {
-      "source": "Google News Global",
-      "title": "史上首見！口袋證券爆超額接單 金管會要查了 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2VFpkekY4Xzdfcl9sTTN1WHFaQS1iWVFGVUwtWXpGRUxjbDR1UmFlWWp2LVNRQ1kyMWJ2SzlLWExhSnBxWWxqR3NxNVBhQTJH0gFWQVVfeXFMTkw3Y0pwVHR2VC1SdldocDNhSTJScFRCTjlBR2ZsQ2pMbkxyU0tYaEg1RldrS002d2tLZG85bFZkV0E2Q1p2YjR2QkpibkhHaHpqQk9tU0E?oc=5",
-      "summary": "史上首見！口袋證券爆超額接單 金管會要查了 UDN 再一家券商又出包！ 金管會：最重可處200萬元違約金 Yahoo新聞 又有券商APP出包…金管會：首見券商交易額超限被停止下單最高課200萬違約金- 金融 工商時報 口袋證券證實系統癱瘓 聲明致歉承諾「這件事」 三立新聞網SETN.com 台股交易熱！ 口袋證券系統出包「無法下單」　公司發聲明致歉 ETtoday財經雲",
-      "published": "Tue, 26 May 2026 13:28:48 GMT",
-      "display_time": "05/26 13:28"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黃仁勳也得吃罰單！宴請魏哲家吃私廚「座車違停」被檢舉 警察當場開單 | 張大任 | 新聞 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9yUWRZZ3VFSXV4X3JiUkhleDlwRFNZMWNPN3FManVsaG5MUFJkay1ycDlkQkExNGp0cUhwNHJaYmt1MkNDVXY1Y0Y5RVcxUQ?oc=5",
-      "summary": "黃仁勳也得吃罰單！宴請魏哲家吃私廚「座車違停」被檢舉 警察當場開單 | 張大任 | 新聞 風傳媒 〈輝達員工大會〉台灣新總部2030年啟用 將容納4,000名員工 news.cnyes.com 為何全球AI巨頭最近一直聚會？台北變AI外交主場 黃仁勳背後盤算曝光 自由財經 黃仁勳發炒麵插曲！千萬邁巴赫遭檢舉違停，警察到場開紅單 地球黃金線 黃仁勳傳6月在台宴請SK、三星 南韓半導體與AI領袖齊聚一堂 DIGITIMES",
-      "published": "Tue, 26 May 2026 13:11:36 GMT",
-      "display_time": "05/26 13:11"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊談判為何拉鋸？前美國安顧問：伊朗為這目的「在耍川普」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rZlJfNk1OamlzYkIydmxFSnFGS3hQMVdlUGFRbk5GZVc5VmwxZkhRZTZEVkhMSlg5SkEyZ1hFNXpabC13bkt2S1JjdDVzN0g2RXI4?oc=5",
-      "summary": "美伊談判為何拉鋸？前美國安顧問：伊朗為這目的「在耍川普」 UDN 天下晨間新聞：美伊即將停戰？｜不能買美股？中國整頓富途、老虎 天下雜誌 華府分裂 美伊協議 川普面臨兩難題 UDN 美伊談判再加碼 川普要求多國綁定《亞伯拉罕協議》同步承認以色列 巴基斯坦已拒絕 news.cnyes.com 川普：伊朗濃縮鈾需運至美或在其他可接受地點銷毀| 國際 中央社 CNA",
-      "published": "Tue, 26 May 2026 12:52:50 GMT",
-      "display_time": "05/26 12:52"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股市值勝印度居全球第5 印度證券交易委員會主席坦言「雙方差距」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ISUlPM0I0Z2ZGRkEwVUVGQ0daTUI1amFjU3o2QXJib3JCelFmTzZaMS1QZnp5VGlnbGhJcVZIdU5Td2FBd1IySW52WFFOVXhoWjNtVEZKcUlKenJ4THg40gFkQVVfeXFMTW1qOWNRUGZycTVYaUVjLXVHV1pXVWF6ekJuVFZZN2RSOW9peEl1YzdzSVJLbVhVcGZzN2JYX3h2UFFCcVh0YTJHUlc4LVd4R3N1a0UtUF9fMU5NRGc2dUxUNDNTVA?oc=5",
-      "summary": "台股市值勝印度居全球第5 印度證券交易委員會主席坦言「雙方差距」 自由財經",
-      "published": "Tue, 26 May 2026 12:03:59 GMT",
-      "display_time": "05/26 12:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "缺電怪拖延變電所 醫9字開轟沈伯洋 問青鳥：真要投他？ - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnNXAyMll0NmJyV3k4bTJCc0dKSTNQTldqRHcxZkZDMmhZLVNfUEJ0cEFWZHdkTEtWeVlqMXlGYkE5aV9Jak93UDBEdHhJY2lZZVZ6VFhCUTNmdEkxNjFqQXdUc3ZybzhlYW8yeVh3?oc=5",
-      "summary": "缺電怪拖延變電所 醫9字開轟沈伯洋 問青鳥：真要投他？ 中時新聞網 砸數千億投資台灣！黃仁勳卻提「2大限制」 喊話靠機器人解決 TVBS新聞網 輝達用電風波延燒政治 王世堅：生命苦短、無謂爭吵沒用處 Yahoo新聞 沈伯洋質疑北士科用電問題未解 蔣萬安：無能源怎有穩定電力 公視新聞網PNN 黃仁勳示警沒有能源就沒有經濟成長！全球缺電危機帶動能源 ETF 狂飆 14% TechNews 科技新報",
-      "published": "Tue, 26 May 2026 11:32:24 GMT",
-      "display_time": "05/26 11:32"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美軍打擊伊朗導彈基地及布雷艦 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ1U3NTdReFEwOWpNRkJrdXVvNkRINHpQVkhPRVFZbmVBUWxPbnlNTm5tY2xWY2tZSXRDRkNlbHJ2LUtZZVhzTkVYN3lCeTctR2pPTDVLT3JpRkU2dXFrSDNPdnl0c0dVVTdaX0tXQTRhX2YxcjdJZUZCbzRKTFFmVFVsSjVtMTdzbVQwZDhPREMtRHQ2ams1cjcwR1RsdnQxYVBRWVUyenhFVUxUbWpTRGdFVThiQ2JvNWNraEdBT1cxSzE2dEJBS1UxYWd1UDladi1fakl5MndoNGVkd3hUQzBDNlhwVVltZUlYTmpmdFFSYkMzZC1oUEhPYw?oc=5",
-      "summary": "美軍打擊伊朗導彈基地及布雷艦 Yahoo新聞 伊朗矢言報復美空襲 布蘭特原油再度站上100美元 自由財經 美軍空襲伊朗南部！德黑蘭怒批違反停火協議 國際油價應聲大漲 Yahoo新聞 美軍發動新攻擊 盧比歐：仍可能數天內達成伊朗協議 rti.org.tw 美伊協議前景不明 亞股普遍收跌 MSN",
-      "published": "Tue, 26 May 2026 10:29:00 GMT",
-      "display_time": "05/26 10:29"
-    },
-    {
-      "source": "Google News Global",
-      "title": "獨／台積電分紅爭議！魏哲家明早親上火線取消出差開全台溝通會| 科技產業| 產經 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2RHM2aEoxZEpyMEJ1NGFmXzdYUkRmUEdQQkdxeHl4aVZlelBncF9uQk1reFAxVHE1eDFuek9hWl9YbWkyNHhxRjZ0TzBtWnhG?oc=5",
-      "summary": "獨／台積電分紅爭議！魏哲家明早親上火線取消出差開全台溝通會| 科技產業| 產經 UDN 台積電月底分紅傳砍15%員工釀罷工？董事長魏哲家取消出差明親自說明 Yahoo新聞 驚傳「分紅被砍15%」台積電基層想學三星大罷工？作家揭殘酷現實：不可能的事 | 張大任 | 新聞 風傳媒 「護國神山」分紅驚傳砍15%？台積電基層炸鍋- 新聞 MoneyDJ 台積電：盈餘分配將加大投入社會永續 員工分紅仍會增 rti.org.tw",
-      "published": "Tue, 26 May 2026 10:16:47 GMT",
-      "display_time": "05/26 10:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "00631L調整增持權值股 貼近臺灣50指數單日正向2倍報酬目標- 理財 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05WjBFVHdBWU9mSl9USG9pVUU0akFIWWdqajBzSXlnSTFWYjV1emw0SFBTZnNCNE9YQmRxeGRmOWJWZXRwQzBkNmRVVXh1LU9TazQxS3lGcmhlRVNCTHJr?oc=5",
-      "summary": "00631L調整增持權值股 貼近臺灣50指數單日正向2倍報酬目標- 理財 工商時報 0050再度破100元！達人嚇「何時再分割？」籲做1操作 Yahoo股市 貼近台灣50指數單日正向2倍報酬目標 00631L增持台積電現貨部位 經濟日報 00631L增持台積電近4成　「含積量」最高正2 ETF ETtoday財經雲 正2 ETF也能存？內行股民靠「智能條件單」紀律投資 比融資更抗洗、免斷頭 news.cnyes.com",
-      "published": "Tue, 26 May 2026 10:05:00 GMT",
-      "display_time": "05/26 10:05"
-    },
-    {
-      "source": "Google News Global",
-      "title": "俄羅斯揚言「大規模空襲基輔」 魯比歐：美國準備調停| 國際焦點| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9UczF5UG1ocjYweW1YTlZIaFQ3M0U5MWc1NnlQdmV6Z0dDYmE1SC1RMUFCVEg0MURGSFpNdGFrdEQ5NlA4V2xqUWxrQ2tWNzJS?oc=5",
-      "summary": "俄羅斯揚言「大規模空襲基輔」 魯比歐：美國準備調停| 國際焦點| 全球 UDN 川普曾嗆「你沒牌」 烏軍無人機如今深入俄境1000公里 自由軍武頻道 烏外長率領各國大使 巡視基輔遭俄砲火襲擊地點 盼藉此施壓 中央社 CNA 俄軍大舉攻擊基輔 盧比歐：美仍願調停俄烏戰爭 rti.org.tw 俄羅斯威脅空襲基輔並驅逐外國人 歐盟與多國召見俄使節抗議 Yahoo新聞",
-      "published": "Tue, 26 May 2026 09:41:07 GMT",
-      "display_time": "05/26 09:41"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "AI浪潮席捲股市！ 外資喊讚台積電、聯發科 目標價驚呆了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQUnZ3SFJSQ25rMUNhRDhmQV85eEZRY3IzZUxIYlMyWlUzR09CTUZGUkxrcERKYUtWTDVUdHBTQUsta1hIWHNOY21EbE9iRmE0VlJpRkpYQkVBczF3OHcwLTRRM2ZVVFFHekVNU1EyLTVzUmNPUWN2TVBCWDdIbVJCQTFlOUxwSExQcVdUWkpYWGpzSXNZMEUxOFhjWUg0blZTQkc0SF90c1FtMTByb1F5Um8zM0xSRXpyOXE2Z3pBU3o1UXR0dmtiRHlLTXNIbDhYREN4S2ZpMVZaay1JUVhVR2ZCdG9wSjM0OE1QaHRUWmJfODJfc292cVVsVl8tMlZKb0tMd1pIRll2V0tpWkM0Q29XWWgwUzFHTnN4bEx3TWQ4UnZVenlFWXNWWVRkem9RdVh2THB6dzZsOVJZVGN5MzNYZ3lsZTFCcU9wUThDcEJJdXhZQkprT0tfNWpvd1RmTnVIdGRXNnhLQQ?oc=5",
-      "summary": "AI浪潮席捲股市！ 外資喊讚台積電、聯發科 目標價驚呆了 Yahoo股市",
-      "published": "Tue, 26 May 2026 06:51:49 GMT",
-      "display_time": "05/26 06:51"
-    },
-    {
-      "source": "Google News Global",
-      "title": "中東戰爭第87天》美軍空襲伊朗飛彈陣地最新發展一次看| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5razBTbHZ6bWpoU1BhbktxOHNDZ2xqNVNOV05MWE9PSE42UUJzVG9tWUF2dkxMSi0yZEZZS21CaEl1Y0UzR1l3VmJVakY3SVZXSTdNQTExS0pTeHVNN0FF?oc=5",
-      "summary": "中東戰爭第87天》美軍空襲伊朗飛彈陣地最新發展一次看| 國際 中央社 CNA 伊朗矢言報復美空襲 布蘭特原油再度站上100美元 自由財經 美對伊「自衛」打擊 摧毀布雷艇、飛彈陣地 Yahoo新聞 美軍再襲伊停火協議蒙上陰影 盧比歐仍稱協議可望日內拍板 中央社 CNA 美軍發動新攻擊 盧比歐：仍可能數天內達成伊朗協議 rti.org.tw",
-      "published": "Tue, 26 May 2026 04:19:00 GMT",
-      "display_time": "05/26 04:19"
-    },
-    {
-      "source": "Google News Global",
-      "title": "面板股多空激戰！群創翻黑衝百萬張大量　友達摜跌停 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HQV9WUnE3MkFOeUV3c2hCWXF4VmdETFVJRlphVm1QQW1WZU9PNGJNaHYtd3ljRDU2MHhKX0NiZHE3bUZwN1VKOXFjdHNweWRFbnfSAW5BVV95cUxQOXlVT3BSUTdmSW9EdG90ZG1VenJ6NUpXMnhadzJjQVJFSGpoN3VBMlJ0RWU0bHl3ejNLbEJhTmRUQkp2VVJRd2k0XzVNTUNNdUlrNWdDeDhUdC1hZEZ4SWp3cTd2RWNxUG5BWkhodw?oc=5",
-      "summary": "面板股多空激戰！群創翻黑衝百萬張大量　友達摜跌停 ETtoday財經雲 差一字差很多！外資無情血洗「這族群」 它遭狠砍20萬張淪重災區 Yahoo新聞 外資狂砸355億回補台股！卻瘋狂倒貨「面板三虎」 群創、友達、彩晶慘遭提款40萬張 Yahoo股市 《DJ在線》FOPLP熱度升溫，群創轉型仍具考驗- 新聞 MoneyDJ 友達群創沒天天在過年，剩彩晶還在漲！開高走低它殺跌停，行情沒了？他喊最魔幻的事：漲跌都會不講道理 今周刊",
-      "published": "Tue, 26 May 2026 03:33:00 GMT",
-      "display_time": "05/26 03:33"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普：伊朗濃縮鈾可以有3途徑銷毀 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTnktTUc0Q3lUZTBoT3FIZ1hHQ09yamhrNVJVOXJZeDNPcTFzMWdqNUxpYXlZVlYyU0hKMjktMW1PRlZZc0dGWmpmS0s2R0hkWGR2QVB5S21JVGNiR2xtS3BLWXFaNFY4elhPSV8tSWNRd3l1NXUxeWJlb3dLOVlDMFVBTUZlOFVkTURUZUxOcGRWS3NxZ1dZRWxtWi1lN2Y5X0ZIcFBSSG44QTJuVEc1ZFBjTXpBd3ktVzl2M2RPMnR2RW9TNXhfZm1wbEcydUY2TzItQkMyMzNNTnNXdGxjUXFDWE13bG5VLW1famIyTUpCRFN5VUxlNHo3N1VtQQ?oc=5",
-      "summary": "川普：伊朗濃縮鈾可以有3途徑銷毀 Yahoo新聞 美伊談判為何拉鋸？前美國安顧問：伊朗為這目的「在耍川普」 UDN 天下晨間新聞：美伊即將停戰？｜不能買美股？中國整頓富途、老虎 天下雜誌 美伊談判再加碼 川普要求多國綁定《亞伯拉罕協議》同步承認以色列 巴基斯坦已拒絕 news.cnyes.com 盧比歐：協議可望日內拍板海峽「無論如何」將重啟| 國際 中央社 CNA",
-      "published": "Mon, 25 May 2026 23:52:50 GMT",
-      "display_time": "05/25 23:52"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股創高！「四生肖」6月財運發燙…虎投資大賺、他要相信直覺 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2SWNUWUt3S0RySE1Na1VZQkZ5ZjdmMldLU0RhdTMzR0FYOWExSGJrYk9nd3RENm1mQzhmdnQxc1dtWXoyY0xiZzdha21GX1F40gFWQVVfeXFMTUtmTGZmeTF1NjFIa3g5MHJxU0I0Q0h4M3ViVXBCQW80UWVRRWdBbndzbFVnZTlERzVwU0trVlRkVjZMS3FKd1NlejdJUVlta0E4SEo1aEE?oc=5",
-      "summary": "台股創高！「四生肖」6月財運發燙…虎投資大賺、他要相信直覺 UDN 天氣愈熱愈有錢！6生肖霉運退散：貴人、事業、財運一次補滿 自由娛樂 6月財神點名！ 「4生肖」股市運爆棚 屬兔正財噴發登吸金王 Yahoo股市 股價暴漲！4生肖財運旺到鈔票數不完 東森新聞 下半年財運大爆發！4生肖苦盡甘來一路賺不停- 好運到 觸mii",
-      "published": "Mon, 25 May 2026 23:49:12 GMT",
-      "display_time": "05/25 23:49"
-    },
-    {
-      "source": "Google News Global",
-      "title": "沈伯洋轟北士科「變電所到底要不要蓋」？​蔣萬安：問題在國家能源政策 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNM2xkeEZ4MWxLM29Wc21FaE1ydC1tMlBGZE03NEQ1bkRaR3MtdXV5bEhhRGd3U2N1MHRMYmE3XzI5aVU0TkRtaGJJM1loREI2TGRYN1M1UGJDc1dsc0hrQWxrdHFBYW16a0xEblR6aHM3dF8tSnFoX253WHByOXEyazRVQTNfalNBZUszVjBhT3lKZkgyd2VnV2dzdXVodGRkZ1NSSko3N3N5RFhFME5YU0xWaDJyc0g2M2t4WkFMRU9FUE5XQ2o1X3czTnU2bTJMenVPdGt3SExlbldnQkZGZGpWUkl5QkV4Vm5rQWsyakZPYWJuWmhsb2pWVjVsQ05aeHpralRFMDJFaGkzc2VocUlmSnJSdGZlOFhjOXM5SWZhWk9tcTAyY0M4YVdKXzh4eDF4aVN2NTVWWXdhVV93eTkxLTlrUThXUUdTLU1MRzhDUTBETGdrMlBNQW5aOHdQLTUtM2dMN1dkSmxzZ3ZEd2lyakxsU2JrTEhjamw4ZG5pbTRvcFF0Yk5jcHZmWHp5QnhhYkxpcWROdVVZaE9mQmNuVUZ0TVU?oc=5",
-      "summary": "沈伯洋轟北士科「變電所到底要不要蓋」？​蔣萬安：問題在國家能源政策 Yahoo新聞 黃仁勳喊話蔣萬安：輝達需要更多電力 能源成長對台灣GDP至關重要 Yahoo新聞 【重磅快評】輝達都來了 台電不能多關愛文林變電所？ UDN 沈伯洋是民進黨「新三寶」？沈富雄曝深綠友人真實評價：他們愛死了 | 張庭維 | 新聞 風傳媒 黃仁勳：台灣成AI發展重鎮 需要充裕與穩定電力 | 中央廣播電臺 LINE TODAY",
-      "published": "Mon, 25 May 2026 15:02:28 GMT",
-      "display_time": "05/25 15:02"
+      "title": "黃金強漲啦！原因揭曉 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14akh5VHJRZmRNYXlMVDdCemt2czV1YmhQc3k2ZjdWcEpFck1YSFk4eXd2SkRQSEdqTTRpaXRpYmQyNHZPdDlzS05sbzZ1WEJUeE85LWE0ZUdPTXZ5cWdj0gFkQVVfeXFMTWt5blRWTG9CS2U5N1BLYUxzM2Z6WElzLWQ5U243akJyenVqX3VNR0NSZlB5U2hJcWtwdWhud2p0NFhDSDFsQjN3SVlncWdKcjFFZVhRVE91cjZPRHpKejJmcU5iWQ?oc=5",
+      "summary": "黃金強漲啦！原因揭曉 自由財經 美伊和談最後一哩路！黃金、原油大跳水！陳鳳馨：當美債跌到這 川普一定TACO Yahoo新聞 和平草案 伊朗開放海峽 換美軍撤離 UDN 天下晨間新聞：美伊即將停戰？｜不能買美股？中國整頓富途、老虎 天下雜誌 美伊初步協議草案達成！美國將在所有戰線停火60天 金銀油齊步跳水 美期指全線走揚 news.cnyes.com",
+      "published": "Tue, 26 May 2026 01:30:32 GMT",
+      "display_time": "05/26 01:30"
     }
   ]
 }
