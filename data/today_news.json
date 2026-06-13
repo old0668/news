@@ -3,22 +3,6 @@
   "news": [
     {
       "source": "Google News Global",
-      "title": "SpaceX上市首日飆23%！美股全面收紅 台積電ADR上揚 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMG9xb1RuZWRxR25iOEdHc1NlbEhhQXRRRWlLVDNKNjBPdUQ3V3RRRzlYUXpTZERUZkNjTzBUZlZNWlhJbmMwTkRUcU1lVkZCNlhzR2pkWjQ1Y1BoZGlTU1RBYVduOUp4SkYtVnFFMFZ6YnF1QkEwWVo4UkhCVXl0T0JDR0VjSnlXa2d4TU5vLVFHYVI3WnBlWVFDbTFxYmhhOElpUXR0RFB2aTZaV0t3NDRDZTUwS2tfT1F5cmMwLWlwOVFvTUZtZHJKUXBreklZZU9QYnRKMGJXbk5BMTVMVzJlZ1lIVTBPY2NJRWF5ckV1Umd2UEE4UTBxYzA1LWtUYm5mdzJNUmFXb1owcnNXNEJWTGZoWHJqcWRUMjBmUDlfemxPUWpvOFBNMm0?oc=5",
-      "summary": "SpaceX上市首日飆23%！美股全面收紅 台積電ADR上揚 Yahoo股市 SpaceX上市助攻！馬斯克正式成為全球史上首位「兆美元富豪」身價超越台灣GDP news.cnyes.com SpaceX股價市值開紅 特斯拉前董事提醒這事 Yahoo新聞 美股收盤》SpaceX掛牌飆升19％！道瓊漲353點 台積電ADR收紅 自由財經 3大世紀IPO陸續登場留意掛牌後軌跡- 日報 工商時報",
-      "published": "Fri, 12 Jun 2026 22:08:57 GMT",
-      "display_time": "06/12 22:08"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股四大指數全紅！道瓊漲353點、費半揚1.52% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTjVFanBHRXhDZEh6OFBMUVp3ZlJCQlBVYVhjblRSSXZqZ3E2T3R0eWw3QVhEbjVXR3NpR3dweTd3aDVWYUcwQnYxdG1iYnZRZHlpRjIxSE9JTElxNjJiWmJ3eURqdnFlRlRaNHVBRjZ0N2haX0J2TGl0Z2dxc0NacllhMEt5dnlqYktTU2lQZ1JGNnpuZ0EtUUpSeVd1V05PM0phZ0tlbEhlUkVGRGptR21sY1l2T1lPLUZxT2F0TlQ3Y1I5VWw3dWZ4U3RpM0hnOVRkMFZzcUppckQwN0ZvaXVnYlNzMnZINzI2U3JsUTlzeGRiT2xoanFkRUhvTERNNTgzenpyLXlNZ1NObm1pb3VQTQ?oc=5",
-      "summary": "美股四大指數全紅！道瓊漲353點、費半揚1.52% Yahoo新聞 〈美股早盤〉受伊朗核協議預期和SpaceX IPO提振 標普、道瓊上漲 news.cnyes.com 川普1句話亞股嗨翻天！韓股暴漲逾8％ 日股漲逾2800點再見6萬7 自由時報 美伊周日簽協議落空？台指期夜盤上半場走勢震盪 UDN 天下晨間新聞：真的不打了？川普取消空襲，與伊朗最快何時簽署協議？ 天下雜誌",
-      "published": "Fri, 12 Jun 2026 21:03:00 GMT",
-      "display_time": "06/12 21:03"
-    },
-    {
-      "source": "Google News Global",
       "title": "〈新股IPO〉SpaceX掛牌首日飆漲23% 市值衝破2.17兆美元 - news.cnyes.com",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XNTBmRGZJSkpFUUhRMnBuUHNmdUJwYjNXR0tHYnpFbU14eEF3VmRNbTFKNUFjVmZSZ2RJYUxHQ0piU0tVMjdoUVltS18xVDQ?oc=5",
       "summary": "〈新股IPO〉SpaceX掛牌首日飆漲23% 市值衝破2.17兆美元 news.cnyes.com 馬斯克身家破兆有多狂？外媒：一人打趴台灣GDP Yahoo股市 SpaceX躍成科技巨頭 馬斯克19年前狂言 如今市場買單 news.cnyes.com SpaceX掛牌點燃太空夢，乙盛-KY、信錦動能增- 新聞 MoneyDJ SpaceX上市牽動AI敘事華爾街關注星艦火箭進展| 國際 中央社 CNA",
@@ -59,6 +43,46 @@
     },
     {
       "source": "Google News Global",
+      "title": "太丟臉！台北電影節譯片名「換我吹了沒」 國際名導演發聲抗議 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TNEJoMFJsQVF5S1BiczdXUDItdmlfajE5dmM5aTI5bllHc3B6WHdZam1TekhMa1Y0SndVRzRhc3JDcURTMWdGdHZERHJfUE1fMGxfSG1ZR3pjUGFRdnNMT0lqajPSAWpBVV95cUxNMXh0SFVGaFFyYldkT1ZzVkdtNDdad2haUWpxN0Z5VlBXRm1oR2hhY01Dd0hvM1lWWFd6eU52MEI4OXluNTl0WXdIaFBYekFDMGF0Yzk4OS1EYWFxOXdIOVp6TzcwaFJOYUpB?oc=5",
+      "summary": "太丟臉！台北電影節譯片名「換我吹了沒」 國際名導演發聲抗議 自由時報 伊朗電影中文片名引發討論 台北電影節發布正式說明 自由娛樂 伊朗經典名片譯《換我吹了沒？》被罵爆 北影回應：展現活潑純真氣息 Yahoo新聞 伊朗經典《口琴》翻成「換我吹了沒？」挨轟低俗北影回應了- 生活 工商時報 伊朗童真電影變《換我吹了沒？》遭疑性暗示？　台北電影節急發聲明滅火 ETtoday星光雲",
+      "published": "Sat, 13 Jun 2026 08:04:53 GMT",
+      "display_time": "06/13 08:04"
+    },
+    {
+      "source": "Google News Global",
+      "title": "SpaceX上市首日飆23%！美股全面收紅 台積電ADR上揚 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQMG9xb1RuZWRxR25iOEdHc1NlbEhhQXRRRWlLVDNKNjBPdUQ3V3RRRzlYUXpTZERUZkNjTzBUZlZNWlhJbmMwTkRUcU1lVkZCNlhzR2pkWjQ1Y1BoZGlTU1RBYVduOUp4SkYtVnFFMFZ6YnF1QkEwWVo4UkhCVXl0T0JDR0VjSnlXa2d4TU5vLVFHYVI3WnBlWVFDbTFxYmhhOElpUXR0RFB2aTZaV0t3NDRDZTUwS2tfT1F5cmMwLWlwOVFvTUZtZHJKUXBreklZZU9QYnRKMGJXbk5BMTVMVzJlZ1lIVTBPY2NJRWF5ckV1Umd2UEE4UTBxYzA1LWtUYm5mdzJNUmFXb1owcnNXNEJWTGZoWHJqcWRUMjBmUDlfemxPUWpvOFBNMm0?oc=5",
+      "summary": "SpaceX上市首日飆23%！美股全面收紅 台積電ADR上揚 Yahoo股市 SpaceX上市助攻！馬斯克正式成為全球史上首位「兆美元富豪」身價超越台灣GDP news.cnyes.com SpaceX股價市值開紅 特斯拉前董事提醒這事 Yahoo新聞 美股收盤》SpaceX掛牌飆升19％！道瓊漲353點 台積電ADR收紅 自由財經 3大世紀IPO陸續登場留意掛牌後軌跡- 日報 工商時報",
+      "published": "Fri, 12 Jun 2026 22:08:57 GMT",
+      "display_time": "06/12 22:08"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股四大指數全紅！道瓊漲353點、費半揚1.52% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNTjVFanBHRXhDZEh6OFBMUVp3ZlJCQlBVYVhjblRSSXZqZ3E2T3R0eWw3QVhEbjVXR3NpR3dweTd3aDVWYUcwQnYxdG1iYnZRZHlpRjIxSE9JTElxNjJiWmJ3eURqdnFlRlRaNHVBRjZ0N2haX0J2TGl0Z2dxc0NacllhMEt5dnlqYktTU2lQZ1JGNnpuZ0EtUUpSeVd1V05PM0phZ0tlbEhlUkVGRGptR21sY1l2T1lPLUZxT2F0TlQ3Y1I5VWw3dWZ4U3RpM0hnOVRkMFZzcUppckQwN0ZvaXVnYlNzMnZINzI2U3JsUTlzeGRiT2xoanFkRUhvTERNNTgzenpyLXlNZ1NObm1pb3VQTQ?oc=5",
+      "summary": "美股四大指數全紅！道瓊漲353點、費半揚1.52% Yahoo新聞 〈美股早盤〉受伊朗核協議預期和SpaceX IPO提振 標普、道瓊上漲 news.cnyes.com 川普1句話亞股嗨翻天！韓股暴漲逾8％ 日股漲逾2800點再見6萬7 自由時報 美伊周日簽協議落空？台指期夜盤上半場走勢震盪 UDN 天下晨間新聞：真的不打了？川普取消空襲，與伊朗最快何時簽署協議？ 天下雜誌",
+      "published": "Fri, 12 Jun 2026 21:03:00 GMT",
+      "display_time": "06/12 21:03"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美伊戰事結束露曙光！伊朗外長：協議草案完成 數日內遠距簽署 警告以色列不要搞破壞 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxQWXE0ZXFUaFB3WHVpb0tXemJsRkhnaVh1NE1lYTdKSWxiU1RFTDVkOHhyRERqdVhNZGcxZjRqOGZBVGNSakR1Z3EycXhNcHEtb0JBR2FTOEpRSnVRcWJ1X2RxSHVuSVRKMy1NbzlsM3NxSzF6OHZPeEdqM0hSelZKVGlMa2EwbjNVUU03aEZkZ2JrWW5xaGMtMkNiMS1OWnJfdWVaUmwyOXdwb1RHN0hyZEx5SXozSEZHY1VjWm5lVW11VTFkSkRoZGJoNUpsend3VUY1TlBiSzU1U0RMRU5CT0tPcHNnZTVWM1Bnd08taEJnVmFTZXYtYXhIUTlCX2IwbnZncnc3RmR6dmZrek01S1pKMGpaZUwta1QtUXdoWUllRFRXTFdSb081cVctWU9iV25OWG0tOEJ6cUhfaU9Id2xvMzAyNnM5alR1MmRNRXNHdUxidXlCdnJvNF90TTZDeVJTV3UwdjB4ZjY4eUdHVUotdnpBQ1M4RVc1d1dhR1N6UmQ5YjNzUE9TUFhOd0xtOTBBQU5WRUNOb2I4ekROdmdkMVVSQlJQM2pIRnFSeGJhZkVJRXFTVjZ2cDRINWRBOVlMM2xVd1A5ZTBuVV9ScGlpT04zdXNudGN4Rk1QVE82SmN5LTNXWHJCRGxmM0NVWTI2OTFIa0VST2NUaFRxa2FJRmIyTkxnZ21sLVgzWDdVUENHeVFPOEYzY01Vdw?oc=5",
+      "summary": "美伊戰事結束露曙光！伊朗外長：協議草案完成 數日內遠距簽署 警告以色列不要搞破壞 Yahoo新聞 中東戰爭第105天》美伊稱協議前所未有接近最新發展一次看| 國際 中央社 CNA 美伊和平協議即將簽署 荷姆茲海峽再爆無人機衝突 Yahoo新聞 美伊戰爭戰況／停火協議要簽了？14項草案條件曝光：美提供3千億美元助重建、伊朗開放荷姆茲海峽 今周刊 美伊協議草案曝！荷姆茲海峽改收費、美方承諾不動武 最快數日簽署 news.cnyes.com",
+      "published": "Sat, 13 Jun 2026 02:36:27 GMT",
+      "display_time": "06/13 02:36"
+    },
+    {
+      "source": "Google News Global",
+      "title": "黃金連跌2週 瑞銀最新預測價讓投資人心涼了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KWjZnd19fUUw3WG5PU1J0bGhEdXlXSkIyUkEzblc1ZXRKVHotM3BHbm8xUndhdHZQZlU0dGpvZ1R6TmVpaWFwT2tYd2o3dU43R2J2N3d0eV9TT0ZCZkhz0gFkQVVfeXFMTi1oQ0xURHNocGdCa2RSb2dEd243Q1B5UjcxajE4Y1JacG1fY1lEMzJ6bXlnb0N6NGdvbDN2VmV3a3kzQXZSUFZrZnQ0d00ySUNSX0lsaW5XTDlyU3dJQXVEazdvbg?oc=5",
+      "summary": "黃金連跌2週 瑞銀最新預測價讓投資人心涼了 自由財經 金價連兩週走跌！聯準會恐延後降息 瑞銀估後市將回落4000美元大關 Yahoo股市 黃金價格跌破4200美元！首席經濟學家分析未來走勢 遠見雜誌 黃金「跌跌不休」還能進場嗎聯準會決策牽動市場| 理財線上 聯合報數位版 《貴金屬》COMEX黃金下跌0.5% ETF持倉減少-台股 MoneyDJ",
+      "published": "Sat, 13 Jun 2026 01:17:24 GMT",
+      "display_time": "06/13 01:17"
+    },
+    {
+      "source": "Google News Global",
       "title": "SpaceX飆漲22％市值突破2兆美元！馬斯克身家超越台灣GDP - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnUmN5RkJUTlo1U3NBYi1WM2ZPbDM3SU44YjNCOFZJQ1d2YzdVYjFUd1RFUW9TcmRuRmJnbHNIY3Mxa2dFNXFmY240QTRlb3FHYkHSAW5BVV95cUxNRkNJMEVpWGlMYzRPeEloSkczNTh3cE5WR3ZKQXNYYXhKcE83YndIRHdhNUFoazM1QVlrQ3Y2QUY1YnBIcERkUVZpUFB0TjBUeE5VV0JGdDRyaF9Kalc0ZVVyaE5ndFdQaE16MlRsdw?oc=5",
       "summary": "SpaceX飆漲22％市值突破2兆美元！馬斯克身家超越台灣GDP ETtoday財經雲 SpaceX上市在即！散戶如何上車？投資先前了解4件事 遠見雜誌 排擠資金效應有限 台股大復活 Yahoo新聞 〈新股IPO〉SpaceX掛牌首日飆漲23% 市值衝破2.17兆美元 news.cnyes.com 美伊有望簽署和平協議美股收紅| 全球財經| 全球 UDN",
@@ -72,6 +96,14 @@
       "summary": "SpaceX上市！SPCX股價多少？早盤最高168美元，首日漲幅上看30%，馬斯克敲鐘現場說了什麼？ 今周刊 SpaceX飆漲22％市值突破2兆美元！馬斯克身家超越台灣GDP ETtoday財經雲 蔡明興稱讚馬斯克 他就是天才 UDN 〈新股IPO〉SpaceX掛牌首日飆漲23% 市值衝破2.17兆美元 news.cnyes.com SpaceX掀太空AI革命 00971 卡位算力新戰場 Yahoo新聞",
       "published": "Fri, 12 Jun 2026 16:20:00 GMT",
       "display_time": "06/12 16:20"
+    },
+    {
+      "source": "Google News Global",
+      "title": "屏科專區動土 魏哲家：我們還是缺人才 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sbm5fcXRDeDdGTFZoOXBiMVk4dmQ3RXZFaTI0aVB6UEQ1MVFOYnZ2dnNONEFnTHJBNFdwNm1GZmFRYVBwWlROSV9jSmkzdm5S0gFWQVVfeXFMT1FsbWRLZUVNNk1aVUh2bzIzTFFSbG1CWUJWRU0zVmhMSHFDTm5mS053dWdqZVd6c0Fna2xaczFTRG9NTUdGNThIOF85Tm1VZWNPNFUxUVE?oc=5",
+      "summary": "屏科專區動土 魏哲家：我們還是缺人才 UDN 台積電7家供應鏈將進駐屏科專區 納半導體產業 S 廊帶 鄰近輕豪宅站3字頭 自由時報 屏東要變半導體重鎮？台積電攜7廠進駐供應鏈名單、布局全曝光- 日報 工商時報 早安世界》屏科專區動土總統：會滿足產業所需水電土地等需求| 生活 中央社 CNA 台積電來了！屏東半導體專區動土 賴清德：打造大南方科技廊帶 rti.org.tw",
+      "published": "Fri, 12 Jun 2026 16:00:00 GMT",
+      "display_time": "06/12 16:00"
     },
     {
       "source": "Google News Global",
@@ -96,6 +128,14 @@
       "summary": "金控超會賺！13家前五月獲利逾3,600億元七家賺破200億、五家年增翻倍- 金融 工商時報 台股超給力！13家金控5月賺進759億元　5家前5月獲利翻倍 ETtoday財經雲 〈國泰金股東會〉蔡宏圖：高度關注AI驅動下的台股發展 李長庚示警「四貸同堂」 Yahoo股市 金控股東會1》金控超級股東會日 金控龍頭國泰、富邦發話看後市 民報 國泰金:壽險順利接軌後，將追求較積極成長策略- 新聞 MoneyDJ",
       "published": "Fri, 12 Jun 2026 13:26:00 GMT",
       "display_time": "06/12 13:26"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股沒有斷頭潮 無腦多頭是長線最大贏家？ - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OGxSN3JodkN4VXoyNnhLckZRVXByTkpMVXp4QVJmUnlJY1RPR0J1dWoySnoxNWQ4MFRnYk5vSEhsWmNlSTZRWVhqWHUxcnZmSEhVY1dmSHJ1S1U3TXhBUUJMTU8zZE1ObmZ1RGFB?oc=5",
+      "summary": "台股沒有斷頭潮 無腦多頭是長線最大贏家？ 中時新聞網 外資3天狂砍2791億！ 台股重挫1479點「史上第6大」 網驚：是誰在接刀 Yahoo股市 台股還能抱波段嗎？數據給答案：真正贏家都在做這件事- 證券 工商時報 AI列車沒有熄火！謝金河：漲勢逆天必有拉回後座力 經濟日報 台股下跌原因？急殺近1500點破月線，外資3天賣超2791億套現…杜金龍1理由：別以為36000不可能 今周刊",
+      "published": "Fri, 12 Jun 2026 21:00:30 GMT",
+      "display_time": "06/12 21:00"
     },
     {
       "source": "Google News Global",
@@ -139,14 +179,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "屏科專區動土 魏哲家：我們還是缺人才 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sbm5fcXRDeDdGTFZoOXBiMVk4dmQ3RXZFaTI0aVB6UEQ1MVFOYnZ2dnNONEFnTHJBNFdwNm1GZmFRYVBwWlROSV9jSmkzdm5S0gFWQVVfeXFMT1FsbWRLZUVNNk1aVUh2bzIzTFFSbG1CWUJWRU0zVmhMSHFDTm5mS053dWdqZVd6c0Fna2xaczFTRG9NTUdGNThIOF85Tm1VZWNPNFUxUVE?oc=5",
-      "summary": "屏科專區動土 魏哲家：我們還是缺人才 UDN 台積電7家供應鏈將進駐屏科專區 納半導體產業 S 廊帶 鄰近輕豪宅站3字頭 自由時報 屏東要變半導體重鎮？台積電攜7廠進駐供應鏈名單、布局全曝光- 日報 工商時報 早安世界》屏科專區動土總統：會滿足產業所需水電土地等需求| 生活 中央社 CNA 台積電來了！屏東半導體專區動土 賴清德：打造大南方科技廊帶 rti.org.tw",
-      "published": "Fri, 12 Jun 2026 16:00:00 GMT",
-      "display_time": "06/12 16:00"
-    },
-    {
-      "source": "Google News Global",
       "title": "台股周線逾2千點下引線、外資中止連6賣轉買超！華邦電南亞科彩晶刷漲停…盤勢穩了能買？不傷神挑它們 - 今周刊",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk8wRkFFeEs0NXE2dmdKaUtiZ1ZuM3l6ZS1fcEdPT3dGQU51YUUtUW9XUzlFZTYtcUtFZ1NhS3R5b3Q4bXp5UHM5SzIxOEJ3VU1QdE1pX1p0NTR2MmJfSy1aMjNOYXBnUW1pSk9rMlFCMU5KZVczYnBGQlVWa1Y5Vg?oc=5",
       "summary": "台股周線逾2千點下引線、外資中止連6賣轉買超！華邦電南亞科彩晶刷漲停…盤勢穩了能買？不傷神挑它們 今周刊 台股大漲逾1600點 蔡明興呼籲上班族認真工作：買ETF最好 Yahoo股市 台股暴漲逾千點「這檔」權值股飆6.8％、38.8萬張人氣爆棚- 證券 工商時報 盤後解析》台股驚天反攻！漲1019點站4萬4 AI、記憶體人氣爆- 上市櫃 旺得富理財網 川普喊美伊將和解 台股狂飆逾1600點、新台幣卻先升後貶 自由時報",
@@ -171,14 +203,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "川普稱美軍已完全勝利！伊朗「51軍事基地遭炸毀」　衛星影像曝光 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRTVESmtNRzh5TXQ0V3VjZXFnaThxbUowaV9WYkJDX3RfZDZ0MWJIYU52ZUUtblBEWXZOZG56dlJMb0x0YjhWN19SMEJRUzhtckctNXlRWjbSAV9BVV95cUxPSFZYeUp0bHBrQkxwVlI5ZVQxV3BNMXlOQkNVUGEtMDJjN005azZNaGlOei1sT2pDek45QjB6bFRzZHNLLVlZd3FNMGVITXBoalFKc0dIVDh0dVBveVJRRQ?oc=5",
-      "summary": "川普稱美軍已完全勝利！伊朗「51軍事基地遭炸毀」　衛星影像曝光 三立新聞網SETN.com 天下晨間新聞：美國發動自衛空襲｜美國銀行警告：熊市亮紅燈 天下雜誌 BBC：衛星影像揭露開戰來伊朗逾50處軍事設施受損| 國際 中央社 CNA 川普為何不奪哈爾克島了？分析曝風險 Yahoo新聞 美擊落2架伊無人機! 伊軍進最高戰備避免「一鍋端」哈梅內依葬禮延後| 國際 Newtalk新聞",
-      "published": "Fri, 12 Jun 2026 04:22:00 GMT",
-      "display_time": "06/12 04:22"
-    },
-    {
-      "source": "Google News Global",
       "title": "已達「極好協議」? 川普: 很快赴歐簽約伊打臉: 純猜測「畫紅線」議題絕不讓步| 國際 - Newtalk新聞",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCMUNablhiN1VfaThKTUFib19UTEdnSDNXMUh2WTBWMU1vTjQ5bDE5RUlHVWdDdW9PaHEtUFZtcGVoZnFHQ3k3cTZvRWs3WVBHLTlUN09mSlkwcUE?oc=5",
       "summary": "已達「極好協議」? 川普: 很快赴歐簽約伊打臉: 純猜測「畫紅線」議題絕不讓步| 國際 Newtalk新聞 川普要簽美伊協議了！內唐亞胡被爆傻眼 遭批把以色列變「附庸國」 UDN 美伊停火協議近了？伊朗外長曝關鍵內容 荷姆茲海峽有望重開 Yahoo股市 美伊和平協議近完成美官員：8成以上機率近日簽署| 國際 中央社 CNA 美伊協議草案曝！荷姆茲海峽改收費、美方承諾不動武 最快數日簽署 news.cnyes.com",
@@ -187,11 +211,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "川普稱美軍已完全勝利！伊朗「51軍事基地遭炸毀」　衛星影像曝光 - 三立新聞網SETN.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jRTVESmtNRzh5TXQ0V3VjZXFnaThxbUowaV9WYkJDX3RfZDZ0MWJIYU52ZUUtblBEWXZOZG56dlJMb0x0YjhWN19SMEJRUzhtckctNXlRWjbSAV9BVV95cUxPSFZYeUp0bHBrQkxwVlI5ZVQxV3BNMXlOQkNVUGEtMDJjN005azZNaGlOei1sT2pDek45QjB6bFRzZHNLLVlZd3FNMGVITXBoalFKc0dIVDh0dVBveVJRRQ?oc=5",
+      "summary": "川普稱美軍已完全勝利！伊朗「51軍事基地遭炸毀」　衛星影像曝光 三立新聞網SETN.com 天下晨間新聞：美國發動自衛空襲｜美國銀行警告：熊市亮紅燈 天下雜誌 BBC：衛星影像揭露開戰來伊朗逾50處軍事設施受損| 國際 中央社 CNA 川普為何不奪哈爾克島了？分析曝風險 Yahoo新聞 美擊落2架伊無人機! 伊軍進最高戰備避免「一鍋端」哈梅內依葬禮延後| 國際 Newtalk新聞",
+      "published": "Fri, 12 Jun 2026 04:22:00 GMT",
+      "display_time": "06/12 04:22"
+    },
+    {
+      "source": "Google News Global",
       "title": "川普80歲生日想要什麼？許願世界和平 但當晚就下令轟炸伊朗 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1V1VyaWNrV3ExYkM2ZVhMZGs5bFRYcTE2bWR0TlNYUkxNUHZMZG13d0RFNTZLbzZwNy1Ua1NoZ3BvYTJRTV9rVDdOTjZ2Y0N5YjNF0gFYQVVfeXFMTU1RLWNIRUdkdGxnRmNpY3lWRTc2ejI1eXlWMjhhSk1VM3NQT2taOVVOUlRFZEVXbmUzUmpfQkdjUzZnSkFuSGh5VnZKZm9rU2k0NjZMVzFhOA?oc=5",
       "summary": "川普80歲生日想要什麼？許願世界和平 但當晚就下令轟炸伊朗 UDN 前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "published": "Fri, 12 Jun 2026 02:55:22 GMT",
       "display_time": "06/12 02:55"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股站回44K！三大法人回補505億 分析師教戰：選股聚焦4大AI主軸 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11aHluTzRfTndzVl9wUkFWaENIX1ZsRERRcF9LT1pzTjFTMTBXMzFidVJGX2RzZ2FSN2RQMHppdVRYbXRmX29HUGlJU01HOXozR0pQeTRRejdnWDJ5QTcw?oc=5",
+      "summary": "台股站回44K！三大法人回補505億 分析師教戰：選股聚焦4大AI主軸 工商時報 《台股盤後》收漲1019點、收復月線；週K翻黑 Yahoo股市 影音／SpaceX概念股起飛！ 台股終場大漲1019點 台積電收漲60元至2310元 TVBS新聞網 盤後解析》台股驚天反攻！漲1019點站4萬4 AI、記憶體人氣爆- 上市櫃 旺得富理財網 川普喊美伊將和解 台股狂飆逾1600點、新台幣卻先升後貶 自由財經",
+      "published": "Fri, 12 Jun 2026 07:38:00 GMT",
+      "display_time": "06/12 07:38"
     },
     {
       "source": "Google News Global",
