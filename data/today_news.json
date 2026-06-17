@@ -1,365 +1,45 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "news": [
     {
-      "source": "BBC Business",
-      "title": "Inflation unexpectedly steady as food price rises slow",
-      "link": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
-      "published": "Wed, 17 Jun 2026 09:52:43 GMT",
-      "display_time": "06/17 09:52"
-    },
-    {
-      "source": "BBC Business",
-      "title": "What is happening to UK prices?",
-      "link": "https://www.bbc.com/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The war in Iran is expected to push UK Inflation further above the Bank of England's 2% target.",
-      "published": "Wed, 17 Jun 2026 09:24:42 GMT",
-      "display_time": "06/17 09:24"
+      "source": "CNBC Finance",
+      "title": "CarMax shares fall after used car retailer reports earnings beats, CEO details turnaround plan",
+      "link": "https://www.cnbc.com/2026/06/17/carmax-kmx-q1-earnings.html",
+      "summary": "Despite the beats, questions remain about the company's ability to grow and cut costs under the plan amid tougher market conditions, including margin pressure.",
+      "published": "Wed, 17 Jun 2026 17:12:29 GMT",
+      "display_time": "06/17 17:12"
     },
     {
       "source": "Google News Finance",
-      "title": "台股高點還沒到！群益喊下半年上看5.3萬點 AI軍備競賽點名16檔受惠股 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWU13bFNNV09QTzY2VXVOZnU1ZWJ2d1d0QS05M1MtdmVTRG05RGhncm5DdjVFSTZSMlVCaVVGLXVqSHU5SG94R1FoQ1luM2N3Q1BtdFNTQ0VSSUdITVlsTHgtM0VCSHZIZGJPQ2NEcU5xM0JwYzZXeUc5WVFnT3kyN2ln?oc=5",
-      "summary": "台股高點還沒到！群益喊下半年上看5.3萬點 AI軍備競賽點名16檔受惠股 壹蘋新聞網",
-      "published": "Wed, 17 Jun 2026 09:24:00 GMT",
-      "display_time": "06/17 09:24"
+      "title": "AI需求爆發台廠賺翻! 台積電繳營所稅近2千億蟬聯\"繳稅王\" - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPV2hqWWVxX3JRVTE5TGtxSXRZVVg3Q2M1N3dnSjRFd0tGUTNqZkRoWXVHSzhaME9pNWFvZTZQT3ZrSGdHbnB2ajZpQUJ5Z0FYUTNEdXdvanMzV01kZ3pUR2dSVXozSEk4NjNpRjVocDNDZGFmbG9fMFNvZ2FPSkdJYWpHQkpmNGNPMlhNbEZMNVJIbXlCWVNaQ0daYTh2bGRzYlVNVGpEeVVLY3dhZUlMT19Ra3lTcGd1LVZtVUp6WkFkeWtZdjMtbkpuVG4yVE1ncTd5Znd5RFd3LVpod3o5OVNPdGpoTHBWQThyOVdMcU9FVjh2YU1TZGk0X1E0V1JhdndJa0p0dTBWLVlmR3owN2R6VGMxTlVIUzQxR3lVZjFDcGJUTmJhbEoydWxLT3M5anBRQnQ0R1N5NGhUMDJYMjhJNXJkeGN1OGx2Um9sa2N3ZnJjckVoTDBseDNxNWpncGhpVzVqbTdXU0FxbEh4VnJ6TWoxZw?oc=5",
+      "summary": "AI需求爆發台廠賺翻! 台積電繳營所稅近2千億蟬聯\"繳稅王\" Yahoo股市",
+      "published": "Wed, 17 Jun 2026 14:55:14 GMT",
+      "display_time": "06/17 14:55"
     },
     {
       "source": "Google News Global",
-      "title": "《大賣空》本尊轟SpaceX估值太誇張！坦言想放空卻下不了手 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkZjBHa2wxSlZzbHZLS2RxZTdzQ2lfdVhfaXo1d3RIS2kyMXlUemJzRWdmWU1xZFBqNE9ZRHZUX1Z5N3B5M3lQbkd3aVg4Zmc?oc=5",
-      "summary": "《大賣空》本尊轟SpaceX估值太誇張！坦言想放空卻下不了手 news.cnyes.com 天下晨間新聞：川普讓步太多？鷹派也不爽｜大賣空想空SpaceX了 天下雜誌 SpaceX掛牌後3日漲49.5% 富邦人壽申購\"帳面賺9900萬台幣\" Yahoo股市 馬斯克成首位兆元富豪，他值得這個身價嗎？ 遠見雜誌 諾貝爾經濟學獎得主批馬斯克 「真人版龐氏騙局」 Newtalk新聞",
-      "published": "Wed, 17 Jun 2026 08:00:03 GMT",
-      "display_time": "06/17 08:00"
+      "title": "繳稅王！台積電稅額近2千億蟬聯冠軍 鴻海、廣達破百億居2、3名 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ET0dVcUZRSTFrTmplbnpOWVI5RE5xTEVFaVhDTWZnSDFmdlZKNW5LMXZWTjlkWjlrclhqRG1lUkpaTWJOTXV6dEJUaEg3N0ZodlJiLVJ4U2FjUWtCVHlN0gFkQVVfeXFMT3psNWZfMkRqTnhXV2wtSXF2S0VoNjdiaXR1bmE2c0U3X293aEpWWTR0ZEhOMG1OSDMzc21NcGhRQllmcVMwZnZtM1ExSjJtQzlURnZXd29heUhUMFRRVklvTlZnZg?oc=5",
+      "summary": "繳稅王！台積電稅額近2千億蟬聯冠軍 鴻海、廣達破百億居2、3名 自由財經 台積電蟬聯營所稅繳稅王，貢獻國庫近 2 千億元 TechNews 科技新報 台積電蟬聯繳稅王 鴻海、廣達緊追在後 UDN 台積電蟬聯繳稅王！護國神山「年漲5成」稅額曝光 大戶榜還有這兩大廠 | 李瑋萱 | 新聞 Storm.mg AI需求爆發台廠賺翻! 台積電繳營所稅近2千億蟬聯\"繳稅王\" | 民視新聞網 LINE TODAY",
+      "published": "Wed, 17 Jun 2026 07:55:10 GMT",
+      "display_time": "06/17 07:55"
     },
     {
       "source": "Google News Global",
-      "title": "川普G7震撼發言 稱俄烏戰爭「千里之外」與美無關：除了賣武器沒影響 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNN055N0I5Nk1TM3hzMXhnTnZZSDFLZmVhMVotWVJGdTBxUHVvUDJhbmRlbHhfTGtGY3ZZVGU1OFhDaEhFbEVXaWV5U1dEREpqUXExQ3VFSXFoakZfNzc1Rk1HZnpOa19uZW50Z0lKNnRRamZhZjhjb3ZFcWh0WDJMNGV3d2d3SGxRRlhoVEo2UlFSN3VwV2xCZjJFcHFWTGoteU8yQkFtVW1lZ3IxaFpZSVJYV0RhQXpudk4yS0NJbGp5MFk1VU9EVnFsc25sUTYzSTVEZEluYWxpZkZRdHFxSEFPOWdITFBscFI1NHJYQks4WjRQaDZJSkNzV2N0RlIwOEhIallaWE4xd1hzSkc4MTBMVDctb055WHFrUzFMM1RoTUFHY0VUOTdBX0tiU1lfV3EzelJlOEpXTW5UazdJZ2RzdWhQZnhiaVZfSXMxX3BxV0JQWHljYmF4cWdBSTRZNjBHSHVZbzcwZDh1SWdOc0NqWUVzcm9Ma0NQQTY1TVRpaXBnQkVhc3FNUUVST1VXcmNDWGQ0d2U5RWZXWmVj?oc=5",
-      "summary": "川普G7震撼發言 稱俄烏戰爭「千里之外」與美無關：除了賣武器沒影響 Yahoo新聞 川普暗示恢復俄羅斯石油制裁 全球能源市場恐再添變數 Yahoo股市 G7峰會震撼彈！川普直言美國與烏克蘭戰爭無關 「只賣武器」 UDN 影音／希望冬季前見面！澤倫斯基邀普欽 川普：烏俄跟美無關 TVBS新聞網 川普改向俄羅斯施壓歐盟執委會主席：烏克蘭局勢正在好轉| 國際 Newtalk新聞",
-      "published": "Wed, 17 Jun 2026 06:56:14 GMT",
-      "display_time": "06/17 06:56"
+      "title": "大立光2個月翻倍漲重返5千元大關 分析師：股價委屈很久 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPTmpqaHZFMjBfWEdhdzlLMVZmYzM2RDc0d0IxOTdsbHVJY3VmLU1yVjRqanNJLWFCS3FodG1kRDBYdVhtcVN3MEVQcG9ldzlubGdCdzkta1ZjbWdoR2hXMzNsNDltR0F0YVhFbXo4UllFNHlsWTNkZGxJLTlDMUVLaEItbVMyMEJJVGdWaEg3bU9RVmhzQWlYMVRSclBEbmJyMnQzejM1WFF0X2NlMC1hZUVHUUJBNEpvOWxMVm9MRXU0S245YnMtM0pIRkxYTHpwVmhPSWNELWd5b3FmdzljaXF3SWRoeWMwak9KSmRNMFZ3UmNVWFNScWpiNkJQSVhfZEl0RGV5UXJoM2s3ZjNfWnJvQWtscnFtSWdsRXloRzRndGNZUkxhaWR0bnM2OUx2SUJtblM4ZWpyV3dIYlRXNnJ4aVdnRFd1bXRqTURIM3FGTXp5MEhLS1B3X0ZlXzU0TXdhUlViU3RNNnRFbHk3bnU3bXBPcHF0QWlZbUVEYw?oc=5",
+      "summary": "大立光2個月翻倍漲重返5千元大關 分析師：股價委屈很久 Yahoo股市 台股拉回弱中透強！光學放閃「大立光5200元」 3檔逆勢攻漲停 Yahoo股市 大立光爭取 CPO 訂單 將首度參加半導體展 經濟日報 （獨家）大立光、舜宇光學追逐FAU精度聖杯 雷射設備商「大族激光」成關鍵 DIGITIMES 大立光 CPO 火力全開，四層 FA、PMLA 搶先卡位 6.4T 時代 TechNews 科技新報",
+      "published": "Wed, 17 Jun 2026 04:16:47 GMT",
+      "display_time": "06/17 04:16"
     },
     {
       "source": "Google News Global",
-      "title": "盟友震驚！以色列正式要求看美伊初步和平協議 傳美方一個字回應 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Wejl6ejQxMzRNWE9mdmZoQnk3N3MtUjVYM1lmaGNyMU1JVXVzbldIR254MnJ5dWg0dE1UOUpKSi1fRVNjUUpPNHU4MDMxZlk30gFWQVVfeXFMTnA4YlMwZkxtWmp1RWM0aG92ZVB3VFcwN214WUJnb3JBUG5hTWJQc0RkczdUd2xLY0tlVGVZaEU2bkxnSVg1MldaZE5Va1ByWmI2dEttb0E?oc=5",
-      "summary": "盟友震驚！以色列正式要求看美伊初步和平協議 傳美方一個字回應 UDN 差1小時重新開戰！以軍證實已鎖定數百目標準備空襲 川普急喊停 自由時報 川普批以續攻真主黨 籲敘利亞接手處理 中央社 CNA 以色列又空襲 伊朗氣炸：強力反擊！ Yahoo新聞 伊朗外長：美伊終戰協議要求以色列從黎巴嫩撤軍 rti.org.tw",
-      "published": "Wed, 17 Jun 2026 06:45:35 GMT",
-      "display_time": "06/17 06:45"
-    },
-    {
-      "source": "Google News Global",
-      "title": "內幕曝！美軍阿帕契直升機遭伊朗擊落…外媒揭：美方荷莫茲海峽機密行動 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPMzhzX1pRSllXeTRSb2U0TkRWRDFTdWlCV3JMY3lvR1JieUthVWFTX0lIR1lLWFZ4TFp0ZjJhWTQ1NWdnYTRHdXVueDhKX0lnME43Q0R4Y2tGMk1aQzdYajdCZDdyZXZuVEhhSmhvODdqeHBKaGhTUmhsVENmVXhtbjhFaTB0ZTVkZWtwVUl6X2M5cUJzT25MUkR2Rm53aDNuRENOM05NOVZNWktZMXdyLTRGZGpJcFhraE9vT0NOY3Y3QS1TVnJOYVBLTUVrRHN3ak1SMV80UkZoeDd5VkQwbUdsZWQtdldvRHppZzc1REJfM0RvMExhSW9hbWUtbC1sMXBVMmd4a2kyNzFGQlRNSlZBRUl1QlB6dy03WUMwN2FBcjZyUEo5OEc5QWY0NG11SFUzVFpsSXFRazd0OUh2d19FQUtKWWpYS0pmckZjeTk4YTFYX28yN0FuVWlPX2ladGc3VjI3VjVUOUJQTy1NeUJVdVlCYmwzaWVFWXNtTXQ5X2NENVhwRkR0Z0ROdGhDZEc4TGhlSUpuc1p6UktVaWtWdngxYkxnZzROWmFBenYxNkVBUmZQWkU1dkNwc1E?oc=5",
-      "summary": "內幕曝！美軍阿帕契直升機遭伊朗擊落…外媒揭：美方荷莫茲海峽機密行動 Yahoo新聞 路透揭美軍效法伊朗走私手段暗助波斯灣石油出口| 國際 中央社 CNA 路透：美軍用伊朗招數運油 主導波斯灣原油「海上大接駁」 news.cnyes.com 美軍偷油手法曝光：船隻對接秘密通過荷姆茲海峽，被擊落的阿帕契原本在護航 動區動趨 阿帕契直升機遭伊朗擊落原因曝！美軍在荷莫茲暗中操作「這件事」釀衝突 上報Up Media",
-      "published": "Wed, 17 Jun 2026 06:10:00 GMT",
-      "display_time": "06/17 06:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Android 17來了！Pixel手機獲Gemini加持 5個必學AI實用功能一次看 - 民報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54eGZWREZreEMxSmxTdzJ0VUlUUkg4eWF4OG5hTHQtVEs2NHhHYmNvbDNDWGp5R2poUllMbGlBZkRZWFQ3ZW1tVUI1Mm5PTWpXWEF0ejM3OVdOSEkxUkpZ?oc=5",
-      "summary": "Android 17來了！Pixel手機獲Gemini加持 5個必學AI實用功能一次看 民報 Google推出Android 17！AI重磅功能預計今夏陸續登場 news.cnyes.com Google Pixel手機大升級！螢幕錄影自拍、AI做影片寫歌一次解鎖 自由電子報3C科技 Android 17 正式推送！App 浮窗多工、錄影同時拍反應臉，你的手機升了嗎？ Yahoo新聞 手機越用越卡頓有解？Android 17祭出新規！嚴打記憶體怪獸App SOGI手機王",
-      "published": "Wed, 17 Jun 2026 05:02:11 GMT",
-      "display_time": "06/17 05:02"
-    },
-    {
-      "source": "Google News Global",
-      "title": "G7峰會領袖聲明反對片面企圖改變台海現狀| 政治 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5keFFKZzdubWttblpZVDlsVEdWaEp3U1lGYlo4Z0NFWkNmcDZqYXl6WTVtUlp5ejQyNE15UU9EYVFLNlpvVlhCUno2aFNrNVlBdXc1b09vTmZyaHlVeGxN?oc=5",
-      "summary": "G7峰會領袖聲明反對片面企圖改變台海現狀| 政治 中央社 CNA G7峰會領袖聲明：樂見美伊達成協議 反對片面改變台海現狀 Yahoo新聞 G7領袖聲明反對武力改變台海現狀 總統府感謝以具體行動支持和平穩定 cnyes.com 川普稱美伊2輪談判將更順利收德總理「Trump 47」球衣笑了- 新聞 MoneyDJ G7聲明重申「反對片面企圖改變台海」 外媒：意外就1事達成共識 UDN",
-      "published": "Wed, 17 Jun 2026 04:34:00 GMT",
-      "display_time": "06/17 04:34"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Will UK interest rates go up?",
-      "link": "https://www.bbc.com/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
-      "published": "Wed, 17 Jun 2026 11:13:07 GMT",
-      "display_time": "06/17 11:13"
-    },
-    {
-      "source": "Google News Global",
-      "title": "先炸白宮再掃射人群！川普生日驚爆攻擊陰謀 嫌犯母大義滅親逮5人 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4X2FEOXMzLTBuRWw4c2JNX0lkUmgwOE1NQ05kOTRnZHVpMTVYM2VnZmN3S0hnUWowcG10MFg3bVUxLVFIMkZ1WEdERDdrUE9G0gFWQVVfeXFMT3AwaWo3dFhVV2dteHpKMmdHTldNUDBnVmtrVTFTdG96Uzc4djVZT29tY0otRTVCNDNtZHlBdHEwYlUtcDVEN3RuZVBmQVVZQ3ptcG9IcWc?oc=5",
-      "summary": "先炸白宮再掃射人群！川普生日驚爆攻擊陰謀 嫌犯母大義滅親逮5人 UDN 白宮「格鬥賽」險遭恐攻 密謀無人機轟炸FBI逮5嫌 Yahoo新聞 FBI挫敗白宮UFC賽事恐攻陰謀 嫌犯擬用炸藥無人機、狙擊逃難人群 自由時報 壽星川普坐第1排！白宮格鬥賽險爆恐攻多人被捕密謀曝- 國際 中時新聞網 國際熱議》為慶祝川普80大壽，美伊終於停戰？和平紅利燃料，能讓全球牛市繼續跑多久？ Storm.mg",
-      "published": "Wed, 17 Jun 2026 02:10:02 GMT",
-      "display_time": "06/17 02:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "華紙、聯穎、智伸科再拉漲停！半導體股景碩、揚智、廣閎科齊亮燈 今國光、聯傑攻頂鎖不住 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQV9JcEVKbDJhS0RNODVtMTQteTVBSEdJdHFVY2lIdkdaNlpSZ3dfTXdCSXdqOEJGZm4yWHNvcURDUnIyazZ4VFZ3VFdYMEpTWkEyQzQzRFE4blZrYWFUNDVlRElLQ1FXUkpNaWZJOUVsVEpUMVNsUWRIak5waWpZd2ZHa0lwclN2dVBlYmxJM2RwRUhHZ3Z2RHV2Wk51X09Lc0ZiM1gzR1lfRDJ4TmhfMWxZYWZDaGdpN3VfdmhzLURreHlZc2gxX3BYSWtoOE5XbXlCT3p3alVJSWFFTkFxbFpRcUhsTUdiMHJVNGNhWE9URmpNQ01aNXZvc2YwZmFfTS1VSm80TTVmeEVJakstU1NoRU9HY2ZVY3ZNa2JucndzY1poQUtvNWlaUGhrQjM3OTA5OEVUV0ZNY3d2YnVwT3dYWEc?oc=5",
-      "summary": "華紙、聯穎、智伸科再拉漲停！半導體股景碩、揚智、廣閎科齊亮燈 今國光、聯傑攻頂鎖不住 Yahoo股市 【Follow法人】外資終止連3買提款206億元 聯電遭砍逾4萬張居賣超王 力積電旺宏也難逃 Yahoo股市 觀望FOMC結果出爐台指期夜盤反彈- 證券 工商時報 外資賣超206億對記憶體下重手！力積電上榜 這檔砍4.5萬張最慘 自由財經 三大法人反手賣超256億元 台股最後一刻仍逆轉勝！急拉哪些個股？ UDN",
-      "published": "Wed, 17 Jun 2026 01:56:25 GMT",
-      "display_time": "06/17 01:56"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電貢獻國庫近2000億元 蟬聯營所稅繳稅王 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTlVzclFuSEVSQTZ6RlVsSlBKSV8xVXFVZHM1SW9yUVRsSzR6TjFMUkJlVVZEWVBwSEZVV3ZiSVItajExVVFIQUVUMzQ0N3NadWJzOHpVQ3NETmpfb1ZtcV9xMFVwWW15UUtTVUpzUnVRelhjYmlwQlRQMXFMUGl3ZHotMzBDaVd1ckd5TnBuV1FzRVRNOGdMV2ViQ2hXVTVtMGkySU1mVzVMM3NfcF9yR0NSeWtrNkEtbHNiYzlSUzNzS01GVFF5akR5RWVBNjRFT1ppT2F1OURzSnBHUGhJNGZKWk5uOHhMUWZrczVhT2lZeC01bXJkd0R5UTlBYTRqaUVGRFFVbmxLZ3Z1LXhRM1p5dlMwX3VhU2VmNnNnNG55ZlIwamNIVWpEZFpwT2R6eEE?oc=5",
-      "summary": "台積電貢獻國庫近2000億元 蟬聯營所稅繳稅王 Yahoo新聞 繳稅王！台積電稅額近2千億蟬聯冠軍 鴻海、廣達破百億居2、3名 自由財經 台積電穩坐「繳稅王」貢獻國庫2000億　鴻海、廣達追不上 ETtoday財經雲 台積電蟬聯營所稅繳稅王，貢獻國庫近 2 千億元 TechNews 科技新報 AI概念發威！台積電繳稅近2千億穩居稅王 廣達擠入前3 旺得富理財網",
-      "published": "Wed, 17 Jun 2026 09:30:07 GMT",
-      "display_time": "06/17 09:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股開盤》晶圓雙雄領跌 指數跌650點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QTZlMGtpeUJWenl4VURHTXBPSzQwN2YxdmtIdVRZSHVoZWpJbmVUS2todUNWWnA5Sk4tQVFtTFY4ZVpaY1M4dUJtY0l2Nnl5N2swQS04Ulk5MlR6VUpV0gFkQVVfeXFMUEtvdWxrNWxpSERQOUp5cEJ4dDdWTHVBUm1SeTFnYUhsc3lVLWVwd1ROMjNMeXBJWGNfOXFudjlCTm1OLVdfWTUwTnA2VVY2Z2t2SzNwbFdaMzVLZ0JGN0JDSkVvdw?oc=5",
-      "summary": "台股開盤》晶圓雙雄領跌 指數跌650點 自由財經 市場關注Fed利率決議、美股週二多數走低　台股開盤下跌123點 NOWnews今日新聞 台股開盤》大盤跌逾400點 SpaceX飆漲台廠概念股熄火？關鍵原因曝光| 財經 Newtalk新聞 費半重挫拖累台股開低 法人：大軍未動糧草先行 月底挑戰五萬點 UDN 台積電走跌 台股早盤挫649點滑落至45159點 MSN",
-      "published": "Wed, 17 Jun 2026 01:10:03 GMT",
-      "display_time": "06/17 01:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "G7峰會震撼彈！川普直言美國與烏克蘭戰爭無關 「只賣武器」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90UW9RWGhMLWx1TWR4eTF0RERjUVBVUFlWdS1RWFZ4VktEdWJBMWJReUZxZUFKbmVTcVNNU1hmbFhxbjA2a2FSbkEzdnpVT0l50gFWQVVfeXFMT1JnM3pRMUVPTldqa1pWa2tuNE95WVJnTmUzRFA3REcyRkZWV3hHV3J5bG1NbDdtb3pSMUM3a3FVNlIyZmNHZXBrNEkwRmppTEFkdDQ4eUE?oc=5",
-      "summary": "G7峰會震撼彈！川普直言美國與烏克蘭戰爭無關 「只賣武器」 UDN 川普暗示恢復俄羅斯石油制裁 全球能源市場恐再添變數 Yahoo股市 從「烏克蘭沒籌碼」到促俄停戰！川普對澤倫斯基態度大轉變- 國際 中時新聞網 俄烏戰爭成G7峰會首要議程 與會國對俄能源制裁達共識 公視新聞網PNN 川普表態：美國可能很快恢復對俄羅斯石油制裁 news.cnyes.com",
-      "published": "Wed, 17 Jun 2026 00:37:55 GMT",
-      "display_time": "06/17 00:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed利率決議華許迎首秀 中信估「按兵不動」：2種資產最有機會 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOYWIyS3czdjBTcVdnaXRZYno4NFdqamo4Uzk4UVJfb1JFSjFYZzJ2QzBGSVRCdnJ4X1lJdTVPT2FSV2xxYm5FaU9SWGpMWXo2bDJoZVlaWEdwTjdfaEd4TUY2WDBqUzhXeE1ULTRydW1UZmV2OVU5Y09DT1hpM1NKUmVHYnNpVl9WeTlxZDNJQ2VKWXEyVGlIZFVCSkpmZ0ZKcTdnajlaOUxtUWlrcTdSRnRtLVo3WWIzYVFCM041d21SemdhbjlfRnpPb0dSLVphd2JzY3JUNjFVRGcxc29BYVdNR2NHWHpxNXJZY1AwNVdtU1dtSm5hVmxmY1dwOXR5LWNIQjZzemdmMmllb29EQ3pUZmg3Q3RZNTFSMlNHWDNvYkNVWEdOV1Y3UUQ0MFUwVjl1aXNiZW4tQk54RUVjakVBVnlBZl9wUWJkeGV3NElCZm1qeDJHQkc1NHJxdmlPQ0ltRjd3OFRReld4S1Z3aTJoRWhaV3ZZZ01pblZQMlpsUmlqZlRyYTlUZjcxWVcyZ0I3TWZHQ1k2dw?oc=5",
-      "summary": "Fed利率決議華許迎首秀 中信估「按兵不動」：2種資產最有機會 Yahoo股市 MoneyDJ新聞 2026-06-17 12:29:09 黃智勤 發佈 MoneyDJ 美國會轉彎升息？兩類輸家有誰？熱錢大換檔致富4訣 商周 華許Fed首秀恐缺席「點陣圖」？打破14年慣例 市場緊盯新主席如何改造溝通模式 news.cnyes.com 油價跌了 牛市穩了？資深分析師：聯準會降息機率增 三立新聞網SETN.com",
-      "published": "Wed, 17 Jun 2026 07:58:51 GMT",
-      "display_time": "06/17 07:58"
-    },
-    {
-      "source": "Google News Global",
-      "title": "G7峰會領袖聲明 反對片面嘗試改變台海現狀 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WSmdVNEk4eF9UX3BfbXNKVURlT0g4UjJ6YTJlQUNUbTZTX3VGZnBWNjZTWEZNekJYNnU4STJDSW9aVnN4a3NzeFRBNGk0REdBaG5B?oc=5",
-      "summary": "G7峰會領袖聲明 反對片面嘗試改變台海現狀 東森新聞 G7發聲明挺台 反對武力改變台海現狀 賴清德社群發文感謝 Yahoo股市 G7聲明反對片面改變台海現狀 中華新聞雲／中華日報 川普稱美伊2輪談判將更順利收德總理「Trump 47」球衣笑了- 新聞 MoneyDJ G7領袖歡迎美伊協議 要求立即在黎巴嫩停火 rti.org.tw",
-      "published": "Wed, 17 Jun 2026 07:42:00 GMT",
-      "display_time": "06/17 07:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "（獨家）大立光、舜宇光學追逐FAU精度聖杯 雷射設備商「大族激光」成關鍵 - DIGITIMES",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNnFrckFWQUZ0YWJaY0ozTVZoVEc0REZTcV9JVFlFWU5nVFhaR1VzcXNsWU9zaVVGbGRYVFRnMVIwNmlPdi1DZ21iNnM2MUY2LUpKTkIzZHBFOHQ3c0haY3VrQW9mN2NkNVRfVkdwRXQ1aGs0Z2VGQXVFZVZKT18tSkdlTzFzTzBBNl83ZzJB?oc=5",
-      "summary": "（獨家）大立光、舜宇光學追逐FAU精度聖杯 雷射設備商「大族激光」成關鍵 DIGITIMES 1圖懂》大立光上看6250元！CPO為何是光學3王新戰場玉晶光、先進光誰更有潛力？專家完整評 Yahoo股市 大立光提前開獎！4月每股賺13.95元　年增91.88% ETtoday財經雲 大立光雙引擎發威！重返5000元俱樂部　外資目標價看「這數字」 NOWnews今日新聞 大立光爭取 CPO 訂單 將首度參加半導體展 經濟日報",
-      "published": "Tue, 16 Jun 2026 23:36:53 GMT",
-      "display_time": "06/16 23:36"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美議員不滿與伊朗協議內容不明 川普願送交國會審查 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHbUdzX2poc3RqQ3Zfaldab0UzeE1FZnk4VkpQWExUeFY5TE5ERl9odDhOWVA4Q3NGaFVVZV9hV3JEZWczeFU3bGJzUzhISVdOWEN3?oc=5",
-      "summary": "美議員不滿與伊朗協議內容不明 川普願送交國會審查 東森新聞 川普認了「最爆炸條款」！3000億美元細節曝光 亞洲4國都參與 Yahoo新聞 川普證實美伊簽署終戰初步協議 荷姆茲海峽最快週五開放 公視新聞網PNN 停火協議有什麼？ 美官員曝未列核武銷毀 要用發展基金則看伊朗表現... Newtalk新聞 川普：美伊協議談判已進入第二階段 news.cnyes.com",
-      "published": "Tue, 16 Jun 2026 23:30:00 GMT",
-      "display_time": "06/16 23:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "世足》梅西紀錄之夜爆爭議！危險踩人竟沒事 ESPN球評：100％紅牌 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1aVlOM2lLdmFOc1JnM0QzemZONjJRNHpGRnZjTWxOT2VQbF9sdDktaDlnTFpMWFVIa180UU84OFNaRGIzYU5fNThpaF9fV1JQMlE2YzV3dFlreUJ3NnNSOdIBZkFVX3lxTFBINl8tUUIyU3Y2VVdnbW9SVV9uc3pjQ29Edmt5Rm5jSXJkcGxOaEYzNXI2ZTBpY1VhWFlFYkxKQnZsUXAybXlfMDcxZWFZbTdZYlNZd2NfNWlvRmdQTkdpMWs0SzJ5QQ?oc=5",
-      "summary": "世足》梅西紀錄之夜爆爭議！危險踩人竟沒事 ESPN球評：100％紅牌 自由體育 世足／梅西帽子戲法寫歷史 全球粉絲萬里追隨球王 Yahoo運動 世足》冷酷無情的進球機器！阿爾及利亞隊長盛讚梅西史上最強 自由體育 2026世界盃／肚皮比足球重要！阿根廷通膨率33% 梅西帽子戲法難解焦慮 TVBS新聞網 世足賽／梅西單場踢進3球 阿根廷首戰3比0贏阿爾及利亞 公視新聞網PNN",
-      "published": "Wed, 17 Jun 2026 07:01:00 GMT",
-      "display_time": "06/17 07:01"
-    },
-    {
-      "source": "Google News Global",
-      "title": "谷歌(GOOGL.US, GOOG.US)推出Android 17系統 AI功能將分階段上線Wear OS與XR生態同步升級作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81Z2pkLTJDVUVkT3lKd1R4VVk4Y2dCYlozLWVwR2kxVDNxcENkaFlCdVJpWG1XcGVvcVhSamo0Mmd4RTF5Qm1tRy1sRXNtWTRLZnU2SUVTWG5ha1pkZVVNTl92T2NxQjN4NGotVUNwRFY?oc=5",
-      "summary": "谷歌(GOOGL.US, GOOG.US)推出Android 17系統 AI功能將分階段上線Wear OS與XR生態同步升級作者智通財經 Investing.com 香港 - 股市報價& 財經新聞 Google推出Android 17！AI重磅功能預計今夏陸續登場 Yahoo股市 Google Pixel用戶有好消息！這項神功能有望免等Android 17 自由電子報3C科技 Gemini 再進化！Google 揭新一波 Pixel 手機功能 ETtoday新聞雲 手機越用越卡頓有解？Android 17祭出新規！嚴打記憶體怪獸App LINE TODAY",
-      "published": "Tue, 16 Jun 2026 22:52:30 GMT",
-      "display_time": "06/16 22:52"
-    },
-    {
-      "source": "Google News Global",
-      "title": "SpaceX超越亞馬遜躍升全球第五大企業 市值直逼微軟 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kcXNad1lIc1ByRUs0c1JWaWhSdVVWQUIzRzlzUHpEeWZNYW9iM2lzYktTZW5HSkJka3hfa1RQSHdmYi1YQWZnWGNUYXl2dVk?oc=5",
-      "summary": "SpaceX超越亞馬遜躍升全球第五大企業 市值直逼微軟 news.cnyes.com SpaceX蜜月行情能撐多久？歷史揭露三個月後股價可能去向 news.cnyes.com SpaceX 讓美股大洗牌！MANGOS 是什麼？過去明星股集團有哪些？ StockFeel 股感 天下晨間新聞：川普讓步太多？鷹派也不爽｜大賣空想空SpaceX了 天下雜誌 諾貝爾經濟學獎得主批馬斯克 「真人版龐氏騙局」 Newtalk新聞",
-      "published": "Tue, 16 Jun 2026 22:20:13 GMT",
-      "display_time": "06/16 22:20"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股收盤》道瓊逼近52000點！費半重挫近6％ 台積電ADR跌逾3.5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oTmt4MGhXc05fd0w2U1F4TGI0YXNTWXRZaVRGWEp5S0NIbkhHUUZ6aTJrczhZNVFCTlZKNGkxaGl1cW15bmtDdjlNNUZmZ1NaeXNmbFR0T1lVakdUOGUw0gFkQVVfeXFMTnNLLWgtRnc5aTlNZjVGZTRMNFlqNkx3dTNCQTlVUWVURERHZnZlekx6a01xdGdQYThZczN1d1ZUTnpLR3FET2RwZjcxNWZTdmdmdEJRWDRrbUp5ckNacjRkMWFyNw?oc=5",
-      "summary": "美股收盤》道瓊逼近52000點！費半重挫近6％ 台積電ADR跌逾3.5％ 自由財經 費半連三日大漲後急速回吐5.7% SpaceX市值超越亞馬遜道瓊再創新高| 全球財經| 全球 UDN 美股收盤道瓊上揚費半重摔！台積電ADR重挫逾3% Newtalk新聞 《美股》油價摜破80美元+資金輪動道瓊漲費半摔- 新聞 MoneyDJ 美股｜樂看美伊協議 道瓊續創高 費半慘跌5.7％ SpaceX盤中飆17％ 工商時報",
-      "published": "Tue, 16 Jun 2026 22:06:54 GMT",
-      "display_time": "06/16 22:06"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台電虧損擬向中華郵政借錢周轉 經長證實：買能源確保供電 | 上報 - LINE TODAY",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aZ3FBd1FKR2JfVGpLeWh6b1NxdUpkUkprYmEwcHpIQXhleFJHRzlHdTFjSmdXNGtjMjVfWnFoWVVfYXZ3UHJuekhWRll3eFlVTXZzWmRR?oc=5",
-      "summary": "台電虧損擬向中華郵政借錢周轉 經長證實：買能源確保供電 | 上報 LINE TODAY 台電3千億貸款補洞 經長龔明鑫坦言：穩定短期融通與電網韌性 Yahoo股市 借台電3000億?中華郵政:轉公銀定存 中華新聞雲／中華日報 穩物價擋通膨 台電吸收發電成本逾6000億元 自由財經 為穩物價吞6000億！台電曝虧損關鍵　再扛天然氣漲幅50% ETtoday財經雲",
-      "published": "Wed, 17 Jun 2026 05:51:07 GMT",
-      "display_time": "06/17 05:51"
-    },
-    {
-      "source": "Google News Global",
-      "title": "路透揭美軍效法伊朗走私手段暗助波斯灣石油出口| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xcXJXTzhwdVg5MFIxX2d3d3VBelAxYzJuX0ZXVHlYSUVpdEh6cXV0WU9RMjM3aWlrX2x0aFNsdTI3bWZhWjV5T2VXeUlKczAzMW0xTEM1OERaSlplZFhN?oc=5",
-      "summary": "路透揭美軍效法伊朗走私手段暗助波斯灣石油出口| 國際 中央社 CNA 內幕曝！美軍阿帕契直升機遭伊朗擊落…外媒揭：美方荷莫茲海峽機密行動 Yahoo新聞 路透：美軍用伊朗招數運油 主導波斯灣原油「海上大接駁」 news.cnyes.com 美軍偷油手法曝光：船隻對接秘密通過荷姆茲海峽，被擊落的阿帕契原本在護航 動區動趨 阿帕契直升機遭伊朗擊落原因曝！美軍在荷莫茲暗中操作「這件事」釀衝突 上報Up Media",
-      "published": "Wed, 17 Jun 2026 01:03:00 GMT",
-      "display_time": "06/17 01:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "白宮UFC賽事險爆恐攻！密謀無人機轟炸、持槍對人掃射 5嫌遭逮 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPaFF6dXhKQXRCRFR3SC1IQ1dZaWRhRnVDYWdFWGlZSGhhLUktNTRrWHptUHZBOW5id3FKcVpMYV93c0liVTdtdm1JZXl1RlZzZ3BMVGlfU2dGZFdqanBIamV5YmVlOXAxMmQ2bHdTem4xeTVqRmx2endRUEd1SFE2SWRlbnMtek5lX1lKNDhHM2VyaWp6dXp2T3RpQ0t3RlJfZzRBTmNBSkhGYkZIWGh6Unp6aWR2eUhCN3d4ZFBRZ0IxdmVLdXdVTS1QRlhray1BckxKV0VERFU0eldzRkRqejVEWEpBMFNpSi1NQWdybGZJaVRpb3pRR2Y1Mk02YlQtTFBzbkNsaDBtZ3dSMlkyeXJpakxMNDFtRXlNMEtLRnRHRDFVTXJrcG8wcHROOUZvRVVnRGJDZXdaWnNra2pTdFE0Q2o2WXFjQ0ZvbVE0LXlwMDA1U2lING5GZmRtRk8yQ2dKNEdDWXJPQU93M01IQTUzaFFnNnVTVDJyMw?oc=5",
-      "summary": "白宮UFC賽事險爆恐攻！密謀無人機轟炸、持槍對人掃射 5嫌遭逮 Yahoo新聞 先炸白宮再掃射人群！川普生日驚爆攻擊陰謀 嫌犯母大義滅親逮5人 UDN 美FBI跨州逮捕5嫌犯 涉策劃攻擊白宮格鬥賽 公視新聞網PNN 白宮格鬥夜險遭襲 范斯批左派煽動暴力 中央社 CNA 若人生70已「從心所欲」，過了80歲呢？ 遠見雜誌",
-      "published": "Wed, 17 Jun 2026 00:55:52 GMT",
-      "display_time": "06/17 00:55"
-    },
-    {
-      "source": "Google News Global",
-      "title": "靜待Fed決策 道指漲400點 SpaceX狂飆17％ - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oMDExNXk3Zl9Cbkk2RTAyLTlsZGVNVFJCSmdfNFE1bzhDd0psNkpSbGJxejNqRFZ4RlRDVjk4OEtyUlM3WXBCX2NpT3g3NkVxdXp6WlJNcTBIbVBFWXJxUV9ybE16M1E0aVFTcm1B?oc=5",
-      "summary": "靜待Fed決策 道指漲400點 SpaceX狂飆17％ 中時新聞網 台積電遭「這1新星」超車！市值慘落全球第7名 Yahoo股市 美股電波》三大AI新巨頭成吸金指標- 日報 工商時報 美股短交易周迎三大震撼彈！SpaceX選擇權掛牌 華許Fed首秀、三巫日接力登場 news.cnyes.com 諾貝爾經濟學獎得主批馬斯克 「真人版龐氏騙局」 Newtalk新聞",
-      "published": "Tue, 16 Jun 2026 15:56:09 GMT",
-      "display_time": "06/16 15:56"
-    },
-    {
-      "source": "Google News Global",
-      "title": "SpaceX盤中市值超車亞馬遜 躍居全球第五大上市公司 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mZThDbm5ZdnRsblFObzd6dExmNExXTGVUYWZQT01tY3JBQVc3ZzBNSzM0RUptOXR3OG5jRHdPdHEwYndmV0NBOERRc2JQbGc?oc=5",
-      "summary": "SpaceX盤中市值超車亞馬遜 躍居全球第五大上市公司 news.cnyes.com 美股短交易周迎三大震撼彈！SpaceX選擇權掛牌 華許Fed首秀、三巫日接力登場 Yahoo股市 SpaceX上市後股價狂飆 一度超越微軟躍居全球市值第4大 UDN 諾貝爾經濟學獎得主批馬斯克 「真人版龐氏騙局」 Newtalk新聞 SpaceX IPO多募逾100億美元、馬斯克喊營收破兆- 新聞 MoneyDJ",
-      "published": "Tue, 16 Jun 2026 14:00:02 GMT",
-      "display_time": "06/16 14:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "SpaceX飆10%！美股開盤漲跌互見道指漲382點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU1hlcXhubU91bTJER1RJVXBzdS15WTNEZkdMTkRrRy1aZ0hrWnprTjBYUl9yTVFCOWRiUDJyYVpxd3owUjhWRk5FY1oyMEhHNlVpanAyV0dVSVM0QkZUODhuT3loRzJFV2FyMnZJbElBODdWWUxNcjJEVFBIdlprRXY5N1BsVm9rUFlzdGpkQm5YR2t2QjBXLTJXWHpjZEdOYkxqbXZCYkVteFFKVkZTR25BUERvSktFSjBPcV9VZVpidWN3ZTdqLXMxTnpoVm9ZTkVrOEt3eVljX0J4dDgyeXZQMVBOTmhVQ0tPajc4MVo5a3RFX3pSaFE3M2RLMDQ?oc=5",
-      "summary": "SpaceX飆10%！美股開盤漲跌互見道指漲382點 Yahoo新聞 快訊／美伊和平激勵　美股道瓊再創歷史新高 ETtoday財經雲 台指期 盯 Fed 決策 經濟日報 美股噴出台股也笑了！美光瘋漲逾10％ 台積電ADR漲逾4％、聯電ADR勁揚6.7％ Yahoo股市 天下晨間新聞：SpaceX再漲20%！大多頭延長？還要上車嗎？ 天下雜誌",
-      "published": "Tue, 16 Jun 2026 13:50:19 GMT",
-      "display_time": "06/16 13:50"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈美股早盤〉Fed決策前市場觀望 主要指數漲跌互現 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPdW9XMXBWek1nLV9ORXVxc0V5c3NoQlQxOEhJbnJ4UXdlMm1yVjdvRVg5LV9RX2dzb0IxQUdRalVYLTl0UHhXMlBXMF8xb2dfVlRCV1BPUXVuLS1QOWVWYkRJcFBmb2I5Vi1iS1pyMFNySVZBanVYeUVJcUUtejFhRHZxVDFCM21HYlFfTTJQNTJwc1pQZmxJWTNFVmNLLWlxUVJKOGY0cEZVaUhqbW9hd1VRMlV5VksyVEI3NFM3dzlMalc5ajZmSXVSZnU3MnlhdFZfYlN0b1dGUWhOWVpKOHNQNkxPWUVKUVdlcHBZWGFxX3hJekIxN21JMjA5eVFVS29ScnctbTBBTGdrQk45eThGeDM4LVdLc2lYenFONjlUQnlDQ2JwaDV1RWptN25MdVBlRzlVTW0yM09udzc4NmszVmVmQQ?oc=5",
-      "summary": "〈美股早盤〉Fed決策前市場觀望 主要指數漲跌互現 Yahoo股市 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Tue, 16 Jun 2026 13:38:50 GMT",
-      "display_time": "06/16 13:38"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股會破5萬點 國泰世華總經王牌林啟超曝成長關鍵、估潛在漲幅20% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxPcTNBZ3FyREVkY2UwNjNzdWNySUdOSW9Kd242Q0k3YnpqT0pzcUFySGhjcHBEVGpSejJjbjZzYnBIVGZJYTZ5Y0tmNjYySWFBa0hiYS0xbTVkbnVKZGozcF9BR215U3Z3VHFpQ2k2YjJ6dkYyMVZFWW52S3kwbWJyRkRfd0I3T3Nrcy1hbUdha052ZWp6THlycUtvSEVDemIzNGVWTTJsaFMzZHczdk9ocndUUjJkQ2E2VUNWbVRlSEJDOWtvQmUyT2xUS1M3eFI1VU1hV3A5ZHdacEF2OUZ4RjRBNkZmaGNVUlNuNV9nSktlNFFMbU1lVjFNWUFUR3Rmb21NQnVJWWQyV0hWZnFsaWt3VHI4VHZRYnZsWUdZUThsdVM4cGFSUHE0MUNoV0J4allqYk0xTXY4Ml9UZERUblM0ejl2SjNETmZRM1F5c1RaZXd0TlFiRG9LeDdfNGl1VzBBRlg5bGlHZEtyZXV1dEMwS05XeWZFSkJvM2JmbkwxUmE4aWJrZElCQnNib0c3OG9UOWhfWW9BUTBjdUE?oc=5",
-      "summary": "台股會破5萬點 國泰世華總經王牌林啟超曝成長關鍵、估潛在漲幅20% Yahoo新聞 明年上看5萬點？國泰世華銀林啟超看台股「只怕擁擠交易」 Yahoo股市 美伊停戰讓聯準會降息有望？專家解析AI不只撐股市 台綜院大幅上修經濟成長至9.33% 中央社 CNA 台灣經濟呈「熱絡擴張」格局 台綜院：上修2026年成長率至9.33％ 自由時報 2026下半年經濟與市場怎麼走？ 國泰資產管理／國泰世華銀行全解析 UDN",
-      "published": "Tue, 16 Jun 2026 13:00:56 GMT",
-      "display_time": "06/16 13:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "快訊／川普：美伊MOU明定伊朗不會有核武 「樂於送交國會審查」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPTFFaZk8tTms4OXpWUllzS1NmcFFKel9yUWxwdTNyUDEzYUtfVWxZQjlGeWJ2dVBlWFl3bTU2VHZxNGZ0Uk9VWVhHcFJlWGdGdmU2VWhXZGRMRDRBajdsUzZZb2hnRlpFVFVleVNFYUZ5dlJ6dzBidExjTnpUVjZFWUJYM1BLdFliOEVMUVdzN3dyOHA1ZHA4bEcxbmpSamZ3d29odkhhaDNIUDVYekY5NUtZV0s3UEk4MERZdEx2QzBSMWVlRDRKc2dReEl5NFJSY0prZTF4WTNjdGNQekxRNXVvWnFuVEZfT18tUUtjVHJEaEFidkVFaVpHUUhBVl92NVhfRnpxOU0zcXZsMGtWci1IM1JKaHQ2cnRBN29qN2o5aHNCbEZhQU14UjVkNUU5NVBNazUyWnU5WmpTMmVHZXBaRjVtX2ZRM1pJdC1JM2tnSDVKM25PMWV1bmRMNGYtX2I0bjRQZlNjS1I0Q3hv?oc=5",
-      "summary": "快訊／川普：美伊MOU明定伊朗不會有核武 「樂於送交國會審查」 Yahoo新聞 17國表態！願在美伊達成協議後 解除對伊朗制裁 Yahoo股市 荷莫茲海峽解封倒數 船舶量月內可望恢復5成 UDN 時間、地點定了！美伊6/19將在瑞士比爾根斯托克簽諒解備忘錄 news.cnyes.com 川普證實美伊簽署終戰初步協議 荷姆茲海峽最快週五開放｜20260616 公視晚間新聞 公視新聞網PNN",
-      "published": "Tue, 16 Jun 2026 13:00:33 GMT",
-      "display_time": "06/16 13:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "阿帕契遇襲內幕！路透披露美軍用伊朗招數 祕密協助轉運波灣原油 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtV0ZSVmJwOGRSNm0zU0xyY0h0aG9KQ0NxLVgxeUs0MGpfVTdmUXNGYTJWQUlqd1ZoLXFoeVFyQnhRVEh0SmhDTjdCYmFyZ3RxdUtqemI2d3FGMHBsY21JQzFZNHFpUdIBa0FVX3lxTFBJX2xnUDF3UjJJV0lRZW53MFlvc21pMDZZekZlc01wbWs0dWFrQ2JPOXJoTnJZSTBMVjl0U0R2ci1LWDA0VmdpcTBybW5oMGNUS3Y0SWtOLXJmN2xfbGhyaEg2RWhMX2JWLVlr?oc=5",
-      "summary": "阿帕契遇襲內幕！路透披露美軍用伊朗招數 祕密協助轉運波灣原油 自由時報 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Tue, 16 Jun 2026 12:48:41 GMT",
-      "display_time": "06/16 12:48"
-    },
-    {
-      "source": "Google News Global",
-      "title": "雙方傷亡慘重！川普：俄羅斯應達成協議結束對烏克蘭戰爭| 國際焦點| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHT2Y4Y21HLUY3cDV3YTlTbk9lWXgxcHE4V2R0MHJwOFRqLTRsTDVRcWFUaVBjalZXa2JCaDBta0NmSVp0aklhYmViTjRHRFVo?oc=5",
-      "summary": "雙方傷亡慘重！川普：俄羅斯應達成協議結束對烏克蘭戰爭| 國際焦點| 全球 UDN G7領袖同意加強對俄施壓 川普稱很快重啟俄油制裁 rti.org.tw 普丁與川普最新通話 克宮：未討論與澤倫斯基會面 Yahoo新聞 普丁與澤倫斯基同日通話川普！烏克蘭戰爭成G7峰會前外交焦點 news.cnyes.com 為了推動俄烏和談 澤連斯基：曾提議川普邀請普丁參與G7峰會 Newtalk新聞",
-      "published": "Tue, 16 Jun 2026 12:37:39 GMT",
-      "display_time": "06/16 12:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "阿帕契直升機遭伊朗擊落內幕曝光！竟是美深夜在荷姆茲偷運油 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kSzA3N3poTEhQbG95Rm5oTm5paUFWSlJ3N1dmZ1N2YU5qYU5FSm9xeXlQWjg0NF9EdGI1dFVOV3hZVm9xenVidmZFRmpZT2Zteko3Wk5jNlV5ekY3dlN6dHNQSFpGd9IBa0FVX3lxTE1kdkNiT2FnVXhuTVlZMVREWGltZEs3Tkxmd3BtYVltU295bnZMLXFUN2R5c2QyOGhXLXo5WXFQLTRKOWlyQkhkY1pLLU5hbUtSY19yWkJVS0laMHFLd05HeEV3N0E5UEZDT0c4?oc=5",
-      "summary": "阿帕契直升機遭伊朗擊落內幕曝光！竟是美深夜在荷姆茲偷運油 自由時報 就是要收費！伊朗稱：荷姆茲海峽免通行費 但收服務費 自由財經 海事追蹤商：美伊談妥和平協議後 荷莫茲海峽航運仍清淡 TVBS新聞網 金融時報：油輪業觀望美伊協議荷莫茲復航恐等數週| 國際 中央社 CNA 美伊和平協議若落實...荷姆茲海峽復航如何推進？Kpler全面推演三階段 Yahoo股市",
-      "published": "Tue, 16 Jun 2026 12:16:13 GMT",
-      "display_time": "06/16 12:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "荷莫茲快通了！油輪巨頭卻集體「裝死」 藏水雷迷霧與空頭支票- 財經 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SMjRpUWFZN1dvbkhtSTR4R3FoNFM5djNnUG1RZlJSUnFLU19hVlplcjdBMUFaWFo1RFhuem1xc192RkIxQ0lRNG9nOUtTSEtOR0VTYU54LXVjQWtHTTVqclVWTWVaMk12NE43M3l3?oc=5",
-      "summary": "荷莫茲快通了！油輪巨頭卻集體「裝死」 藏水雷迷霧與空頭支票- 財經 中時新聞網 就是要收費！伊朗稱：荷姆茲海峽免通行費 但收服務費 自由財經 美伊協商新變數 伊朗暗示收海峽「服務費」 UDN 金融時報：油輪業觀望美伊協議荷莫茲復航恐等數週| 國際 中央社 CNA 美伊和平協議若落實...荷姆茲海峽復航如何推進？Kpler全面推演三階段 Yahoo股市",
-      "published": "Tue, 16 Jun 2026 07:34:26 GMT",
-      "display_time": "06/16 07:34"
-    },
-    {
-      "source": "Google News Global",
-      "title": "三大法人買超582億元！外資3天回補逾千億 台積電尾盤急拉台股收最高 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92NjdXTUZIcEpBdTVYVEhZWC0xUEE0eERQajk3X2h0YzFYQ0gxTmRFZGV5TzFDSGIydGlXV2RnNkh2ZENidTRLSHcxcFJNQ0hn0gFWQVVfeXFMTnJKeTNUUURwNkJxZDdlTHVWNDVfRldGNTVFSEdRSEthSHcxR29Jc1NJZ2JQRkFoUE5wUGxGN1FMVDY5aThfV2Z0cjdIdzIxMUtBTHVQX0E?oc=5",
-      "summary": "三大法人買超582億元！外資3天回補逾千億 台積電尾盤急拉台股收最高 UDN 【Follow法人】外資續買超407億元！狂掃南亞科華邦電逾8萬張 聯電也受寵 Yahoo股市 外資再加碼465億元 狂掃3檔主動式ETF共38.7萬張 news.cnyes.com 第一金衝18年新高！最大買家是「他們」 45萬股東吃香喝辣 自由財經 台股上沖下洗數百點！分析師：深蹲式震盪藏轉機下一波買點正在浮現- 證券 工商時報",
-      "published": "Tue, 16 Jun 2026 07:15:45 GMT",
-      "display_time": "06/16 07:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊和解以色列清算戰略失誤尼坦雅胡成最大輸家- 國際 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jVVVQNzRkVVlZY2VJT2I5RTB5MkR3a1oyU1Q2R19RN3RGb3k4VXdQbFMtN1liWlpGaXBwZ3hHVGdfY2l4Y0huSnRXUjVxSTc3Nkhrd2RtenBpY3A4N29zQW9BRWNveDlRTHMzWTBn?oc=5",
-      "summary": "美伊和解以色列清算戰略失誤尼坦雅胡成最大輸家- 國際 中時新聞網 美伊停戰還沒正式生效 以黎交火次數強度減UN欣慰 中央社 CNA 以色列空襲黎巴嫩釀4死　伊朗軍方揚言嚴厲回應 經濟日報 美伊達成協議 尼坦雅胡：持續留守加薩黎敘3地 rti.org.tw 美伊達成停火框架 川普與納坦雅胡分歧浮現 Taiwan News",
-      "published": "Tue, 16 Jun 2026 07:03:06 GMT",
-      "display_time": "06/16 07:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "日本央行決定加息至1.0% - 日經中文網",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORGljZjM1SzQxeXFhRVJGcUpKLWYxaDFLbE5MN0ZMNVBqbVptb3d0bkoxcTYxWURxUWRqaTdXb2NCdnpQNHgwU212amowbEctZk43R2s0ZHJqSDk1Y0FtQ2ZFcG52LTVFc2hvU0JvZmZaN1BBU0EyV1FIVWZtYlNUMlc5UDR5N0lhV0E4ckJrTEpOdw?oc=5",
-      "summary": "日本央行決定加息至1.0% 日經中文網 日本央行宣布升息1碼！行長缺席仍做決策「情況極罕見」 超級央行週各國態度一次看 Yahoo股市 日銀如預期升息1碼、31年來新高日圓仍軟- 新聞 MoneyDJ 日銀升息至1%創31年新高因應中東情勢與通膨壓力| 產經 中央社 CNA 日央行宣布升息1碼 基準利率升至1%創31年新高｜20260616 公視晚間新聞 公視新聞網PNN",
-      "published": "Tue, 16 Jun 2026 06:31:04 GMT",
-      "display_time": "06/16 06:31"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股勝率超過7成卻慘賠？財經專家點出散戶最大致命傷： 這習慣不改永遠是輸家 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OZ29ib1A0N25lYlNHdmw3d28tVEpwNGZYX2FQRmZZcnhvNDNkY1V3ZVp3N19FOVVIM0lHNm5yUHhkNENRN3ZWVkNONE5DX1Vv?oc=5",
-      "summary": "台股勝率超過7成卻慘賠？財經專家點出散戶最大致命傷： 這習慣不改永遠是輸家 Storm.mg",
-      "published": "Tue, 16 Jun 2026 06:23:28 GMT",
-      "display_time": "06/16 06:23"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電最後一筆6960單暴拉！漲25元收最高2400　台股收漲412點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kb2JJWXpYc1lPY2FaT1k0UzFDREwtNjdaYnVaV1pEcGw5U1p0M0JTZHhCNFVRUzJnMHBhczdwZk5oUlJhQWx0aHdfZHQxeTVuYUHSAW5BVV95cUxPZnlieGptUC1CY25ndWNuek51alFZRE9jRWxOYzhOR1Fna2U0eTJLOVZ0cHA4VWFtV2M1QnJUdmxlSDlUTXNzNEFiRk9FbWl2YXFSajBfcjJrX2FXU3VtSno3V2Mwc05nS3ZtR0xrdw?oc=5",
-      "summary": "台積電最後一筆6960單暴拉！漲25元收最高2400　台股收漲412點 ETtoday財經雲 早盤快訊》台股震盪翻紅有望？台積電走弱、航空雙雄噴漲，景碩亮燈漲停| 風傳媒 LINE TODAY 台股漲412點收今日最高點! 台積電衝2400元 MSN",
-      "published": "Tue, 16 Jun 2026 05:37:00 GMT",
-      "display_time": "06/16 05:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "鄭麗文訪美為何頻傳降規？黃暐瀚提「三誤」：美方恐早已沒興趣| 政治 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLRWMyMGtJV05rXzVXMXBCamR3T241NWEyVktSWDZ3ZHlRYndSUzllaUdXM1RQQktzQlBVRkRjSElaXy1rVGVKM3lWXzVhTmpVT3BpQlluMzdBc3M?oc=5",
-      "summary": "鄭麗文訪美為何頻傳降規？黃暐瀚提「三誤」：美方恐早已沒興趣| 政治 Newtalk新聞 鄭麗文訪美慘遭放鳥！爆「欺瞞手段」惹怒美方 國安會也取消會面 Yahoo新聞 鄭麗文訪美返台未發表談話 北社：究竟為台灣帶回什麼？連向人民報告的勇氣都沒有！ Newtalk新聞 鄭麗文訪美竟出現欺瞞手段！民進黨團：國民黨應以誠信為外交原則 自由時報 女版韓國瑜？他曝鄭麗文訪美熱度：川普核心的人都有見- 政治 中時新聞網",
-      "published": "Tue, 16 Jun 2026 03:12:32 GMT",
-      "display_time": "06/16 03:12"
-    },
-    {
-      "source": "Google News Global",
-      "title": "鄭麗文訪美低調返台！ 顏擇雅揭中共盤算走鐘：疑K論在華府成主流| 政治 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5udEtjS2p4RmQtZlA1bXNKdERTMXMzRXNwclFBMmY1ZHVTaHdCcUxOYXY5c2VMLWF3RVVaVjdveWFPTE5OZGJjYS1FSkRBcm0yVzFpelE5N3dqZUk?oc=5",
-      "summary": "鄭麗文訪美低調返台！ 顏擇雅揭中共盤算走鐘：疑K論在華府成主流| 政治 Newtalk新聞 觀察／國民黨2028四顆太陽浮現 誰能笑到最後 Yahoo新聞 獨家》不只國安會！美政界曝鄭麗文欺瞞手段 讓國會議員也取消會面 自由時報 聯合報黑白集／鄭主席至少比賴總統強 UDN 女版韓國瑜？他曝鄭麗文訪美熱度：川普核心的人都有見- 政治 中時新聞網",
-      "published": "Tue, 16 Jun 2026 00:31:56 GMT",
-      "display_time": "06/16 00:31"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊終戰協議重挫以色列！納坦雅胡急求見川普 朝野怒轟外交失控 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxdkRleEFXWkFqM24xN2liYm51TDVHMWIzajlPNG1aMWljWW1uTXdKTnA2TTM0QTJaTHpLQnVoTFhwemxPWTRLeXJNUEsxMkFta3BMdlREaGd0dTVsbnJtYWhaRWNSUdIBa0FVX3lxTE5acUc1R2lZQkl0VmI1MUdkUXlZcmNNN1VVYWtkd201YTlGbzh4VVktOFB4U3pLODhTNW9yVDIyYk1tUlZwQ25zZUJ2a2VFd3duLVo3SUZacHBxMnJjMXNvZEFUdkg5SmhpNjk0?oc=5",
-      "summary": "美伊終戰協議重挫以色列！納坦雅胡急求見川普 朝野怒轟外交失控 自由時報 美伊停戰還沒正式生效 以黎交火次數強度減UN欣慰 中央社 CNA 川普不滿納坦雅胡拖累伊朗和談 建議以色列放手「讓敘利亞去打真主黨」 Yahoo新聞 美伊達成協議 尼坦雅胡：持續留守加薩黎敘3地 rti.org.tw 美以關係生變？內唐亞胡：與川普難免意見不合| 中東戰火連綿| 全球 UDN",
-      "published": "Mon, 15 Jun 2026 22:12:01 GMT",
-      "display_time": "06/15 22:12"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗沒垮、川普也不挺尼坦亞胡慘了陷空前政治噩夢- 國際 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PY0Y2SDZUdVA4b3VHMkR3V2xya3Ricy0waFVhMWtwMWx4TXY2WUluMVBSbmZReFJJcE1zT1VkZDlMeHAtTDhOeHhCekoydGVQTXNFV0Q5SEs5dWhOMnZKS3lvVWQxRHhydFFfR0Zn?oc=5",
-      "summary": "伊朗沒垮、川普也不挺尼坦亞胡慘了陷空前政治噩夢- 國際 中時新聞網 美伊將簽協議外館回顧戰時助近萬台人撤離| 國際 中央社 CNA 路透指美、亞等地企業合力出資 擬籌3千億美元重建伊朗 公視新聞網PNN 對於通行荷莫茲海峽　馬士基：謹慎觀望、暫不調整現有運營安排 ETtoday財經雲 川普警告伊朗「不守規矩」就恢復轟炸 預期油價續跌到低於戰前 自由財經",
-      "published": "Tue, 16 Jun 2026 01:39:29 GMT",
-      "display_time": "06/16 01:39"
+      "title": "批拜登尋求連任是「可怕錯誤」 希拉蕊：換其他人選都會贏川普 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sZUk1VFpMNkVLemYtMVRLMmR6bHZTMnE2MFRPc0NsMkNpOEEzb2VTVFkwTEZzbklvYnJnSXJBZ3hWVTkzcHNscGpHY0Y1YlFXMDdhT0hmcVFQa3hqUEotMGo4REs5d9IBa0FVX3lxTE9lVTA3cy1walJuaWtBYk1YU3BMNGh4VGc2bkM0SVVJQTZlejQ1M1ZCaTRsX0dBV1o2NXVvX0R1M0pEenJsOHBGRXYyZ3A1TEFOZ0VSd2U0T3RIdDItd2JveWRjNlB5MjAyNUdZ?oc=5",
+      "summary": "批拜登尋求連任是「可怕錯誤」 希拉蕊：換其他人選都會贏川普 自由時報 拜登參選是重大錯誤？希拉蕊：若早交棒 民主黨「本可擊敗川普」 UDN 賀錦麗為何慘敗？希拉蕊揭露大選致命轉折點：拜登背棄承諾拖垮全黨| 國際 Newtalk新聞 希拉蕊憶民主黨2024敗選　稱拜登拚連任嚴重誤判 三立新聞網SETN.com 喜萊莉憶民主黨2024敗選 稱拜登拚連任嚴重誤判 世界新聞網",
+      "published": "Wed, 17 Jun 2026 03:51:59 GMT",
+      "display_time": "06/17 03:51"
     }
   ]
 }
