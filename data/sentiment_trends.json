@@ -4958,5 +4958,10 @@
     "timestamp": "2026-07-17T05:14:54.319516+08:00",
     "average_sentiment": 50.0,
     "news_count": 15
+  },
+  {
+    "timestamp": "2026-07-17T06:15:26.036570+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 19
   }
 ]

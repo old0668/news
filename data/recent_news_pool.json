@@ -1,13 +1,5 @@
 [
   {
-    "source": "CNBC Finance",
-    "title": "Netflix reports earnings in line with expectations, says company will give fewer engagement updates",
-    "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-    "summary": "Investors will be looking for updates on Netflix's ad-supported business, engagement metrics and how the streaming giant continues to consider potential M&A.",
-    "published": "Thu, 16 Jul 2026 20:02:57 GMT",
-    "display_time": "07/16 20:02"
-  },
-  {
     "source": "Google News Global",
     "title": "快訊／台指期夜盤下殺1227點　費城半導體也崩2.74% - ETtoday財經雲",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zbkVqRU94YlRBRFJMQmdrTkJuUGR2OS0yemVjSTZPWjBHRDNBcHBmMEhHVlhLRElLNnd5Um1rNENVS2dLMjR0MWp2SHczYmx4QlHSAW5BVV95cUxPSDNjcEZhYmdjVVgxMEkyaHc1Mk05a1F3cXZWMjZJRTZ5eWROMURSV1pxdHQzTk9vSnpRaDIwWEpCNEYzRERFWnpqSkxqXy14NHc2TTZEcEY3S3FoUHZtcG9sSExLMEViLVREMmFuUQ?oc=5",
@@ -24,12 +16,28 @@
     "display_time": "07/16 14:02"
   },
   {
+    "source": "BBC Business",
+    "title": "Trump Media to sell early access to key social posts",
+    "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+    "summary": "Trump Media is launching a fast, paid feed of the its social posts for Wall Street traders.",
+    "published": "Thu, 16 Jul 2026 22:01:19 GMT",
+    "display_time": "07/16 22:01"
+  },
+  {
     "source": "Google News Global",
     "title": "路透獨家：伊朗已要求葉門青年運動「關閉紅海航線」準備 中東兩大石油出口航線恐同時中斷 - Yahoo新聞",
     "link": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPUHBnd3pfenQ0dVljRlJpQlNhN0ZhaFVzOFoxVHBYRWFFa0ZoQ1hIdzg1bXJXcHM2MkhsWHowbEVTcEhjY1NIZ0lZRG1IZzFIVF80R1RNSDBkTmtoenhMNTd3ZkgzdnFFeEptOEltb2ZTMnF5UUxfamlHUEV5RzBlOWt4VzNkdGdoTUE0ZmRndjRZRFlFNkRVQnpkQnd3Q0pzRWxOdUFPOTNrUTZZQy0xUTU5VmRkYlVMSlFCQXU4ZGhFSXpGclZXaWk0RUwwSFExOTJGUmozV2VOWENHRllST3Q5elZ0bFZOSFhnWlJlQU9UbE8tdFZFX2RmUEtmX0tTLWhpaGx4eUdERVVVci1FOEhOeThrd3Y4c1BxVERqSVdiOElIQkthUUZUM25SRDBnb0hSN2FwN3hsbWJYRnpaVTR5Y0lGenZTZmJ3ak4wZjk0QVh2STdoTVFyaDB5ZmR6bEJOa3JEblBSczV0cG1TR0ZmNkd1TkFuelFWaWxXUE1icjNGd2pfVnYzOEdPZGh4VlVoUEVZM1QweTNkdEl2OS1JT1BOcjJFN1liNU5OdGI1NGhBejYyYTg0cW9CMVNlQ0pDUXhXWk9kTjdfX29wckhVRWh5YTlzTXVEc1BQbE80VkRMMFRCTFZqMDFlX2JMWWpCb05UX05FN0ZmeFVUOUJkeDZwQ0JuSzRXTjd1QzZvcS1ZWmJjcmlxR2Y4cmFHZ2t5aEl0UnpOQXR2NUx4a3RIVENJOERp?oc=5",
     "summary": "路透獨家：伊朗已要求葉門青年運動「關閉紅海航線」準備 中東兩大石油出口航線恐同時中斷 Yahoo新聞 以戰逼談 川普擬升級戰事 奪伊哈格島 UDN 川普保留對伊軍事選項 美官員：空襲為後續行動鋪路 rti.org.tw 美襲伊朗飛彈基地伊朗稱與美陷入生死存亡之戰| 國際 中央社 CNA 發動軍事打擊之際 川普稱伊朗希望會面 專家警告「永久戰爭」風險 鉅亨網",
     "published": "Thu, 16 Jul 2026 13:56:32 GMT",
     "display_time": "07/16 13:56"
+  },
+  {
+    "source": "CNBC Finance",
+    "title": "Netflix stock falls as earnings forecast disappoints, company says it will give fewer engagement updates",
+    "link": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+    "summary": "The streaming giant said it would cut back on the frequency of its \"What We Watched\" reports, which provide a picture of engagement.",
+    "published": "Thu, 16 Jul 2026 21:53:56 GMT",
+    "display_time": "07/16 21:53"
   },
   {
     "source": "Google News Global",
@@ -49,11 +57,27 @@
   },
   {
     "source": "Google News Global",
+    "title": "以戰逼談…川普擬升級戰事 奪伊哈格島 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10Mml5cEZPbWZIbldWMFVjc3ppVXJiZmdpdlVQQm9SamVzMFdQd2tMUUIxaXhzNlJ1bWVHQXBIVjhfUWEtbzAtdkljMWw1VUdNTXAw0gFYQVVfeXFMUERMWkhxT190Wk83dFFQbGRfMUtobWdfVkFfdGFJNGlDX1dBWnZzd1NOZkZLOFppeTVTQ2RGNzJIc2FkLWtRZG8tVlhaMHdCdi1hMERleWo1Mw?oc=5",
+    "summary": "以戰逼談…川普擬升級戰事 奪伊哈格島 UDN 美軍連五夜空襲伊朗 川普：不停火直到德黑蘭重返談判桌 Yahoo股市 美軍連日攻擊伊朗　白宮：伊朗續和美對話盼達成協議 自由時報 川普保留對伊軍事選項 美官員：空襲為後續行動鋪路 rti.org.tw 不聽警告就轟 美軍地獄火炸癱伊油輪 中央社 CNA",
+    "published": "Thu, 16 Jul 2026 20:23:05 GMT",
+    "display_time": "07/16 20:23"
+  },
+  {
+    "source": "Google News Global",
     "title": "台積電法說亮眼仍遭市場倒貨！夜盤崩千點 專家揭魏哲家「藏玄機」 - Yahoo新聞",
     "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxPUzlsOGZPclFYR2hfeXZ3WVBSWnM5RGllTnZtQ0N0TlhnVFpkUWJjTlVEZk1EUWh1cnJjdzBZT0REN3FvSWFHbWtRYk5aR2RzV1NIeXhpb0xPOWJRMmRyU2V5akZxVEdWU1JPYVI5VXBrTW9MdzdVdFBneG9hVThIV3FkcmswUnVTWUNQRnctSkhJQU85djhfQ2pLR1JKcHlocUJ0NlI5N2Uxa1dLcmxnZkZUY2g3Tm1IcmFiTTRXamM1OEZUbW55SE4zWDRPaTlYdW9kRTdwbFFEYlBvaFVwM3hvc08xYXJMNjBkdnpIUkFhNmN3ODVZVlVDS3FLTjhDVXhTWVFCczRxeUZpTDNlNEY3OW9sb3gxX05tUkp1TzM1SzdWXzZpZGkxeXRyaTVKUkx1V2lvODZnN3ppX3h1OUhUYWk0TDZjaDRtNEFXUkpwc3p1SEZ5OWx3LUQwTkVidUh6MGIwMEwtcmFYSEVRZzZ4anZGdEl5WWp5aXhBaGpzRlBGc1JadGE2aEFxWkhMZXM1TzlRckdpQVk?oc=5",
     "summary": "台積電法說亮眼仍遭市場倒貨！夜盤崩千點 專家揭魏哲家「藏玄機」 Yahoo新聞 AI浪潮助攻 多家機構看好台積電 目標價頻創新高 news.cnyes.com 台積電賺這麼多還跌？ 蔡明翰曝「法說恐怖慣性」：不要大漲才來追 Yahoo股市 台積電法說會後ADR盤前崩跌逾4％！拖累台指期夜盤狂瀉逾千點 自由財經 台積電法說》加碼投資美國千億美元、Q3營運展望… 6大重點一次看- 產業 工商時報",
     "published": "Thu, 16 Jul 2026 11:55:54 GMT",
     "display_time": "07/16 11:55"
+  },
+  {
+    "source": "Google News Global",
+    "title": "台積電董座魏哲家宣布加碼1000億美元！投資美國亞歷桑那半導體晶圓廠 - Yahoo股市",
+    "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQSk0yTnA3cFFhODVTSEZNMVNXRGhTek50ZjB0TEpGbjBYR2w3YTg5dm1VTUZFa0g0LUlMSjNkcndCczJfWTdPcm5HQ0JYaFNiQTc4UHhndVRBOEszdG1scUhLZEFTNnBRNVdTMllZbmJaYmlxTkRhLTNxczYwVEU4dkhpUzBTbjBpQkNNRE5abWdkTk5XVzYtcDVIQ0xXWVVYa2xPNFhTWVhEV3lKaWhOXzBPeDREYjhLdUlFbjRFc09JZFpaNHIyRkJ3ZndWUm9Qd1ozLV9jXzIzS1k4c256M21BTE5lNkVIZTZUM3cyMVpLTW51Slp4UmsySU1KWDFzQXBVdDZxalp4ckJBZmpKTnBKcFBNZ0Vmb1d3SV9JWXlpMm5JVWtrWFpKaks1ZHE1ckMyNHZ1UTYxems0OGhkQVV4OFpydGprSTUwNVRIelVUS3ZMbDd6ZFZyb2M1VGw3RWR1c1paUVRnMlNhXzA5SHJDQ1cxRW4tRHVtNzF2T293NjdCa3FCbHFrMmJvdW5PQW80TndGaENqQ1BFZjBaZUpiNU9iSkZHS3NJTkpreVN1YnQwTTFfZGRoY1dQdw?oc=5",
+    "summary": "台積電董座魏哲家宣布加碼1000億美元！投資美國亞歷桑那半導體晶圓廠 Yahoo股市 台積電加大美國投資、上修財測但示警第三季毛利率恐稀釋！ 7大重點一次看 Yahoo股市 【行情快報】N2 起步、庫存攀升，台積電再度上調資本支出！ MacroMicro 台積電法說會後ADR盤前崩跌逾4％！拖累台指期夜盤狂瀉逾千點 自由財經 〈台積電法說〉魏哲家：AI需求一直增加 可能一路強勁至2029、2030年 news.cnyes.com",
+    "published": "Thu, 16 Jul 2026 11:41:38 GMT",
+    "display_time": "07/16 11:41"
   },
   {
     "source": "Google News Global",
@@ -121,11 +145,19 @@
   },
   {
     "source": "Google News Global",
-    "title": "外資狠砍483億前10大買超出爐！這檔電子2天敲約10萬張最吃香 - 自由財經",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cjBjMmR3UGJLTkQwQVBPRm9uYWVSMkxUb1FWSDBNbEw0WnhZZVhlbVc5RVR3S0dEWmZXdWpvS2c1ZkxiWmdBN1JGcFZnZUUyMnNKRS1zODdGSC03a1Fv0gFkQVVfeXFMT01IdEdZYVhkZWhTMGpDUk5scEFJLTBkWm5ZTURBRXE2TGhWMWZFQkgzUTkyZUZmWlFDcDJuU21kVGR2U2lVblBRbTRCakFwTDdmbFJObERzdGJzSFI2dmVMSkRhVA?oc=5",
-    "summary": "外資狠砍483億前10大買超出爐！這檔電子2天敲約10萬張最吃香 自由財經 三大法人出清431億跑路！台股尾盤急拉未能翻紅 股民心痛：大哥手快斷了 Yahoo股市 力積電有驚無險！幕後功臣是「這群人」 66萬股東小賺加菜金 自由財經 國家隊瘋狂倒貨！0050、403A、力積電、華邦電…20大進出清單1次看這權值ETF慘遭暴砍50億 - 上市櫃 旺得富理財網 66萬股東虛驚一場！這檔股價逆勢突圍「全靠他們」 三立新聞",
-    "published": "Thu, 16 Jul 2026 08:50:29 GMT",
-    "display_time": "07/16 08:50"
+    "title": "AI推進機器人發展 日本山葉樂看「台灣將成重要市場」 - Yahoo股市",
+    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOanpEZmQ5SFdCWXIzV1Y1aWoyQlBEdjFVX205X051c0hHaUR5eE9lbHZtUVRfTXhDZWRxM0JKUjdoT2NjZzRGekhLcTZZRk1ZbXdUeUlWN1FKU2xrb2V1UE84ZFZuU2RIa0UzanRCS3B6c3Q4LTd1bFNhdk00RzNTU2pXTEpqYkJucUtXQTlKZjZXaWJMVGQ3RTkyN3NXQjFZUzJneEtjUm0zcmZQTjBBMjhLT3I4cWRhbnU4WDlSSDV0VnI1U3RkVVVXRlZhMmpUTXN4SWwtU2t5WWxCVldfdGN6OHJpb3lnaUl3M1pBZHczV0VUSnBMaXZJVlRoeUxfcmFCWUk5SjEzajJabzBjV0pNNVZjWUFNZ0VXS0RTYTY4R2E1ZjdMMGZaODhHb0VpWXJJNG5jUm5GTktySG9fX3QydG9aWFdrTldsejM1MVlVVmJfYkN0Q0RyOE0zeF9vOXg0b2ZydFBTd2Vkai1MeGFhbw?oc=5",
+    "summary": "AI推進機器人發展 日本山葉樂看「台灣將成重要市場」 Yahoo股市 少子化與缺工加速進入機器人時代 黃志芳：日本高端實力值得學習合作 ETtoday財經雲 光電上牆、減碳可算 城市立面迎新局 中央社 CNA 甘利明看實體AI就是機器人！台廠靠AI視覺攻日 自由財經 貿協黃志芳：除了無人機今年也是台灣機器人及自動化產業元年- 產業 工商時報",
+    "published": "Thu, 16 Jul 2026 09:41:30 GMT",
+    "display_time": "07/16 09:41"
+  },
+  {
+    "source": "Google News Global",
+    "title": "快訊／台積電ADR跌3%！晶片股重挫四指慘綠 台指期狂瀉1064點 - Yahoo新聞",
+    "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPZUJpbXlxWEVJeGFWVENwTjlicG1yaGp3MHh1akVicTNVeXExTWQ1eXc5Q1hhT2o1QjM4MFhGQk9Qc1NfRENDVDNCX1NqMFJxRUl2YTB0aDJlRkVkaWRfRDc2a2FjVkstcDdaVFlHamZRSnJ1YlpTS3VGaWNwSWU4c0x2N0I2MmJrXzl4Y2JfN0pfVjg4UVNSMmJRRnc0VXJwQ1JUUjllbWEyUS14aVBRQjJ0LTZNc3ZKNlVuQmxuQjVlQ00zNlRiYjV4akNIc2ZjSzdSbjM5WDlWakZKUjZYX3RIVkpqTmk0WVlvWVQ4SFdWYW9fY1hvallod1FOS0otQkVJSDc1LV9XU05ZZDdXdnhEeEhqWGxSZ21hYlVoS2tQNzV1RW12ekhYUGF2VEpnbVpxOUVSQmw4U2JUWkc5VDF4b0NrbzNBZ2pQNlczWjlESEpVNldwN0NleTlpQQ?oc=5",
+    "summary": "快訊／台積電ADR跌3%！晶片股重挫四指慘綠 台指期狂瀉1064點 Yahoo新聞 台積電財報利多失靈！美股4大指數全收黑 費半跌531點、那指跌387點 Yahoo新聞 〈美股盤後〉費半重挫超4% 台積電ADR跌逾2% SK海力士ADR慘崩超13% news.cnyes.com 台積電財報利多不漲晶片股重挫拖累美股開低- 國際 工商時報 美股早盤／布蘭特油價破85美元 晶片股回檔、費半摔2% UDN",
+    "published": "Thu, 16 Jul 2026 16:42:00 GMT",
+    "display_time": "07/16 16:42"
   },
   {
     "source": "CNBC Finance",
@@ -171,7 +203,7 @@
     "source": "Google News Global",
     "title": "韓股46萬人爆倉！李在明10月才設債務專線　胡采蘋：觀落陰諮詢嗎？ - ETtoday財經雲",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wNzUxMUgwSWR1dUNjVVFYMFR0Zm9aVk5QWlR6a0dPaDkteGZsdVc3enZtQUEzZTVSNFZVUUpuaW9kWlV0a0JoUkFGTWVfaVBhaXfSAW5BVV95cUxOdUNGWktKX3Jxel9RdXpvVW80UkYyOXk5WWNKOUJIbUExeE1yaTVaNTVaN3FrVjN3YWJjaHlvS2xrZGNmMFJLMUxoTVlWVjAtVGI5cVZ4LVEybG1DNlBLU2w2TW9vXzhYWTZSUHA5UQ?oc=5",
-    "summary": "韓股46萬人爆倉！李在明10月才設債務專線　胡采蘋：觀落陰諮詢嗎？ ETtoday財經雲 南韓2倍記憶體ETF爆雷釀股災！金管會首度表態了 Yahoo股市 南韓個股槓桿ETF 金管會：不開放相關商品 UDN 韓股熔斷今年第8次！韓國股市怎麼了？46萬人被「槓桿絞肉機」輾平、10人有8人慘虧：結婚錢養老金歸零 今周刊 韓股大震盪 7月以來總市值已蒸發30兆 自由時報",
+    "summary": "韓股46萬人爆倉！李在明10月才設債務專線　胡采蘋：觀落陰諮詢嗎？ ETtoday財經雲 南韓2倍記憶體ETF爆雷釀股災！金管會首度表態了 Yahoo股市 抑制市場波動南韓個股槓桿ETF喊暫停| 全球財經| 全球 UDN 韓股熔斷今年第8次！韓國股市怎麼了？46萬人被「槓桿絞肉機」輾平、10人有8人慘虧：結婚錢養老金歸零 今周刊 韓股大震盪 7月以來總市值已蒸發30兆 自由時報",
     "published": "Thu, 16 Jul 2026 13:54:00 GMT",
     "display_time": "07/16 13:54"
   },
@@ -182,6 +214,14 @@
     "summary": "〈台積電法說〉Q2雙率再超標、EPS 27.25元同創高 上半年大賺近5個股本 news.cnyes.com 【台積電法說會】賺翻！第二季毛利率68% 每股賺破27元 Yahoo股市 台積電法說會／估營收第3季續衝高達446-458億美元 中間值季增12% 經濟日報 台積電Q2營收1.27兆元、EPS為27.25元雙創歷史新高首見2奈米產品挹注- 產業 工商時報 台積電法說會時間就在今天，先盤點「3重點」！股價再來跌還漲、目標價喊3800元還有5成空間，現在上車？ 今周刊",
     "published": "Thu, 16 Jul 2026 05:53:19 GMT",
     "display_time": "07/16 05:53"
+  },
+  {
+    "source": "Google News Global",
+    "title": "AI浪潮助攻 多家機構看好台積電 目標價頻創新高 - news.cnyes.com",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WVDlvbDVTeHhSZVQ0dlFBMzlEVk5rNFZXaG1tUDFheDVaMmoxS2xFbnp2cWtFeGhRQnI4OS1LcDByU2pVZnRreV9fNzNiSFU?oc=5",
+    "summary": "AI浪潮助攻 多家機構看好台積電 目標價頻創新高 news.cnyes.com 【行情快報】N2 起步、庫存攀升，台積電再度上調資本支出！ MacroMicro 台積電加碼投資美國1000億美元 Yahoo新聞 AI推著走、美國政策加速走 台積投千億美元承載長遠優勢布局 DIGITIMES 台積加碼3.2兆 美國再建4座晶圓廠 自由財經",
+    "published": "Thu, 16 Jul 2026 13:38:20 GMT",
+    "display_time": "07/16 13:38"
   },
   {
     "source": "Google News Global",
@@ -214,14 +254,6 @@
     "summary": "美軍近日首度空襲伊朗北部德黑蘭周邊傳爆炸| 國際 中央社 CNA 以戰逼談 川普擬升級戰事 奪伊哈格島 UDN 川普保留對伊軍事選項 美官員：空襲為後續行動鋪路 rti.org.tw 美襲伊朗飛彈基地伊朗稱與美陷入生死存亡之戰| 國際 中央社 CNA 發動軍事打擊之際 川普稱伊朗希望會面 專家警告「永久戰爭」風險 鉅亨網",
     "published": "Thu, 16 Jul 2026 04:05:00 GMT",
     "display_time": "07/16 04:05"
-  },
-  {
-    "source": "Google News Global",
-    "title": "台積電董座魏哲家宣布加碼1000億美元！投資美國亞歷桑那半導體晶圓廠 - Yahoo股市",
-    "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQSk0yTnA3cFFhODVTSEZNMVNXRGhTek50ZjB0TEpGbjBYR2w3YTg5dm1VTUZFa0g0LUlMSjNkcndCczJfWTdPcm5HQ0JYaFNiQTc4UHhndVRBOEszdG1scUhLZEFTNnBRNVdTMllZbmJaYmlxTkRhLTNxczYwVEU4dkhpUzBTbjBpQkNNRE5abWdkTk5XVzYtcDVIQ0xXWVVYa2xPNFhTWVhEV3lKaWhOXzBPeDREYjhLdUlFbjRFc09JZFpaNHIyRkJ3ZndWUm9Qd1ozLV9jXzIzS1k4c256M21BTE5lNkVIZTZUM3cyMVpLTW51Slp4UmsySU1KWDFzQXBVdDZxalp4ckJBZmpKTnBKcFBNZ0Vmb1d3SV9JWXlpMm5JVWtrWFpKaks1ZHE1ckMyNHZ1UTYxems0OGhkQVV4OFpydGprSTUwNVRIelVUS3ZMbDd6ZFZyb2M1VGw3RWR1c1paUVRnMlNhXzA5SHJDQ1cxRW4tRHVtNzF2T293NjdCa3FCbHFrMmJvdW5PQW80TndGaENqQ1BFZjBaZUpiNU9iSkZHS3NJTkpreVN1YnQwTTFfZGRoY1dQdw?oc=5",
-    "summary": "台積電董座魏哲家宣布加碼1000億美元！投資美國亞歷桑那半導體晶圓廠 Yahoo股市 台積電加大美國投資、上修財測但示警第三季毛利率恐稀釋！ 7大重點一次看 Yahoo股市 【行情快報】N2 起步、庫存攀升，台積電再度上調資本支出！ MacroMicro 台積電法說會後ADR盤前崩跌逾4％！拖累台指期夜盤狂瀉逾千點 自由財經 〈台積電法說〉魏哲家：AI需求一直增加 可能一路強勁至2029、2030年 news.cnyes.com",
-    "published": "Thu, 16 Jul 2026 11:41:38 GMT",
-    "display_time": "07/16 11:41"
   },
   {
     "source": "Google News Global",
@@ -265,14 +297,6 @@
   },
   {
     "source": "Google News Global",
-    "title": "AI推進機器人發展 日本山葉樂看「台灣將成重要市場」 - Yahoo股市",
-    "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxOanpEZmQ5SFdCWXIzV1Y1aWoyQlBEdjFVX205X051c0hHaUR5eE9lbHZtUVRfTXhDZWRxM0JKUjdoT2NjZzRGekhLcTZZRk1ZbXdUeUlWN1FKU2xrb2V1UE84ZFZuU2RIa0UzanRCS3B6c3Q4LTd1bFNhdk00RzNTU2pXTEpqYkJucUtXQTlKZjZXaWJMVGQ3RTkyN3NXQjFZUzJneEtjUm0zcmZQTjBBMjhLT3I4cWRhbnU4WDlSSDV0VnI1U3RkVVVXRlZhMmpUTXN4SWwtU2t5WWxCVldfdGN6OHJpb3lnaUl3M1pBZHczV0VUSnBMaXZJVlRoeUxfcmFCWUk5SjEzajJabzBjV0pNNVZjWUFNZ0VXS0RTYTY4R2E1ZjdMMGZaODhHb0VpWXJJNG5jUm5GTktySG9fX3QydG9aWFdrTldsejM1MVlVVmJfYkN0Q0RyOE0zeF9vOXg0b2ZydFBTd2Vkai1MeGFhbw?oc=5",
-    "summary": "AI推進機器人發展 日本山葉樂看「台灣將成重要市場」 Yahoo股市 少子化與缺工加速進入機器人時代 黃志芳：日本高端實力值得學習合作 ETtoday財經雲 光電上牆、減碳可算 城市立面迎新局 中央社 CNA 甘利明看實體AI就是機器人！台廠靠AI視覺攻日 自由財經 貿協黃志芳：除了無人機今年也是台灣機器人及自動化產業元年- 產業 工商時報",
-    "published": "Thu, 16 Jul 2026 09:41:30 GMT",
-    "display_time": "07/16 09:41"
-  },
-  {
-    "source": "Google News Global",
     "title": "台塑三寶撐盤 被動元件點火 台股跌398點拚上5日線 - Yahoo股市",
     "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPeFhWdnFEVG5zNU1ZcElZUXk1MUJyeDBYaHFlRU53SWg0aVYzNmtYRkt4a2ZRbmtVd3VCdXdXMlV3eVhmNlE3cENPVGxKYjZ0MjRIWnBKRktDTUNzdlZteG9WZ3BhM2R0U3BMVUI4YkxYbXYyMUU1dnhFS3BQOGk5VjVISm5WeXE3U2dxX1FlTXBqQzktakl6V2dwQmdNRWhVcERucnZmZ0luZnJEMjlVbVpLY25nOXdNNk9kbEpMVi1TMEdZUnVWa2lPa2NuUEQ1d1IySmVvNkUtMVpjMkFDajBqTEg4MnpZNUFaWVY0TjAxNTU4djVHelBMdUFqQ01iZkl4R0RPWlF3SGhHbF9KWl9zQ3pNR2xicmpVN0ROSUNyZzZkZDFmVF9HYXdVWWI5R1YyYjZVT3haQlZIWFZPM3FQejNzQjZTQjl5M1FTY1FpSXM?oc=5",
     "summary": "台塑三寶撐盤 被動元件點火 台股跌398點拚上5日線 Yahoo股市 韓股又熔斷！ 觀望台積法說台股回測45K 台塑家族撐盤 Yahoo新聞 4萬5保衛戰！聯電、南亞科領跌 指數跌近500點 自由財經 專家看盤》大盤測五日線 記憶體、光通訊熄火 聚焦台積法說四大焦點 | Newtalk LINE TODAY 台股暫守45000點 盤中跌勢收斂下跌約200點 MSN",
@@ -302,6 +326,14 @@
     "summary": "油價點火塑化股噴發台塑化.福懋科攻漲停| 產經 非凡新聞台 台塑Q3開工率回升至73%；產品跌價估使營收季減- 新聞 MoneyDJ 台塑四寶爆衝！他曝調薪、改善營運訊號喊「真的不一樣了」 網淚：看見解套曙光 Yahoo股市 台塑四寶變九寶！台塑、南亞、台化、台塑化還能買？最新目標價！台塑AI半導體「特化帝國」版圖一次看 今周刊 台塑集團撿到槍！國際油價狂飆　旗下1檔漲停2家奮力穩盤 ETtoday財經雲",
     "published": "Thu, 16 Jul 2026 01:02:50 GMT",
     "display_time": "07/16 01:02"
+  },
+  {
+    "source": "Google News Global",
+    "title": "外資狠砍483億前10大買超出爐！這檔電子2天敲約10萬張最吃香 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4cjBjMmR3UGJLTkQwQVBPRm9uYWVSMkxUb1FWSDBNbEw0WnhZZVhlbVc5RVR3S0dEWmZXdWpvS2c1ZkxiWmdBN1JGcFZnZUUyMnNKRS1zODdGSC03a1Fv0gFkQVVfeXFMT01IdEdZYVhkZWhTMGpDUk5scEFJLTBkWm5ZTURBRXE2TGhWMWZFQkgzUTkyZUZmWlFDcDJuU21kVGR2U2lVblBRbTRCakFwTDdmbFJObERzdGJzSFI2dmVMSkRhVA?oc=5",
+    "summary": "外資狠砍483億前10大買超出爐！這檔電子2天敲約10萬張最吃香 自由財經 外資暴砍逾3萬張！這檔記憶體股 獲國家隊砸4億買超 Yahoo新聞 「台塑核心支柱」成外資獵物 狠砍5.2萬張！23萬股東集體吃抹茶pocky Yahoo新聞 力積電有驚無險！幕後功臣是「這群人」 66萬股東小賺加菜金 自由財經 三大法人賣超431億元 齊買力積電近6萬張 外資大動作加碼台指期空單 news.cnyes.com",
+    "published": "Thu, 16 Jul 2026 08:50:29 GMT",
+    "display_time": "07/16 08:50"
   },
   {
     "source": "Google News Global",
@@ -424,6 +456,14 @@
     "display_time": "07/15 12:08"
   },
   {
+    "source": "Google News Global",
+    "title": "美對伊朗發動新一輪空襲 CNBC：恐演成「永無止境的戰爭」 - 自由財經",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVnFCd182cl9fNUdVNWFjWU9pQ3pUbFhnd2o2Mm9ITDVZRENnZGZrYTBaM1VYQ3AwaXlkLTBtNG82REZJRS16Tmt5emJ6cE1Zc1hnaWtzVUhMTXo2TE1R0gFkQVVfeXFMT3N3Z1g2NFRZWlhjNXhBYkZCdTZVUXNwcU9aR1VHTE9abXJXaUlhUmZkSUIzTW5LT1VNdmt5Tnk0VzQzS1o3V2Vvc180eE1YRFVyOGdWbThmcG1YS2dXOXhVMmR5cQ?oc=5",
+    "summary": "美對伊朗發動新一輪空襲 CNBC：恐演成「永無止境的戰爭」 自由財經 以戰逼談…川普擬升級戰事 奪伊哈格島 UDN 川普保留對伊軍事選項 美官員：空襲為後續行動鋪路 rti.org.tw 美襲伊朗飛彈基地伊朗稱與美陷入生死存亡之戰| 國際 中央社 CNA 發動軍事打擊之際 川普稱伊朗希望會面 專家警告「永久戰爭」風險 鉅亨網",
+    "published": "Wed, 15 Jul 2026 11:00:22 GMT",
+    "display_time": "07/15 11:00"
+  },
+  {
     "source": "CNBC Finance",
     "title": "The AI boom just found two new winners: Goldman Sachs and JPMorgan Chase",
     "link": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html",
@@ -537,14 +577,6 @@
   },
   {
     "source": "Google News Global",
-    "title": "美對伊朗發動新一輪空襲 CNBC：恐演成「永無止境的戰爭」 - 自由財經",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYVnFCd182cl9fNUdVNWFjWU9pQ3pUbFhnd2o2Mm9ITDVZRENnZGZrYTBaM1VYQ3AwaXlkLTBtNG82REZJRS16Tmt5emJ6cE1Zc1hnaWtzVUhMTXo2TE1R0gFkQVVfeXFMT3N3Z1g2NFRZWlhjNXhBYkZCdTZVUXNwcU9aR1VHTE9abXJXaUlhUmZkSUIzTW5LT1VNdmt5Tnk0VzQzS1o3V2Vvc180eE1YRFVyOGdWbThmcG1YS2dXOXhVMmR5cQ?oc=5",
-    "summary": "美對伊朗發動新一輪空襲 CNBC：恐演成「永無止境的戰爭」 自由財經 以戰逼談…川普擬升級戰事 奪伊哈格島 UDN 川普保留對伊軍事選項 美官員：空襲為後續行動鋪路 rti.org.tw 美襲伊朗飛彈基地伊朗稱與美陷入生死存亡之戰| 國際 中央社 CNA 發動軍事打擊之際 川普稱伊朗希望會面 專家警告「永久戰爭」風險 鉅亨網",
-    "published": "Wed, 15 Jul 2026 11:00:22 GMT",
-    "display_time": "07/15 11:00"
-  },
-  {
-    "source": "Google News Global",
     "title": "台積電法說會倒數全球緊盯！《路透》先曝關鍵預測 - 自由財經",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SWkVDYkFLYWRhSWhsQzA1SEJKX19hdTJFRDZrempwNlV4a0tjV1k5R1pmaElwT1NMU3VBSXZyVHhrSTIxZXgyOC1jX1N6ZlU1S0FiazFjR0NCTHVVbHlJ0gFkQVVfeXFMT2Y4bDlfc0V6bXBMZHpNTDZ3bVc0UnEwNGI0TGs1S0pIMEtfRHQ0eGhfcXZEdFk5cG9pcFlQaE90cUJHSnRYT0x6ZU45aEkyRWFXbC1ycGtyRTZGblgtSF95OGQtSQ?oc=5",
     "summary": "台積電法說會倒數全球緊盯！《路透》先曝關鍵預測 自由財經 台積電「神秘買家」！最後1分鐘砸近200億元 神山收2440元漲20元 Yahoo股市 買台積電成「必選題」？外媒罕見發出「高度信心買進」訊號 原因曝光 自由財經 AI推升需求 台積電財報前台灣半導體鏈全線飆漲 PChome Online 股市 台積電法說7/16登場！大摩揭「3種股價走勢」，建議投資人這樣做－經濟日報 商周",
@@ -614,29 +646,5 @@
     "summary": "在荷莫茲海峽收費？川普改口不收了：更喜歡中東國家投資 UDN 川普撤回荷莫茲收費計畫稱波灣國家將大幅投資美國| 國際 中央社 CNA 20％護航費不收了 川普宣告與波灣國家談妥重資投資美國 同時炸了伊朗這些地方 Yahoo新聞 川普喊收海峽保護費髮夾彎學者剖析「4個擔心」：台灣要超前部署- 政治 中時新聞網 20％補償費用不收了！ 川普曝內幕：很多波灣國家打給我 自由時報",
     "published": "Tue, 14 Jul 2026 22:24:00 GMT",
     "display_time": "07/14 22:24"
-  },
-  {
-    "source": "Google News Global",
-    "title": "美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌 - 自由財經",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5QXVWRU5uY29tamZieXNpTGY1QzdhRHNyR2lxTFAtQXU2SVBwTDhQZDVlUUxEMG04ejlOYXR3a0VRRjAzZllOdG4yQ0VjdHRzOUdoMkVYQlB0TFlUeDRF0gFkQVVfeXFMUDRUYTQxa001Wk45Sk52LUtOd3RzeldWVmJ3TkpuWnVjYng2UE1TWk1nbkFIQW56QlRuX1FQaDZ2WjFFYW0xZDB1WGw0ckVGQWowdTFlOEhQTWZhQUVBcDZBUUMzeA?oc=5",
-    "summary": "美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌 自由財經 通膨降溫美股收紅！輝達強噴4%、台積電ADR卻走跌 台指期夜盤強漲225點 Yahoo股市 《美債》CPI報喜7月升息機率急降 殖利率回落-新聞內容-基金 MoneyDJ 美CPI數據報喜釀美股收紅 惟IBM暴跌25% | NOWNEWS今日新聞 LINE TODAY 〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% news.cnyes.com",
-    "published": "Tue, 14 Jul 2026 22:02:29 GMT",
-    "display_time": "07/14 22:02"
-  },
-  {
-    "source": "Google News Global",
-    "title": "史上第6大跌點！台股重摔血流成河 專家示警：台積電很難大漲 - Yahoo新聞",
-    "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQVFlycmExV3hpb1ptZVJGbWtmQy11T1h0S19oOU9qVHJZUTcxaDlWdi1VWXVUUVhQeHIzNFNoNTQyMlVQMjg0LWZ3NGRNdF9SX3doQkJJSVJyN3B4Z29aVHItOG1CcHdubXl6UEdnVFpNR0dVSUxLWUl6c29BUUszM1dCOEo2NTNHRTJDaURSTEZ2NTkxWGpKR2pXMENUNVpYZDdWcF85RUZyTjA1bEpRMWVtdlF3Q3VGMFRPYUdWU3Byb3YyWnM1blBfMThYNm0wcE5zUXkxNmhrSmFVeEF5NGpfNHBTLXN6VWlqbWNtSV93V1FZb2QxTW1HZ1NTdXpkdzg4aVNYazdJQURwUXVBdzllRGRyNmZMLWxueFZoSmJhSU5fSDBaN0JiYzlXMm1JWDRuaXRWMHVxMV9rSFVVZXVzc21xcVFvZ3ZmZk0tTnlBY2dDdWZJTmgwV0VYNU1vU21iT2ZvcjBoLTVrVkUtSGpYMmk5NlMzZUVScUZQaHROZUJI?oc=5",
-    "summary": "史上第6大跌點！台股重摔血流成河 專家示警：台積電很難大漲 Yahoo新聞 台股跌破44000點關卡！他憂「台股要掰掰了嗎」 網：不要跌一點就受不了 Yahoo股市 台股崩跌資金大逃殺！分析師揭止穩關鍵 點名「1類股」快減碼 三立新聞 台股狂瀉1500點!阮慕驊：股市獲利想轉買房，「2大斷頭風險」 小心全賠光 MSN 加權指數重挫千點，川湖百容逆勢創高 機器人選股怎麼看？ 蕃新聞",
-    "published": "Tue, 14 Jul 2026 21:26:00 GMT",
-    "display_time": "07/14 21:26"
-  },
-  {
-    "source": "Google News Global",
-    "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% - news.cnyes.com",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5heWh5aTFlYVI4T241Z2liVFVGS2NRYjNHWFoxaGg0MzFBN0F3UGd3MFVsemxEcTRDNHJoS0NJak9sOE1Ldkl3cjdiQlNDTXc?oc=5",
-    "summary": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% news.cnyes.com 美股收盤》通膨降溫、晶片股反彈！道瓊收紅 台積電ADR下跌 自由財經 美國 6 月消費物價指數下滑 能源成本驟降為主要因素 Yahoo股市 MoneyDJ新聞 2026-07-15 07:10:18 李彥瑾 發佈 MoneyDJ 美國6月CPI通膨降溫超預期 華許：還需要更多證據 未排除升息可能 news.cnyes.com",
-    "published": "Tue, 14 Jul 2026 21:23:04 GMT",
-    "display_time": "07/14 21:23"
   }
 ]
