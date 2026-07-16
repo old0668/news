@@ -2,30 +2,6 @@
   "date": "2026-07-16",
   "news": [
     {
-      "source": "BBC Business",
-      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
-      "link": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
-      "summary": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
-      "published": "Wed, 15 Jul 2026 22:25:35 GMT",
-      "display_time": "07/15 22:25"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IY3dCb1pYY0YwWlBzQzlnb1QxV2YyYWZPVF9RN1hxN1JQSnNLYVJBNXFkSUpOajlHdGs4VjFmS3N0bUNwcE13RW1RSjUyNEE?oc=5",
-      "summary": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8% news.cnyes.com 美股收盤》道瓊漲150點、費半跌逾2％！台積電ADR收黑 自由財經 科技股分歧 美光、SanDisk、SK海力士ADR跌 Yahoo新聞 期貨商論壇／匯率期 資金避風港 UDN 通膨降溫加財報利多 美股道瓊漲150點、台積電ADR跌0.22％ Yahoo新聞",
-      "published": "Wed, 15 Jul 2026 21:32:12 GMT",
-      "display_time": "07/15 21:32"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
-      "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
-      "summary": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
-      "published": "Wed, 15 Jul 2026 21:00:11 GMT",
-      "display_time": "07/15 21:00"
-    },
-    {
       "source": "Google News Global",
       "title": "台塑三寶撐盤 被動元件點火 台股跌398點拚上5日線 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPeFhWdnFEVG5zNU1ZcElZUXk1MUJyeDBYaHFlRU53SWg0aVYzNmtYRkt4a2ZRbmtVd3VCdXdXMlV3eVhmNlE3cENPVGxKYjZ0MjRIWnBKRktDTUNzdlZteG9WZ3BhM2R0U3BMVUI4YkxYbXYyMUU1dnhFS3BQOGk5VjVISm5WeXE3U2dxX1FlTXBqQzktakl6V2dwQmdNRWhVcERucnZmZ0luZnJEMjlVbVpLY25nOXdNNk9kbEpMVi1TMEdZUnVWa2lPa2NuUEQ1d1IySmVvNkUtMVpjMkFDajBqTEg4MnpZNUFaWVY0TjAxNTU4djVHelBMdUFqQ01iZkl4R0RPWlF3SGhHbF9KWl9zQ3pNR2xicmpVN0ROSUNyZzZkZDFmVF9HYXdVWWI5R1YyYjZVT3haQlZIWFZPM3FQejNzQjZTQjl5M1FTY1FpSXM?oc=5",
@@ -42,14 +18,6 @@
       "display_time": "07/16 01:10"
     },
     {
-      "source": "Google News Finance",
-      "title": "美通膨降溫帶動AI股反彈 00990A漲逾4%領跑主動式ETF - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXlzandCYlA1YmhFS2tfQ2FMMFF6YU5KYkVIVkRnWXpnSDdmaEdOM09TdHl0UzB1R2VMRGhFY2poRmdoWEFXUmsyWWtacHlSQnRNelFENzU0RjBVaEtRWXIyZ3pYNUVvVmh0cnhxTHJXWWU1R2ItTm9pdk85bktGcVdn?oc=5",
-      "summary": "美通膨降溫帶動AI股反彈 00990A漲逾4%領跑主動式ETF 壹蘋新聞網",
-      "published": "Wed, 15 Jul 2026 17:00:00 GMT",
-      "display_time": "07/15 17:00"
-    },
-    {
       "source": "Google News Global",
       "title": "法說前外資最高喊3,100元！台積電EPS預估上看178元 AI、2奈米、漲價全成焦點 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPQVBhdW9xbU55Tnh6Qi1oUWM0Z1FkaWFza2x6ZW1MaHBKZnloWXkzOGRORUhrVlltTEF3SmdTMUhEbndybnVnWUdQOWstY21WeHpZTWtwaTd1c2ZpbllkVUxXREp3SXEyZ01WbUFDbzJZakEzMGNadWpBUE5SX0RxWS05ZGtuWkdLSzZDRE1NRDJES2UydzFSYTJUdDBrNFN0ZTIzNUs2eGttVUZkN3ZyNlVoVm5Hc2YwMHVXLXF3X21WZzQ4bjQ1UGRSOEM5N19ySG10bHJ5ZVoydi1jU2M5cEM1RldKQ0c5R2JTVWV1X0lSLXVBQzV4b2Q5ZWtrMHdYVm1qYy1JWHNEWkNHUDN3WGVXSTBPeF9GT3Z3cjNhdDZVTUpKWXNOWkNuM0IyaUJXb0x3Y000dTE2UEU0cmtiZVphbDQ5eFlmM1pheF9MVnVjZDV5OWc?oc=5",
@@ -64,6 +32,70 @@
       "summary": "美眾院通過國務院2027撥款法案含5億美元援台| 政治 中央社 CNA 美眾院通過2027撥款法案 至少提供160.7億援助台灣 Yahoo新聞 美國強力挺台！「台灣保證法」川普簽了　外交部致謝揭內幕 三立新聞 美眾院通過國務院2027撥款法案 含5億美元軍事融資援台 自由時報 美國表態了！眾院通過5億美元軍援 力挺台灣參與國際組織 民視新聞網",
       "published": "Wed, 15 Jul 2026 23:59:00 GMT",
       "display_time": "07/15 23:59"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Buffett calls Bill Gates relationship with Epstein 'distasteful'",
+      "link": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss",
+      "summary": "The billionaire investor's firm has stopped giving donations to the Microsoft co-founder's charity.",
+      "published": "Wed, 15 Jul 2026 22:25:35 GMT",
+      "display_time": "07/15 22:25"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈台積電法說〉Q2雙率再超標、EPS 27.25元同創高 上半年大賺近5個股本 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oSGpMa2tDQ2dPa2VCNjFmS2hLS0pnQ2VRc0pKYjZfY0E1SmdxRXZaX193NlBsaHZoZWZHVHZBempVUGRGQTY5cEV4VnlTbG8?oc=5",
+      "summary": "〈台積電法說〉Q2雙率再超標、EPS 27.25元同創高 上半年大賺近5個股本 news.cnyes.com 【台積電法說會】賺翻！第二季毛利率68% 每股賺破27元 Yahoo股市 台積電法說會／估營收第3季續衝高達446-458億美元 中間值季增12% 經濟日報 台積電Q2營收1.27兆元、EPS為27.25元雙創歷史新高首見2奈米產品挹注- 產業 工商時報 台積電法說會時間就在今天，先盤點「3重點」！股價再來跌還漲、目標價喊3800元還有5成空間，現在上車？ 今周刊",
+      "published": "Thu, 16 Jul 2026 05:53:19 GMT",
+      "display_time": "07/16 05:53"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IY3dCb1pYY0YwWlBzQzlnb1QxV2YyYWZPVF9RN1hxN1JQSnNLYVJBNXFkSUpOajlHdGs4VjFmS3N0bUNwcE13RW1RSjUyNEE?oc=5",
+      "summary": "〈美股盤後〉通膨降溫標普連二紅 費半跌逾2% 美光、SK海力士ADR崩超8% news.cnyes.com 美股收盤》道瓊漲150點、費半跌逾2％！台積電ADR收黑 自由財經 科技股分歧 美光、SanDisk、SK海力士ADR跌 Yahoo新聞 期貨商論壇／匯率期 資金避風港 UDN 通膨降溫加財報利多 美股道瓊漲150點、台積電ADR跌0.22％ Yahoo新聞",
+      "published": "Wed, 15 Jul 2026 21:32:12 GMT",
+      "display_time": "07/15 21:32"
+    },
+    {
+      "source": "Google News Global",
+      "title": "油價點火塑化股噴發台塑化.福懋科攻漲停| 產經 - 非凡新聞台",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45SUE5V2hmZW9BMXR0c25MMFZEZWhGdFhjZHdKSEdsd2p2eU5Ta281SmxRdFdPY0puUFpkZUw3R3FTRTlMMlp3UXdmRkRVaE1KVjAyMXdEc29EcDVV?oc=5",
+      "summary": "油價點火塑化股噴發台塑化.福懋科攻漲停| 產經 非凡新聞台 台塑Q3開工率回升至73%；產品跌價估使營收季減- 新聞 MoneyDJ 台塑四寶爆衝！他曝調薪、改善營運訊號喊「真的不一樣了」 網淚：看見解套曙光 Yahoo股市 台塑四寶變九寶！台塑、南亞、台化、台塑化還能買？最新目標價！台塑AI半導體「特化帝國」版圖一次看 今周刊 焦點股》台塑化︰國際油價大漲 股價狂飆 自由財經",
+      "published": "Wed, 15 Jul 2026 21:00:57 GMT",
+      "display_time": "07/15 21:00"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "United earnings top estimates but airline expects $6 billion in added fuel costs",
+      "link": "https://www.cnbc.com/2026/07/15/united-airlines-ual-2q-2026-earnings.html",
+      "summary": "United reported higher revenue for premium, corporate and no-frills basic economy tickets and higher revenue for both domestic and international trips.",
+      "published": "Wed, 15 Jul 2026 21:00:11 GMT",
+      "display_time": "07/15 21:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "圖輯｜黃仁勳日本面謝救命恩人、日式串燒餐敘、發送紅豆麵包 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxQSUdQajd2SmFfUkZXd0ZnbnJyQVN1U1ZzbkpZTjJVZFpLTjlRTVFmTk5TQURrS2FNVXZVanY4ekZwUUthWTJzZU9fSHN0TXZlaHU0c2F0RmZVemVONWV6bUlfMEZyTTlfY2JVbEZiZjFlcXl3cVYzalhFTkMwVlZIek9nQTY0TGh3ckVuaVFVMVNoZkM1MlRhTXdmZ2tSNnM5MmpRSE14ZWVPU1AtdVFNZlBOaVFzTmhVYUlNd3QyVkxCUFJ1SWJRMTFmMWgxTlB2VnRFb1pjOHhOaHNuV0JjT0FIN3BmWms2NnRMb01jbV9kU1lFQUdVbTQwVER2OW44NXN0Q0N5OVB1LWI1aEYweGt4aFVWb0h4eVFGeU94aEQ5NjRmczllS2tYTHh6NElTZWg4ZlFSai11eEFMZUlrUHVNcU1mWk5JNUJGRC1LV0FGZmV5WmpQNEpKNUJkU2dDNlJpT0VkT2tGZVdwVmNtRFN1ajZfVUdBcUhvdzdISmM1RzQ?oc=5",
+      "summary": "圖輯｜黃仁勳日本面謝救命恩人、日式串燒餐敘、發送紅豆麵包 Yahoo新聞 黃仁勳感念 30 年前救命情誼，多款 SEGA 大作將全面導入 NVIDIA RTX Spark TechNews 科技新報 NVIDIA 與 SEGA 慶祝合作 30 年 將《擬真格鬥 命運交鋒》與其他經典 SEGA 遊戲導入RTX Spark GNN 新聞網 NVIDIA看好日本機器人及AI產業潛力，黃仁勳訪日期間公布多項日本生態夥伴進展#NVIDIA Cosmos (250095) Cool3c 黃仁勳重返秋葉原 30年後再會SEGA救命恩人 傳結盟日本AI國家隊 news.cnyes.com",
+      "published": "Thu, 16 Jul 2026 02:41:13 GMT",
+      "display_time": "07/16 02:41"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美國接管荷姆茲海峽？《路透》打臉川普：多家航運公司避開美軍護航路線 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPODVwb2JOVmJraG5taGxCek9Ga1FRTVFSaWM4MDV1bW1KdjdHdkJtbVJhQ1RWRnlOd1EyMU82VF9PTk5yN1FYVGVETHpDa3JmTXpmQ0E5bmRROGVES0R3V3QwM3lUazkwbFM2d3AtdHhxRU1TcklZLVdoaTF2UWxzZ3VvcWVkMUNGRGUwaDU2ZmhZVHVEODV0NkFUODdkc2dUUHFpWGd3N2U3OVZYT0E5ZTVacTZJYmZMdVRLTGJHVXFPTUxUWW9JNU1xQTdHc3hlYjRUQ29kU2cxbmx0R2JaSjRNQVMycjh6SmdienVVOW9nN291eTk2T0xBMEdFSGtvdHB3czdRX3JERTVaZi00LWFZd2UtNnpNMzl1UHJkOURlV1BLanlOTjAzc1djZGpQcEhRdzAtaVZFMWFpYjlsS1BPTV83NVRSWXdPZEJiQzJXbW55WXFrenFvbjU5REFRamQ5M3pKalF0aUFhVkJLV1J3MlhLSEpGYWxIZGMySG9xcU80V2FXY3BSMlg3SGhidkhVVWFvWHpBRzBYT1RsOHdPdmNkVUNQWC1lcm9lZ05rMTQ?oc=5",
+      "summary": "美國接管荷姆茲海峽？《路透》打臉川普：多家航運公司避開美軍護航路線 Yahoo新聞 伊朗「不肯親吻戒指」！川普對伊朗開戰20周陷泥沼 軍事外交雙迷航 UDN 打臉川普！路透曝航商拒用美軍護航荷姆茲 Yahoo新聞 川普取消荷莫茲收費 改推貿易協議 中華新聞雲／中華日報 川普「海峽過路費」24小時髮夾彎：從開徵20%到改談投資協議，國際法學界怎麼看？ TNL The News Lens 關鍵評論網",
+      "published": "Thu, 16 Jul 2026 02:21:13 GMT",
+      "display_time": "07/16 02:21"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "美通膨降溫帶動AI股反彈 00990A漲逾4%領跑主動式ETF - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaXlzandCYlA1YmhFS2tfQ2FMMFF6YU5KYkVIVkRnWXpnSDdmaEdOM09TdHl0UzB1R2VMRGhFY2poRmdoWEFXUmsyWWtacHlSQnRNelFENzU0RjBVaEtRWXIyZ3pYNUVvVmh0cnhxTHJXWWU1R2ItTm9pdk85bktGcVdn?oc=5",
+      "summary": "美通膨降溫帶動AI股反彈 00990A漲逾4%領跑主動式ETF 壹蘋新聞網",
+      "published": "Wed, 15 Jul 2026 17:00:00 GMT",
+      "display_time": "07/15 17:00"
     },
     {
       "source": "Google News Global",
@@ -91,19 +123,19 @@
     },
     {
       "source": "Google News Global",
-      "title": "油價點火塑化股噴發台塑化.福懋科攻漲停| 產經 - 非凡新聞台",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45SUE5V2hmZW9BMXR0c25MMFZEZWhGdFhjZHdKSEdsd2p2eU5Ta281SmxRdFdPY0puUFpkZUw3R3FTRTlMMlp3UXdmRkRVaE1KVjAyMXdEc29EcDVV?oc=5",
-      "summary": "油價點火塑化股噴發台塑化.福懋科攻漲停| 產經 非凡新聞台 台塑Q3開工率回升至73%；產品跌價估使營收季減- 新聞 MoneyDJ 台塑四寶爆衝！他曝調薪、改善營運訊號喊「真的不一樣了」 網淚：看見解套曙光 Yahoo股市 台塑四寶變九寶！台塑、南亞、台化、台塑化還能買？最新目標價！台塑AI半導體「特化帝國」版圖一次看 今周刊 焦點股》台塑化︰國際油價大漲 股價狂飆 自由財經",
-      "published": "Wed, 15 Jul 2026 21:00:57 GMT",
-      "display_time": "07/15 21:00"
-    },
-    {
-      "source": "Google News Global",
       "title": "NVIDIA 與 SEGA 慶祝合作 30 年 將《擬真格鬥 命運交鋒》與其他經典 SEGA 遊戲導入RTX Spark - GNN 新聞網",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rM0ZCVHlmcVZoMHNtVDYycnlPdXI2ZGh4d0JRa0Vrc3lDWWFiQXk5R25EVkg1alIwZHdIaS01N3BhVlNLSXpic1ByRTl2VzZKcGtYOUlmYUY?oc=5",
       "summary": "NVIDIA 與 SEGA 慶祝合作 30 年 將《擬真格鬥 命運交鋒》與其他經典 SEGA 遊戲導入RTX Spark GNN 新聞網 這次不談AI晶片、記憶體！黃仁勳抵日本 外媒揭重點洽談「這產業」：會是AI新時代 Yahoo新聞 黃仁勳訪日拚商機 傳與三菱重工結盟、爭取日本國家隊Noetra DIGITIMES 《放. 新聞/深度報導》從秋葉原懷舊舞台到國家級實體AI 輝達要搶日本下一代運算核心 放言Fount Media 不忘30年前救命恩！黃仁勳現身秋葉原謝SEGA：沒有他們沒輝達 三立新聞",
       "published": "Wed, 15 Jul 2026 12:08:16 GMT",
       "display_time": "07/15 12:08"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台積電今法說催動台股行情 法人預期權王將釋正向訊息 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rOE5DVzVWNklYRUJmSDlkNnA4amlMdThhU0pYaHFRUGViR1NVaF9paXR3WU1vbVJzbkJ2bG5xSHFOMl8zckpCM2pVbk95WGV50gFWQVVfeXFMT1J5UzFzc3BpdXZ6XzZDLTd0NnQyOGZ1dWZJRl9PTDF6amhydmkwOU1xOFljTVNuS1lPc2Q5Y2QxdlpZT2M4ZWFITFp0bzlqMzg4c0hKZFE?oc=5",
+      "summary": "台積電今法說催動台股行情 法人預期權王將釋正向訊息 UDN 台股收盤小跌6.61點 台積電上漲30元 Yahoo新聞 台股開低走高翻紅 分析師：內資撐盤抗外資賣壓 rti.org.tw 台股盤前｜大戶投選股-外本比選股鎖定台虹、信昌電、希華，記憶體與載板報復性強彈，台股上漲893.64點 news.cnyes.com 台積電今法說催動台股行情 法人預期權王將釋正向訊息 助攻指數續彈 經濟日報",
+      "published": "Wed, 15 Jul 2026 18:15:51 GMT",
+      "display_time": "07/15 18:15"
     },
     {
       "source": "Google News Global",
@@ -136,6 +168,14 @@
       "summary": "川普威脅伊朗下周開始炸電廠：炸到我說夠了為止 ETtoday新聞雲 天下晨間新聞：川普要收海峽保護費20%｜韓國記憶體為何慘變「失憶體」？ 天下雜誌 美國空襲伊朗　國際油價小幅走高 自由財經 輝達H200已極少量運往中國與香港美再開放至索與中興通訊、金山軟件旗下公司採購同級晶片｜鏡轉全球｜#鏡新聞 Yahoo新聞 「炸到我喊停為止」！川普施壓伊朗：若不低頭 下周炸電廠跟橋梁 UDN",
       "published": "Wed, 15 Jul 2026 00:28:00 GMT",
       "display_time": "07/15 00:28"
+    },
+    {
+      "source": "Google News Global",
+      "title": "鎖定第五艦隊！伊朗狂襲中東3國美軍基地 伊拉克真主黨旅放話參戰 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBuTUJQeDV2Qi1aT3BZS000dDNRU2RNY1BqWjl2bndPVTRYeklrOVI5YlRRdG0yX2lXOEpPZm5ucURhTXRhRWg4ZFhJU2I2LXVzaVhLMzFscGZkQktONVNfN0dPcEVZZ9IBa0FVX3lxTE8wSkhpVTkyVmc3RzlOQWk1SXBBNFNzWVFSeXMzSFVuWHVrSmJyMmQ3Zk51M1RIR1pkdVU3ZUdFNXVUMGFPazNDb3BQakNWUDk2c2dHb1RpTVRVNldYaTZIUjBtNms4VFZwa1Nv?oc=5",
+      "summary": "鎖定第五艦隊！伊朗狂襲中東3國美軍基地 伊拉克真主黨旅放話參戰 自由時報 伊朗攻擊科威特與巴林美軍目標 鎖定雷達與愛國者系統 rti.org.tw 美伊烽火再起波灣國家又挨打！科威特、巴林防空警報大作 自由時報 伊朗打擊科威特 力度為6月襲擊機場以來最大 | 國際焦點 | 國際 經濟日報 伊朗反擊升級！無人機轟美軍約旦、科威特基地 瞄準雷達、燃料庫 Yahoo新聞",
+      "published": "Wed, 15 Jul 2026 04:55:37 GMT",
+      "display_time": "07/15 04:55"
     },
     {
       "source": "Google News Global",
