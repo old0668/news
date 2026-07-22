@@ -1,14 +1,6 @@
 [
   {
     "source": "Google News Global",
-    "title": "台股盤前／AI回神費半狂飆逾5%！台指夜盤衝586點 台股今有望延續反彈 - Yahoo新聞",
-    "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQc2FiTk9hSFNPWEFqNkF3dnRNTDBOODFFenVSSVg3TXJyZEFoQVZQVy1BdEo1MzJCelI4cThwRE9zdHM4M0pFSEJhMGxKalVrTnZhYjlsdE92RWhaNjNKNGxIMl9EeHh0RFFwWlRseTRqdVBsd3NWckNDOE5GS0ctMEhNR1NiRkdEWXRDUXA1V0g3SkVKcmFFMFNraTA0VEFUZ2Y0c1lSbTUwTDRSWlJzbXh6YVFGVG13V2NXa1FjMnNFTlNpaEZJek53ZTl0QzQ4X0Q4VFVjUnZEOTFmbVFLUjZTMk1paDBWMDExbG5qMi0tWS1kSU1Ha1dWcTFvZGNndllKZkxlZ2xoNHd5b3JFQ2tKNE9ZSkRjTmR1R0ZaaDFUYmE2bnRYWkdYWVZGRGVYRWczS0JucW9FNFF5U1JsTnRsUGVMVzl1RUJlVlRRTV9uVjdJX1QyYWlQc2RzMW5URXd1dnZhdGcwcXRSOFp3alZxbUZwQlRwMDFTekpWZGlxVWpjOXdacDdhT0NQMnhDOXA1Q1VZY09sS0ZvZ0otOEl4My1ELV9SZXhZbA?oc=5",
-    "summary": "台股盤前／AI回神費半狂飆逾5%！台指夜盤衝586點 台股今有望延續反彈 Yahoo新聞 〈台股盤前要聞〉創史上最大漲點續拚4萬5 台積電傳明年起漲價10% news.cnyes.com 瑞昱、聯發科 權證認購悍 UDN 上周止損的股民全哭了！台股強彈「創史上最大漲點」 專家：有望打底慢慢走高 | 張大任 | 新聞 風傳媒 台股創史上最大漲點 量價背離短線風險仍在 自由財經",
-    "published": "Tue, 21 Jul 2026 22:16:00 GMT",
-    "display_time": "07/21 22:16"
-  },
-  {
-    "source": "Google News Global",
     "title": "美再祭301關稅波及60國包含台灣 美貿易代表：很快會採取行動 - 自由財經",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MVUpUa1NkQXg5cVkzbXQ3cUFlN2pJUXl0SWJjMUlYV2lvNGo3SnVlN0hmU3lPMTRQcmJrQ2JfYkVqb0JLN3ExRkdvcHdYdEZGZkRRXzN0Q013cHFZdnZZ?oc=5",
     "summary": "美再祭301關稅波及60國包含台灣 美貿易代表：很快會採取行動 自由財經 川普又揮大刀！將祭新關稅「衝擊60國」 台灣有望低於日韓 Yahoo新聞 川普301關稅即將上路 專家：新措施一實施就難撤銷 UDN 新貿易戰 川普對加國祭50％關稅 中時新聞網 加拿大總理已與川普通話 將加快談判 加各省拒絕解除美國酒類禁令 news.cnyes.com",
@@ -40,12 +32,68 @@
     "display_time": "07/21 23:47"
   },
   {
+    "source": "BBC Business",
+    "title": "Lower fuel, chocolate and beef prices help push inflation down",
+    "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+    "summary": "Prices rose by 2.6% in the year to June, down from 2.8% in the year to May, the Office for National Statistics (ONS) said.",
+    "published": "Wed, 22 Jul 2026 06:36:55 GMT",
+    "display_time": "07/22 06:36"
+  },
+  {
+    "source": "Google News Global",
+    "title": "台股盤前／AI回神費半狂飆逾5%！台指夜盤衝586點 台股今有望延續反彈 - Yahoo新聞",
+    "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQc2FiTk9hSFNPWEFqNkF3dnRNTDBOODFFenVSSVg3TXJyZEFoQVZQVy1BdEo1MzJCelI4cThwRE9zdHM4M0pFSEJhMGxKalVrTnZhYjlsdE92RWhaNjNKNGxIMl9EeHh0RFFwWlRseTRqdVBsd3NWckNDOE5GS0ctMEhNR1NiRkdEWXRDUXA1V0g3SkVKcmFFMFNraTA0VEFUZ2Y0c1lSbTUwTDRSWlJzbXh6YVFGVG13V2NXa1FjMnNFTlNpaEZJek53ZTl0QzQ4X0Q4VFVjUnZEOTFmbVFLUjZTMk1paDBWMDExbG5qMi0tWS1kSU1Ha1dWcTFvZGNndllKZkxlZ2xoNHd5b3JFQ2tKNE9ZSkRjTmR1R0ZaaDFUYmE2bnRYWkdYWVZGRGVYRWczS0JucW9FNFF5U1JsTnRsUGVMVzl1RUJlVlRRTV9uVjdJX1QyYWlQc2RzMW5URXd1dnZhdGcwcXRSOFp3alZxbUZwQlRwMDFTekpWZGlxVWpjOXdacDdhT0NQMnhDOXA1Q1VZY09sS0ZvZ0otOEl4My1ELV9SZXhZbA?oc=5",
+    "summary": "台股盤前／AI回神費半狂飆逾5%！台指夜盤衝586點 台股今有望延續反彈 Yahoo新聞 〈台股盤前要聞〉創史上最大漲點續拚4萬5 台積電傳明年起漲價10% news.cnyes.com 瑞昱、聯發科 權證認購悍 UDN 上周止損的股民全哭了！台股強彈「創史上最大漲點」 專家：有望打底慢慢走高 | 張大任 | 新聞 風傳媒 台股創史上最大漲點 量價背離短線風險仍在 自由財經",
+    "published": "Tue, 21 Jul 2026 22:16:00 GMT",
+    "display_time": "07/21 22:16"
+  },
+  {
     "source": "Google News Global",
     "title": "美股收盤》晶片股反攻！費半勁揚5.2％ 台積電ADR漲逾5.5％ - 自由財經",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xUklzOGdiNmR6WUFjR25hcERDVTBVbmJmZmRXNnJsUWhYT2hweWJsR19Mdmp5UVBWYmpmbXN3Mlg5NlB6WERQZWJPNnhObzQ0MTJKWi1nWS1DQjhBM2VB0gFkQVVfeXFMTnk2aVZTMUQ3dm4zbk9MVmRkY2FpUXBCcnktNDZVdHJoXzdGYjhjNHB3ZV9rYnhyaW1teWVDRWRTbVlRSU9JSlVYcEhDNElmelZscjhuZGVWVGU0Z0xxVnNTUjdCVg?oc=5",
     "summary": "美股收盤》晶片股反攻！費半勁揚5.2％ 台積電ADR漲逾5.5％ 自由財經 AI基礎設施股內部人持股受矚目 半導體領漲美股 Yahoo股市 晶片股發威 00988A 強彈逾4%、漲幅居主動式 ETF 之冠 UDN 科技股吹反攻號角 美股上漲 MSN 美晶片股回勇，記憶體大廠見 2 位數漲幅 TechNews 科技新報",
     "published": "Tue, 21 Jul 2026 22:06:46 GMT",
     "display_time": "07/21 22:06"
+  },
+  {
+    "source": "Google News Global",
+    "title": "台股V轉反攻卻量縮！他憂只是逃命波問「後面還會跌嗎」 兩派網友戰翻 - Yahoo股市",
+    "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxPOVFSZTJ1TnNmMWlRT2JMNXl2REtZVWhvV2F1YU9mTVFRLVprWlc5dEFnSE44dUZJajR3eHlLRGtwMzFrY0xiQkRmdko5a293cXV1SU84UjlZUW9LQWxNVTBoUXB6Q3FZQWdwSkc4MVY1T1FOQURyMzcyenBnRGlKRTl6Ym9nZDN0TGJzcFNEMFV4UEFLaHZJN1QxcUhqVzZjdWNLRHYyQnBXejNoZnFURVJlbms3SmJ6S0FpNmozVTRjV0dGQlR0dU8wN0xxcDlMZ3lUMDNZSEFyMUphdnoxRGhhRzc3MnNiNjhTLXl6aHVoRldnOE40S0VyUndMRlRneFVtNUp2Q0VpbDlMdUxFTW9CM0hHaFgzakhTTDBlNnB3bDNzUlRkMGRDZGh2U2ZOdkdWRmxTN2dGaDlMMFJwbThFN3docHJIY2lBTFozZ0lPQkpqdUZiMlVtb2wwU2dOSlhwb0RBdDJtb3Z3cV9ianBuRzl1NDNmdGUxSks4T2Fmal9yQW5KVkQtSUU5cW1ja0NyUkpuMmhCTmpmdS1tYW5UTGJZaEgzaUVIS1hmemw?oc=5",
+    "summary": "台股V轉反攻卻量縮！他憂只是逃命波問「後面還會跌嗎」 兩派網友戰翻 Yahoo股市 台股收漲592點挑戰月線未成 台積電收低10元 UDN 重返4萬5！電金傳齊揚 指數漲逾千點 自由財經 台積電、聯發科、鴻海、台達電全面轉強，4萬2000點是這波的低點嗎？ 商周財富網 〈台股盤後〉台積電翻黑拖累4萬5攻關 續漲592點成交量還是未過兆元 news.cnyes.com",
+    "published": "Wed, 22 Jul 2026 05:39:32 GMT",
+    "display_time": "07/22 05:39"
+  },
+  {
+    "source": "Google News Global",
+    "title": "記憶體全面甦醒！三雄強勢亮燈漲停 這檔卻成唯一綠葉 - Yahoo新聞",
+    "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQSk9UdkNKVlJjWDJWYXR0aWRiV3ZLYWRMRDBGTFMxS09nN28wNnVmMEFEdE8yWXkyQ1FlaTR5ZklfTHJOeHJ2MmYyMmk5UVNKUzBrRm1pUXhCV0RFTDRSTi1fTHlldW9jbWNaV0FGcnhwV2hoZm5pcHVDT2J1R3pTcHozYVJ4ZVZzMjdRYno5U0lzaDNOSlA5S0xvZ2h6UUlWZ2tTTTlheWNHNVVISHE1cXVMc1FJWWxwS0JmRGloSTVVVmwxTXZXY25ibUJuREZ4QUxMZkRhSFVwdi05WUJHbmRXekZHZjlhc3R5VDRpdmxZUkdmdS1YQ24teTRDMV9DLWNMQTd2djhZUWgtNHhLWEt6eUFvNkxjM1loNVQ5cEpzMW5oRnl1NVdET3AyWk1QeTRNNkFfUGh2UEIwUFJ2RWRxVkhSU3JBTVJCRHJOS0p2TzllZ3R6VUl5WTRkbkU?oc=5",
+    "summary": "記憶體全面甦醒！三雄強勢亮燈漲停 這檔卻成唯一綠葉 Yahoo新聞 全球記憶體股暴力反彈！港股兩倍做多海力士飆近15% 韓股觸發Sidecar機制 news.cnyes.com 記憶體反彈遇解套潮！3檔一度亮燈　南亞科差一檔漲停 ETtoday財經雲 美日韓記憶體巨頭狂飆！南亞科、華邦電、旺宏亮燈漲停買單高掛 UDN 南亞科、華邦電、旺宏…拉出漲停板又問「記憶體股可以買」？目標價上檔至少6成：真正要看是這數字 今周刊",
+    "published": "Wed, 22 Jul 2026 05:30:00 GMT",
+    "display_time": "07/22 05:30"
+  },
+  {
+    "source": "Google News Global",
+    "title": "法新：川普擬祭強迫勞動301關稅 台灣預料適用10% - 中央社 CNA",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BSktwRUd2VjBUZjZ3aEZHZDJURGQ3eEpfMjJkSFlwZ0k4dGVQT1picFNFdVJaNHMyLWdsZDZBS2xzRHZ0Zk5xTU1peEFzTXVHb3k0Wm5obmtMOTJ2TUpJ?oc=5",
+    "summary": "法新：川普擬祭強迫勞動301關稅 台灣預料適用10% 中央社 CNA 301調查關稅風波再起美貿易代表指很快有行動| 國際 中央社 CNA 川普全球關稅將到期 301條款接棒 台灣稅率料10%｜#鏡新聞 Yahoo 加拿大總理已與川普通話 將加快談判 加各省拒絕解除美國酒類禁令 news.cnyes.com 2026/07/22 Rti精選新聞 | 中央廣播電臺 LINE TODAY",
+    "published": "Wed, 22 Jul 2026 01:01:00 GMT",
+    "display_time": "07/22 01:01"
+  },
+  {
+    "source": "Google News Global",
+    "title": "中俄被指暗助伊朗 赫格塞斯國會作證：以不同程度介入美伊戰爭 - 自由時報",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11QVFHUXlOQWszV3h5d0wtVGt0TU8zMkJoOVZjOE1UOUtxeHJQOTd0akhrdFNqVFh2ZXREczRGQWtvb2dwbko4c2JQNGU0LXNCaWdWMndPWmVEdlR3dW5wZ2tPT0xnUdIBa0FVX3lxTE1KV3hkUVhBLUVaZEJzMS1uRzhGRnFtZ3l5Y3pWVmsxd1dQeFBJT1d1cXZtQllXNHJ4R1p1ZENIQjhnX3NlNHdQamJ3THYzbVZib0w1aWowek1KM0s4NlNHbm92LXRFVVBabnhj?oc=5",
+    "summary": "中俄被指暗助伊朗 赫格塞斯國會作證：以不同程度介入美伊戰爭 自由時報 錢不夠！美國對伊朗開戰成本飆破台幣1兆元 防長再爭緊急追加預算 UDN 美防長爭取870億增額預算 670億用於中東戰事 公視新聞網PNN 美對伊戰事耗資已達 375 億美元，赫格賽斯示警演訓將被迫停擺 TechNews 科技新報 伊朗戰事燒錢赫格塞斯尋求加碼美議員斥領導失敗| 國際 中央社 CNA",
+    "published": "Tue, 21 Jul 2026 23:13:30 GMT",
+    "display_time": "07/21 23:13"
+  },
+  {
+    "source": "Google News Global",
+    "title": "美股｜晶片股大反攻 費半強漲5％ 台積電ADR飆5.6％ SK海力士ADR猛升13％ - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95Ql9XV0Q1czZmM0hocG1KM245VzJGUnAyc1pRRFd5REpyS2xqTTJlc29ad2FLcXFkMFM3RXVXQ3M1eVRrNUx5bExhWGhyZk1zbE1tUV95UUZBbmFIbVU4?oc=5",
+    "summary": "美股｜晶片股大反攻 費半強漲5％ 台積電ADR飆5.6％ SK海力士ADR猛升13％ 工商時報 AI股回神！費半飆逾5％、台積電ADR漲5.5％ Yahoo新聞 美晶片股回勇記憶體大廠見2位數漲幅| 產經 中央社 CNA 美股收盤》晶片股反攻！費半勁揚5.2％ 台積電ADR漲逾5.5％ 自由財經 全球晶片股強勢反彈 台積電、美光領軍大漲 news.cnyes.com",
+    "published": "Tue, 21 Jul 2026 22:49:00 GMT",
+    "display_time": "07/21 22:49"
   },
   {
     "source": "Google News Global",
@@ -379,7 +427,7 @@
     "source": "Google News Global",
     "title": "伊朗軍方彈襲巴林「摧毀亞馬遜資料中心」！報復美軍炸核電站 - UDN",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45OFNzc3RfY3N1QVk2Z214RC1ramZjQVQ3b3JIeFFrOGRqejRwdW9MUThLWk5pb3Qxc1dPZWZHaHVMNjR2UXFkSlk5VE9vU21zcXlF0gFYQVVfeXFMTWpSZFRmYWlXYWtiR1JtZTdaVi15bkF3ZkZLWkJUUnNUdHl3OWprdnV2djlkRGF1aTl0enpnY1NNVzdFc1ZhclZXaGVmVVdzc1c2ZlZBREN3aA?oc=5",
-    "summary": "伊朗軍方彈襲巴林「摧毀亞馬遜資料中心」！報復美軍炸核電站 UDN 美軍陣亡達18人！川普報仇「連11夜狂轟伊朗」嗆：還沒結束 Yahoo新聞 美國連11日空襲伊朗 打擊軍事中心與後勤設施 自由時報 受傷美軍-新聞 rti.org.tw 美軍狂轟伊朗 油價恐上看120美元 工商時報",
+    "summary": "伊朗軍方彈襲巴林「摧毀亞馬遜資料中心」！報復美軍炸核電站 UDN 紐時爆料：伊朗3襲美基地釀近百傷 五角大廈卻裝死 UDN 川普再提炸鎬山 鎬山到底藏了什麼？ 工商時報 美伊衝突持續擴大 川普稱美方行動「遠未結束」 中央社 CNA 炸不垮？WSJ：伊朗地下飛彈城恢復運作 美軍再遭致命攻擊 自由軍武頻道",
     "published": "Tue, 21 Jul 2026 06:54:23 GMT",
     "display_time": "07/21 06:54"
   },
@@ -520,6 +568,14 @@
     "display_time": "07/20 11:48"
   },
   {
+    "source": "Google News Finance",
+    "title": "AI泡沫要破了？專家：HBM、CPO投資不會停 台股止跌關鍵防線浮現 - 壹蘋新聞網",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWdtTmZpXzVZSUkxck55T0VNVjNmdkVQc2tKOVJhTlNiNUhha1lXZXc4X2JmSmhWMGRDWFFGUXdTRHpJUUc1ZS1ObFhpUkpELXlpTmxFbV9uVmhocDNuaEJQcldtM0VzVTNWWXJmNVU0ZnRjd0dfeGdpOHItak95clZ3?oc=5",
+    "summary": "AI泡沫要破了？專家：HBM、CPO投資不會停 台股止跌關鍵防線浮現 壹蘋新聞網",
+    "published": "Mon, 20 Jul 2026 11:48:00 GMT",
+    "display_time": "07/20 11:48"
+  },
+  {
     "source": "Google News Global",
     "title": "財報再好也沒用？華爾街現在只看一件事：未來展望 - news.cnyes.com",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jVXZwbWJ3TjVKZHl3UGhKWlhyY1VFVW9wWHpBNVRtTE04eU16akpTNUJaZWhta3RsOEZ1dHhoTDVKeUVTX3BGemNyamRpN0E?oc=5",
@@ -630,61 +686,5 @@
     "summary": "台股震盪逾千點收黑跌221點分析師：反彈先看3訊號、AI股別急著搶- 證券 工商時報 台股反攻訊號亮了？台指期夜盤飆漲逾700點 權王台積電同步走強 Yahoo股市 台股上沖下洗 內資穩盤 法人：大盤有望築底反彈 經濟日報 台股下殺原因！上沖下洗逾千點、多空緊咬能買？何時斷開和韓股連動？3跡象浮現：能從流動性踩踏脫身 今周刊 台股高低震盪逾千點！去槓桿效應蔓延-中央社-台股 商周財富網",
     "published": "Mon, 20 Jul 2026 07:16:00 GMT",
     "display_time": "07/20 07:16"
-  },
-  {
-    "source": "Google News Global",
-    "title": "不正常！SK集團會長示警：記憶體高價非好事 恐釀「晶片通膨」 - news.cnyes.com",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82MVQ4UlpsM1lWa2RGSEhmb3RBS0trWVFSRTdyQlJLSE15VEtjVmFLZ0JxRm1oakE5cUtjcFpTQWNuY1VQbVV1blZJN3V1WmM?oc=5",
-    "summary": "不正常！SK集團會長示警：記憶體高價非好事 恐釀「晶片通膨」 news.cnyes.com 記憶體類股回檔是「假摔」？大摩：當前為「黃金坑」進場良機 news.cnyes.com SK會長：記憶體價格高到「不正常」 將擴產避免晶片通膨| 全球財經| 全球 UDN 記憶體豪賭拚擴產！專家揭三巨頭在下大棋：這次真的不一樣 Yahoo股市 SK集團董座示警：明年AI晶片需求翻倍記憶體價格恐再漲- 國際 工商時報",
-    "published": "Mon, 20 Jul 2026 06:30:03 GMT",
-    "display_time": "07/20 06:30"
-  },
-  {
-    "source": "Google News Global",
-    "title": "韓股槓桿ETF血淚教訓半年逾116萬人接受金融教育| 國際 - 中央社 CNA",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kSWZWXzVaNUM5X1prdzhhenVrOURTN2gzNV94ZXAycWNHdldlRHhSQ29IU3JQMmxPbGdGQXNSMURYSHpUc1IzMTFac3pXbVloZEJORE9iLUdaaExjYVBr?oc=5",
-    "summary": "韓股槓桿ETF血淚教訓半年逾116萬人接受金融教育| 國際 中央社 CNA 韓股槓桿ETF公布新制效果有限單日成交金額仍高| 產經 中央社 CNA 韓股大暴走！指數收跌逾4％ 一度熔斷 自由財經 市場快訊｜AI股連續重挫，現在市場到底在擔心什麼？ 鉅亨買基金 韓股又崩！槓桿踩踏與半導體退潮引爆「死亡螺旋」KOSPI創3個月低 6500點支撐岌岌可危 news.cnyes.com",
-    "published": "Mon, 20 Jul 2026 06:11:00 GMT",
-    "display_time": "07/20 06:11"
-  },
-  {
-    "source": "Google News Global",
-    "title": "成熟製程、被動遭血洗！ 台積電、鴻海硬撐 台股收跌221點 - Yahoo股市",
-    "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOSHNXbWJvNHowUVJoU1ZwRkp1NHVMd0lxb2dyb2VFU01femF0elBkZ3NqV1pXVTE4R092eWs4bmF5X3UzNnlvWnNqZ2Z0MTVsU2plRlo1dDhJRWQ1R3BwSGRMUDAtekhlLUMzZGFzZlNSai0yVDY4V2JKa1FYdHVXY3hXTW5KMEtJTWVMSHF3NDRjdnFneVllLTRGOHpRQmVuWVFSNUJ1QkN5UC1VU3hyV3NZeWJTMHgxeVZUM3VVcFM2c2ZpMVIxRVhGQ29CbnoyaVhiZVlFU3BKSTRURWw1WXFSaHF0VUtVSUh0bDFEYXRoeEV1RDlkME53dUktSmxSdEtoNEtGT0F4cDVWUHdXSjZaNHkzU3NwTmoxSF9vdnVUX3ZuM1JXc3RMMGREZmRBMmMyeGpPNzRYMzBReER3QW5tcllhcXhWcDd2VE9IVzFqNzA2eW9acVR6c1A3ckpC?oc=5",
-    "summary": "成熟製程、被動遭血洗！ 台積電、鴻海硬撐 台股收跌221點 Yahoo股市 盤後／科技股跌到青筍筍 AI抗跌兩兄弟是它們 Yahoo新聞 投信砸146億元撐盤、外資賣壓驟減！台股震盪逾1,100點收跌221點 UDN 台股震盪量能不出 千金股折腰早盤7檔跌停、4檔退群剩44檔 news.cnyes.com 台股下殺原因！上沖下洗逾千點、多空緊咬能買？何時斷開和韓股連動？3跡象浮現：能從流動性踩踏脫身 今周刊",
-    "published": "Mon, 20 Jul 2026 06:05:51 GMT",
-    "display_time": "07/20 06:05"
-  },
-  {
-    "source": "Google News Global",
-    "title": "坐實紐時爆料？川普鬆口「卡達贈空軍一號將停飛」原因曝光 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OdG5ybzh1Z3AtWjh0M25ISUprM2dRQ2NMSmZwVUpkLXFYeC1COVpkS19IMGd3M3FWblZxN2ZfYk0wWEZ2bVJKaF94dXR6SWM00gFWQVVfeXFMUGRaX2UyVDVidVU3a3J4UkRNNE85a2RoMkYtNDJvTFYybERCMGRTSGJMUWJoR1U4OF9Vd0tkNGd5bG15a2VkaHAzLW9PQ280VHVuQlpWMUE?oc=5",
-    "summary": "坐實紐時爆料？川普鬆口「卡達贈空軍一號將停飛」原因曝光 UDN 新空軍一號傳有安全疑慮，川普稱將送廠全面升級 TechNews 科技新報 卡達贈送的空軍一號有安全疑慮？ 川普證實將全面升級 Yahoo新聞 新空軍一號傳安全疑慮 川普證實將進行升級 自由時報 39億美元合約已追加50億美元波音造新空軍一號狠削美國政府延宕4年還看不到交機時間| 謝駒蕥| 新聞 風傳媒",
-    "published": "Mon, 20 Jul 2026 04:27:19 GMT",
-    "display_time": "07/20 04:27"
-  },
-  {
-    "source": "Google News Global",
-    "title": "坐實紐時爆料？川普鬆口「卡達贈空軍一號將停飛」原因曝光 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OdG5ybzh1Z3AtWjh0M25ISUprM2dRQ2NMSmZwVUpkLXFYeC1COVpkS19IMGd3M3FWblZxN2ZfYk0wWEZ2bVJKaF94dXR6SWM0?oc=5",
-    "summary": "坐實紐時爆料？川普鬆口「卡達贈空軍一號將停飛」原因曝光 UDN 美新空軍一號傳有安全疑慮 川普稱將送廠全面升級 rti.org.tw 不夠安全？川普認卡達贈「新空軍一號」將回廠升級- 新聞 MoneyDJ 卡達贈送的空軍一號有安全疑慮？ 川普證實將全面升級 Yahoo新聞 39億美元合約已追加50億美元波音造新空軍一號狠削美國政府延宕4年還看不到交機時間| 謝駒蕥| 新聞 風傳媒",
-    "published": "Mon, 20 Jul 2026 04:27:19 GMT",
-    "display_time": "07/20 04:27"
-  },
-  {
-    "source": "Google News Global",
-    "title": "證實美軍3死! 川普:空襲伊朗復仇 伊感謝約旦線民助毀5戰機 還擊落MQ-9、導彈 - Newtalk新聞",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kR191SUNhVExWWVJuTjUzbDItWUdKcU1iNEFsRml4WVNhTDhoZ0NPU1NFdms2QmdxRHotWDZlcnRMaWtnaWdSU2xZdkZGZ3JMRlVPTG9ndVNMMXM?oc=5",
-    "summary": "證實美軍3死! 川普:空襲伊朗復仇 伊感謝約旦線民助毀5戰機 還擊落MQ-9、導彈 Newtalk新聞 影／伊朗飛彈襲約旦基地內幕曝光！美軍三度奔掩體 第3波擊中官兵住處 UDN 美戰略儲油43年來最低 川普嗆「殺美軍要付代價」連10夜襲伊朗 Yahoo新聞 美伊衝突擴大路透：可能危及波灣航運和水資源供應| 國際 中央社 CNA 最危險戰爭將臨! 美伊越轟越烈「這國」急切想加入: 已做立即戰鬥準備| 國際 Newtalk新聞",
-    "published": "Mon, 20 Jul 2026 03:52:58 GMT",
-    "display_time": "07/20 03:52"
-  },
-  {
-    "source": "Google News Finance",
-    "title": "AI泡沫要破了？專家：HBM、CPO投資不會停 台股止跌關鍵防線浮現 - 壹蘋新聞網",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWdtTmZpXzVZSUkxck55T0VNVjNmdkVQc2tKOVJhTlNiNUhha1lXZXc4X2JmSmhWMGRDWFFGUXdTRHpJUUc1ZS1ObFhpUkpELXlpTmxFbV9uVmhocDNuaEJQcldtM0VzVTNWWXJmNVU0ZnRjd0dfeGdpOHItak95clZ3?oc=5",
-    "summary": "AI泡沫要破了？專家：HBM、CPO投資不會停 台股止跌關鍵防線浮現 壹蘋新聞網",
-    "published": "Mon, 20 Jul 2026 11:48:00 GMT",
-    "display_time": "07/20 11:48"
   }
 ]
