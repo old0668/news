@@ -2,12 +2,60 @@
   "date": "2026-07-24",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "Watch: Are Trump's tariffs delivering on his objectives?",
+      "link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
+      "published": "Fri, 24 Jul 2026 10:21:31 GMT",
+      "display_time": "07/24 10:21"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
+      "published": "Fri, 24 Jul 2026 09:35:23 GMT",
+      "display_time": "07/24 09:35"
+    },
+    {
       "source": "Google News Global",
       "title": "台股重挫1195點史上第9大跌點 台積電跌55元 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNUXRKb2Y0QzFYX3FZcVFUQzhWTWNLcmgyYTJnRlhtUU9LU2c3cFJQOHdmRXY5VmJzQXNDU1JGV3NCR21Nd3ZzV2Uyd3NjSWtZLXVUOXEwNjM1Sk1iRjFPSm5NNTFDLTFjb3AyeUNmVUlpRk9vaXU0YlZlckhQdkVLaEtKWXd1UHhkLTJKY1dQWU12Z1d2ZUhwRThQQjMyWkFaZ0RrY3J0Rk9xcVdlWVpxZzV2dDkyQlhhelpTRW04MVlNaklwTjNfYTVfWkhvMEI2Qm5kbjBldVhLUFFhNzVSa3JrSS1HUXBzV1BQamxkZ3VnN08tYVpFM0toUEtwUEpScXNvLXRRMG9kVThIZ29XSmQ2MWN6aG9OTTBoUHl3?oc=5",
       "summary": "台股重挫1195點史上第9大跌點 台積電跌55元 Yahoo新聞 三大法人才買完又捲663億跑路！台股重挫1195點失守4萬4防線 股民嘆：新的一批韭菜到貨了 Yahoo股市 台股跌逾千點失季線這檔檢調搜索跌停鎖死萬張賣不掉- 證券 工商時報 台股跌千點！避險資金湧向ETF　3檔台股ETF交易量居前三 ETtoday財經雲 〈台股盤後〉4大不利因素創史上第9大跌點1195點失守季線 周線仍漲983點 news.cnyes.com",
       "published": "Fri, 24 Jul 2026 08:06:23 GMT",
       "display_time": "07/24 08:06"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+      "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+      "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
+      "published": "Fri, 24 Jul 2026 14:02:26 GMT",
+      "display_time": "07/24 14:02"
+    },
+    {
+      "source": "Google News Global",
+      "title": "Google母公司現金流首度轉負科技巨擘AI支出壓力浮現| 科技 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pMURBaXFMNS1FWHI1WktlUWxBUDRZNmt3QU5BVDhxZkI0UVZNX1Iyci1XbUNKeGhuT1h3dFM3QVU1YndaYkVyQk9PcmR5eGZEbFdtQklpWGRXWk11emc?oc=5",
+      "summary": "Google母公司現金流首度轉負科技巨擘AI支出壓力浮現| 科技 中央社 CNA AI燒錢疑慮炸裂！Alphabet、特斯拉領跌 科技七雄一夜蒸發近8000億美元 Yahoo股市 Google 稱算力太缺、擬擴大外租 Nebius 等雲端商嗨 TechNews 科技新報 Alphabet公布Q2財報，Gemini App每月活躍用戶數成長至9.5億 iThome 美股迎超級財報與Fed決策 科技巨頭AI支出成市場焦點 | 民視新聞網 LINE TODAY",
+      "published": "Fri, 24 Jul 2026 05:11:00 GMT",
+      "display_time": "07/24 05:11"
+    },
+    {
+      "source": "BBC Business",
+      "title": "New figures show costs rising for pensioners",
+      "link": "https://www.bbc.co.uk/news/articles/cj637z28xnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "They face 4.7% inflation - driven by steep rises in fuel and household service costs, report finds.",
+      "published": "Fri, 24 Jul 2026 12:30:06 GMT",
+      "display_time": "07/24 12:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "301條款稅率出爐！台經院：對台灣傳產有利、稅率比中國與日本低 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUWV4b1lvMFFUZkdkOXM3N3Vack5oalRXQU52Qmx5WXJpa3ozQUFETjNKNFE3SXdsNEhiMlVHYmYtVlByN1VyVEl0LTc4a05uTEJ4U196ZWdvbGg5Zm530gFkQVVfeXFMTWdwWUtGb2haMHdPS2hLUXJSSVdyWkNHdDE1YzViZ3hQMldRdVBIbFIzODUycE9fbldTcGxneDZaVDVvYnZrcldmY3RYOXZocjMzampJOXNwR2Vfekk4ancyOHU4Sg?oc=5",
+      "summary": "301條款稅率出爐！台經院：對台灣傳產有利、稅率比中國與日本低 自由財經 連賢明：台美關稅稅率目前是最好的 近3成製造業已有或規劃布局投資美國 Yahoo股市 美301條款課我10%關稅 學界分析傳產業影響最大 公視新聞網PNN 美方肯認我國強迫勞動政策承諾洪申翰：持續與經部研議落實| 政治 Newtalk新聞 川普祭301強迫勞動關稅 北京：貿易戰不符合中美利益 | 中央廣播電臺 LINE TODAY",
+      "published": "Fri, 24 Jul 2026 04:27:16 GMT",
+      "display_time": "07/24 04:27"
     },
     {
       "source": "Google News Global",
@@ -34,12 +82,12 @@
       "display_time": "07/24 02:27"
     },
     {
-      "source": "BBC Business",
-      "title": "Watch: Are Trump's tariffs delivering on his objectives?",
-      "link": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
-      "published": "Fri, 24 Jul 2026 10:21:31 GMT",
-      "display_time": "07/24 10:21"
+      "source": "Google News Global",
+      "title": "台股大跌1,195.97點下挫2.67％ 金管會說話了- 金融 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kWnZ6TzhyQzVlaEM4Y1lPQk1LS1dGQU9ubGlwREhJNWlZelo3Y3BiR0tSall2aTluQVN1SWlIVEgzQWR4V3RlUl92NWJnYjhISGhVYkp6SGtMY1F1RS1N?oc=5",
+      "summary": "台股大跌1,195.97點下挫2.67％ 金管會說話了- 金融 工商時報 台股重挫1195點 史上第9大跌點 Yahoo股市 台、日股跌千點 韓股觸熔斷機制暫停交易 公視新聞網PNN 拆解台股暴跌真相 AI基本面還可信？如何買黑不買紅？ 天下雜誌 大盤跌破季線與44000！二次打底關鍵防線曝光，逢低布局時機到！ news.cnyes.com",
+      "published": "Fri, 24 Jul 2026 09:51:00 GMT",
+      "display_time": "07/24 09:51"
     },
     {
       "source": "Google News Global",
@@ -64,14 +112,6 @@
       "summary": "美軍「連13晚開轟伊朗」！川普：目前不打算停火談判 Yahoo新聞 戰爭沒完沒了！川普傳對外交漸失信心 轉「復仇模式」欲擊潰伊朗意志 UDN 美軍連13晚空襲伊朗 局勢升溫油價飆破100美元 中央社 CNA (影) 伊22億美元雷達變灰燼！美連13晚轟伊朗 聖城旅指揮官卡尼也身亡？ Newtalk新聞 波灣油輪遇襲油價破100美元 川普祭狠招：動用伊朗凍結資產賠償商船 | 信傳媒 LINE TODAY",
       "published": "Fri, 24 Jul 2026 01:38:45 GMT",
       "display_time": "07/24 01:38"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Scotch whisky levy lifted as Trump imposes new wave of US tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Scottish government welcomed the lifting of the 10% levy, which the US President agreed after the state visit of King Charles.",
-      "published": "Fri, 24 Jul 2026 09:35:23 GMT",
-      "display_time": "07/24 09:35"
     },
     {
       "source": "Google News Global",
@@ -112,6 +152,14 @@
       "summary": "美國「新關稅」24日上路！60貿易夥伴進名單 台灣稅率出爐 Yahoo新聞 美公布新關稅台灣適用10％ 鄭麗君說明原因 自由財經 美國新關稅與中東衝突衝擊 支撐美元走勢 UDN 川普新關稅24日上路！60個貿易夥伴最高課12.5％ 台灣稅率另有算法- 國際 工商時報 川普祭新關稅周五生效！60個經濟體遭課10%到12.5% 台灣適用稅率出爐 news.cnyes.com",
       "published": "Fri, 24 Jul 2026 00:23:49 GMT",
       "display_time": "07/24 00:23"
+    },
+    {
+      "source": "Google News Global",
+      "title": "特斯拉巨額押注 AI 與機器人 2026 年資本支出飆破 250 億美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPX2VmTC1kaFJzRG93NC1aRlFHeWJqcEp2RzhsZTdXRzQ4SmQ0bGdudVVNc1JGeHpObHVTZElYNGZRTDluMHpoSG5GZ0h6cVo1RXRnTl9NSm93Q0JReHZpSElQV244QmctNHcxcFNNS3l4RHZkbm00VHp4MW9ERXh4cTdOd2VBenl2TzdsVVN1NjRXenQwaGx3dUotSlV2cjl2QTZDWVExV2ZaR0pOQ3pPOWdoWjdxT1QyOW54eThxLWFDaDlwbUhhS3VRXzBNRDBYZFhpbTEza2htQnMyN1BiOXMxOXhidkt5cklhdzZod0ZwdW9PT09UT3VTMkRtbjgwS0RsMnNwMDJVSU5velNwMFZ2ZzZWS3NYa21FSmV3eDl3SDNtTWdfc0VoNUtWTmVUckVnMHR0MXU0NDVBSXpYS08zSVVINmp2RlZyZXdNcTRIZlFDT01od3V0Uk8wWnlLNWczclJZcnVud2s?oc=5",
+      "summary": "特斯拉巨額押注 AI 與機器人 2026 年資本支出飆破 250 億美元 Yahoo股市 特斯拉超大投資 CEO馬斯克喊衝刺機器人、自駕車 台鏈沾光 經濟日報 特斯拉Q2營收、獲利不同調- 日報 工商時報 商業熱議》大晶片廠Terafab成為拖油瓶？特斯拉第二季賣車成長23%，獲利卻反向衰退5% 風傳媒 AI燒錢燒到市場怕了！特斯拉股價崩逾10%、Alphabet重挫近6% news.cnyes.com",
+      "published": "Fri, 24 Jul 2026 08:08:10 GMT",
+      "display_time": "07/24 08:08"
     },
     {
       "source": "Google News Global",
@@ -186,20 +234,12 @@
       "display_time": "07/23 21:33"
     },
     {
-      "source": "Google News Global",
-      "title": "Google母公司現金流首度轉負科技巨擘AI支出壓力浮現| 科技 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pMURBaXFMNS1FWHI1WktlUWxBUDRZNmt3QU5BVDhxZkI0UVZNX1Iyci1XbUNKeGhuT1h3dFM3QVU1YndaYkVyQk9PcmR5eGZEbFdtQklpWGRXWk11emc?oc=5",
-      "summary": "Google母公司現金流首度轉負科技巨擘AI支出壓力浮現| 科技 中央社 CNA AI燒錢疑慮炸裂！Alphabet、特斯拉領跌 科技七雄一夜蒸發近8000億美元 Yahoo股市 Google 稱算力太缺、擬擴大外租 Nebius 等雲端商嗨 TechNews 科技新報 Alphabet公布Q2財報，Gemini App每月活躍用戶數成長至9.5億 iThome 美股迎超級財報與Fed決策 科技巨頭AI支出成市場焦點 | 民視新聞網 LINE TODAY",
-      "published": "Fri, 24 Jul 2026 05:11:00 GMT",
-      "display_time": "07/24 05:11"
-    },
-    {
-      "source": "Google News Global",
-      "title": "301條款稅率出爐！台經院：對台灣傳產有利、稅率比中國與日本低 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUWV4b1lvMFFUZkdkOXM3N3Vack5oalRXQU52Qmx5WXJpa3ozQUFETjNKNFE3SXdsNEhiMlVHYmYtVlByN1VyVEl0LTc4a05uTEJ4U196ZWdvbGg5Zm530gFkQVVfeXFMTWdwWUtGb2haMHdPS2hLUXJSSVdyWkNHdDE1YzViZ3hQMldRdVBIbFIzODUycE9fbldTcGxneDZaVDVvYnZrcldmY3RYOXZocjMzampJOXNwR2Vfekk4ancyOHU4Sg?oc=5",
-      "summary": "301條款稅率出爐！台經院：對台灣傳產有利、稅率比中國與日本低 自由財經 連賢明：台美關稅稅率目前是最好的 近3成製造業已有或規劃布局投資美國 Yahoo股市 美301條款課我10%關稅 學界分析傳產業影響最大 公視新聞網PNN 美方肯認我國強迫勞動政策承諾洪申翰：持續與經部研議落實| 政治 Newtalk新聞 川普祭301強迫勞動關稅 北京：貿易戰不符合中美利益 | 中央廣播電臺 LINE TODAY",
-      "published": "Fri, 24 Jul 2026 04:27:16 GMT",
-      "display_time": "07/24 04:27"
+      "source": "BBC Business",
+      "title": "Business Daily",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9k?at_medium=RSS&at_campaign=rss",
+      "summary": "What tech earnings reveal about AI investment and Donald Trump's tariff talks",
+      "published": "Thu, 23 Jul 2026 20:30:00 GMT",
+      "display_time": "07/23 20:30"
     },
     {
       "source": "Google News Global",
@@ -227,11 +267,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "CPU需求起飛！陳立武上調資本支出 英特爾全力衝18A - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMeEJON0M3bU9hUm1PS1ZCd01oZ0ZxTG4yaVJ2ZjdXLXp2eVU4dndwc2FURGY0STJjRGxVdktZQXZtWHZYMjVFNkdmbGMycEU?oc=5",
+      "summary": "CPU需求起飛！陳立武上調資本支出 英特爾全力衝18A news.cnyes.com 英特爾15年最強財報！Q2「這數字」激勵盤後狂飆13% Yahoo新聞 美股早盤／國際油價回落 三大指數平盤遊走 費半跌0.8% UDN 英特爾上修資本支出 專家：正式邁入代工擴張期 rti.org.tw AI需求引爆15年最強成長！英特爾Q2營收暴增25％ 盤後飆逾13％ 自由財經",
+      "published": "Fri, 24 Jul 2026 02:40:07 GMT",
+      "display_time": "07/24 02:40"
+    },
+    {
+      "source": "Google News Global",
       "title": "超微AI晶片進擊 最新GPU與CPU產品採2奈米製程 台積助攻 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQzRCTGlTODJKY18zamprZk5zMEdfdm02aDRwMEJXMmwtNFJpbVZZdTRqT0V1ck1HVkxnOWljX0prSmVIY3BCd3ZYMGRkTkJVTnFFQmJQTnZxUdIBX0FVX3lxTE9nMnhXcFBmYXZEamllcnZzUEE5T2tyZTFnYzNhMkFoamVSX29MWmhkdnpKbktDTGs0OW5rcXU1SVpMbld0Z193d1JUcmQxcElXWVhjbm56bUlneVA2R0FF?oc=5",
       "summary": "超微AI晶片進擊 最新GPU與CPU產品採2奈米製程 台積助攻 經濟日報 AMD：AI運算重心轉向推論，蘇姿丰：CPU需求增速甚至超越GPU iThome 威強電登AMD AI大會 展示邊緣AI視覺應用 Yahoo股市 超微2028年將推出代號為 Florence 的下一代伺服器 CPU 經濟日報 超微 AI 晶片進擊，最新 GPU 與 CPU 產品採 2 奈米製程，台積助攻 TechNews 科技新報",
       "published": "Thu, 23 Jul 2026 18:30:00 GMT",
       "display_time": "07/23 18:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普突問「誰是更好投手？」大谷、山本互指對方　羅伯斯笑到拍手 - ETtoday運動雲",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hMXJKdkVuc0VEQ3RqSWJyYnZsbjN3RjBaMW9IZ3FjclJ5QlZKc0hRVm5PM281Zm9qaWJTa0FfWXBLYVY3ODRvM2U4SnloQXNN0gFPQVVfeXFMTlhwMkJBS3Eyd1VFd2w5R2hUUEVqSGV2c3RtTlNaQmdqaHVvajNoNUZvZ2NTQnd1bXpkRkFld1ZQY1o2d0plRDBGUXktQVJBVQ?oc=5",
+      "summary": "川普突問「誰是更好投手？」大谷、山本互指對方　羅伯斯笑到拍手 ETtoday運動雲 川普白宮款待道奇「或許明年還會再見到你們」 中央社 CNA 川普問最強投 大谷山本秒互指 Yahoo新聞 MLB／優先陪伴家人缺席白宮接見 貝茲：向那些會生氣的人道歉 UDN 拒訪白宮挨罵「被寵壞」　道奇Kiké反擊竟曬球迷姓名住址 ETtoday運動雲",
+      "published": "Fri, 24 Jul 2026 01:50:00 GMT",
+      "display_time": "07/24 01:50"
     },
     {
       "source": "Google News Global",
@@ -251,11 +307,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "美股收盤／那指挫跌2% 科技財報引發AI支出擔憂 油價破百掀通膨疑慮 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMzRiNHRIaGF1MEgtUkJtY2JTcHZBbU16ekFuMDFQSzJqNGdRUi1jMmk5MEVYbF9Md2NYWnViOU41SG10NFA2N19wOEdNWXR1bTEzQm5Rd1NGWmJk0gFiQVVfeXFMTnVFZmNMMm5qUnFfX3lIdi14RDk3TkxhaFpUdV83MmhVdnNCcXAyR2hpQVBEZTZNRWlLY2F2dTlpdGlJYWczY2tZaTRLRUhIRmJFMXNHVnJycUhzOUpIVGR2V2c?oc=5",
+      "summary": "美股收盤／那指挫跌2% 科技財報引發AI支出擔憂 油價破百掀通膨疑慮 經濟日報 台股盤前／油價狂飆AI股重摔！台指夜盤重挫521點 台股今開盤恐不妙 Yahoo新聞 〈美股盤後〉Alphabet、特斯拉暴跌 布油飆破百美元 四大指數收黑 news.cnyes.com 西亞局勢升溫引爆市場恐慌！油價衝破100美元 美股全面收黑 PChome Online 股市 《美股》谷歌、特斯拉現金流轉負那指摔至5月低- 新聞 MoneyDJ",
+      "published": "Thu, 23 Jul 2026 23:12:02 GMT",
+      "display_time": "07/23 23:12"
+    },
+    {
+      "source": "Google News Global",
       "title": "目標價喊到240元！「AI伺服器廠」EPS挑戰2股本 輝達GB300量產、超微Helios出貨成長樂觀 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPbFcyT01kLXR4cFRrbXZWTFRLekhjdjNDVXhPT3dDTGljaGs5ZC1hNGU3MERFSEZreTh4ampZMjVZUXhoVEluM0lSV3pFQTFFMHBCZFEtRDgtWC1Ja2NGZU13eS1zbTJIeG5lRVR4N1AzWThORUdwcGp1bFRTandKZktNOHhMM1F6X0wyX1J0NHF5ekZxNWJGZFZnUDh4Tjg5M3E0Tmt1dllTWHA2d2Z3dVZ1V3J6eFFLRnhNbFQ5M3JjeEJIYjlBVXluZXlBT2ZscmRpdjB2QTdBMXd6YUIzZTVJYWtXSGhHUVFnZC1jbzlBSDkxVlNpcjdmUkhTQVV1UUhDMVh0NTBzVlJoa3NqOHhmZEE4NnlkRjREc0NBZmpsUUtZMkdGSHJDcTNBeVpTcTB3Mzg0WVZleG5MSVRoRmdUREU0dGcyTHVSV3VPWktiNFZ6NTN0WldCSjh2MG16N3BhQXJhVk04WFlIUDR1M0RmeUNvZWRUdldiRWNjUmc5RFVheHN4bm03VkN3anl5RVktc1daZ0JUSDRzc3Y0TjhUSDEzWlZINGFybW9NWmZRbWc?oc=5",
       "summary": "目標價喊到240元！「AI伺服器廠」EPS挑戰2股本 輝達GB300量產、超微Helios出貨成長樂觀 Yahoo股市 談台廠赴美 黃仁勳：不需拿槍指著台灣的頭 Yahoo新聞 緯創唱旺AI 數年接單無虞 董座林憲銘強調需求只會愈來愈多 經濟日報 緯創德州D1新廠報捷外資追捧、股價強漲逾8％ 法人喊出這目標價- 證券 工商時報 黃仁勳：與台灣做生意不再「俗擱大碗」而是具備高度成本效益 news.cnyes.com",
       "published": "Thu, 23 Jul 2026 13:45:00 GMT",
       "display_time": "07/23 13:45"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普關稅再出招！台灣部分商品適用10% 美東時間24日生效 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zN2lvOWdaOF9fR2prUU52MEV5bnBmV3pNSGp5NjZUdVhPd25sazZmS1lCLVBWUDdxUGlaYk4yUTA1ZzAwODdSTXk1OUs5UXVs0gFWQVVfeXFMTURNZXBXZUFMckM5MUxJMklZdTdkd092bjlhZ0Y0X2RZMDZvaVlNSEY0RTE2Z1BxTzQ1M0JPZ1M3cXczNTFhR0Ytck9JVXNNMV80eXlfcWc?oc=5",
+      "summary": "川普關稅再出招！台灣部分商品適用10% 美東時間24日生效 UDN 連賢明：台美關稅稅率目前是最好的 近3成製造業已有或規劃布局投資美國 Yahoo股市 20260724 8點新世界完整版（無網路版權內容除外）｜美實施301關稅，60個經濟體被徵10% 12 5%新稅；我適用10%不疊加 公視新聞網PNN 川普祭301強迫勞動關稅 北京：貿易戰不符合中美利益 rti.org.tw 美301調查結果 台適用10%稅率不疊加 中華新聞雲／中華日報",
+      "published": "Thu, 23 Jul 2026 21:43:10 GMT",
+      "display_time": "07/23 21:43"
     },
     {
       "source": "Google News Global",
@@ -288,14 +360,6 @@
       "summary": "紅海戰火恐擴大！川普警告青年運動再襲船就打伊朗 news.cnyes.com 青年運動襲沙國油輪　國際油價急漲破百美元 自由財經 美伊連12日相互開火 葉門武裝組織襲擊紅海沙國油輪 公視新聞網PNN 沙烏地油輪紅海遇襲 伊朗稱阻3船通過荷莫茲海峽 rti.org.tw 葉門內戰恐再起？葉門叛軍與沙烏地緊張升溫風險顧問吐憂心| 中東戰火連綿| 全球 UDN",
       "published": "Thu, 23 Jul 2026 12:41:27 GMT",
       "display_time": "07/23 12:41"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Business Daily",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8g9k?at_medium=RSS&at_campaign=rss",
-      "summary": "What tech earnings reveal about AI investment and Donald Trump's tariff talks",
-      "published": "Thu, 23 Jul 2026 20:30:00 GMT",
-      "display_time": "07/23 20:30"
     },
     {
       "source": "Google News Global",
