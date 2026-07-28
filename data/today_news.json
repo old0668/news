@@ -2,6 +2,30 @@
   "date": "2026-07-28",
   "news": [
     {
+      "source": "CNBC Finance",
+      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
+      "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+      "summary": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
+      "published": "Tue, 28 Jul 2026 11:54:11 GMT",
+      "display_time": "07/28 11:54"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "UPS beats earnings expectations, raises full-year guidance",
+      "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
+      "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
+      "published": "Tue, 28 Jul 2026 11:50:50 GMT",
+      "display_time": "07/28 11:50"
+    },
+    {
+      "source": "Google News Global",
+      "title": "熊本地震規模7.1 傳50傷12房倒塌、氣象廳：不排除更大地震【不斷更新】 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XMXB3alFnRWFKR25zWFhCMXNCcmc0eEZTR3dfMkV6cnd1NEl1bjNzRFpEdXJtT1VETVhyZUNkNUl3ajVCclU2ZHNfMHkxM2NUM3hsLTJzRWNPLW51NWhZ?oc=5",
+      "summary": "熊本地震規模7.1 傳50傷12房倒塌、氣象廳：不排除更大地震【不斷更新】 中央社 CNA 熊本地震規模7.1 熊本機場跑道關閉、新幹線停駛永旺商場傳爆炸多人受困最新進度一次看【不斷更新】 Yahoo新聞 熊本規模7.1強震 高虹安發聲：願傷者康復、災後復原順利 經濟日報 【新聞速報 Podcast】日本九州規模7.1強震 熊本最大震度達7級｜20260728 公視新聞網 公視新聞網PNN 日本熊本縣知事木村敬首訪中市府 盧市長：盼深化半導體與各領域交流、共創雙贏 taichung.gov.tw",
+      "published": "Tue, 28 Jul 2026 11:18:00 GMT",
+      "display_time": "07/28 11:18"
+    },
+    {
       "source": "Google News Finance",
       "title": "替台股打強心針！施羅德：AI規格升級接棒缺貨 聚焦「雙箭頭」投資策略 - 壹蘋新聞網",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbkxIV2VMTjA1LU50d29BLUx6WnhxYVpqLXdfWXJKYWFDS3Nka0FTUzBlYlNXdVVJUDZBS2M3cjVxVXh5aVdnUGtYQnFQWmRGeWRMa3FKU1ZudGdyNkdSdFhxbGZzRThlR3ZvSW5pSndWN1pJTHBkdG9iM016MWdIYkxR?oc=5",
@@ -16,6 +40,22 @@
       "summary": "熊本規模7.1地震 最大震度7 中央社 CNA 熊本強震衝擊台積電！明股價會崩嗎？投顧董座：恐加速下殺 Yahoo股市 熊本地震　賴總統以日文表達慰問關切 經濟日報 熊本規模7.1地震 台積電熊本廠位菊陽町震度5強 rti.org.tw 日本熊本發生7.1強震台積電廠災情評估中- 國際 工商時報",
       "published": "Tue, 28 Jul 2026 07:42:00 GMT",
       "display_time": "07/28 07:42"
+    },
+    {
+      "source": "Google News Global",
+      "title": "【重磅快評】「四貸同堂」反映致富焦慮慎防引發骨牌效應| 綜合 | 要聞 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jaXI4b2dwNEFGcVVaNElOQ1pndEs0bDc0MEpTU1hzbE5NMHZ6b2kwY1RBOUtMaWs2RjBJUl8wc3ZtNTVoWGtyVEpIWTkwQ0Ut?oc=5",
+      "summary": "【重磅快評】「四貸同堂」反映致富焦慮慎防引發骨牌效應| 綜合 | 要聞 UDN 防堵「四貸同堂」風險　金管會推跨業徵信聯防機制 ETtoday財經雲 信貸比房貸便宜？「信貸綠茶」套利恐翻車！「股價泡沫出現」：小心台股修正引爆斷頭潮｜買房財之道 Yahoo股市 四貸同堂炒股拉警報 金管會請銀行喝咖啡 PChome Online 股市 台股驚爆四Die同堂斷頭潮！沒開槓桿也中槍？銀行抽查到「1動作」貸款恐將逼迫全吐回- 上市櫃 旺得富理財網",
+      "published": "Tue, 28 Jul 2026 07:26:02 GMT",
+      "display_time": "07/28 07:26"
+    },
+    {
+      "source": "Google News Global",
+      "title": "【Follow法人】台股跌點「史上第三大」...外資重砍875億元 分析師：態度暫偏空 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOaUR5SERsb19fOTh3cDFxOVN2czVQcVNjZFRuTGgtekZRa0xtVlpGem5Da1BkczJWUWJ5elVaUkJHUVU2RlRYSXRvMzVXM1pEaEhJRFBDa0FNejRNS3M1R3hYSy0wXzlJQ1ZrM0NWclYxMkdfY01ucUdiV2RDUmhXSGxuZDNDeUY2M3VPQk8xUWlrMXZGWWlfQ0RzQTNhdFdNV3gzWEFIMDlTakR1RVJuR19ud3lUR2FqeWV0Qmx4ZElSSDBMcWdmelpaZEl5X3VOR3B2MzJzcGJqMkY5THRyWlJfMXJsM3p0MW0zWUZkSFNJZDlEdExYMTN0ZlFsNmlUcUhvajdBV1Jqa19mYV9vQU9PYTBvS0NibklVZVhUS21nSjQwcXNVWmg5dWxjNTRiUmpHMVZrc1NjMnRPN2JpN05tMXNZWnJMeS1PUU1rcnd0UWNjU0hYaW8tLTdLNlk0ZUNxNU1wb2I3Y1ZuMDhKZzlqYmFvWmEzcUhNV3VtNGpkcWlUbVM1dUUxLS1Ra0xmbHY0N0xUMndRcWk3YU84Y21RcWJQMnpFU0lyakhSVGp2aFNxaTkweHc1N3R1TDhXQl9TR2JDbDhqZnZfVWVjcw?oc=5",
+      "summary": "【Follow法人】台股跌點「史上第三大」...外資重砍875億元 分析師：態度暫偏空 Yahoo股市 【Follow法人】外資倒貨23萬張00403A 反手敲進華航5萬張與面板雙虎 Yahoo股市 連高股息也不要了？外資狂賣各種ETF 倒貨00403A逾23萬張、賣超第一 UDN 外資賣超台股875億法人：橫盤築底觀察半年線支撐| 證券 中央社 CNA 華邦電跌勢才開始？「這群人」聯手倒貨 55萬股東屍橫遍野 自由財經",
+      "published": "Tue, 28 Jul 2026 07:08:59 GMT",
+      "display_time": "07/28 07:08"
     },
     {
       "source": "Google News Global",
@@ -34,6 +74,22 @@
       "display_time": "07/28 06:31"
     },
     {
+      "source": "Google News Global",
+      "title": "熊本地震規模7.1 熊本機場跑道關閉、新幹線停駛永旺商城AEON爆炸傳多人罹難最新進度一次看【不斷更新】 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxOQU9MTHRnUjhzT2c2ZTBreXVaODZKUmJhTnE2VFpaRm1XeE11ZGx5eXBVMVh2NWZzN2MxZGZ6UlA3T3cwRmU0Ykw1RUZTdDRUSl95SWUxemo3UmQ0dVZLdjROZ1c0dU96MjhDOXExYjVWcTRNX0kyTzBtMTJObGlSS0w1STJ2aG1OaXk1eERoVW5UOGRtOWd5djdjLWJwVGQ5ak9pTktydEtmWXNzVjQyeG44S2pna0lqMFBEcE1PMjQ0WmFub0toaUZ5cDZtenliUEhJS3FBeTA3ZjBYZUtKYUIzM3FwVm5sbzEwaW9XdmFXc0VIaUNobXlxZ0ZNQXFIcmtESGtCampoNVVrU3J5Z1BFdnhVcTBjWTRpR0dKaGxLQ1ZVaE1WbW1YSHFibEZMTnNsWGQybkJidDlVekNjQWpaWnVxTlZaU3ZTaVd3WnJRdVpYWVhId1JIck1RamVEQUV4ZnVvWGR3dmZGTVR3aDFSdTdSalJKd09Ka2R3ZkVpNDFDWWEzN21SNnVsRS1heVNSSHA3aDFkeDVLSmZqVm1hN3E3MUNISTRJUTN3eHhyMnBSd2stUW1IaHQzMk9SajBabG9haG5xZzBSTVFjaThsYS1qQWM0dGZIWlZnZkFOOGZ3UjFpSHlzR2JScmctR3pIUGtlWEdhY09YWjM3QXlDT2FvTmEyVElrME5ZT0JYZzZzT2s5ZFM0UEFBZ3E3WC1RWldxYXlHaVRhN0VXbEsyMDZkNWdFYjJheUZqWVJpaWRqVkoxVzAwTlh4VHE5ek40S0JjZl8tUkxMUl95N0NzRlVqUEVwbVV1T0dNclo2c0pLSkE?oc=5",
+      "summary": "熊本地震規模7.1 熊本機場跑道關閉、新幹線停駛永旺商城AEON爆炸傳多人罹難最新進度一次看【不斷更新】 Yahoo新聞 台積電更新JASM近況 人員安全無虞已逐步回產線 news.cnyes.com 【新聞速報 Podcast】日本九州規模7.1強震 熊本最大震度達7級｜20260728 公視新聞網 公視新聞網PNN 日本熊本縣知事木村敬首訪中市府 盧市長親負自接待 更生新聞網 熊本爆發7.1強震台積電回應了- 新聞 MoneyDJ",
+      "published": "Tue, 28 Jul 2026 13:44:36 GMT",
+      "display_time": "07/28 13:44"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈美股早盤〉主要指數漲跌互現 半導體股續挫 台積電ADR跌近4% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jYU1zaDNBSnd1NzdFdWEwbmkxUGxGS1NFSkhBWi1DeVFURk9KUmFPLWJpOTJnRTZLQ0FYaXU4NnkyWEc0V3RwdUtMSUpJZ0U?oc=5",
+      "summary": "〈美股早盤〉主要指數漲跌互現 半導體股續挫 台積電ADR跌近4% news.cnyes.com 快訊／科技股賣壓湧現！美股開盤4指數漲跌互見 費半重挫逾4％ Yahoo新聞 費城半導體指數步入熊市趕快逃？專家揭「華爾街菁英」竟逆向思考這件事 | 黃振剛 | 新聞 風傳媒 台積電ADR挫近4％！美股早盤費半重摔600點 | NOWNEWS今日新聞 LINE TODAY 台股周報》費半跌入熊市！台股三日內未反攻恐再修正週四關鍵轉折| 財經 Newtalk新聞",
+      "published": "Tue, 28 Jul 2026 13:42:10 GMT",
+      "display_time": "07/28 13:42"
+    },
+    {
       "source": "Google News Finance",
       "title": "台股盤中重挫逾2000點！專家：AI只是估值修正 8月後有望迎資金回流 - 壹蘋新聞網",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZG1yQnpPMWlENGhaYTRQRXY3TzFvZ3hfSmFXNVZMVFl6ZWRKMUVyZldvd2xKc2V3eTVHYVozNndGcUNodXg0VW5qZ0NadzVHRGxOTElCWG8tekU1MnJPM0k2WXA0X0tKbFhNSlhBbHc0bkNIVVU0RUNyLXdEZw?oc=5",
@@ -42,20 +98,28 @@
       "display_time": "07/28 04:54"
     },
     {
-      "source": "CNBC Finance",
-      "title": "Coca-Cola tops earnings estimates, hikes full-year outlook as demand for drinks climbs",
-      "link": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
-      "summary": "Coca-Cola stock has risen 19% this year, outstripping the gains of the S&P 500.",
-      "published": "Tue, 28 Jul 2026 11:54:11 GMT",
-      "display_time": "07/28 11:54"
+      "source": "Google News Finance",
+      "title": "台股盤中重挫逾2000點！專家：AI只是估值修正 8月後有望迎資金回流 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFNnUE1DemtkbzVGM00yOXhHT05pVjNlX1ZISnB0RUVONWF0dGsyaEMwbTRKeVFTeWtoVWFNODJlSGVDcWZJRzc1ODgxZXJhSUNUWkZHUUF3WldkeFFKUVhibm9DZVVfaVRqNEIxWHhMSXptaTA1MXVZb2pZSVRXUVQ4NA?oc=5",
+      "summary": "台股盤中重挫逾2000點！專家：AI只是估值修正 8月後有望迎資金回流 壹蘋新聞網",
+      "published": "Tue, 28 Jul 2026 04:54:00 GMT",
+      "display_time": "07/28 04:54"
     },
     {
-      "source": "CNBC Finance",
-      "title": "UPS beats earnings expectations, raises full-year guidance",
-      "link": "https://www.cnbc.com/2026/07/28/ups-ups-q2-2026-earnings.html",
-      "summary": "UPS beat Wall Street expectations and raised its full-year guidance in its second-quarter earnings report Tuesday.",
-      "published": "Tue, 28 Jul 2026 11:50:50 GMT",
-      "display_time": "07/28 11:50"
+      "source": "Google News Global",
+      "title": "台股重挫創史上第三慘！陳重銘揭「暴跌真相」 反彈先觀察3大關鍵訊號 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOX1hVR3B6czZJakZ2OGZ3R1QwTk9lQTJ3NXJiQnFyYlE3MjJFVFdPS2ZJVmNKb3g1RERWM2pMOG51STJWYmdUWlBaMDZuX2RBanJBSXR4ZTQtZzlubTVjRU1UYTE1SjNjWmtJUDcxWmhUbTVwWlgtX1JsSzMxejBsWFN6c2RRZURNdzZpRWFKcERMbWxxS3piRmNYcDBkMkl3ekVKMVAzc2tCWUQ5TWxNLU1rSGg3b0pSVkFMdHBwNHJHUUJaclNaQWtZQzJZczBXejBkeEVfNFB6SHotRXF2UXI2emt3UU1ucFVzMVVONzBUbE9lY3dCZ3QycjdJbUlGM2x5RXNjQnpLdFFCTjhHSGVEWU0xLVhkTjhsY3JJQjJxejl5dTcwRlVLZTI2NXRzRGhIek8xdzBYbFhORlBoT0gxOVpNUkg2cERJLXRfamJ1NkFGUjV2bk9oa3ZpUVo4RDFXUG9kUkg5MnNtSzRFMC1mYkFWR21BMkVLWXp1aXFVZHRobVl6cHIyNGZOM1ZhSDdNRmxuV1ZoTk9PanI4VlVid0lnczQx?oc=5",
+      "summary": "台股重挫創史上第三慘！陳重銘揭「暴跌真相」 反彈先觀察3大關鍵訊號 Yahoo新聞 傳中國晶片大突破 台股失守4萬2 網友哀唱\"白冰冰神曲\" Yahoo股市 20260728 8點新世界完整版（無網路版權內容除外）｜日韓股大跳水台股收跌2030點、失守42000大關創史上第3大跌點 公視新聞網PNN 台股大跌原因盤點！殺2千點第3慘，跌破42K回測39K半年線？台達電、聯電、聯發科、國巨…撿便宜怎麼選 今周刊 台股跌幅亞股第二慘 金管會回應了 持續關注股市變化 自由時報",
+      "published": "Tue, 28 Jul 2026 12:33:00 GMT",
+      "display_time": "07/28 12:33"
+    },
+    {
+      "source": "Google News Global",
+      "title": "澤倫斯基最新表態：烏克蘭、伊朗已處於戰爭中 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNbW05RC1BMVRSbWxRbjhOeDZLT0RFZ0IwSDZPM0lZQ3NQYm0tRzk4WXp6YWxNRkpSWGlwZW9QWUQzUDlTS0lCUmJ5OEo2bGlrYlVBNm1pSVI4LWdaSm5PS25FQmphT2lQOEJMSFBaZ1M2RW9SMzV0RGtLTU9uaEpnX0tqMUhOcmdjbk9LTEs5NzBvb3dYeVJCTlQ4Y3AxclRvMmtBRmowdE8zSERzZV9YYUgwV081R0dVZlJnMzFSajNNLVJ3Y3kybS1IZ2NpNW9NZThSb3RHQWtMQnNTMW00ZEtxODJJc1hDcTR1eTVwbHZMbExUeUNUQ2oyRFBfMHBhaVRuZFhSWTZmVGJpUWo1NlNodUVPekh3SkNIRUNVX2luZkU1YjdjVnJCZndFX3JIRF9QUHNCZmhSdnYwa3RQV3FR?oc=5",
+      "summary": "澤倫斯基最新表態：烏克蘭、伊朗已處於戰爭中 Yahoo股市 近700公里外照打！烏長程無人機狂轟裏海 WSJ：俄伊生命線遭鎖定 自由軍武頻道 20260727 8點新世界完整版（無網路版權內容除外）｜烏克蘭襲裏海伊朗貨輪，伊朗指責烏替以出手，企圖擴大俄烏戰事 公視新聞網PNN 烏克蘭無人機打進裏海：裏海在戰略上有什麼重要性？俄烏和美伊戰爭要合流了？ TNL The News Lens 關鍵評論網 俄烏、美伊兩戰爭裏海交會！烏軍襲擊伊朗援俄物資船 伊朗揚言報復｜青年運動封鎖沙烏地！葉門：複製伊朗荷莫茲策略｜2026/07/28 中央社全球午間快報 中央社 CNA",
+      "published": "Tue, 28 Jul 2026 04:19:29 GMT",
+      "display_time": "07/28 04:19"
     },
     {
       "source": "Google News Global",
@@ -64,14 +128,6 @@
       "summary": "快訊／台股狂殺2千點史上第5慘！台達電跌停　韓股熔斷再開摔10% ETtoday財經雲 台股重挫2,030點史上第三大航空四雄還在飛這檔連3日收漲停- 證券 工商時報 台股終場崩跌2030點「史上第三慘」！大盤痛失4萬2 台積電收2280元 Yahoo股市 今日股市大跌原因？盤中重挫2千點，群創、金居、頎邦慘跌該撿便宜？老手急喊：這4種「危險股」反彈也別搶 今周刊 〈焦點股〉半導體慘淪提款機！台股摜破前低 矽晶圓、記憶體跌停全趴倒 news.cnyes.com",
       "published": "Tue, 28 Jul 2026 03:20:00 GMT",
       "display_time": "07/28 03:20"
-    },
-    {
-      "source": "Google News Global",
-      "title": "熊本地震規模7.1 傳50傷12房倒塌、氣象廳：不排除更大地震【不斷更新】 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XMXB3alFnRWFKR25zWFhCMXNCcmc0eEZTR3dfMkV6cnd1NEl1bjNzRFpEdXJtT1VETVhyZUNkNUl3ajVCclU2ZHNfMHkxM2NUM3hsLTJzRWNPLW51NWhZ?oc=5",
-      "summary": "熊本地震規模7.1 傳50傷12房倒塌、氣象廳：不排除更大地震【不斷更新】 中央社 CNA 熊本地震規模7.1 熊本機場跑道關閉、新幹線停駛永旺商場傳爆炸多人受困最新進度一次看【不斷更新】 Yahoo新聞 熊本規模7.1強震 高虹安發聲：願傷者康復、災後復原順利 經濟日報 【新聞速報 Podcast】日本九州規模7.1強震 熊本最大震度達7級｜20260728 公視新聞網 公視新聞網PNN 日本熊本縣知事木村敬首訪中市府 盧市長：盼深化半導體與各領域交流、共創雙贏 taichung.gov.tw",
-      "published": "Tue, 28 Jul 2026 11:18:00 GMT",
-      "display_time": "07/28 11:18"
     },
     {
       "source": "Google News Global",
@@ -115,27 +171,19 @@
     },
     {
       "source": "Google News Global",
+      "title": "美伊連3天未互轟！川普稱「大家求我別開火」 談判破局就恢復強攻 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40YkpPaVFyN2UxSG10aUw5MzlaeEhaQ2MwSmp6VzlaUVNFSGJKWmdYUWJtUmUtUHFrY1BtVmE5d1F6bE5RZWhqY1RUUTloQ2pfdVAw0gFYQVVfeXFMTm1EUnFmRzNZNE9rV2lqR3hFaU1mRGhxVlNZNVZXRWZtVDFYSk83LUoyN3RYcnVwUVR3M3VKbVVLYkh2d1ZySi1qNHJnZDkyMGdSeHI0UVE5bw?oc=5",
+      "summary": "美伊連3天未互轟！川普稱「大家求我別開火」 談判破局就恢復強攻 UDN 飛彈空襲沒在怕？美國官員曝「這狠招」才會逼瘋伊朗 Yahoo新聞 美軍彈藥庫存快見底？川普闢謠：多到打不完 中央社 CNA 川普淡化彈藥庫存疑慮 稱對美伊談判有耐心 rti.org.tw 伊朗軍力被打殘？ 川普稱美國取得巨大勝利 雙方正展開友好談判 自由時報",
+      "published": "Mon, 27 Jul 2026 23:47:57 GMT",
+      "display_time": "07/27 23:47"
+    },
+    {
+      "source": "Google News Global",
       "title": "納坦雅胡、澤倫斯基藉葛蘭姆告別式會晤川普 商討伊朗與烏克蘭戰事 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxOUWlOU0xaNWxfMHZTV2tOXy14WXhZdnp2V180UldGUGsyd0FDdHpCdFVjRnZFZXZFYjhEallTbVE5UlhVT08tai1fYWxXRnRDT1ZreGtzb1lUbXhRQXNUZFBSczk3a1ROMXdhQ1VmdEcydXlmdjZYUS02M3F3UmNzZ0Z3VUdmYU5SczlxSTJucEczTjNHREtBYUxSSmdMdVpkd3FkeDRndGpPLVlrdWo4UHc4ZGFUbFhzQ2xHMFBOdTRjMTFrUnFvQm9tYk1jRGg4bXdXcXdfRUlIRU5YUHI2WG45Yks2YVRhVkFRYU93NE5EaXlQWWlqd24xVHZZOWk1RkNDaUJheVZJNDZrdFI3LUp4WU9PblgxdXl3NUJTVnVjT3kwbzRlMFNnV2lJamF4VUtUU2ZlZXM5UmlxU050NjF3Q1pHZldiUEJBTTA5SHBmWHktcU1CUDhNRFhrMl8waV9oelhCdC1kRlBHb3doak5zcWpBNi05VmFmVTZkQS1fY3g3MU12bnZUZnBMME5faXNURDUtT1hkTUROaW9sX2ZNa2hhYm1NSm5xQ3F4S05FUQ?oc=5",
       "summary": "納坦雅胡、澤倫斯基藉葛蘭姆告別式會晤川普 商討伊朗與烏克蘭戰事 Yahoo新聞 內唐亞胡見川普想談什麼？消息人士：帶新情報證明伊朗對談判心懷鬼胎 經濟日報 伊朗戰爭後首次會面 納坦雅胡將會晤川普 自由時報 川普將會見納坦雅胡、澤倫斯基 美伊、俄烏關鍵階段 Taiwan News 沒有美國以色列早不存在了! 見納坦雅胡前夕川普先嗆聲給下馬威| 國際 Newtalk新聞",
       "published": "Mon, 27 Jul 2026 23:28:54 GMT",
       "display_time": "07/27 23:28"
-    },
-    {
-      "source": "Google News Global",
-      "title": "【重磅快評】「四貸同堂」反映致富焦慮慎防引發骨牌效應| 綜合 | 要聞 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jaXI4b2dwNEFGcVVaNElOQ1pndEs0bDc0MEpTU1hzbE5NMHZ6b2kwY1RBOUtMaWs2RjBJUl8wc3ZtNTVoWGtyVEpIWTkwQ0Ut?oc=5",
-      "summary": "【重磅快評】「四貸同堂」反映致富焦慮慎防引發骨牌效應| 綜合 | 要聞 UDN 防堵「四貸同堂」風險　金管會推跨業徵信聯防機制 ETtoday財經雲 信貸比房貸便宜？「信貸綠茶」套利恐翻車！「股價泡沫出現」：小心台股修正引爆斷頭潮｜買房財之道 Yahoo股市 四貸同堂炒股拉警報 金管會請銀行喝咖啡 PChome Online 股市 台股驚爆四Die同堂斷頭潮！沒開槓桿也中槍？銀行抽查到「1動作」貸款恐將逼迫全吐回- 上市櫃 旺得富理財網",
-      "published": "Tue, 28 Jul 2026 07:26:02 GMT",
-      "display_time": "07/28 07:26"
-    },
-    {
-      "source": "Google News Global",
-      "title": "【Follow法人】台股跌點「史上第三大」...外資重砍875億元 分析師：態度暫偏空 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOaUR5SERsb19fOTh3cDFxOVN2czVQcVNjZFRuTGgtekZRa0xtVlpGem5Da1BkczJWUWJ5elVaUkJHUVU2RlRYSXRvMzVXM1pEaEhJRFBDa0FNejRNS3M1R3hYSy0wXzlJQ1ZrM0NWclYxMkdfY01ucUdiV2RDUmhXSGxuZDNDeUY2M3VPQk8xUWlrMXZGWWlfQ0RzQTNhdFdNV3gzWEFIMDlTakR1RVJuR19ud3lUR2FqeWV0Qmx4ZElSSDBMcWdmelpaZEl5X3VOR3B2MzJzcGJqMkY5THRyWlJfMXJsM3p0MW0zWUZkSFNJZDlEdExYMTN0ZlFsNmlUcUhvajdBV1Jqa19mYV9vQU9PYTBvS0NibklVZVhUS21nSjQwcXNVWmg5dWxjNTRiUmpHMVZrc1NjMnRPN2JpN05tMXNZWnJMeS1PUU1rcnd0UWNjU0hYaW8tLTdLNlk0ZUNxNU1wb2I3Y1ZuMDhKZzlqYmFvWmEzcUhNV3VtNGpkcWlUbVM1dUUxLS1Ra0xmbHY0N0xUMndRcWk3YU84Y21RcWJQMnpFU0lyakhSVGp2aFNxaTkweHc1N3R1TDhXQl9TR2JDbDhqZnZfVWVjcw?oc=5",
-      "summary": "【Follow法人】台股跌點「史上第三大」...外資重砍875億元 分析師：態度暫偏空 Yahoo股市 【Follow法人】外資倒貨23萬張00403A 反手敲進華航5萬張與面板雙虎 Yahoo股市 連高股息也不要了？外資狂賣各種ETF 倒貨00403A逾23萬張、賣超第一 UDN 外資賣超台股875億法人：橫盤築底觀察半年線支撐| 證券 中央社 CNA 華邦電跌勢才開始？「這群人」聯手倒貨 55萬股東屍橫遍野 自由財經",
-      "published": "Tue, 28 Jul 2026 07:08:59 GMT",
-      "display_time": "07/28 07:08"
     },
     {
       "source": "Google News Global",
@@ -162,20 +210,12 @@
       "display_time": "07/27 22:13"
     },
     {
-      "source": "Google News Finance",
-      "title": "台股盤中重挫逾2000點！專家：AI只是估值修正 8月後有望迎資金回流 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZFNnUE1DemtkbzVGM00yOXhHT05pVjNlX1ZISnB0RUVONWF0dGsyaEMwbTRKeVFTeWtoVWFNODJlSGVDcWZJRzc1ODgxZXJhSUNUWkZHUUF3WldkeFFKUVhibm9DZVVfaVRqNEIxWHhMSXptaTA1MXVZb2pZSVRXUVQ4NA?oc=5",
-      "summary": "台股盤中重挫逾2000點！專家：AI只是估值修正 8月後有望迎資金回流 壹蘋新聞網",
-      "published": "Tue, 28 Jul 2026 04:54:00 GMT",
-      "display_time": "07/28 04:54"
-    },
-    {
       "source": "Google News Global",
-      "title": "澤倫斯基最新表態：烏克蘭、伊朗已處於戰爭中 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNbW05RC1BMVRSbWxRbjhOeDZLT0RFZ0IwSDZPM0lZQ3NQYm0tRzk4WXp6YWxNRkpSWGlwZW9QWUQzUDlTS0lCUmJ5OEo2bGlrYlVBNm1pSVI4LWdaSm5PS25FQmphT2lQOEJMSFBaZ1M2RW9SMzV0RGtLTU9uaEpnX0tqMUhOcmdjbk9LTEs5NzBvb3dYeVJCTlQ4Y3AxclRvMmtBRmowdE8zSERzZV9YYUgwV081R0dVZlJnMzFSajNNLVJ3Y3kybS1IZ2NpNW9NZThSb3RHQWtMQnNTMW00ZEtxODJJc1hDcTR1eTVwbHZMbExUeUNUQ2oyRFBfMHBhaVRuZFhSWTZmVGJpUWo1NlNodUVPekh3SkNIRUNVX2luZkU1YjdjVnJCZndFX3JIRF9QUHNCZmhSdnYwa3RQV3FR?oc=5",
-      "summary": "澤倫斯基最新表態：烏克蘭、伊朗已處於戰爭中 Yahoo股市 近700公里外照打！烏長程無人機狂轟裏海 WSJ：俄伊生命線遭鎖定 自由軍武頻道 20260727 8點新世界完整版（無網路版權內容除外）｜烏克蘭襲裏海伊朗貨輪，伊朗指責烏替以出手，企圖擴大俄烏戰事 公視新聞網PNN 烏克蘭無人機打進裏海：裏海在戰略上有什麼重要性？俄烏和美伊戰爭要合流了？ TNL The News Lens 關鍵評論網 俄烏、美伊兩戰爭裏海交會！烏軍襲擊伊朗援俄物資船 伊朗揚言報復｜青年運動封鎖沙烏地！葉門：複製伊朗荷莫茲策略｜2026/07/28 中央社全球午間快報 中央社 CNA",
-      "published": "Tue, 28 Jul 2026 04:19:29 GMT",
-      "display_time": "07/28 04:19"
+      "title": "韓股熔斷再帶崩台股！胡采蘋諷：韓國散戶真的要感謝李在明| 財經 - Newtalk新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EN2txM21vY1VUeHZOX0xLbG1DdDg0YVN0b2xNNkJDTUdmNTNVOUthNV9qU25BbFBPVnM5dUJkVXNOSldDaU9FX1Q2ajZfSXdNUDBaNWFwMDNkZEE?oc=5",
+      "summary": "韓股熔斷再帶崩台股！胡采蘋諷：韓國散戶真的要感謝李在明| 財經 Newtalk新聞 防股市波動！南韓擬限制散戶投資上限 抑制個股槓桿ETF需求 自由財經 韓股暴跌又熔斷！韓媒分析：中國「長鑫存儲」上市引爆市場憂慮 遠見雜誌 AI 浪潮繫緊美韓股市，避險功能面臨失效 TechNews 科技新報 韓股跌逾10% 監管層擬重拳整治個股槓桿ETF news.cnyes.com",
+      "published": "Tue, 28 Jul 2026 04:44:14 GMT",
+      "display_time": "07/28 04:44"
     },
     {
       "source": "BBC Business",
@@ -208,14 +248,6 @@
       "summary": "川普砍外援！聯合國警告：全球愛滋病防治資金驟減近2成 民視新聞網",
       "published": "Mon, 27 Jul 2026 17:03:10 GMT",
       "display_time": "07/27 17:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊連3天未互轟！川普稱「大家求我別開火」 談判破局就恢復強攻 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40YkpPaVFyN2UxSG10aUw5MzlaeEhaQ2MwSmp6VzlaUVNFSGJKWmdYUWJtUmUtUHFrY1BtVmE5d1F6bE5RZWhqY1RUUTloQ2pfdVAw0gFYQVVfeXFMTm1EUnFmRzNZNE9rV2lqR3hFaU1mRGhxVlNZNVZXRWZtVDFYSk83LUoyN3RYcnVwUVR3M3VKbVVLYkh2d1ZySi1qNHJnZDkyMGdSeHI0UVE5bw?oc=5",
-      "summary": "美伊連3天未互轟！川普稱「大家求我別開火」 談判破局就恢復強攻 UDN 飛彈空襲沒在怕？美國官員曝「這狠招」才會逼瘋伊朗 Yahoo新聞 美軍彈藥庫存快見底？川普闢謠：多到打不完 中央社 CNA 川普淡化彈藥庫存疑慮 稱對美伊談判有耐心 rti.org.tw 伊朗軍力被打殘？ 川普稱美國取得巨大勝利 雙方正展開友好談判 自由時報",
-      "published": "Mon, 27 Jul 2026 23:47:57 GMT",
-      "display_time": "07/27 23:47"
     },
     {
       "source": "Google News Global",
