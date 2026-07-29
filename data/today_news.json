@@ -2,6 +2,30 @@
   "date": "2026-07-30",
   "news": [
     {
+      "source": "CNBC Finance",
+      "title": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
+      "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
+      "published": "Wed, 29 Jul 2026 19:40:01 GMT",
+      "display_time": "07/29 19:40"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Starbucks is about to report earnings. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
+      "summary": "Shares of Starbucks have risen 11% this year, raising its market cap to roughly $118 billion.",
+      "published": "Wed, 29 Jul 2026 19:35:01 GMT",
+      "display_time": "07/29 19:35"
+    },
+    {
+      "source": "BBC Business",
+      "title": "US interest rates held for fifth time in a row",
+      "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+      "published": "Wed, 29 Jul 2026 19:30:40 GMT",
+      "display_time": "07/29 19:30"
+    },
+    {
       "source": "Google News Finance",
       "title": "台光電財報｜AI需求旺！Q2每股賺27.55元創高 鞏固CCL龍頭地位 - 壹蘋新聞網",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFl3b3huai11dmV0a1QwRG5ya3NFSzM5RHQ0dm9nVGJvRFIxQlNLTHp6VTZzUlBFQXoycW55S2ZaRVFLb1BEMVh5YmNOWklLQUpVcUhvT1NBd1l5VFRYQnE3UW5mNzdiTmQ5Mi00UEZQaGFTMmJQR0llc1Q2TFZzMlpB?oc=5",
@@ -16,6 +40,14 @@
       "summary": "台股一度跌破4萬點!遭恐慌性拋售?台股何時止跌?領先指標一次看懂! 民視財經網",
       "published": "Wed, 29 Jul 2026 15:18:53 GMT",
       "display_time": "07/29 15:18"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股暴跌融資狂減520億元！創上市櫃融資單日最大減少金額 - tw.news.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcEJlQ051REZfNkpiMnFIdFNrZDc0dmZkdjZkTHpLZlNBb2xWaUpPQjh2ZEZRVWRnNjh2Uy1qQU1QZndzRHNTZGI1Y0tUQ0R4MWdqUy1GNmlfOTFZX2lFZldMN1BsNVpFV3g3bEpmQlRpUk4tT19yTWk0c05Od1ZaOWFuWk9pZ3FxZHBmWnNxOUhGNXg5U0hTWGNwSUVGdmRGMEktT052QzdRNktrd1ZzRXpadVJQS01QTm9ha3NGcUR2MHB1TThnU05IaXdia2lMMEJGTjgyWTVWU3pfRU4tXzNOcVhwa0RBSTc5LXNYcHo0cXVjbDJBbWc3Z3g2azcyN3JWa3I4TVRCOFQwcFNBVEoxaDhXZG82bzBxVW1nTHdKX0JGOXhRUEdGcWZGZHpvNHFxYTBrSGhzSF9SdGRIOFU0Qi01MTBjNGoyLXBOZXJqUmw1NzFUV20xdU9iQXRBdDZXTTJiT1hkQ1ZFT0d2cjIzLWJJVjkw?oc=5",
+      "summary": "台股暴跌融資狂減520億元！創上市櫃融資單日最大減少金額 tw.news.yahoo.com 台股明天將反彈？專家籲投資人「1操作」揭翻紅2訊號 Yahoo股市 台股大崩跌》雙指標無虞證交所、櫃買信心喊話- 日報 ctee.com.tw 天下晨間新聞：股市鬼故事，記憶體還沒慘完？ 天下雜誌 台股暴跌真相？全球科技股大屠殺專家揭15巨頭「透支獲利」豪賭：2027將超100% | 張庭維 | 新聞 風傳媒",
+      "published": "Wed, 29 Jul 2026 15:03:00 GMT",
+      "display_time": "07/29 15:03"
     },
     {
       "source": "Google News Global",
@@ -43,27 +75,19 @@
     },
     {
       "source": "CNBC Finance",
-      "title": "Chipotle Mexican Grill is about to report earnings. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/07/29/chipotle-mexican-grill-cmg-q2-2026-earnings.html",
-      "summary": "Chipotle Mexican Grill stock has fallen more than 7% this year, dragging its market value down to roughly $44 billion.",
-      "published": "Wed, 29 Jul 2026 19:40:01 GMT",
-      "display_time": "07/29 19:40"
+      "title": "Carvana stock falls 15% as auto retailer's 2026 earnings guidance misses Wall Street's expectations",
+      "link": "https://www.cnbc.com/2026/07/29/carvana-cvna-earnings-q2-2026.html",
+      "summary": "Carvana said Wednesday it expects earnings of between $2.7 billion and $3 billion this year after reporting record quarterly results for the second quarter.",
+      "published": "Wed, 29 Jul 2026 21:08:27 GMT",
+      "display_time": "07/29 21:08"
     },
     {
-      "source": "CNBC Finance",
-      "title": "Starbucks is about to report earnings. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/07/29/starbucks-sbux-q3-2026-earnings.html",
-      "summary": "Shares of Starbucks have risen 11% this year, raising its market cap to roughly $118 billion.",
-      "published": "Wed, 29 Jul 2026 19:35:01 GMT",
-      "display_time": "07/29 19:35"
-    },
-    {
-      "source": "BBC Business",
-      "title": "US interest rates held for fifth time in a row",
-      "link": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
-      "published": "Wed, 29 Jul 2026 19:30:40 GMT",
-      "display_time": "07/29 19:30"
+      "source": "Google News Global",
+      "title": "Fed決策／利率按兵不動3名聯準銀總裁持異議超乎預期| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQRVB5a1V5QnhQRndvWUQwUjZiWEdJVlR0Tm9CR1VFa2NCRHZpQjNpTGQ1a0tIcDBTMmpIazRMZkEwMGtySm1LV3ZKLTVlZGxR?oc=5",
+      "summary": "Fed決策／利率按兵不動3名聯準銀總裁持異議超乎預期| 全球財經| 全球 UDN Fed不升息、美元就要跌？ING示警多頭部位恐反轉 news.cnyes.com FOMC利率決策將出爐！升息預期再起Fed傳聲筒：這次結果太難預測- 國際 工商時報 聯準會沒有升息，股市、黃金迅速衝高！3位鷹派官員投下反對票，2016年來首見 | 林彥呈 | 財經 storm.mg Fed按兵不動但鷹聲大作！3名官員投反對票 9月升息警報拉高 Yahoo股市",
+      "published": "Wed, 29 Jul 2026 20:19:05 GMT",
+      "display_time": "07/29 20:19"
     },
     {
       "source": "Google News Global",
@@ -72,14 +96,6 @@
       "summary": "台股重挫失守信心防線！10檔千金股跌停、法人賣超縮手1個多月「跌快8千點」民眾慌：國安基金何時進場-Money錢 CMoney投資網誌 台股明天將反彈？專家籲投資人「1操作」揭翻紅2訊號 Yahoo股市 政府基金和大型行庫出手 股市大盤守住40000點以40039.18點作收 UDN 115檔跌停！台股殺到底了嗎？分析師曝反彈先做「這件事」 ctee.com.tw 台股大跌怎麼辦？空手、套牢、獲利者操作策略一次看，現在能抄底嗎？ news.cnyes.com",
       "published": "Wed, 29 Jul 2026 10:18:50 GMT",
       "display_time": "07/29 10:18"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股暴跌融資狂減520億元！創上市櫃融資單日最大減少金額 - tw.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxNcEJlQ051REZfNkpiMnFIdFNrZDc0dmZkdjZkTHpLZlNBb2xWaUpPQjh2ZEZRVWRnNjh2Uy1qQU1QZndzRHNTZGI1Y0tUQ0R4MWdqUy1GNmlfOTFZX2lFZldMN1BsNVpFV3g3bEpmQlRpUk4tT19yTWk0c05Od1ZaOWFuWk9pZ3FxZHBmWnNxOUhGNXg5U0hTWGNwSUVGdmRGMEktT052QzdRNktrd1ZzRXpadVJQS01QTm9ha3NGcUR2MHB1TThnU05IaXdia2lMMEJGTjgyWTVWU3pfRU4tXzNOcVhwa0RBSTc5LXNYcHo0cXVjbDJBbWc3Z3g2azcyN3JWa3I4TVRCOFQwcFNBVEoxaDhXZG82bzBxVW1nTHdKX0JGOXhRUEdGcWZGZHpvNHFxYTBrSGhzSF9SdGRIOFU0Qi01MTBjNGoyLXBOZXJqUmw1NzFUV20xdU9iQXRBdDZXTTJiT1hkQ1ZFT0d2cjIzLWJJVjkw?oc=5",
-      "summary": "台股暴跌融資狂減520億元！創上市櫃融資單日最大減少金額 tw.news.yahoo.com 台股明天將反彈？專家籲投資人「1操作」揭翻紅2訊號 Yahoo股市 台股大崩跌》雙指標無虞證交所、櫃買信心喊話- 日報 ctee.com.tw 天下晨間新聞：股市鬼故事，記憶體還沒慘完？ 天下雜誌 台股暴跌真相？全球科技股大屠殺專家揭15巨頭「透支獲利」豪賭：2027將超100% | 張庭維 | 新聞 風傳媒",
-      "published": "Wed, 29 Jul 2026 15:03:00 GMT",
-      "display_time": "07/29 15:03"
     },
     {
       "source": "Google News Global",
