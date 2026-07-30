@@ -2,12 +2,60 @@
   "date": "2026-07-30",
   "news": [
     {
+      "source": "Google News Global",
+      "title": "台股兩天暴殺3500點國安基金救不救？ 操盤手阮清華說話了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSUtNZTZQVTRnc2ZrTmFDR2p6X1ZILTdheVc1SktLWFl2X3E0UjQ3MUh0R0hidWpPdjJvVkZrN0ZZRy11QjRaN0hhUjAzbzJMS05ZcDhSbGp6ZklFbkNLR0tiNHVnbmtDX092cmVTUllsS1BmM0N5MU10SGRQbFI3eG9GNTR0b1A0VVBqeHNROTRrNHhZTE5pS0VESTZDc1Rpd1VwZFp3OVVqemVUOWxOYk5qSGNlZEN1YThGcWFueDZsamlTcmF4bDRhMkZiVEZiWXJkS2JETkwyTnlQOW1scERDUHBTeHFvTTBFUGptMWRkN1ZLUTVVbnZGNnlUd3hURXV3a3RTanB4N29zYnhFYkFESkFkVW04b3NRaFpQR2xhQ2JGR0tFUHVjakNNNmFsMzFJUGN5VDRvM1pRVzJwTG1tZzhfUm5DcmJ2QWI0WkRROEZpMWp5Q0tzSjl6dVZ0eWlYdUI0RXMxeW9kcjBlRW5qY18zU0NkT2ZRUmduWFJOQQ?oc=5",
+      "summary": "台股兩天暴殺3500點國安基金救不救？ 操盤手阮清華說話了 Yahoo股市 跌到被處置...恐淪系統性風險！巨人傑質疑「制度多殺多」：機制已成無差別傷害工具| 股市要聞| 股市 UDN 天下晨間新聞：股市鬼故事，記憶體還沒慘完？ 天下雜誌 Fed沒升息...台指期夜盤「這原因」又崩了！專家見1訊號急喊：末日還沒完- 上市櫃 旺得富理財網 台股劇烈震盪是否進場？國安基金操盤手回應了 自由財經",
+      "published": "Thu, 30 Jul 2026 02:58:16 GMT",
+      "display_time": "07/30 02:58"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "台股失血！被動元件變被套元件？國巨法說：AI需求仍強- 財經 - 華視新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xQkN1RGZmWG1zOVY3QjFIVzViamhOdE9COU9XWTFBdjZNRWdfY3c4MXZKTDljc0Z0LVUtOEx0YzhIQkhrM3JFa0NXei1FVVE2SVh3TTV0Zkw5VGxxcVM1Qm14UmVJRkxXOUtyQVpR?oc=5",
+      "summary": "台股失血！被動元件變被套元件？國巨法說：AI需求仍強- 財經 華視新聞網",
+      "published": "Thu, 30 Jul 2026 01:55:00 GMT",
+      "display_time": "07/30 01:55"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股開盤》台積電飆漲 指數震盪逾千點翻紅 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fcjdkSGpiYmh2QlJ0U01ldHoweW9XaGVoZVcyU0taTVNsS19iODc5U05aWUxmOENkbGl1by1EMTd0VHRWcFMtTlpLVU96Q3ZMV1dSRTlrWV9PVGtpNmlF?oc=5",
+      "summary": "台股開盤》台積電飆漲 指數震盪逾千點翻紅 自由財經 聯電、欣興、台光電漲停助攻！瑤池金母的00981A強彈逾5% Yahoo股市 台股開高急殺逾600點又翻紅！聯電亮燈點火 激戰4萬點關卡 UDN 聯準會FOMC傳鷹聲台積電挺身台股早盤大震盪黑翻紅- 證券 工商時報 費半狂瀉與熊本地震雙重利空！大盤急測 41,000 點支撐，資金湧入生醫避險與法說潛力股 TechNews 科技新報",
+      "published": "Thu, 30 Jul 2026 01:14:57 GMT",
+      "display_time": "07/30 01:14"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "published": "Thu, 30 Jul 2026 00:41:28 GMT",
+      "display_time": "07/30 00:41"
+    },
+    {
       "source": "BBC Business",
       "title": "Interest rates expected to be held again by Bank of England",
       "link": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
       "summary": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
       "published": "Wed, 29 Jul 2026 23:01:56 GMT",
       "display_time": "07/29 23:01"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股收盤／華許抗通膨決心遭質疑 長債殖利率急升 道瓊跌逾千點 費半再摔5.3% - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoZktJd09qX2Q2TFh3b2hzWXlLWmdnbnVCMXNXZDN4blhqVXZjRjRnYmYwZGlKS09KbTBPcERPQVBkN2lUZnFPaXRaT0FRRW1EVmhyLUVqdXlEOFdm0gFiQVVfeXFMUFBMbFpIZk5ZTlhfX0VGS0JNckVjZW45TzhnZ1g1WHZCNmpRUjBrcEtnc29HaEZmWUJwczZpUEZqYkktRFoycDFNX3dDdXJVSVhFTFpud3RPTmhKbjY1XzVyWWc?oc=5",
+      "summary": "美股收盤／華許抗通膨決心遭質疑 長債殖利率急升 道瓊跌逾千點 費半再摔5.3% 經濟日報 華許抗通膨決心遭質疑…長債殖利率急升 道瓊跌逾千點、費半再摔5.3% UDN 道瓊暴跌千點免驚？歷史數據揭密「這時間」反彈逾9％ 自由財經 美股下挫費半摔逾5% 法人估台股打底時間拉長 rti.org.tw 天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ 天下雜誌",
+      "published": "Wed, 29 Jul 2026 22:51:15 GMT",
+      "display_time": "07/29 22:51"
+    },
+    {
+      "source": "Google News Global",
+      "title": "伊朗5彈全攔下 川普怒嗆將回擊：把他們打到他X的屁滾尿流- 國際 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LWWYwYnJDRWNReHFGVjYybWRiYURPMTA3YXNaYW5IX1lmSXZVNmdqUWYxRkpnc1ZjYkpGWlJ3UE8yRC01cFpSSjE2T1lCMTdJN08zLXk2eXczeHhtTVd2aWwtVm1OQQ?oc=5",
+      "summary": "伊朗5彈全攔下 川普怒嗆將回擊：把他們打到他X的屁滾尿流- 國際 自由時報 美伊重燃戰火！川普誓言報復伊朗突襲 美官員證實展開空襲 UDN 伊又開轟 川普揚言會重重反擊- 國際 旺得富理財網 伊朗突襲約旦美軍基地與荷莫茲海峽 油價急升美財政部宣布制裁 Yahoo股市 回敬伊朗朝美軍射5枚飛彈川普：將狠狠打擊他們| 國際 中央社 CNA",
+      "published": "Wed, 29 Jul 2026 22:47:37 GMT",
+      "display_time": "07/29 22:47"
     },
     {
       "source": "Google News Global",
@@ -51,6 +99,14 @@
     },
     {
       "source": "Google News Global",
+      "title": "川普揚言「痛擊」伊朗 美伊停火破局、油價急飆超7% - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CUUk4ZmZDNnJxd0ZyaDg1VGduMXJyRlpLZFdicjA0U0dldWRlaXhWMm5hSnJYMUxHWUQ5ek1TSUgwUlRhbEo1amF3Qkh6ZU0?oc=5",
+      "summary": "川普揚言「痛擊」伊朗 美伊停火破局、油價急飆超7% news.cnyes.com 國際油價暴漲近8％！美沙聯手空襲、庫存探底一次看懂 自由財經 伊朗飛彈襲美軍基地！川普怒喊「痛擊報復」 布蘭特油價衝破90美元 Yahoo股市 《油價》中東局勢不穩 NYMEX原油上漲6.6% - 產業 - 新聞 MoneyDJ 美伊衝突緩解油價下挫5% 跌至兩週新低 PChome Online 股市",
+      "published": "Wed, 29 Jul 2026 21:30:23 GMT",
+      "display_time": "07/29 21:30"
+    },
+    {
+      "source": "Google News Global",
       "title": "台股2天暴殺3600點！金管會深夜喊話 「國安基金護盤？」財長回應了 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOSE8xNmRIRXFWMEQzNW9xQkxZYnoxOFhsU1BtOF9CMTRwNHgzblByQU40cDZOZ1EwZm1fM3RCRVB4c3BBbVFCVGM0Y2VORUliMjRGclNlX2tEd3UwbnJsTUZCRjJSbWhPWjNmM3RPXzBXSWxrZWx6cE1obnlwWmVDS1hXN0dyQkZwbzN2YmNKRWdBWWlITTA0M3czczJkaHdlNmNPQUJydWVtZ0VXZU5PMk9JUmVvM0pVYjZ3eFkyOEVUNFhRdnB5WXVhNDc3SnM0cE44Y00yUV9oZjhTZzRqdjdfNHBzRDRMZ0xtOVppdy1JVVFmVnlWTXRhdWlCT0g4RVVZSDhJSXpLcHBnSnBLQlYtZzltUksyeEQ0TEIyZzFLTXpOUi1vTWRTenp6akdGZFctb0ZhVl9jaV9wY2R4M0MyMjhybHI4b3loU2pvR0E2b1JpQWFfY1RVbXNCdTVrTE9vcEY3RlNaRUpOMUlrTDFYdEhUS2djc1I5QzlR?oc=5",
       "summary": "台股2天暴殺3600點！金管會深夜喊話 「國安基金護盤？」財長回應了 Yahoo新聞 盤勢分析》連續重挫 半年線有撐 ec.ltn.com.tw 天下晨間新聞：股市鬼故事，記憶體還沒慘完？ 天下雜誌 法人警告月底驚臺股大量斷頭 國安基金動向引關注 公視新聞網PNN 財長：台經濟韌性強 國安基金盯台股 ec.ltn.com.tw",
@@ -66,12 +122,28 @@
       "display_time": "07/29 21:08"
     },
     {
+      "source": "Google News Finance",
+      "title": "看好AI「賣鏟子」商機！安聯Q3 推亞洲半導體主動式ETF 這樣看台股布局時機 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UMGxCeWN3X1NDazY3YmwzMml2VHRNWW1jYjJXemM0M2staUkyblFGdG1ad0haSkxzeHhTUDRkWWpVV1dMSllCRmRXcHpzNGVQelh0ajk2MG9kckU0Z2RmWktfdTJkRmdBb1hORldENXNuTl9OVk9IYTI2cnpSQQ?oc=5",
+      "summary": "看好AI「賣鏟子」商機！安聯Q3 推亞洲半導體主動式ETF 這樣看台股布局時機 壹蘋新聞網",
+      "published": "Thu, 30 Jul 2026 04:44:00 GMT",
+      "display_time": "07/30 04:44"
+    },
+    {
       "source": "Google News Global",
       "title": "Fed決策／利率按兵不動3名聯準銀總裁持異議超乎預期| 全球財經| 全球 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQRVB5a1V5QnhQRndvWUQwUjZiWEdJVlR0Tm9CR1VFa2NCRHZpQjNpTGQ1a0tIcDBTMmpIazRMZkEwMGtySm1LV3ZKLTVlZGxR?oc=5",
       "summary": "Fed決策／利率按兵不動3名聯準銀總裁持異議超乎預期| 全球財經| 全球 UDN Fed不升息、美元就要跌？ING示警多頭部位恐反轉 news.cnyes.com FOMC利率決策將出爐！升息預期再起Fed傳聲筒：這次結果太難預測- 國際 工商時報 聯準會沒有升息，股市、黃金迅速衝高！3位鷹派官員投下反對票，2016年來首見 | 林彥呈 | 財經 storm.mg Fed按兵不動但鷹聲大作！3名官員投反對票 9月升息警報拉高 Yahoo股市",
       "published": "Wed, 29 Jul 2026 20:19:05 GMT",
       "display_time": "07/29 20:19"
+    },
+    {
+      "source": "Google News Global",
+      "title": "華爾街續挺！台積電逆勢撐盤奪成交王「這檔被動元件」法說利多失靈遭下修目標價仍衝359億元成交額 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMizwRBVV95cUxNUjBrRFBidGdDUndDUXRST3FGNGxzcnNaMWN5bkdvenItRFFBeTZubmMzdkxVNU1YS2tTQVg3S0hmeWpnSHFyV1hGTHV6dzc0T2pXbWVPSFEwY1VOMWdUeFNZbEF3bWRWUG1mRVo1UmZZQnpQUVZvR012MHUxSWlKOE9TcnYtS0s3bUFneUJPU0xuZ2k3cUxHWE40WTZTaHhNZkpFd2ctMllrSXhpNHhhMndidEs5UFdrcGZ2RTJhdV8ySVZqV3gxc0s0UTBwMWNqcFg4TE55TE5OYUdMa3Y3TnRIYmo2djdYZWxJTFVReDFQeVRrb0gwanJ1Z29BSG4zYjFwOU1wbUlualRjZldYZ2FUZzdkS2d1bktIeENiRUhWdmZzZkgwQ3ZjSVNCYjdYaTlqa2tWeGh3QUdZSmE2UEd6QjJKYjZ3V3hONnFfeFFqYW1vOUkxNVZHdjdqTVJtX3ZoQmg5V21TeHlnazVuS3RQSjREZmhPTjZTRUt0SXpvR0tIY0dRQURpRUpPMVAzZTJ5Rkd5RC1aREtDM1VBZHZhTWlKVjBzRDhtMnZwZ2JnemRRUC1uTEMwNnE3bmZJcG5FSkJGUllKNnNHRkRab3o2cElHVTA4QmFpNll3NDdaLVZCdHkydGVJVGVCQnhpT2NlZVp6amhCY2E3YzBUOUMxczZlS08tbE9wcTdYQkk3azBHR1JiNTlRd1VuYUlQanVqdTN4bl9lOXZmRFhEbG9mNk5ZakhJQkxSRVRtRk9oRjQ0NFpRX3lWNjEycXc?oc=5",
+      "summary": "華爾街續挺！台積電逆勢撐盤奪成交王「這檔被動元件」法說利多失靈遭下修目標價仍衝359億元成交額 Yahoo股市 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Thu, 30 Jul 2026 04:05:00 GMT",
+      "display_time": "07/30 04:05"
     },
     {
       "source": "Google News Global",
@@ -107,35 +179,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "台股兩天暴殺3500點國安基金救不救？ 操盤手阮清華說話了 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPSUtNZTZQVTRnc2ZrTmFDR2p6X1ZILTdheVc1SktLWFl2X3E0UjQ3MUh0R0hidWpPdjJvVkZrN0ZZRy11QjRaN0hhUjAzbzJMS05ZcDhSbGp6ZklFbkNLR0tiNHVnbmtDX092cmVTUllsS1BmM0N5MU10SGRQbFI3eG9GNTR0b1A0VVBqeHNROTRrNHhZTE5pS0VESTZDc1Rpd1VwZFp3OVVqemVUOWxOYk5qSGNlZEN1YThGcWFueDZsamlTcmF4bDRhMkZiVEZiWXJkS2JETkwyTnlQOW1scERDUHBTeHFvTTBFUGptMWRkN1ZLUTVVbnZGNnlUd3hURXV3a3RTanB4N29zYnhFYkFESkFkVW04b3NRaFpQR2xhQ2JGR0tFUHVjakNNNmFsMzFJUGN5VDRvM1pRVzJwTG1tZzhfUm5DcmJ2QWI0WkRROEZpMWp5Q0tzSjl6dVZ0eWlYdUI0RXMxeW9kcjBlRW5qY18zU0NkT2ZRUmduWFJOQQ?oc=5",
-      "summary": "台股兩天暴殺3500點國安基金救不救？ 操盤手阮清華說話了 Yahoo股市 跌到被處置...恐淪系統性風險！巨人傑質疑「制度多殺多」：機制已成無差別傷害工具| 股市要聞| 股市 UDN 天下晨間新聞：股市鬼故事，記憶體還沒慘完？ 天下雜誌 Fed沒升息...台指期夜盤「這原因」又崩了！專家見1訊號急喊：末日還沒完- 上市櫃 旺得富理財網 台股劇烈震盪是否進場？國安基金操盤手回應了 自由財經",
-      "published": "Thu, 30 Jul 2026 02:58:16 GMT",
-      "display_time": "07/30 02:58"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股失血！被動元件變被套元件？國巨法說：AI需求仍強- 財經 - 華視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xQkN1RGZmWG1zOVY3QjFIVzViamhOdE9COU9XWTFBdjZNRWdfY3c4MXZKTDljc0Z0LVUtOEx0YzhIQkhrM3JFa0NXei1FVVE2SVh3TTV0Zkw5VGxxcVM1Qm14UmVJRkxXOUtyQVpR?oc=5",
-      "summary": "台股失血！被動元件變被套元件？國巨法說：AI需求仍強- 財經 華視新聞網",
-      "published": "Thu, 30 Jul 2026 01:55:00 GMT",
-      "display_time": "07/30 01:55"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股開盤》台積電飆漲 指數震盪逾千點翻紅 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fcjdkSGpiYmh2QlJ0U01ldHoweW9XaGVoZVcyU0taTVNsS19iODc5U05aWUxmOENkbGl1by1EMTd0VHRWcFMtTlpLVU96Q3ZMV1dSRTlrWV9PVGtpNmlF?oc=5",
-      "summary": "台股開盤》台積電飆漲 指數震盪逾千點翻紅 自由財經 聯電、欣興、台光電漲停助攻！瑤池金母的00981A強彈逾5% Yahoo股市 台股開高急殺逾600點又翻紅！聯電亮燈點火 激戰4萬點關卡 UDN 聯準會FOMC傳鷹聲台積電挺身台股早盤大震盪黑翻紅- 證券 工商時報 費半狂瀉與熊本地震雙重利空！大盤急測 41,000 點支撐，資金湧入生醫避險與法說潛力股 TechNews 科技新報",
-      "published": "Thu, 30 Jul 2026 01:14:57 GMT",
-      "display_time": "07/30 01:14"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "published": "Thu, 30 Jul 2026 00:41:28 GMT",
-      "display_time": "07/30 00:41"
+      "title": "小吃店老闆6月才喊「靠國巨財富自由」退休！財經作家勸：快回來 - finance.ettoday.net",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EenFpdDAwNGNEMEdHM1Fpd0FRQUQyaXotYUlBN21VeWxpaDk4OUhmNzV0anNjU1BYdlhpQUFCa3lRQktCSTV2aFJNdDBYLUkyZ3fSAVBBVV95cUxNNV9NLXhGNnFIVFlZTXZoZU5yQXV3emlfS1hiaTBoWjhraGFDYWRRQ24xQ2NhdllvYmM2OW1sa2ZSOEt6YVlScHpmM21jX0tZUA?oc=5",
+      "summary": "小吃店老闆6月才喊「靠國巨財富自由」退休！財經作家勸：快回來 finance.ettoday.net 老字號小吃店「靠國巨財富自由」上月才歇業！股價連拉3跌停 財經作家喊話：老闆回來吧 Yahoo股市 國巨慘吞第3根跌停！外資千元目標價淪接盤陷阱「財務長一席話直接判股價死刑」1訊號出現才是底部- 上市櫃 旺得富理財網 國巨上半年EPS達8.48元，估Q3維持成長- 新聞 MoneyDJ 焦點股》國巨*：法人看好卻調降目標價 開盤跌破500大關 自由財經",
+      "published": "Thu, 30 Jul 2026 02:50:00 GMT",
+      "display_time": "07/30 02:50"
     },
     {
       "source": "Google News Finance",
@@ -163,22 +211,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "美股收盤／華許抗通膨決心遭質疑 長債殖利率急升 道瓊跌逾千點 費半再摔5.3% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoZktJd09qX2Q2TFh3b2hzWXlLWmdnbnVCMXNXZDN4blhqVXZjRjRnYmYwZGlKS09KbTBPcERPQVBkN2lUZnFPaXRaT0FRRW1EVmhyLUVqdXlEOFdm0gFiQVVfeXFMUFBMbFpIZk5ZTlhfX0VGS0JNckVjZW45TzhnZ1g1WHZCNmpRUjBrcEtnc29HaEZmWUJwczZpUEZqYkktRFoycDFNX3dDdXJVSVhFTFpud3RPTmhKbjY1XzVyWWc?oc=5",
-      "summary": "美股收盤／華許抗通膨決心遭質疑 長債殖利率急升 道瓊跌逾千點 費半再摔5.3% 經濟日報 華許抗通膨決心遭質疑…長債殖利率急升 道瓊跌逾千點、費半再摔5.3% UDN 道瓊暴跌千點免驚？歷史數據揭密「這時間」反彈逾9％ 自由財經 美股下挫費半摔逾5% 法人估台股打底時間拉長 rti.org.tw 天下晨間新聞：美股又吃土！費半狂跌5.3%，Fed說了什麼？Meta、微軟誰在放火？ 天下雜誌",
-      "published": "Wed, 29 Jul 2026 22:51:15 GMT",
-      "display_time": "07/29 22:51"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗5彈全攔下 川普怒嗆將回擊：把他們打到他X的屁滾尿流- 國際 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LWWYwYnJDRWNReHFGVjYybWRiYURPMTA3YXNaYW5IX1lmSXZVNmdqUWYxRkpnc1ZjYkpGWlJ3UE8yRC01cFpSSjE2T1lCMTdJN08zLXk2eXczeHhtTVd2aWwtVm1OQQ?oc=5",
-      "summary": "伊朗5彈全攔下 川普怒嗆將回擊：把他們打到他X的屁滾尿流- 國際 自由時報 美伊重燃戰火！川普誓言報復伊朗突襲 美官員證實展開空襲 UDN 伊又開轟 川普揚言會重重反擊- 國際 旺得富理財網 伊朗突襲約旦美軍基地與荷莫茲海峽 油價急升美財政部宣布制裁 Yahoo股市 回敬伊朗朝美軍射5枚飛彈川普：將狠狠打擊他們| 國際 中央社 CNA",
-      "published": "Wed, 29 Jul 2026 22:47:37 GMT",
-      "display_time": "07/29 22:47"
-    },
-    {
-      "source": "Google News Global",
       "title": "伊朗攻美軍基地「川普喊話痛擊」 國際油價漲逾6％ - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPMG1KandsY0ljZTBabHlST3I5V3F5OWpZVGp0YWZ5NVowUXladEZqd21Iempnc193Wjl5ZXlqVGlwVFE0anlOQi1kYWs3U0tvWlpxSmdMVl90VXlPMnNqMEpYTVAyVVFvaXltY0JVV2psUkJDRTRROFlrMjhVZ21RNlpuT1NDNHA1QlpHZjFvTm9EZDZGcElQU3hJaExYTmlCcllCV1NueDlMZ3hieXphZndKOUVNVmhUekRZa2RwVElJWUZFdTU5V3FwamtxalRYYlk1d0pqY1p2UDNGT29YbGdVRFQ3V2V1cFEydkxkaDdlV281MDBfNmhTc2ZuVVVHdnNEX0RtUWY2dVBaSURkbnJoaGNWVGdTWVJtNTdLOUFxeUJfemthM25rbWJwdTlNT0RfTHJMNVoxMDA?oc=5",
       "summary": "伊朗攻美軍基地「川普喊話痛擊」 國際油價漲逾6％ Yahoo新聞 伊朗彈襲約旦美軍基地川普矢言狠狠反擊| 國際 中央社 CNA 伊朗空襲疑命中AWS巴林資料中心 雲端基設成AI時代戰略目標 DIGITIMES 伊朗打破4天停火！彈襲美軍約旦基地 向川普傳遞1訊息 UDN 伊朗飛彈再鎖定美軍！油價暴跌5%後急彈 陳鳳馨斷言漲不久：川普真正軟肋在美債 Yahoo新聞",
@@ -203,11 +235,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "川普揚言「痛擊」伊朗 美伊停火破局、油價急飆超7% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CUUk4ZmZDNnJxd0ZyaDg1VGduMXJyRlpLZFdicjA0U0dldWRlaXhWMm5hSnJYMUxHWUQ5ek1TSUgwUlRhbEo1amF3Qkh6ZU0?oc=5",
-      "summary": "川普揚言「痛擊」伊朗 美伊停火破局、油價急飆超7% news.cnyes.com 國際油價暴漲近8％！美沙聯手空襲、庫存探底一次看懂 自由財經 伊朗飛彈襲美軍基地！川普怒喊「痛擊報復」 布蘭特油價衝破90美元 Yahoo股市 《油價》中東局勢不穩 NYMEX原油上漲6.6% - 產業 - 新聞 MoneyDJ 美伊衝突緩解油價下挫5% 跌至兩週新低 PChome Online 股市",
-      "published": "Wed, 29 Jul 2026 21:30:23 GMT",
-      "display_time": "07/29 21:30"
+      "title": "熊本AEON貓咖啡廳25貓全獲救轉移廣島分店安置| 國際 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ibHV6OTdXYVZqOWU4SXljbFA0eGM4QUVvN2dvc29fSE5sR0RZT2R1V1F5RXVTUkZqOHVOa0IxZDM2b09GVVlvcDJEMFJ5SDdhT29OR19rbG9NVjZmckhv?oc=5",
+      "summary": "熊本AEON貓咖啡廳25貓全獲救轉移廣島分店安置| 國際 中央社 CNA 熊本地震規模7.1含「災害相關死亡」共28死新幹線停駛、永旺商城AEON爆炸持續搜救最新進度一次看【不斷更新】 Yahoo新聞 台積電JASM、Sony、瑞薩等震後停工 半導體專用碼頭也受創 DIGITIMES 熊本地震／熊本災害對策本部：罹難人數增至17人 rti.org.tw 心繫熊本震災！ 盧市長指示特搜隊待命 市府確保產業鏈運作安全、將捐助10萬美元賑災 taichung.gov.tw",
+      "published": "Wed, 29 Jul 2026 13:39:00 GMT",
+      "display_time": "07/29 13:39"
     },
     {
       "source": "Google News Global",
@@ -250,6 +282,14 @@
       "display_time": "07/29 10:13"
     },
     {
+      "source": "Google News Global",
+      "title": "韓股暴跌 120萬人被追繳保證金 韓國政府下令加強巡邏27座大橋 - cmmedia.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sc1QzbjVBRkc2V3M4LVZXZG84ZTAtZlJsUWNEbkNreXpkcnlIUGx3dENMazFmRDhPNUJ2b1Z4M0Jvb3hYY3FkdC1Oelk5SzZXdnpPckVKalM5UQ?oc=5",
+      "summary": "韓股暴跌 120萬人被追繳保證金 韓國政府下令加強巡邏27座大橋 cmmedia.com.tw 韓股 40 天極限去槓桿！小摩喊籌碼洗淨 90% 恐慌就是底部 TechNews 科技新報 SK海力士、三星重挫 槓桿ETF跌更兇 專家：美股投資人小心了 news.cnyes.com 韓股連二日熔斷救市按兵不動- 日報 工商時報 韓股崩跌掀怒火 散戶抬花圈包圍國會：廢除個股槓桿ETF Yahoo股市",
+      "published": "Wed, 29 Jul 2026 09:45:00 GMT",
+      "display_time": "07/29 09:45"
+    },
+    {
       "source": "Google News Finance",
       "title": "喊台股破4萬就砸1億買0050！他豪兌現「親揭成交紀錄」網嚇愣 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOT2JMWmNPWWZVdUd4RTQ4YkV0UWt3OFRfSE0yeFdldDlkNVc0ZVV1cmM4OGlpME01T1JpSWtRQ1M2WVU2QTM0V0k5Rm9GUkVEV2ptYXoyOS1hbFhuZ2g0LVpFSEsweFJrUXpnZFYwMVd4aFdNakljclNQWmxwM2NMeUJYaWlkNW43Z0RKMzdWM0N5Y0ZqMVcxSDVrenI2QnFEUlNsTnB5czhfQXJGaktYX05fbFF0WUUzTUJxZHFYSEFuTi1JYzNFcndVbTk5aW10OWkxNDV0NE1kTnNGekR0aWRFX05RX3hQZ2pfYnJyb252TnA5M1ZYVjM4RnE3TkIyd1hkODZKTHNleklDM1I4YmVONU82V1Nsc1FRdjMycWxTbjJuU1FQS25wMXNNSkZwcFQ1NUlfY1VyZVppd1Q5TzlsSGdEZURsY2JWZDhXUjhYVzBPNG05RElMcExCN2FGSHh1Zjk0anBjYkUwWklV?oc=5",
@@ -283,14 +323,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "熊本AEON貓咖啡廳25貓全獲救轉移廣島分店安置| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ibHV6OTdXYVZqOWU4SXljbFA0eGM4QUVvN2dvc29fSE5sR0RZT2R1V1F5RXVTUkZqOHVOa0IxZDM2b09GVVlvcDJEMFJ5SDdhT29OR19rbG9NVjZmckhv?oc=5",
-      "summary": "熊本AEON貓咖啡廳25貓全獲救轉移廣島分店安置| 國際 中央社 CNA 熊本地震規模7.1含「災害相關死亡」共28死新幹線停駛、永旺商城AEON爆炸持續搜救最新進度一次看【不斷更新】 Yahoo新聞 台積電JASM、Sony、瑞薩等震後停工 半導體專用碼頭也受創 DIGITIMES 熊本地震／熊本災害對策本部：罹難人數增至17人 rti.org.tw 心繫熊本震災！ 盧市長指示特搜隊待命 市府確保產業鏈運作安全、將捐助10萬美元賑災 taichung.gov.tw",
-      "published": "Wed, 29 Jul 2026 13:39:00 GMT",
-      "display_time": "07/29 13:39"
-    },
-    {
-      "source": "Google News Global",
       "title": "台股主動式ETF跳水！00405A驚見6.7元新低　00403A失守9元大關 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oc3RJTGszX2hlc3ZveHFDYVFfeVNHQU1WLXRLQnlDMGVUOG9hdm1ZR2tBRGxCQnB0UnNDc3dBMUF1VHlYcGtjUjF2VS1nS3ZZRFHSAVBBVV95cUxOcjN4cm1qSDExUTdYUnRXYkQxZGYtbVhjd3NIRGk4Vkg3YzF5UTVJRGtUVHR0dGVGWjkycl9sb2xldGhxdmdEUU9oRjE0RnlTWg?oc=5",
       "summary": "台股主動式ETF跳水！00405A驚見6.7元新低　00403A失守9元大關 ETtoday財經雲 台股暴跌逾1500點！高股息ETF抗震力強 「這檔」逆勢小漲 Yahoo股市 台股狂瀉「最便宜正2」成交量破百萬張　專家：痛苦、快樂都加倍 ETtoday財經雲 台股血流成河該逃命？法人揭分批撿便宜時機 10大抗震ETF出列！ ctee.com.tw 國家隊逆勢砸213億元！0050、台積電再成「護盤焦點」 20大買賣清單1次看- 上市櫃 旺得富理財網",
@@ -307,11 +339,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "韓股暴跌 120萬人被追繳保證金 韓國政府下令加強巡邏27座大橋 - cmmedia.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sc1QzbjVBRkc2V3M4LVZXZG84ZTAtZlJsUWNEbkNreXpkcnlIUGx3dENMazFmRDhPNUJ2b1Z4M0Jvb3hYY3FkdC1Oelk5SzZXdnpPckVKalM5UQ?oc=5",
-      "summary": "韓股暴跌 120萬人被追繳保證金 韓國政府下令加強巡邏27座大橋 cmmedia.com.tw 韓股 40 天極限去槓桿！小摩喊籌碼洗淨 90% 恐慌就是底部 TechNews 科技新報 SK海力士、三星重挫 槓桿ETF跌更兇 專家：美股投資人小心了 news.cnyes.com 韓股連二日熔斷救市按兵不動- 日報 工商時報 韓股崩跌掀怒火 散戶抬花圈包圍國會：廢除個股槓桿ETF Yahoo股市",
-      "published": "Wed, 29 Jul 2026 09:45:00 GMT",
-      "display_time": "07/29 09:45"
+      "title": "路透：伊朗補強防空缺口傳將接收400套中國飛彈| 國際 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OUjRxY1A0elJkX2RBSGlxc1B2LS1KbzJ2V0QxR3lVMGNfUjR4SnZNUTFPdWliYzZOTUVaYlAzc0w2QVQ0SFpXek9NV051UHhXWVJXLWpvVUJudjV5Sy04?oc=5",
+      "summary": "路透：伊朗補強防空缺口傳將接收400套中國飛彈| 國際 中央社 CNA 習近平騙了川普！路透爆中國將提供伊朗400套肩射飛彈 自由軍武頻道 習近平出賣美國？傳中國出售武器給伊朗 川普：我會很失望 Yahoo新聞 中國防空系統守到美軍門口! FK-2000緊急部署巴林伊攻擊掀中美武器較量| 國際 Newtalk新聞 傳賣伊朗防空飛彈 陸駁斥 UDN",
+      "published": "Wed, 29 Jul 2026 05:17:00 GMT",
+      "display_time": "07/29 05:17"
     }
   ]
 }
