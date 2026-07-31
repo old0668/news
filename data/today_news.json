@@ -2,22 +2,6 @@
   "date": "2026-07-31",
   "news": [
     {
-      "source": "CNBC Finance",
-      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
-      "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
-      "summary": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year as the company reported second-quarter results.",
-      "published": "Thu, 30 Jul 2026 20:20:24 GMT",
-      "display_time": "07/30 20:20"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-      "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
-      "published": "Thu, 30 Jul 2026 16:19:08 GMT",
-      "display_time": "07/30 16:19"
-    },
-    {
       "source": "Google News Global",
       "title": "快訊／川普宣布達成「歷史性協議」！哈瑪斯全面繳械 以軍將撤離加薩 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQLVUtU0w5UmwwSGVhQzZrWnVCTW9COWtFakl5RGhlTW5xZ3FVajMtOWd3WEFsUDVTY0ZUd0YxX0IzWmQ0OFRSTnRhTEROQW14T3R4VjV3UjdOcTh0eUMyRC1YRzRuSGdUbnFfT3VldGFzMFAyQU5SNldKSUd6NXkzX3UtUFJicV9yTEZLZ01VbElHM0psZENRQ0pNYU56WnVNYjRtcTIzRFpIUDNRa2JISXg1WFJ2czZLS3JiYk9WZHVTbmowUzFWbFBzdk5CT2M2Z3NkTUltZEtDWUF3TDU0dkpVUzFSQ25tblFHU0xxX0trUER0eG1Kb3BaR2h4cHBrQjY4SmVBaXdWaE9NN0FXdDFDeDZGYUF5WHVCeFhhRUd4Nk5Uam5ieExqZEFOb045OXJYZFFIUmVSWERaY0RrUDgyRnNJVi1jd2hCN0VkVGZKeTZ6MW5tdWktYjdZUTJaUk9FQ1dFZ3JvZHhkOERCOTdWNlhiWWozOTNCMFMwQ181RHBQNXp2em1wcm5fdHpWbFFySjVTYy03ZFpw?oc=5",
@@ -32,6 +16,78 @@
       "summary": "微軟帶頭飆漲15%！美股收紅「費半強噴逾8%」 台積電ADR大漲7.64%、台指期夜盤重返41K Yahoo股市 台股盤前／費半狂噴8%點燃多頭！台指夜盤大漲1573點 台股今迎跌深反彈 Yahoo新聞 微軟、Meta股價兩樣情 完美揭示市場如何評價AI投資 news.cnyes.com 美股收盤》晶片股回神！費半強彈逾8％ 台積電ADR飆漲7.6％ 自由財經 微軟財報報喜股價勁揚逾15% 創近18年最佳單日表現 rti.org.tw",
       "published": "Thu, 30 Jul 2026 23:15:00 GMT",
       "display_time": "07/30 23:15"
+    },
+    {
+      "source": "Google News Global",
+      "title": "韓70萬散戶遭槓桿爆雷血洗！KOSPI月跌40% 政府急拋五大「救市牌」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZ3ZadkRSWUsxTWdrcWI3N0IyUFZWczhfN0dLVTZYQTFwcVVtbTZMZGZnMGNMcThGQTlWUWg3SGpZOGtFSVNKZWw3ZW5qVzg?oc=5",
+      "summary": "韓70萬散戶遭槓桿爆雷血洗！KOSPI月跌40% 政府急拋五大「救市牌」 news.cnyes.com 搶救百萬瀕斷頭戶 南韓急推補救措施 自由財經 憤怒的韓國散戶扛花圈包圍國會，要求廢除三星、海力士槓桿 ETF 動區動趨 009829韓版台灣50來了！10元搶進韓股龍頭一次打包三星、SK海力士| 存股族愛ETF | 股市 UDN 股海狂潮／韓股槓桿投資釀股災 示警台股投資人哪些事 rti.org.tw",
+      "published": "Thu, 30 Jul 2026 22:01:15 GMT",
+      "display_time": "07/30 22:01"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈財報〉庫克CEO告別作喜憂參半！蘋果Q3營收優 但服務和大中華失色 盤後跳水 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzOEhZalNZZHZ3WURTU3p6RVE4YVNpVW44VGdPOGhIQ05tVThWdE9UVVF6SkRVMU9mclVMUDI4S0VZelB3OU9IaENiUXRJTXM?oc=5",
+      "summary": "〈財報〉庫克CEO告別作喜憂參半！蘋果Q3營收優 但服務和大中華失色 盤後跳水 news.cnyes.com 蘋果財報優預期、iPhone營收大增22％ 但供應吃緊拖累財測 盤後重挫8％ 工商時報 擠下輝達 蘋果重返全球市值龍頭進補10台廠 Yahoo新聞 蘋果盤後重挫8%！供應短缺拖累財測、大中華區與服務營收遜預期| 全球財經| 全球 UDN 蘋果市值首度衝破5兆美元大關 獨特策略擺脫AI燒錢戰 PChome Online 股市",
+      "published": "Thu, 30 Jul 2026 21:37:57 GMT",
+      "display_time": "07/30 21:37"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Rivian reduces 2026 spending plans, narrows earnings guidance",
+      "link": "https://www.cnbc.com/2026/07/30/rivian-rivn-q2-2026-earnings.html",
+      "summary": "Rivian reduced its 2026 spending plans and slightly narrowed its previously forecasted losses this year as the company reported second-quarter results.",
+      "published": "Thu, 30 Jul 2026 20:20:24 GMT",
+      "display_time": "07/30 20:20"
+    },
+    {
+      "source": "Google News Global",
+      "title": "李怡貞連2天解定存！ All in台股「跟它拚」今見暴漲笑：乖乖上班 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxNRS1uZnZBTFhWUTlTdTFJdk02bFJXcFpING9GR3Vxb1BTdzZ4X1ZiM0JHUVhJVTFvMENSVm5lMGdMdmlJbnBSVm9QcTdnbGlvdjYxN3Y0ejdKTzlIWndzdWd4MFJldzB3X25QNWVFZmV4ZUhfNEF0aFdWQmxtRUtydldHcHMxRmREdWRxNF9NbUlheEd5VldBVW0wazl3TGF1enRpU2g2OE9SN1JzSDRhVGItVnFBVTNjQkl6YlJ6NTJwTjYtaC1ReU9MM3BxQmo5LUozb21WSWxwTzdScXQyQURDZU1YemxvVUlwSVFxTXZkWWpGUlBra0xIN2NpeVZkVEFSa1lZSnhuZDlBVWlVeEJGZFJaanpXOWplM18xS1VsY1NaaU50SlAteWFwcUJUZWdaR3o5VFFjSzREWnRQT0pjTTRseXB1N3BVbDQ4OU1HVFFsVW9kWWZBOTd5WTdjUlc2MUtNd3NvTThw?oc=5",
+      "summary": "李怡貞連2天解定存！ All in台股「跟它拚」今見暴漲笑：乖乖上班 Yahoo股市 李怡貞解定存「連兩日All in」跟它拚了　見漲停板笑：乖乖上班 ETtoday財經雲 〈台股盤後〉千點反彈白忙一場 電子股賣壓仍重 跌105點失守4萬點大關 news.cnyes.com 國安基金何時護盤？財政部回應了 東森電視 台股「死亡交叉」 反彈時候到了？名師爆「關鍵一數字」揭多空生死線 中天新聞網",
+      "published": "Fri, 31 Jul 2026 03:12:55 GMT",
+      "display_time": "07/31 03:12"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Three things we learned about AI from Big Tech earnings",
+      "link": "https://www.bbc.co.uk/news/articles/cp87m46g392o?at_medium=RSS&at_campaign=rss",
+      "summary": "Billions of dollars are being poured into a new wave of AI technology. But will it pay off?",
+      "published": "Fri, 31 Jul 2026 01:31:50 GMT",
+      "display_time": "07/31 01:31"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普重大宣布！哈瑪斯全面繳械 以軍分階段撤離 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwTjQ4bW1ESHd5VWltc21WSUN1THBLdVgzNnVuaXM2NUhLdkhMT09GT0QtZzVrTlo4TmgzeUhqZDBhMlMwbXpkN2VfR0xCZUtXcmtv?oc=5",
+      "summary": "川普重大宣布！哈瑪斯全面繳械 以軍分階段撤離 東森新聞 加薩和平有望？川普宣布達成歷史性協議 哈瑪斯全面繳械後以軍撤離 UDN 川普宣布達成協議哈瑪斯將全面解除武裝| 國際 中央社 CNA 川普宣布達成「歷史性協議」！哈瑪斯全面繳械 以軍將撤離加薩 Yahoo新聞 川普稱達成歷史性協議 哈瑪斯將分階段全面解除武裝 rti.org.tw",
+      "published": "Fri, 31 Jul 2026 00:33:00 GMT",
+      "display_time": "07/31 00:33"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+      "link": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
+      "published": "Thu, 30 Jul 2026 16:19:08 GMT",
+      "display_time": "07/30 16:19"
+    },
+    {
+      "source": "Google News Global",
+      "title": "盤後跳水！蘋果財報解讀：零件短缺拖累財測、iPhone與Mac強攻、服務及大中華失色、特納斯接班 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1GdjlTWjhpaGtPR2w4X2l6d1BsWF80WEJ5M2NWYkxGV3NZQU91Qms4anFHdlJuTjhMQ045a3hSQWFoVGFMMzFrUU5tUG02c1U?oc=5",
+      "summary": "盤後跳水！蘋果財報解讀：零件短缺拖累財測、iPhone與Mac強攻、服務及大中華失色、特納斯接班 news.cnyes.com 〈財報〉庫克CEO告別作喜憂參半！蘋果Q3營收優 但服務和大中華失色 盤後跳水 news.cnyes.com 蘋果盤後重挫8%！供應短缺拖累財測、大中華區與服務營收遜預期| 全球財經| 全球 UDN 晶片供應限制拖累蘋果營收展望不如華爾街預期| 國際 中央社 CNA iPhone熱賣難救財測失色 蘋果盤後股價跌近6% MoneyDJ",
+      "published": "Fri, 31 Jul 2026 00:03:53 GMT",
+      "display_time": "07/31 00:03"
+    },
+    {
+      "source": "Google News Global",
+      "title": "蘇伊士運河也危險了？埃及LNG船遇襲引發市場憂慮 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOVXpRZTBVZ3V2R2ZxZ2ZEaGRtUXFYRWwteUdFZUc1bUxjd1U3YjVFS000cGRJZkJFZkJXNnpMcGZxSWhzbklWXzNpbjQzN1RCSkNrYVJuWEtZNTRHalhLVzQzSkhya09qS2NrNEY1S2xyZ1RpZkp0SEdGV1I4cFFjaXl0ZU5nQTUtQ2lKNnYzUThTdk1EX0pmaVRxZ25XSWxQQVBNLUZpZ001aTNpci1CelNTQURSU251MEQzT2k5OFFPX3JRVm42VFpyMUtZb0c4azNwMzdTaDNyQklxUFJwTXFNZjVMc2FZSktEbWpKZzRGZDJ1SW9ZXzdJQ0Y2c1VRQTZhdVYwX1laT1pnTlRVdWtoYnBzV0hqVjVudVFmRXdtMTJSTi1VdENPaGJxVkFGTTZKY2dKcmlaUnc1YVJuWEVib3ZWLUpS?oc=5",
+      "summary": "蘇伊士運河也危險了？埃及LNG船遇襲引發市場憂慮 Yahoo新聞 沙國也下場了 與美國聯手一次炸了伊拉克7個省 Yahoo股市 美伊對轟不停...埃及遭捲進戰火 天然氣船在港口挨炸 UDN 美伊互轟 戰火燒向地中海 | 中華日報 today.line.me 美國聯手沙烏地空襲伊拉克親伊朗民兵，逐漸破壞誰都不敢得罪的外交平衡 TNL The News Lens 關鍵評論網",
+      "published": "Thu, 30 Jul 2026 23:34:05 GMT",
+      "display_time": "07/30 23:34"
     },
     {
       "source": "Google News Global",
@@ -51,11 +107,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "韓70萬散戶遭槓桿爆雷血洗！KOSPI月跌40% 政府急拋五大「救市牌」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZ3ZadkRSWUsxTWdrcWI3N0IyUFZWczhfN0dLVTZYQTFwcVVtbTZMZGZnMGNMcThGQTlWUWg3SGpZOGtFSVNKZWw3ZW5qVzg?oc=5",
-      "summary": "韓70萬散戶遭槓桿爆雷血洗！KOSPI月跌40% 政府急拋五大「救市牌」 news.cnyes.com 搶救百萬瀕斷頭戶 南韓急推補救措施 自由財經 憤怒的韓國散戶扛花圈包圍國會，要求廢除三星、海力士槓桿 ETF 動區動趨 009829韓版台灣50來了！10元搶進韓股龍頭一次打包三星、SK海力士| 存股族愛ETF | 股市 UDN 股海狂潮／韓股槓桿投資釀股災 示警台股投資人哪些事 rti.org.tw",
-      "published": "Thu, 30 Jul 2026 22:01:15 GMT",
-      "display_time": "07/30 22:01"
+      "title": "台股最殘酷階段國巨暴跌62％ 陳泰銘神隱之外還有大問題- 財經 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tdFNSblNBMFQ2b2w0ODlSdGpCdDdWbUFTZGVWeFhFb0lJaElzaEVhRWh6aTcxZ2d3dU9fS1dhRWVjQ1hJai1xZmp6VUVqOUxQSmRncEthOWdvYmhOd05qOHNZcS13U0NsZ2RyNnBB?oc=5",
+      "summary": "台股最殘酷階段國巨暴跌62％ 陳泰銘神隱之外還有大問題- 財經 中時新聞網 高點尖頭反轉下殺 散戶8年前噩夢再起 國巨股價腰斬 50萬股東苦等4答案 Yahoo股市 國巨受惠終端市場需求增溫，下半年營運續強- 新聞 MoneyDJ 國巨腰斬引爆多空激戰！8檔主動式ETF加碼　4檔陸續清空 ETtoday財經雲 華邦電、國巨*腰斬殺瘋了！兇手抓到了 逾百萬股東欲哭無淚 自由財經",
+      "published": "Thu, 30 Jul 2026 22:00:30 GMT",
+      "display_time": "07/30 22:00"
     },
     {
       "source": "Google News Global",
@@ -80,14 +136,6 @@
       "summary": "〈美股早盤〉微軟財報送定心丸！主要指數開高 台積電ADR漲逾5% news.cnyes.com 市場信心大反攻！美股狂歡模式開啟 台股夜盤暴拉800點 Yahoo新聞 台指期夜盤狂噴逾千點！台積電ADR飆6%　美股AI概念股大反攻 ETtoday財經雲 明天穩了？台指期夜盤狂飆逾1000點 台積電ADR噴漲6％ 自由財經 微軟單季營收首度突破900億美元，Azure成長43% iThome",
       "published": "Thu, 30 Jul 2026 13:43:51 GMT",
       "display_time": "07/30 13:43"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈財報〉庫克CEO告別作喜憂參半！蘋果Q3營收優 但服務和大中華失色 盤後跳水 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzOEhZalNZZHZ3WURTU3p6RVE4YVNpVW44VGdPOGhIQ05tVThWdE9UVVF6SkRVMU9mclVMUDI4S0VZelB3OU9IaENiUXRJTXM?oc=5",
-      "summary": "〈財報〉庫克CEO告別作喜憂參半！蘋果Q3營收優 但服務和大中華失色 盤後跳水 news.cnyes.com 蘋果財報優預期、iPhone營收大增22％ 但供應吃緊拖累財測 盤後重挫8％ 工商時報 擠下輝達 蘋果重返全球市值龍頭進補10台廠 Yahoo新聞 蘋果盤後重挫8%！供應短缺拖累財測、大中華區與服務營收遜預期| 全球財經| 全球 UDN 蘋果市值首度衝破5兆美元大關 獨特策略擺脫AI燒錢戰 PChome Online 股市",
-      "published": "Thu, 30 Jul 2026 21:37:57 GMT",
-      "display_time": "07/30 21:37"
     },
     {
       "source": "Google News Global",
@@ -138,6 +186,14 @@
       "display_time": "07/30 09:15"
     },
     {
+      "source": "Google News Finance",
+      "title": "台股2天暴殺3600點進場護盤？ 國安基金操盤手表態了 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nQmpmV3UxMjBnYXprMFZrOHNZbkFLNC0tWUcwR3FGcXc2SEJnVDB0Y1NHV0IwcHdxdXI5dDJUYkVnTXFNN3AzYlhmQzFxeTQ?oc=5",
+      "summary": "台股2天暴殺3600點進場護盤？ 國安基金操盤手表態了 TVBS新聞網",
+      "published": "Thu, 30 Jul 2026 08:25:00 GMT",
+      "display_time": "07/30 08:25"
+    },
+    {
       "source": "Google News Global",
       "title": "大漲千點又拉回！郭哲榮重申0050勝率100％：比我低點進場就是買到賺到 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90Vi1aZ1FzUmVRSUhWYmFTcDV4WlkwN3dWRmNBWHNpS25wN3FiY04zRURaQ294LVlkdG8xWTZLWk5uRUJobnNqZnhWRGZqeWE5cm9Z0gFYQVVfeXFMTXQwdFpnbGJWeFRxUG1jVkd5NlhZSGFTRXQ5aTdzSS1xcldGQmRqaFdCV2ZHQ0Z5M09TS2dYdENidE9VMFB4b2VuZ0JneEtKRmN6SS1fYUNTNw?oc=5",
@@ -179,6 +235,14 @@
     },
     {
       "source": "Google News Global",
+      "title": "伊朗稱炸毀駐約旦美軍3架F-35！報復華府空襲平民致死- 國際 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HSWNfd0prM1lSa2NhOHczc0t5SXlVTHdGYzJBdWlGV0xzVU93cWxYQ0ZURjNzbGViYUxmMWFJbWdJRjY0VF9nTUZuQ1lGZkdOSnBQM1R4WTF0eV9aTkJMUnllLTMzaS13TGRvaXhB?oc=5",
+      "summary": "伊朗稱炸毀駐約旦美軍3架F-35！報復華府空襲平民致死- 國際 中時新聞網 「抗爭將持續下去」！報復華府空襲 伊朗：摧毀美軍駐約旦3架F-35 UDN 伊朗炸毀三架F-35 葉耀鵬：伊朗翻轉戰局！ Yahoo新聞 退場比進攻更難：川普從美伊戰爭脫身的四張牌，沒有一張是好牌？ TNL The News Lens 關鍵評論網 美再空襲伊朗「明顯錯誤」！專家揭阿拉伯國家共同優先目標- 國際 中時新聞網",
+      "published": "Thu, 30 Jul 2026 12:04:11 GMT",
+      "display_time": "07/30 12:04"
+    },
+    {
+      "source": "Google News Global",
       "title": "川普對伊「升級情緒中」! 庫柏提議14天大轟炸報復「這人」急忙踩煞車| 國際 - Newtalk新聞",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KV1JuN1BWcS1XbTZnVXlwZHBpZFRaQlpMLXdYdzFxajNUaVJkbnpmdVFuWWpsLWRWMTBfUEEzQmllU0ZOZi1QM1ZLd20zUDR5UDZKSEFGTVVUMkE?oc=5",
       "summary": "川普對伊「升級情緒中」! 庫柏提議14天大轟炸報復「這人」急忙踩煞車| 國際 Newtalk新聞 「抗爭將持續下去」！報復華府空襲 伊朗：摧毀美軍駐約旦3架F-35 UDN 退場比進攻更難：川普從美伊戰爭脫身的四張牌，沒有一張是好牌？ TNL The News Lens 關鍵評論網 美再空襲伊朗「明顯錯誤」！專家揭阿拉伯國家共同優先目標- 國際 中時新聞網 伊朗飛彈攻擊中東美軍 川普揚言強力反擊、尋求關稅報復 news.cnyes.com",
@@ -216,14 +280,6 @@
       "summary": "不甩聯合國！伊朗公開處決2名參與反政府示威男子 Yahoo新聞 【大師講堂】美國和以色列掀戰 也無法撼動伊朗處決異議者的根基 上報Up Media 戰爭陰影籠罩！伊朗加速執行死刑 物理教師遭秘密絞刑 | 民視新聞網 LINE TODAY 伊朗灌輸恐懼 開戰後已擴大處決49名政治犯 自由時報 伊朗絞死2名男子曾參與反政府抗議- 國際 自由時報",
       "published": "Thu, 30 Jul 2026 00:58:24 GMT",
       "display_time": "07/30 00:58"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股2天暴殺3600點進場護盤？ 國安基金操盤手表態了 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nQmpmV3UxMjBnYXprMFZrOHNZbkFLNC0tWUcwR3FGcXc2SEJnVDB0Y1NHV0IwcHdxdXI5dDJUYkVnTXFNN3AzYlhmQzFxeTQ?oc=5",
-      "summary": "台股2天暴殺3600點進場護盤？ 國安基金操盤手表態了 TVBS新聞網",
-      "published": "Thu, 30 Jul 2026 08:25:00 GMT",
-      "display_time": "07/30 08:25"
     }
   ]
 }
