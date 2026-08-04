@@ -2,12 +2,68 @@
   "date": "2026-08-04",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "published": "Tue, 04 Aug 2026 02:53:00 GMT",
+      "display_time": "08/04 02:53"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "科技股強彈帶動全球股市，半導體迎AI新商機-財經焦點情報站 - cmnews.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHlvRHF5Uld3V3JuTEExSnVVRnZxaVNEbTB5MlJ6QUp2eG93RkxOdFlQLVNJUDAtWnYzXzRpRFp3V0JmREwtd3daUjFwVGVUeEJsczMxZXI2dDdTQy13MnN3d3BQLXQ5LUJhczNGc0hKdkMtQ1VaUVc3bVVDTzdlSm9R?oc=5",
+      "summary": "科技股強彈帶動全球股市，半導體迎AI新商機-財經焦點情報站 cmnews.com.tw",
+      "published": "Tue, 04 Aug 2026 02:52:39 GMT",
+      "display_time": "08/04 02:52"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普301關稅又挨告 逾20州控強迫勞動調查是「騙局」 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNNUpnQVE3Q2YxdlFMSlN4UU9PZXJWSmV4c0l1cjVyY09Bb19pYzBXZktISWt6bkpWQllvd3FsYXBUcWhMTi1abWQwSHkzVmYx?oc=5",
+      "summary": "川普301關稅又挨告 逾20州控強迫勞動調查是「騙局」 UDN 川普新關稅再遇挑戰！美25州提告控濫權要求停止執行、退還關稅- 國際 工商時報 美25州聯手轟川普關稅 要求停徵、退還稅款 Yahoo新聞 美中關稅差距縮小引發供應鏈逆轉 紐時揭製造業訂單現回流中國趨勢 DIGITIMES 25州再告川普新關稅！主張301條款遭濫用 要求退還關稅 news.cnyes.com",
+      "published": "Tue, 04 Aug 2026 02:34:54 GMT",
+      "display_time": "08/04 02:34"
+    },
+    {
+      "source": "Google News Global",
+      "title": "Microsoft 啟動 Win 11 最佳化計劃！確保 8GB RAM 仍可運行流暢 - DCFever.com",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BUkhobHgzbjNTb19hWUkwNWxxc2l6dnZid0VpVi1HVlVidFRxdTJ0X18tRWl1eWh1cnJSSGJyMHNBVGtBSDRIZ0xPZXp3eU9kNHFFWm9URElYNGNfZEYw?oc=5",
+      "summary": "Microsoft 啟動 Win 11 最佳化計劃！確保 8GB RAM 仍可運行流暢 DCFever.com 微軟終於承認 Windows 11 太吃記憶體！承諾 2026 年前全面最佳化 8GB RAM 電腦 Yahoo新聞 微軟Windows 11瘦身改版 記憶體降至8GB因應供給缺口 DIGITIMES 記憶體佔用元凶確認！微軟將為「8G 記憶體」開發 Windows 11 優化版本，最快 2026 年底登場 XFastest News Windows 11換機潮真相曝光！微軟首度認了不是AI PC帶動 自由電子報3C科技",
+      "published": "Tue, 04 Aug 2026 01:51:00 GMT",
+      "display_time": "08/04 01:51"
+    },
+    {
       "source": "Google News Finance",
       "title": "安聯00412A獲准募！瞄準亞洲半導體商機 鎖定AI、HPC三大成長趨勢 - 壹蘋新聞網",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaE5HTnA1ZGhTVG5rYldrMDNJcFNXVnpLMDdmZy10NDZUNkI2OUpFY3pRQ29xWWVlZFVfcm1ZSmtFRGtmTXgzU3NNc0xvWXFnNy1NVWduYWlGZzBIM0s0cVVBVDhCX3lIelBWT21IcGhYODVtanMzcVFac0h1bDFnUTFn?oc=5",
       "summary": "安聯00412A獲准募！瞄準亞洲半導體商機 鎖定AI、HPC三大成長趨勢 壹蘋新聞網",
       "published": "Mon, 03 Aug 2026 17:25:00 GMT",
       "display_time": "08/03 17:25"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台積電跌35元至2335　台股跌近300點43K岌岌可危 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVWgzdHBrMUxFMmdzRnRHQTZOcS1OTXJKZjdSSzY0ZnBKUXVwbUhTNlhxMlZtVzhaUXRWSUl4RkpNaEhwSnBXdVd4NTJxNjY1dWfSAVBBVV95cUxOMUVzUnF5SFdoV1FVSmI3bkM0VHJyZHRpc05VREFhWGZ1ZFRuZVJVUTFvc2pYTzl0a2ZSOUZNSkRWX2Y1RVVnR0o5WWhaVEprVw?oc=5",
+      "summary": "台積電跌35元至2335　台股跌近300點43K岌岌可危 ETtoday財經雲 美股齊揚台股「開低走低」 早盤跌368點 tw.stock.yahoo.com 台股開盤下跌近500點台積電續挫記憶體、被動元件走強- 證券 工商時報 證交所：融資維持率採整戶管理資訊誤解恐影響判斷| 證券 中央社 CNA 台股開盤》台積電領跌 指數開低跌約500點 自由財經",
+      "published": "Tue, 04 Aug 2026 01:02:00 GMT",
+      "display_time": "08/04 01:02"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+      "link": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+      "published": "Tue, 04 Aug 2026 00:17:48 GMT",
+      "display_time": "08/04 00:17"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股新制 證交所鬆綁股票「關禁閉」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN09nZVJwNEU5WGRCRm9raFpwc2gzdkM3X1pMR3NnYXFVTkZscVlQakdsSlVscVpSNmtrVEQwRFhtVk9EenJVdTNRMXEtU21IQjVfRnkzOEN4UmQxblUySnJhNFV0RnhYanVQcDBoR01HVXhRWlhuVlNrbm9hT2o0T2FGRGpvOG1VZ0FmaTlvcVAtN0dxWlU5bUN2TmRvYjVkZG1mdWhnaFJ0R1RyaFR6Z1E2UkNkRHRTUlZRSG1nWXk4YVpiU0N4enZqOXMxWURKTlBnRjVmS09qOEdudHJQUE5aWmI4eDFDN1hsV0F2MkZfZ2RrS2lESFozdTRTUQ?oc=5",
+      "summary": "台股新制 證交所鬆綁股票「關禁閉」 Yahoo新聞 台股處置股新制震撼登場！投資人反應兩極 有人虧：改一半很87 Yahoo新聞 台股處置制度大鬆綁！8月10日起關禁閉『砍半』 高價股也受惠 tw.stock.yahoo.com 上市櫃處置股票將縮至5日、每2分鐘撮合 8/10實施新制 自由財經 跌逾40%遭抓去關！它成「刑期減半」首檔受惠股 關到8月10日 三立新聞",
+      "published": "Mon, 03 Aug 2026 22:43:19 GMT",
+      "display_time": "08/03 22:43"
     },
     {
       "source": "Google News Global",
@@ -24,6 +80,14 @@
       "summary": "美股開盤3大指數齊漲「只有費半跌」　聯電ADR狂瀉7.25％ ETtoday財經雲 美股早盤／三大指數揚費半獨憔悴…動能交易料轉往這些類股| 全球財經| 全球 UDN 2303 聯電 - 空仔今天玩123木頭人嗎？ - 股市爆料同學會 CMoney 聯電ADR週四收18.94美元，上漲1.83美元或10.7%，折合台幣每股約122.93元 富聯網 【美股開盤3大指數齊漲「只有費半跌」 聯電ADR狂瀉7.25％】 （#大表哥） facebook.com",
       "published": "Mon, 03 Aug 2026 13:54:00 GMT",
       "display_time": "08/03 13:54"
+    },
+    {
+      "source": "Google News Global",
+      "title": "王世堅喊設台股熔斷！證交所：已有冷卻機制「現階段沒必要」 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wMU5NOHZEMGZUWUw0YVNxVmN6NWRPUzRZNTZ5bFRhSnRnX3pTaVBmYzRYdWVvRUppLS15d1BKVEEzM3RLb2xRRVNzbUlxZERrU2fSAVBBVV95cUxNcUNWQVIyOTRxeGJoanZkRmt5S3hfSkhfU3o3bmE2RzV1Y1RfUTV5VjBfRTlnZUd5X1Q5WEVPWjdZdXNBNEt6ZVQxNWJqWVBtRg?oc=5",
+      "summary": "王世堅喊設台股熔斷！證交所：已有冷卻機制「現階段沒必要」 ETtoday財經雲 跌逾40%遭抓去關！它成「刑期減半」首檔受惠股 關到8月10日 Yahoo新聞 證交所注意股、處置股規定修正8／10上路處置天數及撮合時間縮短- 證券 工商時報 上市櫃處置股票將縮至5日、每2分鐘撮合 8/10實施新制 自由財經 20260803 公視晚間新聞完整版（無網路版權內容除外）｜有價證券縮短處置期、撮合時間新制8/10起上路 公視新聞網PNN",
+      "published": "Mon, 03 Aug 2026 12:56:00 GMT",
+      "display_time": "08/03 12:56"
     },
     {
       "source": "Google News Global",
@@ -91,19 +155,43 @@
     },
     {
       "source": "Google News Global",
-      "title": "王世堅喊設台股熔斷！證交所：已有冷卻機制「現階段沒必要」 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wMU5NOHZEMGZUWUw0YVNxVmN6NWRPUzRZNTZ5bFRhSnRnX3pTaVBmYzRYdWVvRUppLS15d1BKVEEzM3RLb2xRRVNzbUlxZERrU2fSAVBBVV95cUxNcUNWQVIyOTRxeGJoanZkRmt5S3hfSkhfU3o3bmE2RzV1Y1RfUTV5VjBfRTlnZUd5X1Q5WEVPWjdZdXNBNEt6ZVQxNWJqWVBtRg?oc=5",
-      "summary": "王世堅喊設台股熔斷！證交所：已有冷卻機制「現階段沒必要」 ETtoday財經雲 跌逾40%遭抓去關！它成「刑期減半」首檔受惠股 關到8月10日 Yahoo新聞 證交所注意股、處置股規定修正8／10上路處置天數及撮合時間縮短- 證券 工商時報 上市櫃處置股票將縮至5日、每2分鐘撮合 8/10實施新制 自由財經 20260803 公視晚間新聞完整版（無網路版權內容除外）｜有價證券縮短處置期、撮合時間新制8/10起上路 公視新聞網PNN",
-      "published": "Mon, 03 Aug 2026 12:56:00 GMT",
-      "display_time": "08/03 12:56"
-    },
-    {
-      "source": "Google News Global",
       "title": "存ETF比存股更旺 0050投資人數突破350萬人超越台積電 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RMGVZR0Y2eGl0S0JnTVNVbzhkLXFFaGhTOEMtLWc1QWJZRlA0clBkaWlPTjYtTDRCMVhycXUyT29PZzM4bnVyenNCRHkydzJfTXF5aVdEU05mZF95b1Rj?oc=5",
       "summary": "存ETF比存股更旺 0050投資人數突破350萬人超越台積電 自由財經 哲哲買0050兩天大賺千萬！看似神話背後真相：1億元的1％就有100萬了| 存股族愛ETF | 股市 UDN 台股漲0050為何跌？專家1預言命中 曝「逆風走勢真相」：早提醒 Yahoo新聞 台股震盪沒在怕27檔台股ETF受益人創高0050增10萬新同學槓桿型、市值型、主動式各有所好- 日報 工商時報 台股周一挫咧等？郭哲榮「1億還沒賣」：別過度恐慌 news.ebc.net.tw",
       "published": "Mon, 03 Aug 2026 08:17:42 GMT",
       "display_time": "08/03 08:17"
+    },
+    {
+      "source": "Google News Global",
+      "title": "日圓、中東情勢多空夾擊 台指期上半場一度大跌近千點 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pUDZkWnFvYjFYREhPclJpcVB0aEZuaDc5SjRtbUNobkUybVhaV1ZCNndKUFRKMjZtM1VibmRnQXFZNHlGNzctcFF3ZnhmNlZH0gFWQVVfeXFMTnlNNDVaaTNqZzR1RVdUdm5JVTVNYzZNZE9MVWNHbTM1YVJfSVVHSmtHQklpNTVnVjhETnNkWWh3bmM4TlhHYUtXMlQ5dVVhQ2NKRTZIbUE?oc=5",
+      "summary": "日圓、中東情勢多空夾擊 台指期上半場一度大跌近千點 UDN 台股明天慘兮兮？台指期夜盤失守4.3萬點大關「一度大跌近千點」 tw.stock.yahoo.com 早盤快訊》權值股熄火也不怕！台股守4.3萬點，景碩、大立光、全新同步漲停 | 下班經濟學 | 財經 風傳媒 《台股盤後》收漲266點、日K連二紅，10日線失而復得 - 頭條新聞 - 新聞 MoneyDJ 台股逆轉再漲266點多頭回來了？分析師：真正考驗才剛開始- 證券 工商時報",
+      "published": "Mon, 03 Aug 2026 13:06:25 GMT",
+      "display_time": "08/03 13:06"
+    },
+    {
+      "source": "Google News Global",
+      "title": "華邦電(2344)、南亞科(2408)、旺宏(2337)第二根漲停穩了？記憶體股只能挑一檔挑誰，杜金龍2理由喊選它 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORE05eGdrclBzcEFuRl9BRk1hbWV4NmxwZDUxNFJYNzFTdmR6YzVWUmRwWnJwYTFBeWgxMDdyVEgzUXliemZkSFlmcy1IXzMzSkg0QlMxMWdhYURnYkF4ZmVONlNpRUpXb0t2Vmk1QXN3bkxjOWxEd3lJWkRWUmtDYw?oc=5",
+      "summary": "華邦電(2344)、南亞科(2408)、旺宏(2337)第二根漲停穩了？記憶體股只能挑一檔挑誰，杜金龍2理由喊選它 今周刊 56萬股東笑了！華邦電強彈築底 最大功臣是「它」 自由財經 記憶體股迎關鍵分歧點強者將更強！分析師點名3檔可關注它股價被低估- 證券 工商時報 AI 啟動記憶體超級周期 外資暴漲式喊多這兩檔指標股 經濟日報 比記憶體、被動元件還缺？ 16檔強漲明星股 三立新聞",
+      "published": "Mon, 03 Aug 2026 04:02:23 GMT",
+      "display_time": "08/03 04:02"
+    },
+    {
+      "source": "Google News Global",
+      "title": "56萬股東笑了！華邦電強彈築底 最大功臣是「它」 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1USk5EU1o4b0VjSW53aGVGcGIxVlVhZ2VMOW5LekhKOU1YMVBFMUdDUV85QkFvUldUb3NaNU5qQWF5VkdtSGVBVnFPQm0wVTc1eFg3UTdyU19wNTRpZy1N?oc=5",
+      "summary": "56萬股東笑了！華邦電強彈築底 最大功臣是「它」 自由財經 記憶體又成搶手貨？「這2檔」被外資合計掃入近3.9萬張 轉買南亞科挹注逾50億元 tw.stock.yahoo.com 華邦電(2344)、南亞科(2408)、旺宏(2337)第二根漲停穩了？記憶體股只能挑一檔挑誰，杜金龍2理由喊選它 businesstoday.com.tw 記憶體股迎關鍵分歧點強者將更強！分析師點名3檔可關注它股價被低估- 證券 工商時報 比記憶體、被動元件還缺？ 16檔強漲明星股 三立新聞",
+      "published": "Mon, 03 Aug 2026 09:10:42 GMT",
+      "display_time": "08/03 09:10"
+    },
+    {
+      "source": "Google News Global",
+      "title": "棒球》棒協首度由女性掌舵 蘇泰安讚周玲妏「充滿活力、是最好選擇」 - 自由體育",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UOXUtMzRlaXlCc0taVWlyVWNNRGQzT1ZsWHJTeE1TYTc3ckdObWRlemt2R0dFbkxPclJXM0FsaXZKbVM5N0FRdTB4d21CbkxLdjhBMGF1dTgxLTdPaFBxag?oc=5",
+      "summary": "棒球》棒協首度由女性掌舵 蘇泰安讚周玲妏「充滿活力、是最好選擇」 自由體育 爭取棒協理事長慘敗！經濟部前部長郭智輝吐心聲：我努力仍有不足 Yahoo運動 棒球／體壇政治…爭棒協、籃協 總統牌連番失靈 UDN 中華棒協選出史上首位女性理事長 World Baseball Softball Confederation (WBSC) 棒球》個性爽朗、勇於創新 周玲妏將為台灣棒壇投出關鍵一球 自由體育",
+      "published": "Mon, 03 Aug 2026 08:52:00 GMT",
+      "display_time": "08/03 08:52"
     },
     {
       "source": "Google News Global",
@@ -115,11 +203,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "華邦電(2344)、南亞科(2408)、旺宏(2337)第二根漲停穩了？記憶體股只能挑一檔挑誰，杜金龍2理由喊選它 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORE05eGdrclBzcEFuRl9BRk1hbWV4NmxwZDUxNFJYNzFTdmR6YzVWUmRwWnJwYTFBeWgxMDdyVEgzUXliemZkSFlmcy1IXzMzSkg0QlMxMWdhYURnYkF4ZmVONlNpRUpXb0t2Vmk1QXN3bkxjOWxEd3lJWkRWUmtDYw?oc=5",
-      "summary": "華邦電(2344)、南亞科(2408)、旺宏(2337)第二根漲停穩了？記憶體股只能挑一檔挑誰，杜金龍2理由喊選它 今周刊 56萬股東笑了！華邦電強彈築底 最大功臣是「它」 自由財經 記憶體股迎關鍵分歧點強者將更強！分析師點名3檔可關注它股價被低估- 證券 工商時報 AI 啟動記憶體超級周期 外資暴漲式喊多這兩檔指標股 經濟日報 比記憶體、被動元件還缺？ 16檔強漲明星股 三立新聞",
-      "published": "Mon, 03 Aug 2026 04:02:23 GMT",
-      "display_time": "08/03 04:02"
+      "title": "美財長貝森特手寫紙條曝光！美國罕見出手救日元 背後是美債危機考量？ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xd1paZGhzaVltdWJIQWhOSG11UzVKN2VHODFQYm1tOVVZVEJLRjNvRnFLeTFLbTR4ekJ1dkE2SmNWc3J3Z01jM1VmNFlNYTQ?oc=5",
+      "summary": "美財長貝森特手寫紙條曝光！美國罕見出手救日元 背後是美債危機考量？ news.cnyes.com 「美債換美元」當子彈，美日聯手救日圓｜Palantir股價大漲11% 天下雜誌 整理包／美為何幫忙日圓？理由不是川普口中的友誼也非慷慨大方| 全球財經| 全球 UDN 日財相放狠話…日圓空頭爆大規模平倉- 日報 工商時報 美日聯手干預外匯市場 美元兌日圓急貶至 157 價位 tw.stock.yahoo.com",
+      "published": "Mon, 03 Aug 2026 03:20:14 GMT",
+      "display_time": "08/03 03:20"
     },
     {
       "source": "Google News Global",
