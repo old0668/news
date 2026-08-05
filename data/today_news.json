@@ -3,14 +3,6 @@
   "news": [
     {
       "source": "CNBC Finance",
-      "title": "How Disney parks are bucking a travel slowdown",
-      "link": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
-      "summary": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
-      "published": "Wed, 05 Aug 2026 15:44:55 GMT",
-      "display_time": "08/05 15:44"
-    },
-    {
-      "source": "CNBC Finance",
       "title": "Flutter shares plummet on earnings miss and another key leadership change",
       "link": "https://www.cnbc.com/2026/08/05/flutter-earnings-ceo-leadership-change-stock.html",
       "summary": "FanDuel, Flutter's most important business, has been losing its dominance in market share in the United States.",
@@ -34,6 +26,14 @@
       "display_time": "08/05 16:05"
     },
     {
+      "source": "CNBC Finance",
+      "title": "How Disney parks are bucking a travel slowdown",
+      "link": "https://www.cnbc.com/2026/08/05/disney-parks-travel-attendance-revenue.html",
+      "summary": "Disney posted record quarterly revenue at its parks division despite a continued slump in international travel to the U.S.",
+      "published": "Wed, 05 Aug 2026 15:44:55 GMT",
+      "display_time": "08/05 15:44"
+    },
+    {
       "source": "Google News Global",
       "title": "費半重挫23%免驚！投信喊：AI長線趨勢不變 建議8月布局半導體ETF迎Q4行情 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNQU5rU21INlBLelZZUFNDdnlLSkc2TW01bExhQTQ0TnNvVFNySmI0Vm9nSjhlaGY4a3lHUVB6dUNIMmppUV93bk9UVVBpMHJfalVWdXp6SjJCZ1NXQ1RDVVNzYjNfUE03QlpfcWNOWEZtRVR6cm5PcXotVHFuQy1pSG94cHI4OERobjI2Uzk5cVlBd1NlVXFkWE5tNTlNZTI3TC10X0NUdy1nTkc3UkZSWWtiTmx0YkVhaUM5Z0lORFM3X2hqZ0FJYkROZzZibG5XcU00dlZUbEVjc0pXT3d0dE9ldnlqcW9JeEVfN19NUV8yNVJ1Z2R3UGpuMkliMF9rMThsSkJLdUptZzljSzlhaWNiQ1gzQUJOODdMRHJLU29tRWh6cmRSSTZQcFVnb29wNlNPdXhTd1VUNDlULXpYUVhIaW42WG9Hd19KMjNZRHBsSk11WFJ5eW16d2NOTXdIaHpzcWVUVWVNalBLLWpWSzhtUU5XRDE3OC1aWEtKOGhwSlVGeFpJYXQ0LU13OEJCSHd3aWEtUGlNV0pSUUNZUG53TFZSUQ?oc=5",
@@ -43,11 +43,35 @@
     },
     {
       "source": "Google News Global",
+      "title": "快訊／強勁財報力挺道瓊創新高！輝達火力全開、SpaceX崩10% - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOZVNFWGF2bjZLTk9JaTRtWGptSmVKd0I4QkI1dG1SREZvY25wRkNabUR3UkkyOHVWWEtmbGo0N0lkWU4weHluSHZ4MXB3WlFLeVF3QnV1cVBmYmhKMWdaWG1lSERsajN3bVBteDl0UU9GQzhZOFM3S3VsMTJ3NzdIVmEtcTJaN3JiOGN6LTVSWS16THpCUXA5VnZKclNCVWo1ejRUSDFoSlZVbVd4M01WclFjTVVDa3hQSFpDam1FMDc2TVBXeV9KcTBNWjkxYlN3d3lmcnl5bTFzWDMxcXFVRzVnd2VPTm5PX2NCTjBvREJ6Qjh0ckpBbk9zQ0ZRdURXd1h5VVBXazJsX054WUpLa3Vzb1hhN3VNVDZibTZsRngzcTlGQWFrQU53SHp6c1RkS2QtdklFVGQxcUJEaFNrTWNBRHZTeTBCQjNyanY4TDQ3QQ?oc=5",
+      "summary": "快訊／強勁財報力挺道瓊創新高！輝達火力全開、SpaceX崩10% Yahoo新聞 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Wed, 05 Aug 2026 16:52:00 GMT",
+      "display_time": "08/05 16:52"
+    },
+    {
+      "source": "Google News Global",
       "title": "群創飆高大暴走！幕後黑手是「它」 近百萬股東白忙一場 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iNUpNdjdycURUc1FtT091dnpWLV9oeFFEMk90aWNyVGlDWV9tUF91dFBXdnJLdUowMURhbW05Y05MU2ZmX0NFbmQxdlEySTJGRW1PSWlkTmVrV2xCQUlV?oc=5",
       "summary": "群創飆高大暴走！幕後黑手是「它」 近百萬股東白忙一場 自由財經 外資單週賣逾800億 航空它卻逆勢吸金近14萬張！ 三立新聞 外資上週賣超824億元連6賣　敲進航空雙雄 經濟日報 2330 台積電 - 外資在賣權值，不代表市場沒錢。 - 股市爆料同學會 CMoney 外資上週賣超824億！ 「這記憶體」砍最多 航空雙雄成最強避風港 東森電視",
       "published": "Wed, 05 Aug 2026 08:48:12 GMT",
       "display_time": "08/05 08:48"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普軟肋？籌碼全押荷姆茲海峽伊朗豪賭恐被反噬- 國際 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vdkNSaDF2YWVGSzd6MFZNYnBIZWJ2Ujk3NkcwTUZfVVljX3Q2eFJtVGRYQlBaUThTcS1LUmJNT1lwelQ2dktLOXVBVTVvbXNWcFNnQTQ0bS16N19jbmpWS2NTX3d0dw?oc=5",
+      "summary": "川普軟肋？籌碼全押荷姆茲海峽伊朗豪賭恐被反噬- 國際 自由時報 48小時內見分曉！川普：美伊討論「非常好」 荷莫茲海峽不開就出重拳 UDN 60天協議恐告吹！伊朗開出這驚人條件 川普放話：不開海峽就轟炸 Yahoo新聞 美伊談判再露曙光 荷莫茲海峽重啟有望 中央社 CNA 美證實協商重啟荷姆茲航運 國際油價應聲下跌 公視新聞網PNN",
+      "published": "Wed, 05 Aug 2026 14:58:28 GMT",
+      "display_time": "08/05 14:58"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股又要崩盤？專家急揭「2大警訊」：人氣股已開始軟腳 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQM1diNzlrSTR1N0JFY29XSkxySTFrWUFIYV9aUldwQnNmMzdpYWViTmVZWHJaMXMtVmEwUUZmTWx0QlhnYXpXeDhxOFBkRWJKZ3ZiRmI2TjdCQjBwLWI3TjZacTdFR1lmeWZ1ZjlySFNWRVdHTWItcXprUmo0T3ZZM0NBdFhnZ2dORlN2SjlXQW1udkJXQzI3Yk1QeHIxWGNYUWdRRm1kTjctNFhYLTlsSnhoeEhqUno2ODFWajBXdzQzVlo0UzdsRFRzT245T3dHQUZnQWFQc3dnSHQtZ3h4WGxURzNYcGN6OVVsMWc4ZlJWQUlNbHJ1bHNxQ1Z1bTFiZEh6QzZYajRPdGRBYURuTlhkaFR2SGZBSERFSVZqZ3l0cHVFOFNnaFdFTHJib29UdklyTFh2QVVocDRNajJRUEI0SkYzekNmNFUtblFYN1lBc01iMi16Znlwc2c?oc=5",
+      "summary": "台股又要崩盤？專家急揭「2大警訊」：人氣股已開始軟腳 Yahoo股市 追高慘變接盤俠？ 專家示警：「這個位置」別衝動 東森電視 Wacom Yuify 與 ibisPaint 合作，保護數位藝術創作的著作權- 股市爆料同學會 CMoney 短線操作必看！專家曝台股「2大細節」成反轉關鍵訊號 三立新聞 台股直逼45,000點整數大關 解套？追高？專家教八字訣｜新聞快訊｜豐雲學堂 sinotrade.com.tw",
+      "published": "Wed, 05 Aug 2026 14:38:49 GMT",
+      "display_time": "08/05 14:38"
     },
     {
       "source": "Google News Global",
@@ -64,6 +88,14 @@
       "summary": "影／無人機「狩獵」烏克蘭菜販！澤倫斯基：全世界必須看到這一幕 UDN 逆轉前線戰況！噴火機器人+機槍掃射 烏軍成功擊退敵軍 def.ltn.com.tw 俄軍無人機攻擊平民激增 烏克蘭菜販遭追蹤襲擊 中央社 CNA 美公司AI技術助烏無人機自主鎖定目標 提升戰場效率 Yahoo股市 20260805 8點新世界完整版｜俄無人機鎖定街頭攤販、死咬不放俯衝引爆；澤倫斯基批俄獵殺平民 news.pts.org.tw",
       "published": "Wed, 05 Aug 2026 03:39:28 GMT",
       "display_time": "08/05 03:39"
+    },
+    {
+      "source": "Google News Global",
+      "title": "8月ETF配息大戰開打！30檔搶發股息 市值型ETF加入配息戰局 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNTnIxOGR3d0ZxNHRvdmV0aURnOVBKY2F1QlJkU3dNRzRQUUNKbEIzVURmNGtpSHJBbzBNR2ZJQTg1Y3JUTTBvT1VHbi0yZnNXOWNFczBTRURwM3FWVUNjT083ZE9BaGZ2SHdxWnRkMWtwZF8tLVBhUGlqMFFsVWRQbEhtcS1aSVU4b2ZZNTlVUjU1RXg2UzBURm4ySktPQ0ZENEJjX2dldHNDbHpHdTJHTUcyM3JNeThCdlpETDEtT3FmSVJGMU1SQnZqdkowQ09lUm82NkNyLUYyYkpFXy03cFJ1dnA3UTJYQjNCb25BZmpxQll2a0FkYnMzRGpfX0hNSVpSa2VkSTYtM3JVVU9XakhYbjlrUXVwS3VDVVZyNjhMSUFFelFQX2gyVDB1SHFxejNsVEY3eW92TUpDNXdtQ2JDRE9JR0JiLU15MzBKMk5ybW4xcmxKYklUeDM4SXYwcU0wbXln?oc=5",
+      "summary": "8月ETF配息大戰開打！30檔搶發股息 市值型ETF加入配息戰局 Yahoo股市 台股ETF除息來了！「14檔」年化配息率破10％ Yahoo股市 市值型配息勝高股息？台股 8 月 14 檔 ETF 年化配息率破 10% finance.technews.tw 00878本季加碼爆配1.01元會斷糧？達人拆解淨值組成：免擔心下次配不出| 存股族愛ETF | 股市 UDN 它月配息0.16元創新高！年化配息率衝13% 最後買進日曝光 三立新聞",
+      "published": "Wed, 05 Aug 2026 07:13:27 GMT",
+      "display_time": "08/05 07:13"
     },
     {
       "source": "Google News Global",
