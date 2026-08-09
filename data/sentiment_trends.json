@@ -6383,5 +6383,10 @@
     "timestamp": "2026-08-10T06:48:52.510637+08:00",
     "average_sentiment": 50.0,
     "news_count": 13
+  },
+  {
+    "timestamp": "2026-08-10T07:45:21.542434+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 15
   }
 ]
