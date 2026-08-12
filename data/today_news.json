@@ -2,12 +2,28 @@
   "date": "2026-08-12",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "US inflation eases as food costs cool",
+      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "published": "Wed, 12 Aug 2026 13:40:51 GMT",
+      "display_time": "08/12 13:40"
+    },
+    {
       "source": "Google News Global",
       "title": "台股量縮漲397點續守45K！主線不明 力積電爆量漲停成焦點｜Yahoo財經掃描 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPemFRdDFMbjcxWE9hWngySDUyZzc3WEFYTnpzR2Q3eU9iblI2WFlQaGZ1cmh0cXhhLVNUTmtFLU5lYWdxUkxOX21ZRUpOTnJ1aWhBdXdnTkl5NDFHcDdkU1pGNW01ekU3VG1TclZRbjVXbFl5U0hjYnRoa3dLQ2lqMGJHaWp3a3ZMei1NYkxTMG01ZHBIOWxNU1VpVDFWdmNXbmF2MWlKX2p2ZG9DTDc0MGROZVZ4U0hpblFXYm03WjROX3VjR3NKZ0lYaDM5R0NlR1c2V1A5LXhTWXVfTlhvQkFpSmJQWTZFX2ZBUGhTN0xDU1JVZXBpd185NUJtSjc2UlZsdEgwU2ljbFdXN0RXN3NmSWlIVF9mMTNzLWI1bVM3UGxhYjVZR1A3Q0RHUGthWnVzN1ItU2VsOTBOVDNHbVRPSmxoMWdxbHZyTzcwOUJOcU5oSnNJOWIzZVJOck1mcUY0cGtqcWFuZnNqUE5CMnUxcjJoSFRGcWVfOUhhMk5xX2hhSUlheVYtWE1pWFRTbE1Vdk93bHc2VDQ3T0dDR0wtR0xhVHpWSnNLcThFc25XUnFoMXlNTTM1bw?oc=5",
       "summary": "台股量縮漲397點續守45K！主線不明 力積電爆量漲停成焦點｜Yahoo財經掃描 Yahoo股市 台積電最後一單爆1.7萬張拉漲20元收最高2415　台股收漲397點 ETtoday財經雲 台股收漲397點站上45500關卡 台積電漲20元報2415 Yahoo新聞 台股無畏美股逆風站穩45K大關！無量反彈是真轉強？法人示警2大隱憂- 證券 工商時報 電子機電電纜類股強勢 台股漲397點登45518點 cna.com.tw",
       "published": "Wed, 12 Aug 2026 09:13:07 GMT",
       "display_time": "08/12 09:13"
+    },
+    {
+      "source": "Google News Global",
+      "title": "外資買超110億！獨砍這檔記憶體逾3萬張 55萬股東心碎 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96WU5WV0dZX2NnNkJzNVZvSV81TGxWbDVRZU5SUGpZTTJzcVEwMHc2TmVBMmpVVjNfOTM0TWxjd2RrMzE0SVFneGY4Y1E4VHozUlV5alQtdnpqTXk4eUpv?oc=5",
+      "summary": "外資買超110億！獨砍這檔記憶體逾3萬張 55萬股東心碎 自由財經 外資買超110億元連三買 大買力積電11.4萬張、00403A 6.6萬張 Yahoo股市 外資台股連3買！狂掃力積電11萬張　記憶體華邦電砍最多 ETtoday財經雲 外資買超110億元！特愛AI伺服器股 仁寶、鴻海、英業達都在買超前十名 udn.com 大盤續放量攻頂破新高！『換檔再上』 華冠投顧",
+      "published": "Wed, 12 Aug 2026 09:06:39 GMT",
+      "display_time": "08/12 09:06"
     },
     {
       "source": "Google News Global",
@@ -27,19 +43,19 @@
     },
     {
       "source": "Google News Global",
+      "title": "Fed下月可以先不升息？華爾街解讀7月CPI三大訊號 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vejY3aXFCbG1UbWxocHY1N1NEM1pUT3hraFdOQS1ZNDBrRXRfeDZLSUhHd3BUQWR0ZFExZllRY0loWkpheXhFbUcxekJ1MWM?oc=5",
+      "summary": "Fed下月可以先不升息？華爾街解讀7月CPI三大訊號 news.cnyes.com 快訊／升息壓力降低！美股開紅盤 台指期夜盤漲破46K Yahoo新聞 CPI符合預期Fed升息壓力降 台指期夜盤大漲逾700點 udn.com 美7月通膨降溫Fed 9月利率按兵不動機率升高- 國際 工商時報 台指期夜盤漲逾600點！美國7月CPI數據符合市場預期，聯準會終於鬆一口氣？ | 林彥呈 | 財經 風傳媒",
+      "published": "Wed, 12 Aug 2026 14:00:05 GMT",
+      "display_time": "08/12 14:00"
+    },
+    {
+      "source": "Google News Global",
       "title": "台股收盤》台積電、矽晶圓、AI衝刺 指數收漲397點 - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QUFhPZW9TazZfWTBkTFl5endweS1wSG5FcUs2V0MzQS1YX3JURm96U1hGN3JoTzVwakRnOHhVa1NhaGh4V0VyVVlIdnh4QTQzNEMxbEQtS2dWQ1liUW9N?oc=5",
       "summary": "台股收盤》台積電、矽晶圓、AI衝刺 指數收漲397點 自由財經 台股量縮漲397點續守45K！主線不明力積電爆量漲停成焦點｜Yahoo財經掃描｜Yahoo財經掃描 Yahoo股市 台股無畏美股逆風站穩45K大關！無量反彈是真轉強？法人示警2大隱憂- 證券 工商時報 台積電最後一單爆1.7萬張拉漲20元收最高2415　台股收漲397點 ETtoday財經雲 電子機電電纜類股強勢 台股漲397點登45518點 cna.com.tw",
       "published": "Wed, 12 Aug 2026 05:46:00 GMT",
       "display_time": "08/12 05:46"
-    },
-    {
-      "source": "BBC Business",
-      "title": "US inflation eases as food costs cool",
-      "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
-      "published": "Wed, 12 Aug 2026 13:40:51 GMT",
-      "display_time": "08/12 13:40"
     },
     {
       "source": "Google News Global",
@@ -48,6 +64,14 @@
       "summary": "挪威主權基金台灣投資變動大公開 新增14檔持股、剔除20筆投資 經濟日報 挪威主權基金台灣持股曝光！ 新增14刪除20檔 國巨竟成大黑馬 Yahoo股市 全球最大主權基金買了什麼？首度持有SpaceX 台積電、輝達入列- 國際 工商時報 挪威主權基金上半年狂賺1820億美元！報酬率達9.4% 首度曝光SpaceX持股 news.cnyes.com 挪威財富基金大賺5.8兆 持股包含SpaceX及台積電 自由財經",
       "published": "Wed, 12 Aug 2026 05:26:06 GMT",
       "display_time": "08/12 05:26"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普：美國完全掌控荷莫茲海峽 強調不信任伊朗 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOVS1SY0ZYTmlPbDIzdURLeF9MZlJlVU5qTWNqVUZCY2N1azBzVlRvUDBkWDRxckM3cm45Y1gxOHFrLTAySlUzLVFsNnBWWXZ0MnNxVzFNM0U2Ql94UndXTmdxaERyXy1TSmNMRVhIWEhCMUhpcDZRQlFPM3h5cmo0TXIzQ1M5d3UwQWFFdE9uVnVfM25rZW5iRnQ1Y2RJYUtYcE1ramI0dXhuVktXY2Ezd1RPWW54T3FVMjQ3bWR1T0UwTGJVSTFSQ2s3bGNWQl9jUkNkblNOT0dEdFRPand6VTY2LXNSWFk3UmQ0ck5xZ3h3RWxrUGIzRW1ia2NMRmlnSXplc2laRTBmQ0xfX2FwbzR6UnMzSklmVUpDMkhfbzJXcTVqYktQWWRjSmJDV3VyZ2RtT1BGWWtJam9ScWNCdlNYQ0Ixdw?oc=5",
+      "summary": "川普：美國完全掌控荷莫茲海峽 強調不信任伊朗 Yahoo新聞 伊朗：美國滿足德黑蘭條件前持續關閉荷莫茲海峽| 國際 cna.com.tw 川普：美完全控制荷莫茲海峽 我是最不可能相信伊朗的人 udn.com 海峽危機延燒 油市供應瓶頸與通膨風險升溫-台股 MoneyDJ 談判叫價美伊互索戰爭損失- 國際 旺得富理財網",
+      "published": "Wed, 12 Aug 2026 04:19:35 GMT",
+      "display_time": "08/12 04:19"
     },
     {
       "source": "Google News Global",
@@ -75,11 +99,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "外資買超110億！獨砍這檔記憶體逾3萬張 55萬股東心碎 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96WU5WV0dZX2NnNkJzNVZvSV81TGxWbDVRZU5SUGpZTTJzcVEwMHc2TmVBMmpVVjNfOTM0TWxjd2RrMzE0SVFneGY4Y1E4VHozUlV5alQtdnpqTXk4eUpv?oc=5",
-      "summary": "外資買超110億！獨砍這檔記憶體逾3萬張 55萬股東心碎 自由財經 外資買超110億元連三買 大買力積電11.4萬張、00403A 6.6萬張 Yahoo股市 外資台股連3買！狂掃力積電11萬張　記憶體華邦電砍最多 ETtoday財經雲 外資買超110億元！特愛AI伺服器股 仁寶、鴻海、英業達都在買超前十名 udn.com 大盤續放量攻頂破新高！『換檔再上』 華冠投顧",
-      "published": "Wed, 12 Aug 2026 09:06:39 GMT",
-      "display_time": "08/12 09:06"
+      "title": "外資買超110億元 搶進力積電逾11萬張最多 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPSTQwLUhhZmhZRk40MTZLREk3bUpiVWNqQzhPVXlDcDhyTWVQbXJzVlZLRE5yc21tZFZzWkp5VmR3RTNLOTlmOHRVOVB6ODVsd0VpRkE1WjM4R0lIUUl0amlCSXNKTC1SdHhnUXprZVo3bnRnaTNBV1BqUGtTdmptRXdSaU5SdWd4NlhlcEF1OU5SRllyTlZTWnV3QUExcHVQUTJiWEc5ZVM4TU9xNkNobnZwRDlZd1RwLVBmVUo1eVhHWnVRSlB6UEItbGktVUE4NE9hWERsU1dFeXRjaEVkZWNhWE5OUW1VRTVXY1hQVkY2ZDF5TzRiang0UXk2eThqc0hSNTFXeDYwVWVvSDF6cmxwLXhNRWdGaU53UktIcDZWNjg?oc=5",
+      "summary": "外資買超110億元 搶進力積電逾11萬張最多 Yahoo股市 【Follow法人】記憶體不同調！外資狂買力積電11.4萬張居冠 反手砍華邦電、南亞科4.4萬張 Yahoo股市 外資買超110億！獨砍這檔記憶體逾3萬張 55萬股東心碎 自由財經 外資2天狂掃台股740億　華邦電3.79萬張居冠、重砍友達5.6萬張 ETtoday財經雲 大盤續放量攻頂破新高！『換檔再上』 華冠投顧",
+      "published": "Wed, 12 Aug 2026 08:53:10 GMT",
+      "display_time": "08/12 08:53"
     },
     {
       "source": "Google News Global",
@@ -155,14 +179,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "川普：美國完全掌控荷莫茲海峽 強調不信任伊朗 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOVS1SY0ZYTmlPbDIzdURLeF9MZlJlVU5qTWNqVUZCY2N1azBzVlRvUDBkWDRxckM3cm45Y1gxOHFrLTAySlUzLVFsNnBWWXZ0MnNxVzFNM0U2Ql94UndXTmdxaERyXy1TSmNMRVhIWEhCMUhpcDZRQlFPM3h5cmo0TXIzQ1M5d3UwQWFFdE9uVnVfM25rZW5iRnQ1Y2RJYUtYcE1ramI0dXhuVktXY2Ezd1RPWW54T3FVMjQ3bWR1T0UwTGJVSTFSQ2s3bGNWQl9jUkNkblNOT0dEdFRPand6VTY2LXNSWFk3UmQ0ck5xZ3h3RWxrUGIzRW1ia2NMRmlnSXplc2laRTBmQ0xfX2FwbzR6UnMzSklmVUpDMkhfbzJXcTVqYktQWWRjSmJDV3VyZ2RtT1BGWWtJam9ScWNCdlNYQ0Ixdw?oc=5",
-      "summary": "川普：美國完全掌控荷莫茲海峽 強調不信任伊朗 Yahoo新聞 伊朗：美國滿足德黑蘭條件前持續關閉荷莫茲海峽| 國際 cna.com.tw 川普：美完全控制荷莫茲海峽 我是最不可能相信伊朗的人 udn.com 海峽危機延燒 油市供應瓶頸與通膨風險升溫-台股 MoneyDJ 談判叫價美伊互索戰爭損失- 國際 旺得富理財網",
-      "published": "Wed, 12 Aug 2026 04:19:35 GMT",
-      "display_time": "08/12 04:19"
-    },
-    {
-      "source": "Google News Global",
       "title": "伊朗：美國滿足德黑蘭條件前 持續關閉荷莫茲海峽 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQRTFXanFGNV9peDNRekdlazExenFpcERGNlJZX1l3NWlBTjJHQjRCRXh0Q2w4T3c5bFMtV0gwUXdyN3gxbC00YUFGejZvUHAzSTNZaE1BcS01ei1jV0p2Snc0cktRaGpNRjBaaUtfM0F4NDZWMGlacnN2VWI4bU5aVlgyZzRYRmFta1ZQNVU5QlUwQVlTWEJxclAxbk1adFlKSnFBa1c2d2ZpY1NocXh0WFZHSDk4WFF1X1BEMnBDWUdDaTNoQWFZNTdqRGtGZWFyVHh0RlJVRjd2VFZubXp4V3UxN0cyWko5SExaVTlmMFVvRVlqWkV2N05OLXZGMnFlR3k1V1BneGhneTBkYXFrTFF6RW1ncVJKSHh3c3JVeDI4dHJkbWEtM0h2NXJ4ZkFjZjRDZE9XdHktSENLT1h6S0g3R18weklpaUcxTlNTR2s5dw?oc=5",
       "summary": "伊朗：美國滿足德黑蘭條件前 持續關閉荷莫茲海峽 Yahoo新聞 伊朗：美國滿足德黑蘭條件前持續關閉荷莫茲海峽| 國際 cna.com.tw 巴基斯坦稱荷莫茲協議接近達成美伊立場卻都轉趨強硬…油價震盪| 中東戰火連綿| 全球 UDN 談判叫價美伊互索戰爭損失- 國際 旺得富理財網 FOCUS全球新聞／美伊新衝突點 戰爭賠償 華郵揭川普金蟬脫殼躲伊朗威 TVBS新聞網",
@@ -200,6 +216,14 @@
       "summary": "瞞天過海！川普祕換軍機 躲伊朗暗殺 UDN 川普秘換專機躲暗殺隨行記者不知情怒批淪誘餌- 國際 自由時報 外媒揭川普訪土期間換機避險 白宮證實面臨嚴峻敵情 公視新聞網PNN 媒體：特朗普從餐飲專車悄悄離開政府專機 Yahoo新聞 美媒爆料 川普因伊朗威脅改搭C-32A離開土耳其 rti.org.tw",
       "published": "Tue, 11 Aug 2026 16:00:00 GMT",
       "display_time": "08/11 16:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "巴基斯坦稱荷莫茲協議接近達成 美伊立場卻都轉趨強硬 油價震盪 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UTUF4WmtBX0xqaVVHUDdFZWVQdExmSy1ZaThIM01OQmtVUXN5WmNYT2c1T3owcGNBdUVBREVESWpUdW1FbUl3dGdDTGZneGNWMVhTVmNvei1RUdIBX0FVX3lxTFBiX3VsVk5mUV9lQXNHS2ktU2p0TWtOTFljSXZLUWJZTzRxU3EzaWJuNXVPSUY5QVp5VzBmNjlUQ1dLX190c2dfLVRWX0NuZWhwVUxyRDc2bTFTRF9mUllB?oc=5",
+      "summary": "巴基斯坦稱荷莫茲協議接近達成 美伊立場卻都轉趨強硬 油價震盪 經濟日報 伊朗：美國滿足德黑蘭條件前持續關閉荷莫茲海峽| 國際 cna.com.tw 巴基斯坦稱荷莫茲協議接近達成美伊立場卻都轉趨強硬…油價震盪| 中東戰火連綿| 全球 udn.com 海峽危機延燒 油市供應瓶頸與通膨風險升溫-台股 MoneyDJ 談判叫價美伊互索戰爭損失- 國際 旺得富理財網",
+      "published": "Tue, 11 Aug 2026 23:26:53 GMT",
+      "display_time": "08/11 23:26"
     },
     {
       "source": "Google News Global",
