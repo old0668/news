@@ -2,6 +2,14 @@
   "date": "2026-08-19",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "American Airlines to bring back TV screens on US flights",
+      "link": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
+      "summary": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
+      "published": "Tue, 18 Aug 2026 20:17:33 GMT",
+      "display_time": "08/18 20:17"
+    },
+    {
       "source": "Google News Global",
       "title": "台股「滿山滿谷的綠」是崩盤前兆？專家揭金融危機信號：基本面崩壞才要拔腿就跑 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPbWxiLTVMVjkwVkdsR2dIZXVOdTNiMGc0b1IwMjc5WDE2Wk9GMlJLajJNNTRPYmNtU0pYdmVweUVGUld5WnJMcnlXc1VDTHRabjJwZXA4ek53V1pTWmFISHlwVFFFWnNXM0VIWnN6YnNvMTl2ZU5uMkdtWDJ3bTFiN0h6LThwTU13QjdscHpkY2hwME14SmFWNDBKVm1YbWxmR0dEbk0yZnAtWjlEa1pkbmxUeEY3QXR6TkVLOEQ5cEx1OElzTVBKYXU2cXc0UkVCQW1wZXpQV0tPSUJJVUtGNmt1QVJ5a0lOb0ZyOHFtMExRc0s0RW5HekUxVDFEcWw1Y0lqYV9UZElYZ3RhbnlUTzEzd053Z2Z5ZGlWaEZiNmZBSnVwNnotamFNYzJrcVFBX04zZHBWSmdsVVZheHZpcHVPWlRYVjNUNVR6aGxESU9mbVZpUUxIOVJuTU5rMjltLXhfcnZTaUt5d2w5RnJ1LTlMemNWWHZZRTJtSXpFSjYzMXVFXzRyMGRKQ3F1aWRYbFplTUZVMlVQRVZaaV9rNjROVXc3ZWUybmpMOEw5bE53bVpMZmEzaFRkQTVNeFhBT1pWWXhmb0k3MGRDTGxINUEwdEYyTy0tQ0hzVHJudVZZVXBp?oc=5",
@@ -42,12 +50,20 @@
       "display_time": "08/18 13:40"
     },
     {
-      "source": "BBC Business",
-      "title": "American Airlines to bring back TV screens on US flights",
-      "link": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is also adding more premium seats, with the changes aimed at improving the travel experience and boosting revenue.",
-      "published": "Tue, 18 Aug 2026 20:17:33 GMT",
-      "display_time": "08/18 20:17"
+      "source": "Google News Global",
+      "title": "美股四大指數全收黑！道瓊下跌116點、費半慘崩628點 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOY3JEUEVGek9wZHNOWG1oSHF4b0tGenlCZl9oVEJ6Q1dNLTJNT00wQ1JGWTNUWFozSmJwODRGY0haTTF1eWlPd1lxdEZHT3dBdTRhR0lPc2RQSmstRXpfZ2Z3dm5mcXNtWGtfZXRQM0QtZVB5QWhBd1ZCR3BkcDJtaVVhR1lYdWg1VmZESjh6ejdYWWpDS2V1SEdUWTB3NDB5c1JhLUVlQnpaVllZaHZ4TTdPT2dBUUpINXBzQ1RIOWNRSDRuUGkxbnFfMXU4MVhqTk5sVjI0QWhCa1lCTU1WRkdFRGNqNkNWN0NpLUNqRVppQjQ2Y1lCR0JrWVBsMFpsZlRJNTZzY0tVRUxyMHJza2VuTlJINnRMaU9RbEhJTU9pWmY5UmRrdDhjblhkd2ZiZ1NKSDR3QXRiT1FFQnpQZUp3?oc=5",
+      "summary": "美股四大指數全收黑！道瓊下跌116點、費半慘崩628點 Yahoo新聞 〈美股盤後〉全球債市掀起拋售風暴 晶片股全面潰敗 費半指數狂瀉近5% news.cnyes.com 美股收盤》美伊、通膨疑慮增！費半跌近5％ 台積電ADR下殺逾4％ 自由財經 快訊／台股慘了？四指慘崩費半跌700點 台指期、台積電ADR皆重挫 Yahoo新聞 國際油價連三漲近3周新高- 日報 工商時報",
+      "published": "Tue, 18 Aug 2026 21:09:00 GMT",
+      "display_time": "08/18 21:09"
+    },
+    {
+      "source": "Google News Global",
+      "title": "外資上週狂砸2061億掃台股！爆買這檔記憶體 近32萬張奪冠 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOanVMYXBiaHM4YTloTUNBU2MwTlB1UnZhWUdQQTRIZGQ3andxZkJpT29UR1FlLUZCbGNfbWNkV0dITWgwQWhmWGZudmhzMHQwWUZKQjktUEtDbEhhMTlqazlQUklKQ0lualBDaFhtSXBvZ3VuM0ktNUgtUGxfRnYwUWJYM2NiQmNLR2RRNzNTcDhaWmFjY0tkNDA4eVJSRVVHRFJxeVFwOUc3Y1ZhTXE1QXVDTWUtZFZGOU9YZU00bmdYTUFKN2MtMXlXYzlqWjh4em9GMk5SNFRmRVRERmgydmRzQVJMYlRUVV9BNWdaU0FDaGVkNEhhUFBtelZpY1h6V1VqdUs5MWtWUGdjaF9kR2JNQ3otbV9RR2VWbnQwMkFHNnExYXFtbUhaNDZlRzNDSFctZWNpSTlCLTA3d1hHVEM4VUd2cExkT1hmS2tRTV9JN1dxb3Q1YVFRWFZPLXkwWGdJSWRB?oc=5",
+      "summary": "外資上週狂砸2061億掃台股！爆買這檔記憶體 近32萬張奪冠 Yahoo新聞 緯創瀉不停！幕後黑手抓到了 32萬股東心碎 自由財經 69萬股東哭慘！外資買超454億 反手砍「這檔」近6.9萬張 三立新聞 外資連6買！今加碼454億搶進3檔航海王　進出前10大一次看 ETtoday財經雲 【0818台股盤前】外資狂買454億抗投信賣壓 貨櫃三雄與光通訊攜手強攻，「營收亮眼法人買」標的萬潤、聯鈞、致茂 news.cnyes.com",
+      "published": "Tue, 18 Aug 2026 20:25:00 GMT",
+      "display_time": "08/18 20:25"
     },
     {
       "source": "Google News Global",
@@ -75,11 +91,35 @@
     },
     {
       "source": "Google News Global",
+      "title": "一邊喊多一邊倒貨！力積電營收、配息雙利多獲喊435元目標價仍淪賣超王「這檔」AI訂單爆發上看2027年同被砍 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQUW11SVpERV8tTFhSZ052TEZXVGRzWDJscUpXT1FqWW5UTDZXSHJzejN2NUd4Z3N2S19waDFOZ1IzajItV01vOEFIOE94VmVQbS10RzNTUm94ZDUyVXNDX0NOWUFURDdLUXJKOXRtWHBvRzZKY3hqaGFiVzdkMy1yTEI2a0lzdWx0QlN1bVNGa1l4RENqZnlWOHVLY0Q3MlZKUzdYamhJUFl3UmowQjBtX3o4RU1idkk4R01HM3ZSaEZJWFZlUHJBcUF3aGE1SlRGZEdtVVlEVzVKNTgzbmNHV29RLWxKX00taDM1VUJwVW43d3Jua2NnSGpHR1VGUS01V0dHOXNQdEhZMVJmckdTODBjbnNhRHFmN0ZTb3FJdjYtT25FekhXbEFTd0o2RGJtNFp0SkNPR1h0VGd6Yy04aGp2VUNjcWs1b2E5MEV1a0JSalljUjduWmdkZV9vN2xBaGh5dWRJR29vRWI5dVlvTEZVUVFHVlExMG0xVVlUYUw5XzgxNkJLVzlyVFo1Qmhfb1pTQTFLbEtyTlctSTEyZlJQdlZxU0dSYmVhYzJRakpSQUhwQ2U4bDFJeWduUlFw?oc=5",
+      "summary": "一邊喊多一邊倒貨！力積電營收、配息雙利多獲喊435元目標價仍淪賣超王「這檔」AI訂單爆發上看2027年同被砍 Yahoo股市 【Follow法人】外資賣超119億元！重砍力積電破3萬張 凌巨停牌前爆萬張買盤 Yahoo股市 盤勢分析》資金轉趨謹慎 10日線季線有撐 自由財經 闖關4萬6失利 外資賣超119億元中止連六買 調節力積電與面板雙虎 鉅亨網 外資終結連6買！提款台股119億元卻敲進萬張凌巨　進出前10一文看 ETtoday財經雲",
+      "published": "Tue, 18 Aug 2026 13:30:00 GMT",
+      "display_time": "08/18 13:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美伊60天停火正式破局！伊朗揚言「全面進攻」 川普最大危機曝光：8成美國人怕打成長期戰 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxPX19iQ3VyVEFTOXVONEw3dnF6Z1ZhdUFjelNUTkp6aFJfR19rX29iTmlfczhvWlVWT25ZZHM4NWJKd1UwdGd2M215Uk1pM2hQMlRLNXU2MFdkVmprWWk4NzRfV29JZVdrWUtkV1FmMTFPcmhkalcwOHJBNzJqVjdkdVNuWWNPQm5TeUJKWl9na2JCNm1uLUFDamJ0dXduZ1JfekVCS0xENWR5ZWRLT0xodVpmaC1lSm1SODhhWHV2UUlKcXQxMEN1TTJOVWpRRDFYdy1zRi1yQWs0NWxTMnJuMTh5Q1hUTWtQNWxhYUdoaWh0c1FQMXh2a3NXOGUzVlNWRDlrMWtOVHk0TjVPMl9QUTVUc3RYVzI0UTZEeGtBamFCTTJOWk9zV25jUWhGWWJhTzFtN2lBMllxSXdTU2Q4a2RGNlhJR3dLS1EyLS1OQ3pKOXhwbmZITkdXd3ZycG01NlMzUlZyQVFWUjkwUkhLazR0Y3Y4aWwtNnluOFlxM1Q4TXNkSHo0ZGhmQjFHWmMxeE9BQ3BkYkV6cEhmLTRpYXNib3VnUHg3Tno4R2NIQm81SDlVbkVHUUcxTUhjYlFYcWxmNVdmcFMtejVOcnN3N2JJTDRJU2ZobVNLRVpFQ1EybG9heDdBalBSNEhtMUtjaEVmV1N5amJHX3paeEk3Tg?oc=5",
+      "summary": "美伊60天停火正式破局！伊朗揚言「全面進攻」 川普最大危機曝光：8成美國人怕打成長期戰 Yahoo新聞 伊朗總統坦承沒錢了 川普：荷莫茲海峽可被宣布為美國領土，美國擁有全面控制權 Yahoo新聞 川普發布地圖 標注荷姆茲海峽為「美國新領土」 news.cnyes.com 美伊情勢惡化、60日談判破局 國際油價反彈-新聞內容-基金 MoneyDJ 支持率跌至33%最低點 川普不尋求美伊延長談判 嗆炸阿曼 | 中華日報 LINE TODAY",
+      "published": "Tue, 18 Aug 2026 11:31:58 GMT",
+      "display_time": "08/18 11:31"
+    },
+    {
+      "source": "Google News Global",
       "title": "台股盤堅震盪AI本夢比題材開始失效？法人點名重返46K三關鍵- 日報 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95ZUVaV2xaSHFWLUhPRzY1MFF6WGtubHFwWW5vUU5WT3FBOVlWc2dLeTEyU2NQMzc0V2JsZ2NNSmhhMjJwUjdtVnpPYzh6Z0tIclhjdE5JajdacGc3ek44?oc=5",
       "summary": "台股盤堅震盪AI本夢比題材開始失效？法人點名重返46K三關鍵- 日報 工商時報 記憶體又被盯上！「這2檔」遭三大法人出清約9.6萬張 轉賣力積電近7.1萬張、提款53.8億元 Yahoo股市 緯創瀉不停！幕後黑手抓到了 32萬股東心碎 自由財經 69萬股東哭慘！外資買超454億 反手砍「這檔」近6.9萬張 三立新聞 外資大買454億 台股只漲46點 網炸鍋：大哥看到了什麼？ 東森電視",
       "published": "Mon, 17 Aug 2026 19:00:00 GMT",
       "display_time": "08/17 19:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "Joeman半夜逼煮牛肉麵「撞台劇梗」！蔡詩芸喊話丁立威想吃麵 本尊現身接招 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMirwNBVV95cUxPRW9JM2xsV1JzQ1p3cElMRU5MRmpKbENVSmZsMkZHVzNIR3djZEZPMnhKVnNKSjR3RUR5SC1ZOFJJZ2ZyRVBSSzdtRjBBSDY2M1lnbGJBY01GTGRlZlZ0UjFnUUdVMUJKaDVoSDBORHl5Y3BZd1lyRC1CbVNXemo3dy1DNkdUWVZhTFgxazEyV3A4NTdLVGZBR0FIZXk5MmV1ZkVDN3pEdEJUNDdqTkhtTE9QdHktWlp2MDY2UkdzQ044TVZRa2dITzdDQlNMU1BZdlNkRGpiVHNKZkpqMFRzRlZ2MGZqUG1GRjBQbi1MRjRoN3Fyd3FiRlp6ZkhlSUhLRTFCYVlZdElTN3JDQlVYQmZvcm55Rm9LU3RPWmJMQmcxZFBacmc3c2xLMUJXRnNLUzFpZHpuYTlKNHVRb054aW1iNS1KbXNTTjk4Zm1Hd1o3YktfMmMwdVlDazA4TmxUNWtXRGpiVHhYb2tiMHhWV2E3RnllVDBiTHJVbFhMMTFFb1lZV0JhbGpoMllxM2g3bmo4Sl9kNkJzZVM1R1dabTdtWlZwTFRTS1FzZTNRaw?oc=5",
+      "summary": "Joeman半夜逼煮牛肉麵「撞台劇梗」！蔡詩芸喊話丁立威想吃麵 本尊現身接招 Yahoo新聞 女網紅發聲了！認了做過酒店「確實曾曖昧互動Joeman」 噓！星聞 Joeman牛肉麵燒到王陽明 妻蔡詩芸一句話釣出尪放閃 林依晨亂入回6字 Yahoo新聞 蕭伊遭疑為錢交往　弟曬台股「年賺千萬」怒轟：不需要那種爛咖的錢 | 娛樂 | CTWANT CTWANT 太鬼了！Toyz坐牢還持續輸出　拾汣茶屋推新品「JOE愛檸橙柳肉蜜」　小編藏「房袋哏」網嗨翻 mirrormedia.mg",
+      "published": "Tue, 18 Aug 2026 01:44:35 GMT",
+      "display_time": "08/18 01:44"
     },
     {
       "source": "Google News Global",
