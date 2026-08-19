@@ -2,6 +2,22 @@
   "date": "2026-08-19",
   "news": [
     {
+      "source": "CNBC Finance",
+      "title": "Target is set to report earnings before the bell. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+      "summary": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
+      "published": "Wed, 19 Aug 2026 04:01:01 GMT",
+      "display_time": "08/19 04:01"
+    },
+    {
+      "source": "Google News Global",
+      "title": "AI股殺聲隆隆！台積電慘摔、股王信驊跌近半根 欣興、貿聯-KY大吞苦水 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNVEtbHNuaU5UNjQ0V0hqZDZTN3FyWk1mRnF6c2c2SWhKMEp2eDZ2UFBwbzdidGVreGZ0YVFuUktHak85ZllvSDhKa0tDeW1CSFh5LTVJeTRqUmpVc3BMZjR3S2FjWmdQdDF4TmxaSkQ4UHJjOFFheUgxazR4bEh3YTRCcHhCZWg1Nnk5MGNhMWptS3lmRHU0NUNqQXUyUlctbFFka0lUbjZtRWZNSkNMODRPYVdoX21UZXhnV3JQOTJncXYxTmk3R21CTzBsMUNUeDd5NHpBNFhyR25ObVdQemxkSHdGdEJfdE9NSlN6ZlRPSWtkTDU4dy1mSHB1Wk0wN3F6SnNpVGFka0JNbENsTk0tdW5aSjlpTk5vLUNLdTFobkpJcjFqWGlEbmJQWjExNWVKVnpCRDMzM1VHYWNJeVNtR0RiemhkN0VIZDBvbktvTkZPbURtejF2VXdWMXlxRUMyYUZpLWFxZU0?oc=5",
+      "summary": "AI股殺聲隆隆！台積電慘摔、股王信驊跌近半根 欣興、貿聯-KY大吞苦水 Yahoo股市 台股開盤暴殺近千點！台積電跌40元、記憶體遭重砍 分析師曝電子權值股面臨結算壓力 Yahoo股市 大盤跌破45000點能撿嗎？　老手揭先蹲後跳最佳買點 ETtoday財經雲 台股急殺千點，失守4萬5！亞股血崩、韓股跌又熔斷…何時該跑？專家喊：出現1訊號才是生死關 businesstoday.com.tw 失守4萬5！台積電領殺 指數跌近千點 自由財經",
+      "published": "Wed, 19 Aug 2026 02:48:53 GMT",
+      "display_time": "08/19 02:48"
+    },
+    {
       "source": "Google News Global",
       "title": "台股早盤跌近千點後跌幅收斂 台積電跌45元 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVkV6Mmo4SXdIYjZBcUVCeWFPdl82Q0ZqZ3EtZ0R3MTRtSHRjWTl4QUJWWklQN3BIS2pzeGVjTG1hVUpNbjA3ZXFqS2VfRWdURmhsYmN5WnNBSTNWbkJ3TVNUQnJUbEZtbjZTeWJTRERUSno1b1lQS3VMcUQ2YUxUZFI0bGdZVEV3UGhWWHQweG9FRXV3WUFSY0swSDdlQ3B3YVpOaEI3N2VWOTlBbEFKcGRvbTJTVzlqbVJPd3R6RU4zc3ZKekxQNnJ0cVJhLVAwLWx5cTg0SEo5WHRoLXZzRHF5b0VUcGRncW1WSFhNZE5XX2RrRlFwRkxGU055V2l1bFJnSFZKYjAtMERuWXpMQ29lTG9FUFJkY1Zya2p2Tkx1U005MVBUdlBoTDUtMUU?oc=5",
@@ -24,6 +40,14 @@
       "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
       "published": "Wed, 19 Aug 2026 02:09:46 GMT",
       "display_time": "08/19 02:09"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普標示荷姆茲海峽「新領土」稱海峽仍開放 伊朗願對話拒絕投降 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOTlpYbjRvMzhvTHowbnlSdkg5QTdsNFBiNllsVHl6cTU2VXRMUmJzVDlndG1zdXVqclFGOUxBaHkwWENzSGVub0MwVnJ2cjd6dGg4UFB0U2ViRVNSQWIzdmc2VFY3RkVfa2I5dTRfb1BIRXoxckUteHI5SUVyVmw2QVNTVXNZNjZyMTNzeFIyaEdROUN6dEJaanhfU3djd3NQUmdMd1h2RGtEcUdhOTVkYWpzVGlnN2tIOWI0WWppLWlEb3VLZnlKazdoTm5uajBWU2IwMVM4RDlZU2toVlNCYkV1Wno1aVBTTVZvamRibnBCampoVjNQNHNQdDJWaUc1eFVoLVVuN1VabkFoeDFObzVWMXZSUmUwNTRpZmJlSkd1cWQzNlEza0xWOURDbm1Sbk5lcFB6czhKQUxnei1vYXNmWGhyeU1KYl9ETVYtaDZjUVJPVFdsSWVfbGF4eVJXa1VKMEN1M1Jtck5sYWRRdmxFS3Q3ZGtTel80aThFWGpoaDdvdldzMndKSXUyczdSNVh6eXlLLTl3WGh5UFdjcEJ1RFNSQWVEallWR2ZsR0g?oc=5",
+      "summary": "川普標示荷姆茲海峽「新領土」稱海峽仍開放 伊朗願對話拒絕投降 Yahoo新聞 伊朗對荷莫茲控制力大減！川普曬圖爽稱「新美國領土」 UDN 中東和平前景黯淡！美國官員：川普要求談判團隊暫停與伊朗接觸 news.cnyes.com 美伊情勢惡化、60日談判破局 國際油價反彈-新聞內容-基金 MoneyDJ 川普開嗆美國重要的中東盟友，為何揚言要把阿曼炸掉？ TNL The News Lens 關鍵評論網",
+      "published": "Wed, 19 Aug 2026 01:47:25 GMT",
+      "display_time": "08/19 01:47"
     },
     {
       "source": "Google News Global",
@@ -64,6 +88,14 @@
       "summary": "比記憶體還強 這類股手握訂單12檔紅咚咚 Yahoo新聞 AI算力卡在一束光！「磷化銦InP」缺料風暴襲來 將比記憶體更缺？ ctee.com.tw 〈焦點股〉CPO加速商用化 AXT飆漲激勵磷化銦磊晶廠聯亞、IET-KY亮燈漲停 news.cnyes.com 磷化銦是下個稀土？光通訊概念股漲翻後的隱憂 遠見雜誌 全新InP基板漲價效應發酵，毛利率為何能連兩季跳升逾2個百分點？ | 優分析 LINE TODAY",
       "published": "Tue, 18 Aug 2026 22:50:00 GMT",
       "display_time": "08/18 22:50"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMHNCYndyMkw5X3pBN1l1NFlrOHNGUW0zWXlSUWdkSlQ3aVRGSlV6OF96bFlhMkNkY3hFNnZ1Ui1oajh4M2VlRlpzQlNseWx4ZHoxRGZYV0U1VWVI0gFiQVVfeXFMT1VheE9xZnVDbWp0NGQ2ejcwX1VGWFI5ME5oZGZ4cUlraHY4S3lsRUNFT2NxbEVTdFJpMG1HOVB5MG4xcXE1YnpRN0dUcnBXUDVlWmlSdG5HZjVvMlEzVnBKemc?oc=5",
+      "summary": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 經濟日報 【台股盤前】費半崩近5%！台指夜盤重挫561點 台股今開盤恐再挫 Yahoo新聞 〈美股盤後〉全球債市掀起拋售風暴 晶片股全面潰敗 費半指數狂瀉近5% news.cnyes.com 費半狂瀉5%！華爾街防「債券義勇軍」出手｜美銀喊台積電3100 天下雜誌 伊朗放話「全面進攻」、拒絕重開荷姆茲！國際油價創3週高點 自由財經",
+      "published": "Tue, 18 Aug 2026 22:46:15 GMT",
+      "display_time": "08/18 22:46"
     },
     {
       "source": "Google News Global",
@@ -114,6 +146,14 @@
       "display_time": "08/18 20:25"
     },
     {
+      "source": "Google News Global",
+      "title": "加權指數跌破四萬五，散熱、被動元件股逆勢抗跌撐盤 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOdXl3WVFoVkxFb0NpZENwQkRTUEl1NmVwNF90bGo0LVdhR3BLUmtrS2wzQ1YxT19hQTNTY0ctdVdFbVNWQ1RGejNVUmwtU2FTUzI2ZEhPWXh3TTREWGlnamZjeFVlNjBON2h5STJBWWFaQmUzYUxsbGxicVlWS1l6d1lnQkhiRWtFTkhsUEpmd1hMakdwOVQ1NXk2emk3REc3ZTlJemxuN1E4SjRPYzVqOVc0M2tzODUzaTkxZ0g0anprdk1zdHpJYnRKTklQLWJtVFVpSEtfNFVQU3gyc1gzeFZUWVQ5aHNmdzFRZG42dzFsMkw5Y2JZa2pXanNEWklDU1NMWTBJRjlzRC1VS25HM3hVWDgyZ2dBZ0hKS0FrSzRvWm41WHNsSHc1MWZFOVRkQ2NtdlZ1ZVc2ZnVVMWppSllsYWdhS1hlNk1KcmI0Zl9rSVlJUXUtMlN5bTJqbW1rS2sya3ZR?oc=5",
+      "summary": "加權指數跌破四萬五，散熱、被動元件股逆勢抗跌撐盤 Yahoo股市 台股急殺千點，失守4萬5！亞股血崩、韓股跌又熔斷…何時該跑？專家喊：出現1訊號才是生死關 今周刊 七夕情人節沒人陪？「股票會賠」套牢你 台股盤中殺600點越「被動」越搶手 Yahoo新聞 失守4萬5！台積電領殺 指數跌近千點 自由財經 大盤跌破45000點能撿嗎？　老手揭先蹲後跳最佳買點 finance.ettoday.net",
+      "published": "Wed, 19 Aug 2026 04:21:53 GMT",
+      "display_time": "08/19 04:21"
+    },
+    {
       "source": "BBC Business",
       "title": "American Airlines to bring back TV screens on US flights",
       "link": "https://www.bbc.co.uk/news/articles/c70glp55y95o?at_medium=RSS&at_campaign=rss",
@@ -122,36 +162,12 @@
       "display_time": "08/18 20:17"
     },
     {
-      "source": "CNBC Finance",
-      "title": "Target is set to report earnings before the bell. Here's what to expect",
-      "link": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-      "summary": "Target is expected to report its fiscal second-quarter results Wednesday morning as the retailer offers a window into its turnaround progress.",
-      "published": "Wed, 19 Aug 2026 04:01:01 GMT",
-      "display_time": "08/19 04:01"
-    },
-    {
       "source": "Google News Global",
       "title": "美債殖利率升破4.7%！華許似乎不急著出手 美國房貸族苦撐 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxON0FCVjhmMjZ4eWYzblpmMEgydHM3anRtMzlPMFBfWTlHT1J5aVRENl8wYXlqWUYzTmd6MlhMaERjOHlIbTZ4eGFMWXVpRlRJazhpb3YyNWZ1dXlTNUdKbmJCSnFxZGtIXzMzXzZMQzVoRk0wazBSblI0dEUxaUtlTW5WZmlLMURIdUNETHotdjRPdTlkdWhNb181RDVxTHpJSU5TdlRsajFydkl1ZkkyVWFWT0VKTVVMbXQzZ0w5VEJkcEF5cUNTMXB5dnl2X25nZXVpQmI2bFNISW1aSXp6WVBMOVAwZC0zNFluakZGZ09yM0J6c0g3MTlNbVdGeGhHTnpxZmxjRFl1YUE2Z1dsYjFrNmktLXVtQS1wQnVzT1VBeEVkUGZtYzlfQ1BtTlE1aXdueEJHWU51Vm1oZ2twQWFYMTZOTF9hdTFReHkwc2RVY2szZTFfSXk0RVdwenFoS3RiYkl5QVNWX2t4YnpnTnFBb1NfZw?oc=5",
       "summary": "美債殖利率升破4.7%！華許似乎不急著出手 美國房貸族苦撐 Yahoo股市 美股早盤／AI發債搶錢！美長債殖利率衝19年高點 費半瀉3% UDN 全球債市拉警報 美30年期公債殖利率突破5% Yahoo新聞 債市大逃殺！美歐日債券拋售潮加劇30年期美債息創近20年新高- 日報 ctee.com.tw 《美債》赤字與通膨夾擊30年債殖利率衝19年高- 新聞 MoneyDJ",
       "published": "Tue, 18 Aug 2026 19:00:04 GMT",
       "display_time": "08/18 19:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "AI股殺聲隆隆！台積電慘摔、股王信驊跌近半根 欣興、貿聯-KY大吞苦水 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxQNVEtbHNuaU5UNjQ0V0hqZDZTN3FyWk1mRnF6c2c2SWhKMEp2eDZ2UFBwbzdidGVreGZ0YVFuUktHak85ZllvSDhKa0tDeW1CSFh5LTVJeTRqUmpVc3BMZjR3S2FjWmdQdDF4TmxaSkQ4UHJjOFFheUgxazR4bEh3YTRCcHhCZWg1Nnk5MGNhMWptS3lmRHU0NUNqQXUyUlctbFFka0lUbjZtRWZNSkNMODRPYVdoX21UZXhnV3JQOTJncXYxTmk3R21CTzBsMUNUeDd5NHpBNFhyR25ObVdQemxkSHdGdEJfdE9NSlN6ZlRPSWtkTDU4dy1mSHB1Wk0wN3F6SnNpVGFka0JNbENsTk0tdW5aSjlpTk5vLUNLdTFobkpJcjFqWGlEbmJQWjExNWVKVnpCRDMzM1VHYWNJeVNtR0RiemhkN0VIZDBvbktvTkZPbURtejF2VXdWMXlxRUMyYUZpLWFxZU0?oc=5",
-      "summary": "AI股殺聲隆隆！台積電慘摔、股王信驊跌近半根 欣興、貿聯-KY大吞苦水 Yahoo股市 台股開盤暴殺近千點！台積電跌40元、記憶體遭重砍 分析師曝電子權值股面臨結算壓力 Yahoo股市 大盤跌破45000點能撿嗎？　老手揭先蹲後跳最佳買點 ETtoday財經雲 台股急殺千點，失守4萬5！亞股血崩、韓股跌又熔斷…何時該跑？專家喊：出現1訊號才是生死關 businesstoday.com.tw 失守4萬5！台積電領殺 指數跌近千點 自由財經",
-      "published": "Wed, 19 Aug 2026 02:48:53 GMT",
-      "display_time": "08/19 02:48"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普標示荷姆茲海峽「新領土」稱海峽仍開放 伊朗願對話拒絕投降 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxOTlpYbjRvMzhvTHowbnlSdkg5QTdsNFBiNllsVHl6cTU2VXRMUmJzVDlndG1zdXVqclFGOUxBaHkwWENzSGVub0MwVnJ2cjd6dGg4UFB0U2ViRVNSQWIzdmc2VFY3RkVfa2I5dTRfb1BIRXoxckUteHI5SUVyVmw2QVNTVXNZNjZyMTNzeFIyaEdROUN6dEJaanhfU3djd3NQUmdMd1h2RGtEcUdhOTVkYWpzVGlnN2tIOWI0WWppLWlEb3VLZnlKazdoTm5uajBWU2IwMVM4RDlZU2toVlNCYkV1Wno1aVBTTVZvamRibnBCampoVjNQNHNQdDJWaUc1eFVoLVVuN1VabkFoeDFObzVWMXZSUmUwNTRpZmJlSkd1cWQzNlEza0xWOURDbm1Sbk5lcFB6czhKQUxnei1vYXNmWGhyeU1KYl9ETVYtaDZjUVJPVFdsSWVfbGF4eVJXa1VKMEN1M1Jtck5sYWRRdmxFS3Q3ZGtTel80aThFWGpoaDdvdldzMndKSXUyczdSNVh6eXlLLTl3WGh5UFdjcEJ1RFNSQWVEallWR2ZsR0g?oc=5",
-      "summary": "川普標示荷姆茲海峽「新領土」稱海峽仍開放 伊朗願對話拒絕投降 Yahoo新聞 伊朗對荷莫茲控制力大減！川普曬圖爽稱「新美國領土」 UDN 中東和平前景黯淡！美國官員：川普要求談判團隊暫停與伊朗接觸 news.cnyes.com 美伊情勢惡化、60日談判破局 國際油價反彈-新聞內容-基金 MoneyDJ 川普開嗆美國重要的中東盟友，為何揚言要把阿曼炸掉？ TNL The News Lens 關鍵評論網",
-      "published": "Wed, 19 Aug 2026 01:47:25 GMT",
-      "display_time": "08/19 01:47"
     },
     {
       "source": "Google News Global",
@@ -168,6 +184,14 @@
       "summary": "台股「滿山滿谷的綠」是崩盤前兆？專家揭金融危機信號：基本面崩壞才要拔腿就跑 Yahoo新聞 台股「滿山滿谷的綠」！專家曝看到「這訊號」要拔腿跑 Yahoo新聞 台股拚止跌要看三指標 法人：不再惡化多頭仍有反攻的機會 經濟日報 《台股盤後》電子股熄火 指數翻黑收跌548點 - 頭條新聞 - 新聞 MoneyDJ 台股跌逾 500 點、美股連兩日收黑，今晚能否守住高檔恐成關鍵-Alpha's Newsletter CMoney投資網誌",
       "published": "Tue, 18 Aug 2026 17:13:42 GMT",
       "display_time": "08/18 17:13"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美施壓國際刑事法院再升級日籍院長赤根智子遭制裁- 國際 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iM09BcU4xbm5pNDJZb0taZnJSOTgzb0x5S0JiMGl4S01rMzczOS0xR2Z1b2RjeHJGRTNCckRzYVBXU0NxR1JFNzNfRktadHpvQUszNUs3RThoaHJqNUFkdjc1QUhBUQ?oc=5",
+      "summary": "美施壓國際刑事法院再升級日籍院長赤根智子遭制裁- 國際 自由時報 美國強硬祭出制裁 凍結國際法院資產 cna.com.tw 川普政府再向國際刑事法院開刀　院長赤根智子遭制裁 經濟日報 川普政府直接制裁ICC國際刑事法院院長！盧比歐再對海牙開戰調查以色列行動高階檢察官也遭封殺 Yahoo新聞 川普政府新攻勢 制裁國際刑事法院院長 | 中央廣播電臺 LINE TODAY",
+      "published": "Wed, 19 Aug 2026 00:59:21 GMT",
+      "display_time": "08/19 00:59"
     },
     {
       "source": "BBC Business",
@@ -192,14 +216,6 @@
       "summary": "行程曝光！習近平訪美快閃 傳不赴聯大 UDN 爭奪AI話語權！習川會9／24白宮登場焦點議題一次看- 日報 ctee.com.tw 川習二會將登場 美中過招台灣處境微妙宜「韜光養晦」 聯合報數位版 美媒：習近平9月訪美與川普會談無意參加聯合國大會| 國際 cna.com.tw 美媒：習近平9月料快閃訪美，川習會9/24登場 MoneyDJ",
       "published": "Tue, 18 Aug 2026 16:07:48 GMT",
       "display_time": "08/18 16:07"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tMHNCYndyMkw5X3pBN1l1NFlrOHNGUW0zWXlSUWdkSlQ3aVRGSlV6OF96bFlhMkNkY3hFNnZ1Ui1oajh4M2VlRlpzQlNseWx4ZHoxRGZYV0U1VWVI0gFiQVVfeXFMT1VheE9xZnVDbWp0NGQ2ejcwX1VGWFI5ME5oZGZ4cUlraHY4S3lsRUNFT2NxbEVTdFJpMG1HOVB5MG4xcXE1YnpRN0dUcnBXUDVlWmlSdG5HZjVvMlEzVnBKemc?oc=5",
-      "summary": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股 經濟日報 【台股盤前】費半崩近5%！台指夜盤重挫561點 台股今開盤恐再挫 Yahoo新聞 〈美股盤後〉全球債市掀起拋售風暴 晶片股全面潰敗 費半指數狂瀉近5% news.cnyes.com 費半狂瀉5%！華爾街防「債券義勇軍」出手｜美銀喊台積電3100 天下雜誌 伊朗放話「全面進攻」、拒絕重開荷姆茲！國際油價創3週高點 自由財經",
-      "published": "Tue, 18 Aug 2026 22:46:15 GMT",
-      "display_time": "08/18 22:46"
     },
     {
       "source": "Google News Global",
@@ -299,19 +315,19 @@
     },
     {
       "source": "Google News Global",
-      "title": "台股盤堅震盪AI本夢比題材開始失效？法人點名重返46K三關鍵- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95ZUVaV2xaSHFWLUhPRzY1MFF6WGtubHFwWW5vUU5WT3FBOVlWc2dLeTEyU2NQMzc0V2JsZ2NNSmhhMjJwUjdtVnpPYzh6Z0tIclhjdE5JajdacGc3ek44?oc=5",
-      "summary": "台股盤堅震盪AI本夢比題材開始失效？法人點名重返46K三關鍵- 日報 工商時報 記憶體又被盯上！「這2檔」遭三大法人出清約9.6萬張 轉賣力積電近7.1萬張、提款53.8億元 Yahoo股市 緯創瀉不停！幕後黑手抓到了 32萬股東心碎 自由財經 69萬股東哭慘！外資買超454億 反手砍「這檔」近6.9萬張 三立新聞 外資大買454億 台股只漲46點 網炸鍋：大哥看到了什麼？ 東森電視",
-      "published": "Mon, 17 Aug 2026 19:00:00 GMT",
-      "display_time": "08/17 19:00"
-    },
-    {
-      "source": "Google News Global",
       "title": "繼續砲轟南韓！ 川普：3.9萬美軍保護你們卻不幫忙美國- 國際 - news.ltn.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TVkg3aVlLYzk3RkI4RVI0ZnJlMDM4UGdTVkE2TXJqendGbEZ2TjlmQm5wa2dNVEVLaVJEZ0xLZVhXckx0MFRfOWV2bXhYcTVYODJ3V0Ezb3BuWWhUNGtEU1U2Qm1Idw?oc=5",
       "summary": "繼續砲轟南韓！ 川普：3.9萬美軍保護你們卻不幫忙美國- 國際 news.ltn.com.tw 風評：川普惡搞南韓，台灣唇亡齒寒？ Yahoo新聞 不只李在明嚇一跳！美韓軍演突腰斬南韓外長：美官員也不知情- 國際 news.ltn.com.tw 南韓提助美對付伊朗 軍演仍將提前結束 cna.com.tw 北韓官媒斥美韓軍演為公然威脅 隻字未提川普 rti.org.tw",
       "published": "Tue, 18 Aug 2026 00:46:08 GMT",
       "display_time": "08/18 00:46"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股盤堅震盪AI本夢比題材開始失效？法人點名重返46K三關鍵- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95ZUVaV2xaSHFWLUhPRzY1MFF6WGtubHFwWW5vUU5WT3FBOVlWc2dLeTEyU2NQMzc0V2JsZ2NNSmhhMjJwUjdtVnpPYzh6Z0tIclhjdE5JajdacGc3ek44?oc=5",
+      "summary": "台股盤堅震盪AI本夢比題材開始失效？法人點名重返46K三關鍵- 日報 工商時報 記憶體又被盯上！「這2檔」遭三大法人出清約9.6萬張 轉賣力積電近7.1萬張、提款53.8億元 Yahoo股市 緯創瀉不停！幕後黑手抓到了 32萬股東心碎 自由財經 69萬股東哭慘！外資買超454億 反手砍「這檔」近6.9萬張 三立新聞 外資大買454億 台股只漲46點 網炸鍋：大哥看到了什麼？ 東森電視",
+      "published": "Mon, 17 Aug 2026 19:00:00 GMT",
+      "display_time": "08/17 19:00"
     },
     {
       "source": "Google News Global",
