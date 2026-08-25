@@ -2,12 +2,52 @@
   "date": "2026-08-25",
   "news": [
     {
+      "source": "CNBC Finance",
+      "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
+      "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
+      "summary": "Lego CEO Niels Christiansen told CNBC the company is seeing strong sales at both ends of the pricing spectrum.",
+      "published": "Tue, 25 Aug 2026 07:00:01 GMT",
+      "display_time": "08/25 07:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "尾盤急拉近千點翻紅！台股上漲407點作收 台積電收2400元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRjk4TGhfZHozNDI0YXBTQ2thaGdTWjBOWmdKVk5MeUZSejBfaWxwVVVIcTFldGN6b09Ia1BySDN5VXpQLXB5cUdxWWIxLWFRMGozUWQtRnN5S25aUWdoOUNLT1hjNHQyWV9UUFVjVGFkMm9zb1Iyd0lnczkwc3o5Y2FpMC1NYlRUR0RPb0piX0tjY0x2eWhQQ1FnQTB1cmlPVFRQektYcGZaaXJXc2ZTOWdCckp4ZHByLU1CYnhZZ1hqNHhKbGdJWklCQzZsYkw4b2lrN0N0SzhMRUxHamZ3V3VfcjllYld3d2gxY3JlZHpfc1FjaXY2d21uOWJDdS1BRTJGdjI3Y2RiYU9tUEJ5VzdlYWJ6a3pmNnpWZ25oRU5KelRZZVFmOHJwUGJKOUdoaE9od0F2X2VLOU15QnFmTl9pMlVhTEZETV9JTDhIcXYwb19KMHBaWXBCUGR2dmp3VnVJ?oc=5",
+      "summary": "尾盤急拉近千點翻紅！台股上漲407點作收 台積電收2400元 Yahoo股市 台積電與金控雙雄聯手反撲 台股開低走高收漲407點 UDN 台股逆轉收復4萬5大關 台積電重返2400元 Yahoo新聞 電子翻紅金融塑化走堅台股上漲407點收復季線| 證券 cna.com.tw 洗盤劇本太狠了！先跌500點後逆轉翻紅「2大防禦神盾硬生扛下空頭」內行驚曝只是一場虛胖反彈 旺得富理財網",
+      "published": "Tue, 25 Aug 2026 05:53:22 GMT",
+      "display_time": "08/25 05:53"
+    },
+    {
+      "source": "Google News Global",
+      "title": "貝森特買美債計畫遭痛批！Druckenmiller警告：政府干預殖利率「終將失敗」 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90UkdkVjhtWDdHSHdzNGFHZ0F6VWhuN1dGNVZQcTR4ZjdNUl9DZ2NrWHJQOTRLNF9iSVVTcTBCUXFSazFreXZHdWIyczIyMjA?oc=5",
+      "summary": "貝森特買美債計畫遭痛批！Druckenmiller警告：政府干預殖利率「終將失敗」 news.cnyes.com 美債爆危機橋水基金急籲「買2資產」！杜金龍自爆買機器人慘停損 Yahoo新聞 救市！美要砸1兆美元購債 市場預料將壓抑長債殖利率 經濟日報 美債殖利率越高越值得買？PIMCO曝「抄底訊號」 工商時報 回購國債「奇招」失效，貝森特的三大誤判 日經中文網",
+      "published": "Tue, 25 Aug 2026 04:10:11 GMT",
+      "display_time": "08/25 04:10"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "AI淘金熱持續燒！亞洲半導體當「賣鏟人」 安聯00412A鎖定3大關鍵瓶頸 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdllZYzh1ZEZ0a05wSkMzbnhPUGZMcDZINE1tbm12ZU9uOW5jdFFqVGVhVUJ1bzN1NmJEdjhaR3FiR1dDZDU1Rk1MdTZpNHIxdXNka1QyY2pmeXZMWXNMZVdKODBPdnlxbFFlZlZKWVF5RTVENHpQWVBNVGtXQW5VbWdn?oc=5",
+      "summary": "AI淘金熱持續燒！亞洲半導體當「賣鏟人」 安聯00412A鎖定3大關鍵瓶頸 壹蘋新聞網",
+      "published": "Tue, 25 Aug 2026 04:10:00 GMT",
+      "display_time": "08/25 04:10"
+    },
+    {
       "source": "Google News Global",
       "title": "台灣央行9月升息機率增！網友一面倒「笑你不敢」：選舉年不可能升 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XNjFFbktyaXVoUFFHZ3RTd3hDTDU2RU1JV3UySW05VzJDMHMzbHk2ekNSQ25PQXlRNkVMcTNjZDRheG41eHplenBXdy1la0E5ZnfSAVdBVV95cUxQdktibzhBRUhsMlhSbGNxMjhJcURDMXd5ZjBBWExRSzJaNDRuQWZweGlJcmoxbWtRMVA5WVllOTdTY2F6Uk9SMWVGdlVKdkZUMUpLcUpWX1E?oc=5",
       "summary": "台灣央行9月升息機率增！網友一面倒「笑你不敢」：選舉年不可能升 UDN 比通膨更重要！孫明德曝9月央行理事會「最重大議題」 Yahoo股市 央行下月將調升利率？孫明德：真正壓力恐來自資金緊張 UDN 央行若升息考量什麼？孫明德：資金緊張程度重於通膨 | 中央廣播電臺 LINE TODAY 2026央行9月升息？房貸族必看的5+1數據 好房網News",
       "published": "Tue, 25 Aug 2026 03:52:31 GMT",
       "display_time": "08/25 03:52"
+    },
+    {
+      "source": "Google News Global",
+      "title": "還得看他國臉色？美國新一波經濟制裁 伊朗誓言反擊：中俄都沒接受 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQdnZJeGtsVXhGd1pHUVl2S2R5MGlPMkh6NVRJSkZ6WlFrdjFiV2RXX1lKa2dMS2xTUGZOaGxVaDRERGdVRUtEaDRfV2ZsMHNQTmkwMUxLOE1KOUJJUEtVeFdwQW1nMkE1eTd6RjBsajZsUHFHTXNiU291eW5Qb0NSZ2hzQlYwLTltRlRxZmp0WmplcUFoVnFMTFc2MjlLTjdYeUxsWlNmcDlPNlR4WXhRVUtrWEJhTUVkN1F5NzBmNXk4VWFXR2wzUEY0ZHA0Y2NNbjZqcG1NSzFlOENiMkNZZFdzM0IyNlN3NmkwbC1fTHRaY2lucFBndFB3MkgySlN6dkZDVUtVUE9mMUVNX3RNTnB3SC1VQmlxSUNyTnEzaTJsNmc5a1BhTlhod0NlbVFvOUhrWDY3ZHdNaDltZEJvbm1QTkw2N3gtWXdMWWpSbDlRejlmUjYyWkNkUmhHUEU2QzJGOXZuTjdMMm9DLTJVTGF1TWxab0F5MW5NMjNxeGZyNFprUWhNZS1TUXJ0TVNZcnA0Q2cyWnlQZ2pI?oc=5",
+      "summary": "還得看他國臉色？美國新一波經濟制裁 伊朗誓言反擊：中俄都沒接受 Yahoo新聞 天下晨間新聞：美啟動「窒息伊朗」作戰計畫，真敢拔掉中國這根呼吸器？ 天下雜誌 買伊朗石油會被美國制裁？ 學者：中國有理由不用擔心| 中東戰火連綿| 全球 UDN 美對伊經濟施壓5大影響專家：重點在伊朗願承受多少痛苦- 國際 工商時報 美國揚言制裁伊朗貿易夥伴專家點名中國印度土耳其| 國際 cna.com.tw",
+      "published": "Tue, 25 Aug 2026 03:07:39 GMT",
+      "display_time": "08/25 03:07"
     },
     {
       "source": "Google News Global",
@@ -98,14 +138,6 @@
       "display_time": "08/24 23:18"
     },
     {
-      "source": "CNBC Finance",
-      "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
-      "link": "https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html",
-      "summary": "Lego CEO Niels Christiansen told CNBC the company is seeing strong sales at both ends of the pricing spectrum.",
-      "published": "Tue, 25 Aug 2026 07:00:01 GMT",
-      "display_time": "08/25 07:00"
-    },
-    {
       "source": "Google News Global",
       "title": "美股收盤》輝達連跌7日 台積電ADR下挫2.11％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50eHRvblpidmxrTVNlYWhldHVJM2tWRm1YU3Z1SjdWb0pZVVF6OEFQOHgtRGw0S1gzXzBRVmhCbExBU1QyQjNPR1VpN0RsUVFvaTZqUXFXWDI3Q2txZktB?oc=5",
@@ -120,14 +152,6 @@
       "summary": "伊朗官媒公開威脅川普小兒子 懸賞3.2億元「在哪殺巴倫」 Yahoo新聞 伊朗公開威脅「暗殺川普小兒子」！ 官媒懸賞1000萬美元 TVBS新聞網 伊朗盯上特朗普小兒子：曝「1000萬美元懸賞」 富途牛牛 川普全家都是目標！伊朗電視台再放暗殺狠話 | NOWNEWS今日新聞 LINE TODAY 暗殺拜倫？伊朗聲稱「全面監控」揚言懸賞千萬元 世界新聞網",
       "published": "Mon, 24 Aug 2026 21:59:58 GMT",
       "display_time": "08/24 21:59"
-    },
-    {
-      "source": "Google News Global",
-      "title": "尾盤急拉近千點翻紅！台股上漲407點作收 台積電收2400元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQRjk4TGhfZHozNDI0YXBTQ2thaGdTWjBOWmdKVk5MeUZSejBfaWxwVVVIcTFldGN6b09Ia1BySDN5VXpQLXB5cUdxWWIxLWFRMGozUWQtRnN5S25aUWdoOUNLT1hjNHQyWV9UUFVjVGFkMm9zb1Iyd0lnczkwc3o5Y2FpMC1NYlRUR0RPb0piX0tjY0x2eWhQQ1FnQTB1cmlPVFRQektYcGZaaXJXc2ZTOWdCckp4ZHByLU1CYnhZZ1hqNHhKbGdJWklCQzZsYkw4b2lrN0N0SzhMRUxHamZ3V3VfcjllYld3d2gxY3JlZHpfc1FjaXY2d21uOWJDdS1BRTJGdjI3Y2RiYU9tUEJ5VzdlYWJ6a3pmNnpWZ25oRU5KelRZZVFmOHJwUGJKOUdoaE9od0F2X2VLOU15QnFmTl9pMlVhTEZETV9JTDhIcXYwb19KMHBaWXBCUGR2dmp3VnVJ?oc=5",
-      "summary": "尾盤急拉近千點翻紅！台股上漲407點作收 台積電收2400元 Yahoo股市 台積電與金控雙雄聯手反撲 台股開低走高收漲407點 UDN 台股逆轉收復4萬5大關 台積電重返2400元 Yahoo新聞 電子翻紅金融塑化走堅台股上漲407點收復季線| 證券 cna.com.tw 洗盤劇本太狠了！先跌500點後逆轉翻紅「2大防禦神盾硬生扛下空頭」內行驚曝只是一場虛胖反彈 旺得富理財網",
-      "published": "Tue, 25 Aug 2026 05:53:22 GMT",
-      "display_time": "08/25 05:53"
     },
     {
       "source": "Google News Global",
@@ -147,35 +171,19 @@
     },
     {
       "source": "Google News Global",
-      "title": "貝森特買美債計畫遭痛批！Druckenmiller警告：政府干預殖利率「終將失敗」 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE90UkdkVjhtWDdHSHdzNGFHZ0F6VWhuN1dGNVZQcTR4ZjdNUl9DZ2NrWHJQOTRLNF9iSVVTcTBCUXFSazFreXZHdWIyczIyMjA?oc=5",
-      "summary": "貝森特買美債計畫遭痛批！Druckenmiller警告：政府干預殖利率「終將失敗」 news.cnyes.com 美債爆危機橋水基金急籲「買2資產」！杜金龍自爆買機器人慘停損 Yahoo新聞 救市！美要砸1兆美元購債 市場預料將壓抑長債殖利率 經濟日報 美債殖利率越高越值得買？PIMCO曝「抄底訊號」 工商時報 回購國債「奇招」失效，貝森特的三大誤判 日經中文網",
-      "published": "Tue, 25 Aug 2026 04:10:11 GMT",
-      "display_time": "08/25 04:10"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "AI淘金熱持續燒！亞洲半導體當「賣鏟人」 安聯00412A鎖定3大關鍵瓶頸 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdllZYzh1ZEZ0a05wSkMzbnhPUGZMcDZINE1tbm12ZU9uOW5jdFFqVGVhVUJ1bzN1NmJEdjhaR3FiR1dDZDU1Rk1MdTZpNHIxdXNka1QyY2pmeXZMWXNMZVdKODBPdnlxbFFlZlZKWVF5RTVENHpQWVBNVGtXQW5VbWdn?oc=5",
-      "summary": "AI淘金熱持續燒！亞洲半導體當「賣鏟人」 安聯00412A鎖定3大關鍵瓶頸 壹蘋新聞網",
-      "published": "Tue, 25 Aug 2026 04:10:00 GMT",
-      "display_time": "08/25 04:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "還得看他國臉色？美國新一波經濟制裁 伊朗誓言反擊：中俄都沒接受 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQdnZJeGtsVXhGd1pHUVl2S2R5MGlPMkh6NVRJSkZ6WlFrdjFiV2RXX1lKa2dMS2xTUGZOaGxVaDRERGdVRUtEaDRfV2ZsMHNQTmkwMUxLOE1KOUJJUEtVeFdwQW1nMkE1eTd6RjBsajZsUHFHTXNiU291eW5Qb0NSZ2hzQlYwLTltRlRxZmp0WmplcUFoVnFMTFc2MjlLTjdYeUxsWlNmcDlPNlR4WXhRVUtrWEJhTUVkN1F5NzBmNXk4VWFXR2wzUEY0ZHA0Y2NNbjZqcG1NSzFlOENiMkNZZFdzM0IyNlN3NmkwbC1fTHRaY2lucFBndFB3MkgySlN6dkZDVUtVUE9mMUVNX3RNTnB3SC1VQmlxSUNyTnEzaTJsNmc5a1BhTlhod0NlbVFvOUhrWDY3ZHdNaDltZEJvbm1QTkw2N3gtWXdMWWpSbDlRejlmUjYyWkNkUmhHUEU2QzJGOXZuTjdMMm9DLTJVTGF1TWxab0F5MW5NMjNxeGZyNFprUWhNZS1TUXJ0TVNZcnA0Q2cyWnlQZ2pI?oc=5",
-      "summary": "還得看他國臉色？美國新一波經濟制裁 伊朗誓言反擊：中俄都沒接受 Yahoo新聞 天下晨間新聞：美啟動「窒息伊朗」作戰計畫，真敢拔掉中國這根呼吸器？ 天下雜誌 買伊朗石油會被美國制裁？ 學者：中國有理由不用擔心| 中東戰火連綿| 全球 UDN 美對伊經濟施壓5大影響專家：重點在伊朗願承受多少痛苦- 國際 工商時報 美國揚言制裁伊朗貿易夥伴專家點名中國印度土耳其| 國際 cna.com.tw",
-      "published": "Tue, 25 Aug 2026 03:07:39 GMT",
-      "display_time": "08/25 03:07"
-    },
-    {
-      "source": "Google News Global",
       "title": "台積電繳減碳成績單綠色廠務工程有利可圖亞翔、聖暉等9檔概念股刷一排- 日報 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rekVLTUxJLV9GYlFlVllpTnQ5ZzZrT2dtblF4VVZWVklITnd0bFdjckZfSmtZeVcyRXAwdjZPbTZ5RThwcU5Lbk5pYXF3WGxGNXRCRjduZWlwbFh2c19v?oc=5",
       "summary": "台積電繳減碳成績單綠色廠務工程有利可圖亞翔、聖暉等9檔概念股刷一排- 日報 工商時報 台積電員工突破九萬大關 董座魏哲家：利潤分配加大資源投入 Yahoo新聞 台積電晶片去年省電1,800億度 減少近8,900萬公噸碳排放 經濟日報 台積電去年全球員工薪酬中位數295萬 年增近2成 自由財經 台積電全球用電再攀高：2025 年近 288 億度，約台灣全年用電一成 TechNews 科技新報",
       "published": "Mon, 24 Aug 2026 19:00:00 GMT",
       "display_time": "08/24 19:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "別想和川普談公平！美加貿易談判破局給世界各國的教訓- 國際 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tSktkWDV6Z1FDTmRCM18zTnh1aFR3Qkk0a1lWT0x0QU9ROVpuZGZTNVpKWUU0YUJ1U0FuTDE1RHM5NVhQM3R6cEd0NVFiNEh3OW9oWUtlS3lNYjlhdWRWZGJMa01mUU5DdUlNbGhB?oc=5",
+      "summary": "別想和川普談公平！美加貿易談判破局給世界各國的教訓- 國際 中時新聞網 法語文化為何成美加關稅戰癥結魁北克8成挺卡尼| 國際 cna.com.tw 川普揚言明年開徵50％汽車關稅 加拿大擬祭對等報復性稅率反擊 公視新聞網PNN MoneyDJ新聞 2026-08-25 07:39:42 黃智勤 發佈 MoneyDJ 川普將汽車鋼鐵關稅翻倍 卡尼怒批美國想摧毀加國企業放話報復 自由財經",
+      "published": "Tue, 25 Aug 2026 02:18:58 GMT",
+      "display_time": "08/25 02:18"
     },
     {
       "source": "Google News Global",
