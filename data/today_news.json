@@ -3,6 +3,14 @@
   "news": [
     {
       "source": "BBC Business",
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim President Delcy Rodriguez says the deal will help revive her country's economy.",
+      "published": "Sat, 29 Aug 2026 01:21:43 GMT",
+      "display_time": "08/29 01:21"
+    },
+    {
+      "source": "BBC Business",
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
       "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
       "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
@@ -27,6 +35,22 @@
     },
     {
       "source": "Google News Global",
+      "title": "華許傑克森霍爾首秀放鷹！五大重點一次看 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44SUNfYzZycXEtaEh6b0hjMWI1bDJ3Qk9KWWdqTWVVUkxUSkJ2bnQ4OW1ycmlza185SEplTHUwMlNIZDVoeThvb0R0b2dfOE0?oc=5",
+      "summary": "華許傑克森霍爾首秀放鷹！五大重點一次看 news.cnyes.com 華許放鷹！美股收黑、台積電ADR摔2.29% 台指期夜盤跌457點 Yahoo股市 聯準會恐重啟升息！華許放鷹 9月機率飆近60％ 工商時報 華許：務必把通膨拉回2％ 中時新聞網 美股收盤》華許放鷹！費半重挫3.47％ 台積電ADR跌逾2％ 自由財經",
+      "published": "Fri, 28 Aug 2026 21:40:43 GMT",
+      "display_time": "08/28 21:40"
+    },
+    {
+      "source": "Google News Global",
+      "title": "輝達AI運算金字塔！台廠「34檔」黃金陣容 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQanhzMFFCX05QYUVqQWhWVUwyallfNDdfMk1YNVZxVk1fZ2NkUmxrVExneVpxWVhFY21kNHlINXFhQnlwOHRRcmZzTm9WMUNURXVLZGk3TjJLdGpId1h3UXZSSndfMmoxb3NBVGJtdTNpTDRWZXd6UDhwcmpPNDhUdFpBMmc0YmI2clpWbkFPbUdpYU1OZjhjQkpkTVg5U2pHT1F2bEliMTRrZDFERGtkMXg1bGlQTjFoNjRFTmdzTVJpMUN5UXg5VkdBcDFrbTJtYU9nWXo0VEZDZk93a2k2R1kxa1ozanlZdVZjemFCemFnd0dITlVJbWo3SDMtSDlaVkYxaQ?oc=5",
+      "summary": "輝達AI運算金字塔！台廠「34檔」黃金陣容 Yahoo新聞 周末精選｜輝達財報展望亮眼！股價衝高又下殺 一文掌握營運重點和法人看法 Yahoo股市 輝達財報推高股價！黃仁勳登世界第6大富豪超越祖克柏、艾里森| 全球財經| 全球 UDN 專家：輝達財報後一週易震盪　台積電若被拖累可布局 ETtoday財經雲 輝達黃仁勳親報「超強明牌」？笑曝：跟我吃飯的人 隔天股價就翻倍 自由時報",
+      "published": "Fri, 28 Aug 2026 21:05:00 GMT",
+      "display_time": "08/28 21:05"
+    },
+    {
+      "source": "Google News Global",
       "title": "輝達財報點火台股收復46000點！聯電攻漲停、主動式ETF霸榜 成交值再破兆｜Yahoo財經掃描 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMihgRBVV95cUxPOE1tMksyemlSdVpOeEtXXy1fQXdITzFMQk5PdVFZRGJvLXE1d3RJa1pES01QX0tFM3pSelZVYjl3Y0ExZW43RlhkWlBFaFZlZ0I3MDA2QWdqQkd5dE5jNHRpMGZrTlhHWDJMUk9QOHZmV0NIeHJES01RRmcyaW9WUngwVDlNM21zeExybWI3LXUyWGJhdlBYdlVacVFVMVNJaU9XZDNYUnJvelVJQnljSlYyd2Fxek5pTDZXYm55MGRvRFpnX0JTWlJsLUNqTW82VkhBdm5vblBFMHJWc1ZTWURNSXpMcDJicElEdnQ3V1ZIMWRyTV9yUDVCSXZrUm1Dejg5RkplaHJzR29KMTFzQWxUd0JXTHNlbmRUQ3Y3M3cwX01zcWVsRXZBTjZzN2dKNFNLaVRWNHVKdUZmRTRZYjM2VDRsbEdWVjcxdkhzNG5yRjM2Rmc3VDNSTHJHLV8yVUMyb3JDNHdlLVpoZUFSazZteFV3aV9wSHZZc3NzaEhhaGNxNFNRcmFBTWZaV3RaZzVKekFWc0VrTkE4a3lYVEtINmRpMkdtQTR3RkNPUHM5cHdidjd4Y2FiT3ZlS2tDZGhyUkhHQ0VyYlk1Umh4bjVReFp1VkZ0UUR4VFNZc1Aydk8xcVVILVdGSWdoNEJQcjMxTzVxbHN6QmVpMWt3YUoxMXc4dw?oc=5",
       "summary": "輝達財報點火台股收復46000點！聯電攻漲停、主動式ETF霸榜 成交值再破兆｜Yahoo財經掃描 Yahoo股市 收復4萬6！聯電等36家紅燈高掛 指數收漲356點 自由財經 被動元件帶頭衝！台股收漲356點成交量破兆 單周揚1,107點、漲幅2.4% UDN 《台股盤後》收漲356點、重返46K；週K翻紅 - 頭條新聞 - 新聞 MoneyDJ 輕鬆贏在飆股起跑點、國巨⊕、華新科⊕、精材⊕、金像電⊕、貿聯⊕、大立光 news.cnyes.com",
@@ -43,11 +67,43 @@
     },
     {
       "source": "Google News Global",
+      "title": "美國制裁伊朗 能斬斷中伊關系嗎？ - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZ2I3SVJtWTZRNW5tWWR2Q2Q2TXdkVmhRNGNqUnAtbko3WGdBbEo5Y0VxYmJUbUJLUjNKNlJUTkU3WmFhVUpzdkt1SXluRjZBVnZSTGtzeDg2U1FXLW04c25kUXA4dm84LUY5bTVEVU9mV3hzZ01ZUjJObFdaNTNnYjdmdU80T2FmemZULVFaMXM4anQ2aDhIZzd2bmYwOXlucTg4cXluQkpvcFJHdy1pX2ZuM0p5amxFVi1YT3NXbnZ4Z0V5UDV1dnNMNlpGelFpNFRGeEtVc2h1VkZRX3VpX2lsQXRqMzd5VHFBNHk4ZXZEXzI1N3VyVHNxeHc?oc=5",
+      "summary": "美國制裁伊朗 能斬斷中伊關系嗎？ Yahoo新聞 G20財長會議聚焦全球經濟與伊朗制裁 美國推「經濟棄民」策略 Yahoo股市 美財政部擴大對伊朗制裁名單 香港楷萌貿易被列其中 經濟日報 美伊戰爭最新消息》衝突滿半年美要廢了荷莫茲海峽經濟制裁大開鍘力斷伊朗命脈- 政治圈 中時新聞網 G20財長會議在即 排除南非邀波蘭、要中國「斷貿」伊朗 川普政府在盤算什麼 | 謝駒蕥 | 新聞 風傳媒",
+      "published": "Fri, 28 Aug 2026 14:16:00 GMT",
+      "display_time": "08/28 14:16"
+    },
+    {
+      "source": "Google News Global",
       "title": "孫宇晨自爆砸20億「交往景甜」　網翻女方旅遊照驚見時間線對得上 - 三立娛樂星聞",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9NUHFMc3lFLWVMcG5wZGxKNHRCdUU5THZ0Y1RQTnQ0ckRVbmRZUFFzektNY003SXJnelQyWUlaQUxwVm10MEFwcW9B0gFfQVVfeXFMUFZyVlQ0U2h4OWY3V3VYeFpzSTJLWXNFTDcxQTVYeW5jUUZmVVNRRXF5NG4tZGpnOFpCN1gxSmlZM3NUMFJNWk5XcUh4YlZsTEJpQlRWZ3ZWME1ZMUw0X2c?oc=5",
       "summary": "孫宇晨自爆砸20億「交往景甜」　網翻女方旅遊照驚見時間線對得上 三立娛樂星聞 景甜陷代孕官司！手上3部待播新劇慘了 傳劇組連夜開會「AI換臉」 Yahoo新聞 孫宇晨爭議全紀錄：抄襲發家到「2億天價蕉」與川普決裂- 國際 中時新聞網 景甜風波最大贏家竟是「指甲刀」 400年老字號股價上漲 自由娛樂 景甜爆演藝圈黑幕！曝有劇組夫妻「白天爭番位，晚上做X」，網驚：在說哪一組男女主角 TVBS 女人我最大",
       "published": "Fri, 28 Aug 2026 04:43:25 GMT",
       "display_time": "08/28 04:43"
+    },
+    {
+      "source": "Google News Global",
+      "title": "輝達暴漲8%也救不了？台股驚見變盤訊號！ - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJT04zaWxHck9XbW9NT3dvZVNNTkdjZmNrYTBUSXNIX2xleGFJd1luS2VaTXMtcXJZRTdtekc2MktUNnJOaXZsVzBTMi1wOXc?oc=5",
+      "summary": "輝達暴漲8%也救不了？台股驚見變盤訊號！ news.cnyes.com 輝達財報點火台股收復46000點！聯電攻漲停、主動式ETF霸榜 成交值再破兆｜Yahoo財經掃描 Yahoo股市 盤勢分析》成交量重返兆元 短線仍防波動 自由財經 《台股盤後》收漲356點、重返46K；週K翻紅 - 頭條新聞 - 新聞 MoneyDJ 快訊／台股收盤漲356點　台積電漲10元至2420 ETtoday財經雲",
+      "published": "Fri, 28 Aug 2026 09:21:26 GMT",
+      "display_time": "08/28 09:21"
+    },
+    {
+      "source": "Google News Global",
+      "title": "國泰金法說3》金控老總李長庚談AI「還有10年好光景」看台股：短期震盪長期樂觀 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQX01qVGt1RVA0dFN4U093NjlUR3c3WDB3QXRFOTkxWHlMMktKeHdUaXhwX0FEMERBZHk1amFvY05FV0VxOUFSMFhISXlCb3ppSEVhYVZEcW9LRzY5amtRV2RCbkNSMTQ0VnZQeEZsb0w1SEdnU1Rhd01NRVdwa0ZMRHg0VXBuN0pvUHp4QklmcEhwZE9UMllEdUVPa09KaWJDXy1EeWFYVGlaZ0dnNnlWUHl5MEZUNHBMdjZ0TXdwQ2xaQmExeE0tMWdLcW1hbTd5RGtxY0V3MWF4OFNXQ1kyVE9FdnVOV1dwaHRKN3pNaDdWcDM2VV9yaXdpWndnUGxyZTVjM09GeGxhYjVwY3VjRUg1QlM3TURyTG5ZOHFBbHFkdFA2RHp3U29hUU1iNlVXVGdTWVotTWtnMWJlNzk5LUtKcXFrVE5aYTdFVXhXekpNYkppVVpadkNUa2pfVUk1SEFlS1Q2NEc2QXQzUFZVQlVUYXJ4ZDZUTzV1MmJLV1BzSEdEeVJWNWVSSFk4MnlxSXVmLS1sTmxQYmlhLTN6cDlJZXJjLTYyQkhKN0l2V3gtMTVFdDEzTnEybXdUeEdmM0JVTHFqb2stUldsWmhEallMTC1IZGFoZm1ydUFRNGdTbU1hS3hkMzNnUFMxSlB4Um96ZkNGRzZjUQ?oc=5",
+      "summary": "國泰金法說3》金控老總李長庚談AI「還有10年好光景」看台股：短期震盪長期樂觀 Yahoo股市 國泰金法說2》談股利配發率46%？ 總座：會比過去歷史新高要好一些 Yahoo股市 國泰金前7月EPS12.47元　總座：明年配息樂觀以待、優於往年水準 ETtoday財經雲 AI 助攻投資 國壽上半年台股投報率39%、國泰世華銀放款年增14% 經濟日報 國泰金第二季法說 總座:有信心今年股利比過去好 自由財經",
+      "published": "Fri, 28 Aug 2026 07:27:58 GMT",
+      "display_time": "08/28 07:27"
+    },
+    {
+      "source": "Google News Global",
+      "title": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CN2tDOExuNDh3U3p0ZjZ5MUk1UzVqQTdrY3NYVmE3RE5JU2lZaWFOYnFoN1lKSGthM0dqb014a1h3VndYbWJmbVhaTlZpX0syUXdPLTZvYi1ZSWtEZ0QxaHhrWEc1d9IBa0FVX3lxTFBUMGZvRVJfMEs0Z0Vhc3d4UDZHZUVxSjBqWGxFcHNyNVpWcWZoRnJqSlE2djZxcUxqdkdmTk50RzJINVFYc3BHRENWelBvblRzZHpwdHBMOU04TzNQZkNkMmRmcVEwX2pZOEVn?oc=5",
+      "summary": "特朗普簽署行政命令，將「安大略湖」更名為「美國湖」 BBC 告別北美一體化？美、加關稅角力，談判桌上的「卡尼主義」與霸權賽局 轉角國際udn Global 反制川普把「安大略湖」改名為「美國湖」 加拿大地方議會提案把「川普大道」改名「歐巴馬大道」 Yahoo新聞 川普出招回應加國反制性關稅 下令邊境安大略湖更名美國湖 公視新聞網PNN 川普簽行政命令 安大略湖更名美國湖 cna.com.tw",
+      "published": "Fri, 28 Aug 2026 05:49:20 GMT",
+      "display_time": "08/28 05:49"
     },
     {
       "source": "Google News Global",
