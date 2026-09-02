@@ -1,221 +1,37 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "news": [
     {
       "source": "Google News Global",
-      "title": "【Follow法人】外資回頭大賣913億元！台積電遭提款262億元 二哥聯電也被砍4.5萬張 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOVUJFeG5ZbU5pMkNjMHBkcUQzR0JRUjIxOE80UkkzSFRTZ2NTZElOWUFVOEpDVWRSS005cmtRQUFMZkpDWEdQaHJhUVItTzN0cmM5bk5ScG9CejhnOFFhZ0cwZE00blBFS2loSmtBTVFmWE1nQ1FLaGZSd2VHUktSb0VNMWptUTN1NmNiVktnUjlSTkNHUnNPcGgtdWtKWkhJWmRVbk9SVkl2YUJ0RGE1emEwWGJrZFEyeTJkcF8yc1pWUWlOd2lhMXR0aS1sY2ZFUEQzZFEtck0wbU8xalVsMmVJalFxQ3NmTy02YldwSHp1WU1FZlBidVFZTHJtbHRuUjVrOFVybkNmRGdoY0NPVEpLeDNHR1lLVWJQRTRhSTBSV1JtZjV5V2ZiZ3B5bGRyYXBEUmJDRU1jZnQ2VlF2ZkZhdFNXY1drb08zZkhpTDNZS1QzQlYzM3BOUEdHUkJaS0JCZjNMaFd4NDI5cmswRVhJVWp6OGVLbkdCaVdmSVFDUDlibjczYU55VHpuY285c2JPTl9mYWZoRUgwbm9wQlVSUjRrM000ell2eF9WLUc4bE45ZGk1SldwSjU0ekYxY3dSSENjRndudkFKMWVYWnZwWmRWdVk?oc=5",
-      "summary": "【Follow法人】外資回頭大賣913億元！台積電遭提款262億元 二哥聯電也被砍4.5萬張 tw.stock.yahoo.com 【Follow法人】外資回頭大賣913億元！三大法人齊砍1150億元 分析師揭3大利空 tw.stock.yahoo.com 聯電又崩了！罪魁禍首是「他們」 百萬股東傻眼 自由財經 外資賣超913億元！大賣ETF、聯電、國巨但竟逆勢狂買這類股| 股市要聞| 股市 UDN 24萬股民嗨了！外資提款913億 連三買狂掃「這檔」2.87萬張 三立新聞網SETN.com",
-      "published": "Wed, 02 Sep 2026 08:43:21 GMT",
-      "display_time": "09/02 08:43"
+      "title": "71萬人爽翻！台股重挫784點 「這檔」逆勢飆天價 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUVM5Q0ltX2NpYU9MTXJieHhxcEhZcmxNa0JHNUdicGtzdHJWTWxYcE0zcWt1eERLbmh0allLVDlNS1RlZno0blBrZ3JLVHRMZ0R1X0ZqakgySXMzNGhtZS1ieGlHa2lkSXNNNE5hX0UtNEYxLWNjRGZqd090S2JqWjdNZV8tc1ZpRjlSSjdPU1FfNnZib1BKMVhxN0lrYm9idENSMzNOT3JBbHRUdVhCUHRSVHBvYk1pb2pLbmcxRVJDa3J2c2Q5aVZUeGVzQmkydWxuRC1NV0tTcDRIUEdNX3Q5VHNOOERmd21DV1dPQzFWd3ZabTE4M0tQNjlKVXhTOVpqazU5bElWa2VXNmU4dkhWb2lzLVByT29IRnNn?oc=5",
+      "summary": "71萬人爽翻！台股重挫784點 「這檔」逆勢飆天價 Yahoo新聞 聯電又崩了！罪魁禍首是「他們」 百萬股東傻眼 自由時報 天上的欣興不說話…台股大跌哲哲高唱「魯冰花自嘲版」股民笑著哭了 三立新聞網SETN.com 台股重挫784點收最低！外資狂砍913億元分析師曝關鍵防線- 證券 ctee.com.tw 「這2檔」權值股股東哭了！外資大刀揮下 鏡週刊Mirror Media",
+      "published": "Wed, 02 Sep 2026 10:57:00 GMT",
+      "display_time": "09/02 10:57"
     },
     {
       "source": "Google News Global",
-      "title": "台達電慘崩7%、臻鼎-KY挫半根！光聖逆勢亮燈撐盤 台股重挫784點收最低丟了46200點大關 - tw.stock.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPQ0JGWTZmcWVxRTJfcFZxb3kwWkNoLUl5NmNzYmRnZjB2dy05c0lRQnRtTi1EakN3elBZUGlYTDRGTjJHcktVMnFUMmNLN3RNeFEyTS1QRUtUcThSREd1MzBTVzJuNU04eXJnaWJkUmJMUGh5WFFFbFpQeklyNnVueVc4NU1WaFRkeFlkdlV6a2dZdkxqUFl6bHVrM1QxSVdwOTVHb2o0aHpoVy10c1ZVMjM2RU5OWmhWSWl4TXgwaHZHUnFES2RtVXFDdlNxcllJOWJUNHhtS0FqQU15bGwyZHExcXZnM25vWjRYMFRZS29xcV8xNHNNb1lPcDJkSXdBMkNCX3h4aXVYMGhjMjFLRmFQV2JLNWE1eUtGSmhuZnQwd3VXUGVFSVliNVFkSWVZZWRYQ2ltSElDLTVreEVVdXduUzdLLXQ2VWI2QnBLR3l6MFQ2N2RqT2NNNGkza05teV9tb2pnM3E5aUEyMlR3TWZJM1EtS3NVaGsxM01mck53U01BTGstVVNsUjMwOE02RnVBeko0Z2p5RjdBUFp1YjZLTnZ5TW8zMnU4aDdBTGxrYUJWajE0N3BlbXpHZUZ1R0ZzVnlTWTkyaW5FOG1ycDh5aVpKRkt1MnBTb2cySU0zTnc?oc=5",
-      "summary": "台達電慘崩7%、臻鼎-KY挫半根！光聖逆勢亮燈撐盤 台股重挫784點收最低丟了46200點大關 tw.stock.yahoo.com 台股重摔「台積電失守2400元」！他揪1魔鬼關卡示警：湧現賣壓 tw.stock.yahoo.com 今天開盤不妙？台指期夜盤突翻黑大跌 美股也全倒 自由財經 台股慘摔784點失守5日線 CPO、機器人抗跌 欣興收紅 「發哥」開心只一天！ 工商時報 台積電跌幅2.25% 台股開低走低下挫784點收46,164點 UDN",
-      "published": "Wed, 02 Sep 2026 06:17:19 GMT",
-      "display_time": "09/02 06:17"
+      "title": "SEMICON開展撲不滅美伊戰火！三大法人甩賣1150億 台股重挫784點｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxOQnBsS2Z4QVlMSHI3OHFmRGF4MVd2MHJQTko4WlVubDR1LWgxOVpqR1lPOXVLRDJENnVCeFM0SV9iR1VRRnV6c3ZQSFBkU3JGLU9mYnBob0s3WWlUVmMtOUZmV1IwTlZxNFRydXZwQWVkVmozYVVtbVFXSWYzeC1aLVBtS2JwZnpQSTgzb3hGWGZCdWhLcXpTeV8xTWJTV2lPX2kzNW4xM0NlUkYxbVBpM2JKZkU2V3NqaWdlTmZUWWxrLXVHUjZmR3RJWFNxWHJDakNRTHU3S2p6YzdscEplQ0NxcWRSWWtzSlF2YUVBNl9rNHVldUt6VE1EZzItVGFOM2hVZTV1WThna2xKbWVVaUxyd2FPaVJ1Zlc5UzAxaElKTTJQYVJpVTMyQ0hSZ015Y25uVGFIY1E3S0NWVkhBZkNyREpBU3dqaGNkTWFtOFZ1Z2xfMVp2OGx5cnpOeXpzOTdyeGFQMndBeWNwbHR4Y0ZCS0hJTHQ0eE9FaG5fMzcxNE55bmdFU0NmTkVZOEhlM1RDVUFrVHd1WU5nbTY3OHBpX2JqblJjLWZkaF9DVVNSWE52WGNtV2dn?oc=5",
+      "summary": "SEMICON開展撲不滅美伊戰火！三大法人甩賣1150億 台股重挫784點｜Yahoo財經掃描 Yahoo股市 台達電慘崩7%、臻鼎-KY挫半根！光聖逆勢亮燈撐盤 台股重挫784點收最低丟了46200點大關 Yahoo股市 台指期 中長線仍偏多 經濟日報 台股一路向下！台積、台達、台光電大跳水 指數收跌784點 自由時報 聯準會鷹派、美伊再開戰 黃世聰示警9月台股兩大變數 - 財經新聞 - PChome Online 新聞 PChome Online 新聞",
+      "published": "Wed, 02 Sep 2026 09:15:26 GMT",
+      "display_time": "09/02 09:15"
     },
     {
       "source": "Google News Global",
-      "title": "洪申翰將赴陸出席APEC部長會議 國台辦回應了 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Lbk9mSWRzcDl3VWhGS21XRGI3MERZU1Qzei1ZRHY2LUFuUkhOYklveVp3MmxYZ0RQVGFxZEVYV1BjTjVjUTNra0UwVENaV2Zq0gFWQVVfeXFMTnl2QmZhd1BmeTJ1R05JOC1zNE1vNnBvNU5LUGkwc19rUVRNMmlpODB2Q2c0SjNNYkpZNnZoc2QybXpmZWZ3czlZdzE4c2tQUG05ZDlmUmc?oc=5",
-      "summary": "洪申翰將赴陸出席APEC部長會議 國台辦回應了 UDN 在野正面看待勞長赴陸 轟綠又雙標「綠能你不能」 Yahoo新聞 洪申翰擬赴南京出席APEC 成賴政府任內首位訪中部長 公視新聞網PNN 黃國昌指洪申翰去中國要被統戰了嗎？沈伯洋嘆氣：闢謠兩年都沒用| 政治 Newtalk新聞 洪申翰將赴南京出席APEC　中國國台辦重申：按一中原則處理台灣參會事宜 三立新聞網SETN.com",
-      "published": "Wed, 02 Sep 2026 03:01:13 GMT",
-      "display_time": "09/02 03:01"
+      "title": "聯發科漲停後再飆4565元！皇翔175張「砍在低點」 1475萬沒了 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOakRxMFkyZU1WUFdUZDZoM1M4Q0l2aXJtTHNNcDF4RlFvS0pJYWdYam43UGNIQXU3Wnd0Y0Jzazk4Tnd3STJDQmc2bG9iRTlkRmYwNlNiaFo3RjRSb0tfUGtua2NMSUgyU296RDNSa1dPWGRMY00xd3lHbnN4TWtDTXA3a3RhUEZaUFFwS1d3WUt1VmFWVEJ1OWQxb3lybDRwR0tYbWJRWHlnV3pFT2FvQ202QTZHS2ZNTzZ0M3NvZm9aa1AtNHVvYUVXQldzOTRKb2M4TGRRNmNlT0g0Ym8wNG1adWljcDRyZ0tiSW5XbTdGUmw0akFZVmRuMWo4alZJeFRwNWl0R2FrOUkwTnNZOFlZT2NLcGlvWkpZQS1laXVsaGgxc05ZOV95Rkw2SExHVVJEczVaVFZ6WmJWeC16UlR0bldyb2JhZ2FDSEQzRmk0UQ?oc=5",
+      "summary": "聯發科漲停後再飆4565元！皇翔175張「砍在低點」 1475萬沒了 Yahoo股市 焦點股》聯發科：隔日沖客出場 上檔壓力浮現 ec.ltn.com.tw 參與認購聯發科1200億海外可轉債！Google副總裁：投資卓越公司的極佳機會 Yahoo股市 聯發科躋身頂級AI俱樂部　輝達鞏固台灣「鐵三角供應鏈」 ETtoday財經雲 《半導體》輝達、Alphabet都來了！聯發科AI含金量升級 外資喊7000元 wantrich.chinatimes.com",
+      "published": "Wed, 02 Sep 2026 07:14:00 GMT",
+      "display_time": "09/02 07:14"
     },
     {
       "source": "Google News Global",
-      "title": "MLB/道奇一口氣動了6人 金慧成等不到升上來的那通電話 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPcUp2QnBjQl9IU2lGU3plYkkyUmVCMHhaOFFESzFlOGlILXBCS2F4R2RSUHo3bmRhVVZCczVyMGYyUVVOajF6eDBidkhUMmFsS1oyQ1dNYkk4elJmZWJBNjFNRXVjdkRTVUpQWVJkMVpJYkQwUnVhQjNhS0E3RW1TdUw1T3o1R29MQnkxS0wtWVNUVWFpTmhWSVhMeFNPRzlhVGtKR0FHdDNVQzdYTGxBZERCVk9IMlBzdW1LT0Z3TTYwSkQ4Wk9lX19vWmhNYjRNZWlKUlgxbzM5MGFwa3VpRXlya3Fxd1lvZUY5dEFPR2M0ZDJvdm44YWtHQmNoUTNjQ0NHZXJLeUQ2bFI3elAxYUNZUkEyMmJiekJzNzZOWmpHUHJucUF2WkNoc3RVVnQzMnl3UnUwUUlnTGxnUG0wbzVrLVV1UDRJN1JTT3k0T3d4dWE0cTFlSHdYNG9UUkZWb3c?oc=5",
-      "summary": "MLB/道奇一口氣動了6人 金慧成等不到升上來的那通電話 Yahoo運動 MLB》道奇拉上4人！當家球星史密斯歸隊 28歲捕手8月才來就遭DFA 自由體育 MLB／道奇4人回大聯盟、2人遭DFA 金慧成仍在小聯盟苦無機會 UDN 道奇9月陣容大洗牌！強打捕手Smith等4主力歸隊　衝擊世界大賽戰力升級 鏡週刊Mirror Media 羅特維特「三進三移出」道奇！連2年救火仍遭DFA　羅伯斯致謝 ETtoday運動雲",
-      "published": "Wed, 02 Sep 2026 02:09:57 GMT",
-      "display_time": "09/02 02:09"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Apple Maps renames Lake Ontario as Lake America after Trump order",
-      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "summary": "The iPhone maker follows rival technology giant Google in relabelling the Great Lake.",
-      "published": "Wed, 02 Sep 2026 01:32:24 GMT",
-      "display_time": "09/02 01:32"
-    },
-    {
-      "source": "Google News Global",
-      "title": "聯發科、緯創、南亞衝高！ 台股下跌270點 估量近兆元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNTml3NDhUNUxRUU1kbTNkbGNyMzJRRTBselZBNXREZDU3QW9vZU0tT3gtb3Zoa0ZyNS1Tb1gxTnpLMFVQbGdzNjBxMzZxN2E0X3h6QVJCUXNkRlVIZkVWMjFPMmFabndTSHFmRTlEUlJmUE1EX05pZTlHaHdodGFkYzU4X05ZQndjNFlGVDJmOS1iTmhINkU2SDZNLS16RlBUODFtZGF6Wl9pRTE0cGU3QTBoZXhLSjNLcm8xUjVrMU5mcDlnLWh1WTVXUVNKdGJpTk9qTTdSU0lyS2tDNGRSY1dGUlNyTlZrenY4cE9PUDRwdWk5UWIxQ3pQNHdKSTBUWUZPMkUxUlNWNjlZN1R4cnRBVE1uVEtuaGRfN2tZMlR0NDBFeUpGQ0l1bEdPMTJaazFGdmNaZmt6ZERWTWdQZDAybUhiLVhs?oc=5",
-      "summary": "聯發科、緯創、南亞衝高！ 台股下跌270點 估量近兆元 Yahoo股市 快訊／台股不妙開盤下跌366點 聯發科不受影響漲165元 Yahoo新聞 今天開盤不妙？台指期夜盤突翻黑大跌 美股也全倒 自由財經 台股尾盤爆3千億大量！ 華邦電被砍23萬張 「這檔」敲進45萬張秒翻紅 東森電視 台股早盤跌逾400點力守46500點之上| 證券 cna.com.tw",
-      "published": "Wed, 02 Sep 2026 01:25:55 GMT",
-      "display_time": "09/02 01:25"
-    },
-    {
-      "source": "Google News Global",
-      "title": "張文綺鹽酥雞品牌年營收3500萬！爆「年底全面收攤」 緊急回演藝圈接通告 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxPb0NvUmpOZEZXZDRUOUcxZkliVjczdXVNM240cFpKUUpwMVhRNF9sV2Jmb3I2SnJzNTBNQVR1WHpFMmpwWXE0UERzTUljZW9iT04yUzUySUtaeHFtdmZ1alk5YTE5cWhTS0h3RDlQZllybXpjeERmbVZ6MkRuZFRNYjJXbDI1eTVmemh3c05OTVlKNExjVmNOZ2RFWHpiTnpkM2tsTm0tdElpa1BjTTJLYUdTOG1pbWdLWW5qUHl2d3dLSy1Uc2R3c1pxQTFuNURublR0NjhiRnRKcUFoNXNpbWZuM2NxbmRpUjk5VVVNNTNJZC0yRXRaNHRtRmFXZmtkX1JTRlZWYk1vRXZPMTBHakdSRUVvSVM5bkFEMVg1U2Z2VU5CTVc4dFBCMHdKLXRRWUNqVmVFUGRITTNTajh4bVZQZmczWkRaYm1tb3I3aHJEUjZ3T3NEeDFybUVmUWVTREVsdW9VTmVsVGxSUXI0RDI1SkcydjNCUEhSTWlzLVd4bHhfenhPclp0QVpfS2VxQS1FQnBjTWMxdVFBUnZuUnpwUVR5eEZqaTdqcw?oc=5",
-      "summary": "張文綺鹽酥雞品牌年營收3500萬！爆「年底全面收攤」 緊急回演藝圈接通告 Yahoo新聞 頭家夢驚醒／把興趣變生意！Selina「親力親為」做餐飲　撐3年仍收攤 鏡週刊Mirror Media 頭家夢驚醒／獨家！緊急回歸演藝圈賺錢 張文綺年收3500萬副業垮台 | 鏡週刊 LINE TODAY 鹹酥雞開4年爆「年底全收攤」 痛失加盟金！張文綺回應了 三立娛樂星聞 年底前分店全收攤！張文綺被爆鹽酥雞品牌垮台 經紀公司回應了 噓！星聞",
-      "published": "Wed, 02 Sep 2026 00:56:15 GMT",
-      "display_time": "09/02 00:56"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股崩784點「1檔ETF」逆襲狂漲！165萬人喜迎打賞「全年配息」有望創新高 - finance.ftvnews.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fTl94UWJrR1dJclVjSndXMzhmemp4UnNjNzFyUEw5RkFOcWJtZG43SE1aQXRNeW1lV3hCaUNnai00UThrSWhIeEdlVm5tMldJQV84R2FVdkxpT1pCZUJ5TmxXX0FPdw?oc=5",
-      "summary": "台股崩784點「1檔ETF」逆襲狂漲！165萬人喜迎打賞「全年配息」有望創新高 finance.ftvnews.com.tw",
-      "published": "Wed, 02 Sep 2026 07:58:05 GMT",
-      "display_time": "09/02 07:58"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台灣晶片業今年大爆發！年營收近3000億美元「3大瓶頸」卻逼近 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9oZjZQWC1BNG1XS3VMNHlPV3ZOM1huWnpTVG9RaXhQWS04UV9lWkhzaGwzMmlUNE52WFFyVTJZODNpNjdnNlFETVRCR1ZMelRTbWZiVmJFSi1mNXk5NHFj0gFkQVVfeXFMUFdncXBLblNzNnk0ZGZTc19UeGFZbWVqYmxZNUJKYjJoeFRmV25wSTZsNl9SX3RVdnJDN1RiMDVpSktpY1JTX1hoMmFvODk2LTM4NmRZY1lnYzVqR2lZbWRTd3pQRQ?oc=5",
-      "summary": "台灣晶片業今年大爆發！年營收近3000億美元「3大瓶頸」卻逼近 自由財經 SEMICON高峰對談》「台灣不是只有島內才算！」蔡力行提全球台灣供應鏈：聯發科擴大赴美招募人才 Yahoo新聞 SEMI：半導體推升能源需求 賴總統允至2035年電力無虞 rti.org.tw 氮化鎵及碳化矽成為國防通訊及電力新引擎 | 熱門亮點 | 商情 經濟日報 AI 時代全球布局戰略，劉揚偉提倡與台灣攜手製造新供應鏈視野 TechNews 科技新報",
-      "published": "Wed, 02 Sep 2026 07:42:39 GMT",
-      "display_time": "09/02 07:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "克里姆林宮：11月深圳APEC領袖會議期間 美中俄3方峰會可能成真 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CWFQyeXZHSXBLbmY4WFFZNjdjS0RHb3hiVGw0dWJ0MDNIOE1FWEtNUFVkS0ZuN3EtNHBOVEJvUkxWN1RUMUVZNS05eXBZM1BO0gFWQVVfeXFMTkNDWUU3Tl83U3A2NFQwbldqVkVFbzY0Y0sxRlU2VVphVGpreGxIdlE0SWJzNXI0bTNudEhkMENNc1BYOTJza1E4bWhuamprTm9MUXl0OGc?oc=5",
-      "summary": "克里姆林宮：11月深圳APEC領袖會議期間 美中俄3方峰會可能成真 UDN 克宮：普京或於11月APEC峰會期間 與習近平和特朗普舉行三方會晤 hk01.com 克里姆林宮：普丁、習近平與川普可能舉行三方會談 自由時報 大國博弈｜俄總統助理：中美俄領袖或於深圳APEC峰會期間舉行三方會晤|香港經濟日報 香港經濟日報HKET 中美俄元首或11月舉行三方會談- 有線寬頻i-CABLE i-cable.com",
-      "published": "Tue, 01 Sep 2026 22:30:00 GMT",
-      "display_time": "09/01 22:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股慘摔784點失守5日線 CPO、機器人抗跌 欣興收紅 「發哥」開心只一天！ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zaWdBbFUtUXI3UWRiWmQzRFVCcW9VVDd2T0k1bTYtX09ybFVVVUNLaFBTTkltZWJKYkRYMW5IcnRoOUxzOXV1b3liWFc0dHNuUU9zbVdBdlZCU2hXbkVF?oc=5",
-      "summary": "台股慘摔784點失守5日線 CPO、機器人抗跌 欣興收紅 「發哥」開心只一天！ 工商時報 台股收盤重挫784點 台積電跌55元失守季線2400元 Yahoo新聞 今天開盤不妙？台指期夜盤突翻黑大跌 美股也全倒 自由財經 快訊！9/2台股1分鐘：這家出大事了 ctinews.com 又是戰爭惹的禍 台股倒退嚕 46500震盪 旺得富理財網",
-      "published": "Wed, 02 Sep 2026 06:06:00 GMT",
-      "display_time": "09/02 06:06"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈美股盤後〉美軍再轟伊朗 油價飆 全球債市遭拋售 道瓊跌逾400點 費半摔逾2% - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ESnc2MEV2SUJMdWNTSjl0RHpLY3hOZVJPQUkxTUc5SUs1SWp3ZjYyTGVvQlhSZXUyc2RLWVFZZHJxTHhHVy15d3RZY0Y3Y2c?oc=5",
-      "summary": "〈美股盤後〉美軍再轟伊朗 油價飆 全球債市遭拋售 道瓊跌逾400點 費半摔逾2% news.cnyes.com 《油價》擔憂供應中斷 NYMEX原油上漲5.2%-台股 moneydj.com 油價再噴！柴油裂解價差仍是戰前3倍 台塑化創1個月新高 經濟日報 債市崩跌油價飆漲夾擊 那斯達克科技股重挫 - 財經新聞 - PChome Online 新聞 PChome Online 新聞 美股｜美伊交火油價飆 道瓊跌逾400點 蘋果迎新時代勁揚2.6％ 工商時報",
-      "published": "Tue, 01 Sep 2026 21:43:46 GMT",
-      "display_time": "09/01 21:43"
-    },
-    {
-      "source": "Google News Global",
-      "title": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KeV96ZTR3WTBrazU2MVFtRUg4Q0hvdFdKZ1d4OE5IVnRIYlNYdkgwYXFuZ0UzRHJ4N252aVU0dm5LM29nNkl5ZFpQVkNXdVJMVzNwQWhjZWVHMEnSAWBBVV95cUxQUTZXcnRadkFsMDBmNXBBMWZDODRLSV9XWmJOU3Z1eDdiSkxNOHBuRUxUbXBneXY4VUVRX2M5VmktNnBBX3R1Y1NKOFgtalZObGowRElqSWE4LUV2dmhUdFI?oc=5",
-      "summary": "晶圓一哥啟動 AI 冷革命 新世代「微流道」散熱技術將納入研發藍圖 經濟日報 PBA碧綠威將於半導體展發布先進封裝次世代AI晶片 DIGITIMES SEMICONTaiwan2026大師論壇暨全球生態系高峰會｜深度專題 天下雜誌 惠特科技搶攻矽光子與CPO商機 工商時報 日月光吳田玉：AI想像空間上看千萬倍 自由財經",
-      "published": "Tue, 01 Sep 2026 17:27:36 GMT",
-      "display_time": "09/01 17:27"
-    },
-    {
-      "source": "BBC Business",
-      "title": "US borrowing costs hit fresh highs over inflation fears",
-      "link": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
-      "published": "Tue, 01 Sep 2026 15:51:51 GMT",
-      "display_time": "09/01 15:51"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台灣GDP從科技外溢至製造業！從漲跌停板家數 抓台股短線起落? - 民視財經網",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fNjVZWlp2blhCMHVzQkVvQ3JNSm45Qk1QV3Z1X05mbGlrbkRiTVNBQThwZXF3RWY0eXF2QnNlWXhMSUNOVGNVNlptT1lOYXc5bDBjdWdYd0JvSGw0MUd2YnAxZHFYdw?oc=5",
-      "summary": "台灣GDP從科技外溢至製造業！從漲跌停板家數 抓台股短線起落? 民視財經網",
-      "published": "Tue, 01 Sep 2026 15:36:12 GMT",
-      "display_time": "09/01 15:36"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美伊再度交火！油價急升、市場避險情緒籠罩 美股4大指數、台積電ADR全面走跌 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxOTUphZFVCRk00WTczSjRiMGxqQkwzaUN1d29FS21XS0dGYnE0UmRDUGEyYmZjQVd4TXFWOGdLTjFJYzNkS1pJLWxyWGgweFVLTGtlSENDY1E2NklhZjBtSVJ2dVk3d09tdXJoZk1McWo4Nm9GMFJYNzBWbWFGZGdQM1V6NzN1MlVZUE9nWXRkRk9yaFZvM0RycVRPSG43QnFYZ0JWU2FiX24yTi11OGpnTjdJSV9OS0ZlWHJEUmdHUXA3b0hTOGs2d1RMaUsxbTRNWVZUVW5HR2R6cjIxSW5CVHIxLWczU0U2b0FpZ2J1aVRSOGh1ZWp3QXdKanNRTE9kT1BKcDlTM2REQl9QeXJwQjRHQmp4WGVNR21McU9TcDYwUkw5ZXFvZjNDN1k0T2ZaeDdDejJWV2d0Yy1VYnNEUWVhNlc4NFFDSWxSZVZKdTBPTVUwZlJWM2ltemlqV1ppajYzbHAxOFZnc293X3FrSmtURS1fMk9RSHVzdzJZaDNHak9oNnczUmNKQnNDc2xid25FQzRGUlQ1eDlDcll4WEVzYzZ5ZTRxSS10Mk5VZ0tqWHBBei12ZzE5c2FicUJHbGk0aFRYcEJRTEpCdnc?oc=5",
-      "summary": "美伊再度交火！油價急升、市場避險情緒籠罩 美股4大指數、台積電ADR全面走跌 Yahoo股市 美軍猛烈空襲伊朗！川普警告：更大的攻擊還在後面 油價暴漲逾4% Yahoo股市 MoneyDJ新聞 2026-09-01 06:13:44 黃文章 發佈 MoneyDJ 美股收盤／迎戰9月魔咒 油價升息夾擊 輝達聯發科結盟逆撐費半 money.udn.com 天下晨間新聞：美伊又交火、9月魔咒，分析師怎麼看 天下雜誌",
-      "published": "Tue, 01 Sep 2026 14:40:00 GMT",
-      "display_time": "09/01 14:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPSlZ6ODVRdVowR2tGb290MzByUEZOMHJRSW5VX19kUUtVUWJtMkFITW9mUmk3VnhKeGZTU2ZDeVBLeE5TT2E4OTQ2cFc2WUZaUHUwby15OWdPd2VOdDRfSHRtQm13U2NuTUE4MHFmR2NsV3lhS1FsZFByQ3N3QzRydkdXWHBiQW5Vay1RbWNwRmNSUURORTczVzdHXy1odlpBMkREWFl0ZGdudjZ4bXVLTmpWd3dsVTBJU09ZRHV3MkJpNllGcWV3WW5POFNIYmdUbFc3YkJCbl8wNWRVNk40TGZUYzZMdlh5eFZxOHh3THFHekZlVG1kQVVxM19pSG1yamQzQl9KbVBpLXFaRFVVeUh5cnFGNFQwMG1CcjlhYlpvbkl3YzdPb2ZtLV9nWkJYUmo2cERkU0h6V1R5ZmtjeTg0b05icTlqclA4?oc=5",
-      "summary": "上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？ Yahoo新聞 習近平出席上合峰會 稱願加強協調烏克蘭與中東問題 rti.org.tw 「上合峰會」吉爾吉斯登場 習近平、蒲亭今年第二度會晤｜20260901 公視早安新聞 公視新聞網PNN 習近平展開七年來最繁忙的出訪行程 為與川普會面預熱 | 大陸政經 | 兩岸 經濟日報 普丁會見習近平 盼中俄深化AI與數位合作 | 中央廣播電臺 LINE TODAY",
-      "published": "Tue, 01 Sep 2026 14:11:32 GMT",
-      "display_time": "09/01 14:11"
-    },
-    {
-      "source": "Google News Global",
-      "title": "全球債市拉警報！美股開盤下挫、科技股倒一片 「這家」ADR逆勢大漲3.4％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBocWJWWnFjeGRtTmgySUo2ZkZlcm9VMGNGZk5vY1dnUWV3Szd3Q3ptSWVnckQzQ0FfakFUM1M2T2VmU19wbC1JTzktQWNndkVlUzd2YkxxcDZrb1hwY0FB?oc=5",
-      "summary": "全球債市拉警報！美股開盤下挫、科技股倒一片 「這家」ADR逆勢大漲3.4％ 工商時報 美軍猛烈空襲伊朗！川普警告：更大的攻擊還在後面 油價暴漲逾4% news.cnyes.com 《油價》擔憂供應中斷 NYMEX原油上漲5.2%-新聞內容-基金 MoneyDJ 今晨國際頭條一次看／美伊交火升高 油價美債同步震盪 UDN 快訊／油價飆升激化通膨憂慮 美股四指慘綠、台指期夜盤失守47K 三立新聞網SETN.com",
-      "published": "Tue, 01 Sep 2026 14:02:00 GMT",
-      "display_time": "09/01 14:02"
-    },
-    {
-      "source": "Google News Global",
-      "title": "快訊／美伊又開戰！美股4大指數全走跌 台指期夜盤大跌433點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPT29TYXFKT0JMcW91ZVF3ZktGYmJNN1ZsQnBuWHY4VkIxUHBiSzJTYThKdmF2aUJaX21WLUVTbjBWSGd1MlNBU2hWaEZJaTZtWWJEN19JNmZYRWFXcGUyMUJnZGtRTnZSZVItMHVEbDlDeVFJWFE1bGR1RVB4WFd2X2dUNVhVaEZ1MXlHM3g2aXhDSjJfaEdiUjUwZzdqOUtIZEkzTUFxZDlqUWg1cUUxUlRTZGxQdjVmcVplNURlRWdscjZ3X1Rub0liTVIwaExNNGE5dk5sZl9yamc4cnB5VkJlR1AzaTlXT19aOHFKWTI3LVVFUEw5ZkRhdUhHQURCcnNQdlUzNjByWkUwY2pPbk1EMjdYUzlDTTU3N1Z6c2N1UDJRMlo4Zk9ORE5JX3phVkxoNnczWlVYeUMtMmhFODFuY0dfSlFIQkNWYms5bzA3TV9RZWZvNUtJempRc0V1R0ZvdFhJZWI5T1hYTTJHRA?oc=5",
-      "summary": "快訊／美伊又開戰！美股4大指數全走跌 台指期夜盤大跌433點 Yahoo新聞 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Tue, 01 Sep 2026 13:46:00 GMT",
-      "display_time": "09/01 13:46"
-    },
-    {
-      "source": "Google News Global",
-      "title": "快訊／美股開盤「4大指數齊下挫」！那指狂瀉逾300點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zdHpCTl9RenRUWThXczhiZGNXRU5GSzVnWTlzT1lUVmVhNVdSVHdaSXRYSGdmMlJoLTVmS1YxVGpyeEFHakhVNUx4TExsaUo5M0HSAVBBVV95cUxNcHYtcXViNnhmandISlgtT3I3X040cmJ4SmxtbUxhVDRCR1VfaWVPOUk4QVNoQ0xrYzJyWVVYRWV3Yy1XSEJBeHdTQnZnWTh3Zw?oc=5",
-      "summary": "快訊／美股開盤「4大指數齊下挫」！那指狂瀉逾300點 ETtoday財經雲 美股綠一片！費半重挫1.34%領跌 台積電ADR也熄火 Yahoo股市 08/26 台股盤前：昨夜費半反彈1.4%！美光HBM售罄與AMD大漲，台股AI鏈將迎報復性反彈？ CMoney投資網誌 快訊／ 美股開盤「4大指數齊下挫」！ 那指狂瀉逾300點 facebook.com 盤中速報 - 費城半導體大跌3%，報11188.93點 TradingView",
-      "published": "Tue, 01 Sep 2026 13:40:00 GMT",
-      "display_time": "09/01 13:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "股價漲太兇！ 南亞7月獲利提前開獎 「暴增337倍」太驚人 - 東森電視",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91eFhXdnZWdGFoR1dYVkYwQWI2THhOUmFDc0tBSC1hWVl5SUpqUGs4MmtuYnRUWkxsZjlTNXlBTmJ0TkVuc2dJekVlNWlFTy1nalpvd3J3?oc=5",
-      "summary": "股價漲太兇！ 南亞7月獲利提前開獎 「暴增337倍」太驚人 東森電視 南亞7月獲利太狂！大賺31.68億、年增暴衝337倍 EPS達0.4元 ctee.com.tw 南亞、台化 選逾三個月 money.udn.com 外資連5買後變臉！國家隊砸8億護「這檔塑化股」 三立新聞網SETN.com 塑膠股狂飆 南亞7月獲利暴增337倍、國喬7月虧損 自由時報",
-      "published": "Tue, 01 Sep 2026 09:52:00 GMT",
-      "display_time": "09/01 09:52"
-    },
-    {
-      "source": "Google News Global",
-      "title": "上合組織25週年：中國舞臺、伊朗考驗，還是「清談場所」？ - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvQ1RZbGxnUmRiT1I2WFVQM1Q4cXBWeU8xb0NZS0NRRk5iX3g5NW1vSXRrUi1sYXBqWE1qS3lqYzliUDVHSUIzNmJucXJoQVAxNjhzOTNVakc3dy1lNmw2d1ZRV0E3UdIBa0FVX3lxTE93UmdwNTMyS2ZZNGx2Sl9uWnByMnlGUUh6ZG82Z0twdkEtcjRqOFczcnRjbmJELXZEQnl2RHdfbmtrTk5fSURlaDRhMUVVT2RtYU84dzNLU2hjRHZ0Z0poWGh2QUtXVGlHTnZj?oc=5",
-      "summary": "上合組織25週年：中國舞臺、伊朗考驗，還是「清談場所」？ BBC 上合組織25週年：中國舞台、伊朗考驗，還是「清談場所」？ tw.news.yahoo.com 上合峰會發言 習近平暗批美：嚴防外部勢力干涉各國內政 UDN 習近平出席上合峰會 稱願加強協調烏克蘭與中東問題 rti.org.tw 「上合峰會」吉爾吉斯登場 習近平、蒲亭今年第二度會晤｜20260901 公視早安新聞 公視新聞網PNN",
-      "published": "Tue, 01 Sep 2026 09:10:21 GMT",
-      "display_time": "09/01 09:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "欣興爆量震盪還會跌多少？PCB女王示警別接刀、李永年點名3檔轉單股- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16b29mSW5JVG94UFkyOHJRQzNSbzduR01ZelA1ZHRMMEtHOU9SWEFEYkVjejdLZklKYUdvN1BOdGN0RDdRM3B1RVltWTFaNlp6UW5rREVRcGxiUWpTYVZr?oc=5",
-      "summary": "欣興爆量震盪還會跌多少？PCB女王示警別接刀、李永年點名3檔轉單股- 證券 工商時報 欣興陷洗產地風波 和碩董座童子賢：觸犯川普大忌！ tw.stock.yahoo.com 欣興逆勢翻紅國巨反跌，PCB女王揭「洗產地」真相 網笑問：誰被搜索？ 三立新聞網SETN.com 欣興遭搜索後股價首度翻紅！外資連17日買超6.6萬張 市場在押什麼？ 經濟日報 欣興5兄弟經理人死抱不離不棄！尾盤千張爆量買盤 搜索利空後首翻紅 Yahoo新聞",
-      "published": "Tue, 01 Sep 2026 08:23:00 GMT",
-      "display_time": "09/01 08:23"
-    },
-    {
-      "source": "Google News Global",
-      "title": "德黑蘭：美若重返6月協議伊朗將立即做出相應回應| 國際 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJa1hjVTZ0U05Zd0R1UVF3VjNOXzZPSXV4VE1jaTRYNUJabEVESWl1MU42QUUyd2M4clZMMDJxYzEzSmZVZ2tDbWw2YV8yWmlxbDc0SEdyWXJiaGNtWjlR?oc=5",
-      "summary": "德黑蘭：美若重返6月協議伊朗將立即做出相應回應| 國際 cna.com.tw 美軍擴大攻擊伊朗 川普警告：更大打擊還在醞釀 Yahoo新聞 Axios：川普擬在荷莫茲海峽有限度打擊伊朗 防止重建軍力 rti.org.tw 美對伊朗境內大規模空襲 川普嗆若還手會毀滅性打擊 公視新聞網PNN 伊朗戰爭久拖消耗美國軍力？川普：這只是小戰爭 自由時報",
-      "published": "Tue, 01 Sep 2026 07:25:00 GMT",
-      "display_time": "09/01 07:25"
-    },
-    {
-      "source": "Google News Global",
-      "title": "聯發科漲停帶隊飆台股上揚820點 PCB、被動元件回魂- 證券 - ctee.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA4b2lydGViN3RLZER3UnZodXFTR3BkaG1xOUc0ZXEzeGt6bm4xMlJMZlBYZEdaUGJjcVdpYlQ2TDBiaWFZSXlod2t2bjRIRTkyMEZCakxMVTZ0ZHpIckFR?oc=5",
-      "summary": "聯發科漲停帶隊飆台股上揚820點 PCB、被動元件回魂- 證券 ctee.com.tw 三大法人買超561億！ 台股勁揚820點 網嗨：這回真的要5萬了 Yahoo股市 台積電最後一單5004張推至今高2440元　台股收漲820點 ETtoday財經雲 台指期驚天暴拉1,176點！空頭哭了「台股是一日行情還重返多頭？」全看黃仁勳做的這件事- 上市櫃 旺得富理財網 台股大漲1.77%創兩個月新高，聯發科漲停、台積電與鴻海同步走強 鉅亨網",
-      "published": "Tue, 01 Sep 2026 06:15:00 GMT",
-      "display_time": "09/01 06:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "4萬7一步之遙！聯發科、緯穎37家飆漲停 指數收漲820點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wT3FhWXQxN1BHSlZ2U3hDMEFNU3JJdVR6UzFjbjdDeGhoRUI5bUYzWnZTc3I2SFByMlJxaXlyMFB0ZWlVTmNRQW1WTU5rdTBENlk3ZDJUYzJNWGUzVkxV0gFkQVVfeXFMTUMtNzk1ZjE2cHgwcUJZWjU1QVpLb0p5NHdpeXhUSDVIb1JLRDJ6dV9HNGhxNUlzamtMQlFabFgzWWtBV2hUNHFESUZWSHpNUGNQS1RiWlFoNVZ4SVpKVXhqZFRuMA?oc=5",
-      "summary": "4萬7一步之遙！聯發科、緯穎37家飆漲停 指數收漲820點 自由財經 台股9月開局噴820點直逼4萬7大關！輝達千億投資帶飛聯發科ETF受益軍團整排起飛｜Yahoo財經掃描 Yahoo股市 台股9月開門紅 47K在望 工商時報 台股大漲1.77%創兩個月新高，聯發科漲停、台積電與鴻海同步走強 鉅亨網 電子水泥紡織機電強勢台股收46948點創近2個月高| 證券 cna.com.tw",
-      "published": "Tue, 01 Sep 2026 05:45:00 GMT",
-      "display_time": "09/01 05:45"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Axios：川普擬在荷莫茲海峽有限度打擊伊朗防止重建軍力| 國際 - cna.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kTk1rMUNTWjlVOGdYdzRSbGc5YTJnWEVRSlczMUpQNmFwYWNGQWpCQUN4VmhZUEdsOElrT2VCNXFhaVduWnBEQTNyaG9SdnE5ei1PTUtEaGdlM09yZ0Jn?oc=5",
-      "summary": "Axios：川普擬在荷莫茲海峽有限度打擊伊朗防止重建軍力| 國際 cna.com.tw 荷姆茲海峽戰火再起！美軍空襲伊朗 國際油價暴漲近4% news.cnyes.com 點火即自焚！美國坐擁最強軍力　為何不敢對伊朗實施「物理絕殺」？ ETtoday新聞雲 紐時：美軍轟伊朗火箭發射器曝光罕見的布雷手段| 中東戰火連綿| 全球 UDN 川普最新表態：伊朗淪失敗國家 已經死了 Yahoo股市",
-      "published": "Mon, 31 Aug 2026 21:14:00 GMT",
-      "display_time": "08/31 21:14"
+      "title": "美股收盤／四大指數收黑 費半挫跌2% 公債拋售、油價大漲拖累市場情緒 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWWRGRGhZWnFtX1BkaWd0eHdBTERpbi1ldGp3QnFCUjlJNVo3clpsTXE2YW83a1BCU2RKNzNzVjZSUGY3OXY3QUFYNkd2ZnZveFVoeUJQZ0VtZG0z0gFiQVVfeXFMTndCaGhmYkkyc1B3alN3SE1vQXQyYUdEOGIxdFBsVnVkbHZ4VDBjbW5JWDVyOTVRX2Y2T2pBMWJyU2N3STVxckFhbkJuemVXS1EzYjFvSGhGbkd4WTNmOWlNdEE?oc=5",
+      "summary": "美股收盤／四大指數收黑 費半挫跌2% 公債拋售、油價大漲拖累市場情緒 經濟日報 債市崩跌油價飆漲夾擊 那斯達克科技股重挫 Yahoo股市 美伊互相發動新一波空襲 各自喊話給予對方毀滅性打擊｜20260902 公視早安新聞 公視新聞網PNN 報復行動升級 美攻擊伊朗油輪 打擊伊斯蘭衛隊 中華新聞雲／中華日報 美伊衝突再升級！美軍襲擊伊朗婚禮首席談判代表怒了：美國是撒旦| 中東戰火連綿| 全球 UDN",
+      "published": "Tue, 01 Sep 2026 23:09:55 GMT",
+      "display_time": "09/01 23:09"
     }
   ]
 }
