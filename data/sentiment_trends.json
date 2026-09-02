@@ -8078,5 +8078,10 @@
     "timestamp": "2026-09-02T12:31:13.554560+08:00",
     "average_sentiment": 50.0,
     "news_count": 20
+  },
+  {
+    "timestamp": "2026-09-02T17:36:14.480122+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 24
   }
 ]
