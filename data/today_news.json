@@ -1,205 +1,45 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "news": [
     {
-      "source": "Google News Global",
-      "title": "《漫威金鋼狼》9/15登上PS5！三創現身巨大爪痕貨櫃 9/11起限時開放拍照打卡 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPZUJMWjRkV05OVEZlTnlrTnZObHRzcGZ4WHhQNm5zYnNieGd3ZVdFcXNXbWVNM21aZFJ2cDhadU5CU21pcUJmMGoyRU1QeFRvUkJBaEpfOVdxVmF1dkk2akdsYUJkUjd6czdFUXFmY2xDQ3FoN3NVMlpONUx1UkVmR051dzRpbXJqRkJJMkZSN0dJaHA2NG1wV1hLUExUdHN4RVFpMnRCZV91RjltNmNPeW0zYjBkUEwyS0ZfTHp2dlZGSVJpV2hlbUtycENnZVVyck0xLUgtejB0RGk0UE9Da0d4VWE1bTktTWdiaWdGbTV1T21YSTZnYjZhRElFSERnX3h1WXNpcktiMXJyekV2aFFaQW1valFNTmJQWnhSN1lOS1FOQUtkX1FNR0M4QQ?oc=5",
-      "summary": "《漫威金鋼狼》9/15登上PS5！三創現身巨大爪痕貨櫃 9/11起限時開放拍照打卡 Yahoo新聞 歡慶PS獨佔漫威金鋼狼推出，貨櫃戶外裝置限時10天現身三創 #三創生活園區 (251738) Cool3c 《漫威金鋼狼》公開上市宣傳影片以無盡怒火力抗巨大機器人！《Marvel’s Wolverine》 gnn.gamer.com.tw 《Marvel狼人》最新實機片段公開 預定2026年9月15日PS5推出 GANK 電玩誌 PS5《漫威金鋼狼》新預告「靈蝶」長相引發玩家爭議Insomniac親自解釋玩家其實把死亡女認成靈蝶 玩具人 TOY PEOPLE",
-      "published": "Mon, 07 Sep 2026 06:58:40 GMT",
-      "display_time": "09/07 06:58"
-    },
-    {
-      "source": "Google News Global",
-      "title": "大立光2原因殺跌停！台積電大漲50元 台股收盤狂飆775點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQaFJURl9maFo0LTNVdTE0ZUtfdjU3VkZTSUlSVnY5QzFteGVkQkFxTUw2dVF2c0FTOENROFFQZ0NvUzNmVGQyajlBSVBzWDlNMDlTOVNsU01GZXdYVFZXQVdMY3F0aUphM1pkVGxTWFVWQk0yRG5PNDc0Ym1hTWllRG1xa21vQzdodUxlVE04OTFiTWtZUndwT096RG9UNG85eTNTMmFVVV8xazFfR2xXT1hZY184NmpKOTZSOXJqNkNGSDZqUHM3bGpjZ0dhWXNHSGVoS2stOWtNNmk5TUpFSU40b0dTeFNBV2owSTJQSjhWUVhUOXBYLS1kTTUwd0JoVDlDVEZMUjhFbS10ZTJULUo3ejQ3Tk9YR0MxeEJUNGRVSjhhNGUzZ0dJV3VweGtSa0ZlY3VEYWtLcGpESjBqUXFsZWlMR3Z2ZHlHQmRldWxXWkpsc2s3a1d3TmJjbmVKaHc?oc=5",
-      "summary": "大立光2原因殺跌停！台積電大漲50元 台股收盤狂飆775點 Yahoo股市 台股重返4萬7收史上次高！信驊漲停攻向「2萬金」大立光摔跌停失守7千關｜Yahoo財經掃描 Yahoo股市 站上4萬7！晶圓雙雄領742家同樂 指數收漲775點 自由財經 權值軍團發威！0053分割前夕飆漲近2% 0050逼近新高 news.cnyes.com 台股逐洞賽│美CPI將公布牽動Fed決策半導體族群人氣回升- 證券 工商時報",
-      "published": "Mon, 07 Sep 2026 06:19:27 GMT",
-      "display_time": "09/07 06:19"
-    },
-    {
       "source": "Google News Finance",
-      "title": "滙豐投信：AI半導體接棒科技股 成為中國股市新主流 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WU3NOVDlQdkJaQTdrZERFbzM3TVllSVM1cEpKaWRlMnByeHJZNzhYZnNvczd6OUQ2STR3QUd2ZFJsLVhrRUU3NlRLWEZHWHAyNHFqallMRkdYQQ?oc=5",
-      "summary": "滙豐投信：AI半導體接棒科技股 成為中國股市新主流 中央社 CNA",
-      "published": "Mon, 07 Sep 2026 03:22:14 GMT",
-      "display_time": "09/07 03:22"
+      "title": "比台積電更會噴！「這1金融股」狂漲1.2倍 專家列3暴漲關鍵：真的不一樣了 - finance.ftvnews.com.tw",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1adVFrWGU1ZUlUODdneTk1Qk80Z1ljc2REUUthNkpZQ3ZXQ0haS2ZOMHFIT1RkMlVJZDR4TlAxd3A5eldSem5kREJIanJ0b3lFZGxOLTNkaHluVlVSSkRYUF80c210Zw?oc=5",
+      "summary": "比台積電更會噴！「這1金融股」狂漲1.2倍 專家列3暴漲關鍵：真的不一樣了 finance.ftvnews.com.tw",
+      "published": "Mon, 07 Sep 2026 14:18:50 GMT",
+      "display_time": "09/07 14:18"
     },
     {
       "source": "Google News Global",
-      "title": "00929買100張，每月可領多少錢？她從月領8千變3萬8！近1年股價18→29元、價差賺逾百萬...現在還能進場？ - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUpZU2xkSnFaV3U3RzBHc0RweVNkRHA1SVRmR0RmZ29HRmhYa0R5WEZ3TU9XSkhSWWs2MXozc05UcUNLVXVDdVVLUVlLSVZTOWdPU1VhdVhPYlI2RGUzYjh1YkI3YVRQMlJwS3lGUHd4STZJLTRMSm5TQzVYQlhUag?oc=5",
-      "summary": "00929買100張，每月可領多少錢？她從月領8千變3萬8！近1年股價18→29元、價差賺逾百萬...現在還能進場？ 今周刊 00919息值雙創高！榮登8月含金ETF績效王　杜金龍點名金融護體 ETtoday財經雲 高股利率與高填息雙因子護體 00918卡位第4季旺季與除息行情 經濟日報 ETF配息創新高！ 「不敗教主」教小白3招 選對這樣買不怕踩雷 fnc.ebc.net.tw 台股ETF中最快衝破6千億規模！00919連9天收盤創高 連14季配息破10％ 工商時報",
-      "published": "Mon, 07 Sep 2026 02:56:00 GMT",
-      "display_time": "09/07 02:56"
+      "title": "AI封測需求太猛！「這檔」8月營收大增233% 京元電、力成、矽格、漢測全創高 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWWYxSGFMVFM1ekxSU2RVN1d2b2FBc0FJZzhoV2piUG94VXJidVlSeG1ENTdhMzBONV8ycVVpLUZmejdwdzZsV3FWZ2F2MkhrYjJscy1VYllPaFEyZy1VU0lYY29WZS1MVGJKNVo5by1oa25pQ1ZKTktFbkdVV2hqZThab1VTeEZzUWtWcUtJaGViM3RBbXZuQjRldHhoREt3QWdvSHRVYzBqN1NQZk82QkNfdDlaTXFfMjRKT0oxSjNsNExJa2Z1TXdtZmMycTVZRHdYTzBHcDQxRmhra3FTSWE5UnZOVnJLWExyMDNSZVRnMjV2MDRBWERXSjVoZlh2aW9BQ1c5bnVYekZOLW5lZml6S1pyYlViNEtBVng4V09xdGp1cmZJZU5xRm9GMExXZmJ3VmhVSHhNa3FQZGVpdQ?oc=5",
+      "summary": "AI封測需求太猛！「這檔」8月營收大增233% 京元電、力成、矽格、漢測全創高 Yahoo股市 矽格營收／8月20.7億元 月增近3%、年增近29% UDN 穎崴擴產效益逐步顯 8月營收17億元飆新高 news.cnyes.com 打破 AI 泡沫傳言，穎崴：真正難關在產能供不應求 TechNews 科技新報 AI催動高階測試需求 穎崴8月營收連續3個月創新高 自由財經",
+      "published": "Mon, 07 Sep 2026 14:15:00 GMT",
+      "display_time": "09/07 14:15"
     },
     {
       "source": "Google News Global",
-      "title": "大立光遭歐系外資降評砍目標價，股價盤中跌破7000元大關 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPMFlBY0hiM2dLaTc4bVdBTUpmd3ROTXZEZTVlUURFZlRIa3JGaXlFSU9lam9haHVZVWdDdi1lQkhHMHhJT1ZGV1Z3TGV5cUFQall3NGFZZm5DXy1lODNUR3pTa25OVDBhMEs2bHRHR2R1YjlOaVVIalhSeklTUm5IbVFNWHVEMWprdC1pcWp0ZmZ0Y1hVcHFic2hNMXNoSXZscjlUeDN1ZTF4S1Y3X1FmUVpNbGsyYy1FSWdJSUw5aGpnRDNsYmRjNFN0dnNoS3oxaEZXYTFYaDlmazZUSE05MGRSOFBZTUI3X3ZXVnM3TDNWNzBUVFgxdzI5cmw0VDcybDVldnFLVVA2MzNlRWFDcXVZcTREZmRCbGpVVmpocXJSX09PQlhxYXdYTEFnN0lPazIzSEprOXpKaERiR0hxeFBKMUtQZUtMNUlNZVNFd2M4c2hEQW0wdnJLTTc2aWVMYXlnN3dzd2tUSzhYR01IX0NUaUFXUQ?oc=5",
-      "summary": "大立光遭歐系外資降評砍目標價，股價盤中跌破7000元大關 Yahoo股市 9／7盤中熱門焦點股- 證券 工商時報 8月營收月增但年減、外資下修投資評等及目標價 大立光遭摜壓跌停失守7000元大關 Yahoo股市 大立光8月營收不如預期　黯然摜跌停失守7千元 ETtoday財經雲 基金-FundDJ基智網 MoneyDJ",
-      "published": "Mon, 07 Sep 2026 02:35:30 GMT",
-      "display_time": "09/07 02:35"
+      "title": "才澄清沒戴假髮！川普「招牌金髮消失」 罕見棕髮亮相 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzRnlYQktmcUhCOFUzdWd4SUlDcVFiRzJrSjlBUTFiaXBFZ0I4NktvQ281OWN6MVQ4cUdaakwtUmlwbGdHQXBVelkzWGQtRXgycXpSR2ZzeTUyZGxLSHRId2k1enN2d9IBa0FVX3lxTE9Bdlh1Sm1JdzYtUU9lMDQtRFp6QnI4ZERodWx3TWZ5b00yTXA0YXZpN0I2a3ZRbF9TenBoNnhyd1A2OVBKcENiMmpHQjRIS3FXVXhMUS1hM0hsVHQxdUxENjdTdUxTeXFyTk9z?oc=5",
+      "summary": "才澄清沒戴假髮！川普「招牌金髮消失」 罕見棕髮亮相 自由時報 80歲川普「招牌金髮」突然消失！一夕變髮判若兩人 網看傻：不敢相信 Yahoo新聞 川普招牌金髮不見了！最新造型曝光 網驚：怎麼回事 經濟日報 特朗普標誌性金髮變棕發，引發熱議 富途牛牛 招牌金髮不見了？川普棕髮現身引爆話題 世界新聞網",
+      "published": "Mon, 07 Sep 2026 10:59:21 GMT",
+      "display_time": "09/07 10:59"
     },
     {
       "source": "Google News Global",
-      "title": "俄烏停戰露曙光？美特使抵基輔 與澤倫斯基會談協商 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPcWNXOE5feDBuOGJvV3VCNEZidFhXYm8wc1V0OGJzSWlHNjJsa1doZmFBZXh3TzVxa2RQM2RoU0hjX2pQSVB3aV9aTWUwMEZ3Vnh1andzRWR2ZEhHdUlhVkNDcTJza0UxZXhaMWs1dU1yd2hvaWlvMEJQY0x4N0dKZ3RFZnE5dTlVTUFjVlhSLV96MFZqYWxEVGZnOU1zWE94SlpUU1BzWlFJUFJtenhRNHJMajI0TU9IRWRXUVJVMmxmQVBBbk1neVpLWXN4clFBSnEwbUhINWxUWUdiT2o4cERkN2lzNUJKbnp3cEdlcWd1c2xmdWpDSzU4NHJuM0Z5NjFObEhJLUxqLVFrajRJUzg5cnlrcWxJbE4xN2NyVFk0enAxTHB0UTFjQXlfUk5Sb0NESlJCZDlQT2RPanFJaTVlNlhob1pXXzFUNE05eW9mSURxaDRCTHlYcEJ3Zw?oc=5",
-      "summary": "俄烏停戰露曙光？美特使抵基輔 與澤倫斯基會談協商 Yahoo新聞 澤倫斯基見川普特使後認了：戰爭恐再拖一冬 Yahoo股市 普丁見川普女婿討論俄烏終戰- 國際 旺得富理財網 川普特使首訪基輔！澤倫斯基：比愛國者飛彈還罩 美烏密談拋新構想 UDN 與美特使會談 澤倫斯基：領土仍是關鍵 中央社 CNA",
-      "published": "Mon, 07 Sep 2026 02:27:41 GMT",
-      "display_time": "09/07 02:27"
+      "title": "輝達砸1108億結盟點火！聯發科持ASIC題材奪萬元目標價稱冠「這檔晶圓代工」8月營收創近4年高同受矚 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMitARBVV95cUxQMll5MTNPalZ2dzhBRWQzTF9Yc1JqandsM2FxcFlibUdjSTZSY0lDWUpERkIyYk51V2t6ZGh4WWw1QUdsRVhtdDA2MWw1MDhIMHc5dEktaVg2ZmtzOW9uM2R6dnNaYmJoU2Q2VzNfdnhqSm1GNzJqZGp0cV9BeWJuR1Fjam50RW5HcFRaN3hRdkI2ek14cEVadXo2UHVGU3Npa29FVXgxZGRNQm41MFdTWGVhWlI0VjFxY1F0OXk3SV9lWVNGeHA5S0F5Y0hVVjRuN2phNkNiV19SQ1VtQTV2MzJGRmtVUjZqeUlpNmV3Z0xpbXlQU1U4V1J6eTlvOW41eXRzQWxOcE5uVVdMNGxOUGZOU19kRXAyYnEtZUxjU1A0aDhRQkNfSVhKVUdKZlVUaXZ3enVaeHkxLXNhbmlKcmNCdkpsdkw5VmlCTVJUTUYzNHUzRmEwNnMxczNlVXoxQllNUnkyV1RJd1d4T0F3TXNMcF9Yd19Cb1NKV1hPd0Jzb19LRmVkTFNnSnIxWUhseU9ySEhhaWh2b0RLYkRUTGFoNTF2bHhrdlFKT1dZY0d4NFhlckRHY0EweExodEc1d1VkOFVXOUlIOGRqb1piSDlob3IzUVdtTmVRQ0RkdUtKVEtDb2R0VE56X2ZZV2NCOG44QjZpNTVaeHRremNJclV5RVBOZzNSTEY2OGlKREpkZmFhWkZwQ0dsNlR5V09ldHpJTVpDRHpqRUlYV1ZNbEpMUk4?oc=5",
+      "summary": "輝達砸1108億結盟點火！聯發科持ASIC題材奪萬元目標價稱冠「這檔晶圓代工」8月營收創近4年高同受矚 Yahoo股市 輝達大投資加持！這幾檔台股ETF跟著「發哥」吃香喝辣 鉅亨網 輝達重金結盟聯發科！「10檔」跟著發哥一起發 Yahoo新聞 焦點股》聯發科：獲博通肯定 市場齊鼓掌 自由財經 聯發科AI大爆發倒數法人曝輝達押注千億背後藏大局- 證券 ctee.com.tw",
+      "published": "Mon, 07 Sep 2026 10:30:00 GMT",
+      "display_time": "09/07 10:30"
     },
     {
       "source": "Google News Global",
-      "title": "台股重返4萬7收史上次高！信驊漲停攻向「2萬金」大立光摔跌停失守7千關｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNWUZzQVBmN0dYQ2FoaU5xUU5CeXVDN0tOVFBhN2dVd1YzNV9GNFFxX25VejlIWGRfSnhHV0cwZEtZZ1BEcm5zSXJmcnd3MnJMT1poZ1l4UEhrNVU1WVFIU1hWclM1OWxjUDlfVUxpWmlVVE4xYWg2aG9XMHVtSjNIc3pJUTl2bEd0X1lEaVZzRTNkemlrZHJKZjBfZzR3bko0WjF1a3htX05UM2VMclYxSERBeHFSTmxDaGhGeGJEZ2RzS1lRcTJMU3BreFdaS1BKOWYtZS1xOFZOaUFCNDlJMVdTQWl6Qm9qMTM0VTRha0I0X3dSSDhJMVkzbWQ5dlBsczV3c2cxdUlYVWZDWlZOVE81d3hHWUlPOF9YSnY4OVFmdUpsd3A0bW4zSnBxU1oyTVdmSFhiM2tKeVR4aTJOTUJhUFBBV2ltTnNsaEJYXzVkTWhEZnFqbS1hNFROR3lIRk1jVDJOcHd0TDRHQ3c2UlBiSEUyT2VGUVFEYTRIYlFETzExakxvRlpsSHg2b0gwaFJYajRhRkQyRDhqbTFwWk4yZk1jVC1xVVZfMDVQVVFUVUZxS2E3Z3NyOWwxbXhuOU5ScG5RSnYxQzBmRVFmeG1WOXNDRXg5c01fb2hLVUVaWDBrNGU0aDRZQ1phQzlJUFNLUEZJOEpVaVA4VlRJTFZTWUhVejZoWE5XSXRidnRMOUlRN0pv?oc=5",
-      "summary": "台股重返4萬7收史上次高！信驊漲停攻向「2萬金」大立光摔跌停失守7千關｜Yahoo財經掃描 Yahoo股市 站上4萬7！晶圓雙雄領742家同樂 指數收漲775點 自由財經 半導體股帶頭衝台股漲775點創收盤歷史次高| 證券 中央社 CNA 台指期夜盤由紅翻黑！上半場開高走低 UDN 櫃買量價背離暗藏殺機？台幣強升點燃權值行情，低基期供應鏈要發動了？ news.cnyes.com",
-      "published": "Mon, 07 Sep 2026 09:49:26 GMT",
-      "display_time": "09/07 09:49"
-    },
-    {
-      "source": "Google News Global",
-      "title": "染髮還是戴假髮？川普招牌金髮消失「最新造型曝光」 網驚：怎麼回事 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNVmNhRUltVU9SRUtGSlVQLVV0UkhpOXB5WjV3WmsxVkhjQ1U4MGw2dlUwMDZFWG1xMTFITlNXZUhmNUJ6NEhOSjBERl94TWh4Z3dJRXNHMzdkSHpDY3B4ZWhWRjNVZ3JwMXhYYnE0NnFGZXlTQ0s3UjRTTmg0R0hWa3NyR3BjaGxxeE5GejFJMlNVNGdyWU0xcU53WU93cE8xdkxDQVA0N2R5cTlpSVhNQlBaWFRuVTFkMkZVb3BZWTZJRkxqUWY1cHVPdkRfRWd4M25Tcjh4RnZyamtsLTFPR2FpRjUxWGdpcjB6QnhLYUVQOGNVQ2dmNm55LXZhLVdJZG96RWJBZG1wODFhbUhCVUFybmVtRGNIVHcteGl1NGxCcHVVSklCbENGaktKYmhLc3NmNXRMMkNySnF0VzVkczlObXlGUzBGRnRESm9MOE9Db0FQS3ZYdUJ2YmxvRW80QUlRMTdhN3ZLYzJmTEducVZienFJS0dHb3czaEtVUEM1ZmphYV9VWFEwNEFkaktDbUVCWlhSNWFZeWtZ?oc=5",
-      "summary": "染髮還是戴假髮？川普招牌金髮消失「最新造型曝光」 網驚：怎麼回事 Yahoo新聞 80歲川普「招牌金髮」突然消失！一夕變髮判若兩人 網看傻：不敢相信 Yahoo新聞 川普招牌金髮不見了！最新造型曝光 網驚：怎麼回事 經濟日報 髮型變化又遭質疑 特朗普白宮晚宴講話強調「我無戴假髮」 香港01 招牌金髮不見了？川普棕髮現身引爆話題 世界新聞網",
-      "published": "Mon, 07 Sep 2026 09:33:08 GMT",
-      "display_time": "09/07 09:33"
-    },
-    {
-      "source": "Google News Global",
-      "title": "被動、PCB、記憶體領軍！禾伸堂、尖點衝漲停 台股上漲512點 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOURWYmxuVU9MSFpjZUMxTF9MTFZqWlRkM0lqVWl0eUlQWXRZa29JTUV2WmJoZFN1YXJnbF9ocExPWEROS0ZnR0VzUWxoNlo3b2RYUWdKcWYwNmVndUVzWTNVSXZCZlU5S0FqUGlYSWFSLWJwQko4bklraFhuZkhGbTNYZHAzX2RLWDQ4MFVoNHJxallpN05QTGR5dHlwRzUwR0d3cXVkc2hXT2lPSnFlTkI4ZU90V3hWYzlfSFRUMnBnY0VjSmFiOEp1eHpFbTVFNERRbHRmUTVkellhMGRYTXNSaGUtYzQ3YTBuS1I3R3lvSGpmemVqQ3RxdnBCZjd6MUdJTWlCMVY2NEVlVS10Q0FqeEJ3TGlE?oc=5",
-      "summary": "被動、PCB、記憶體領軍！禾伸堂、尖點衝漲停 台股上漲512點 Yahoo股市 台股盤中勁揚逾800點 台積電漲50元 聯發科聯電攻漲停 Yahoo新聞 台股拼47K添柴火！日股漲逾1300點　韓股飆3.5% ETtoday財經雲 重返4萬7！晶圓雙雄喊衝 指數漲逾650點 自由財經 早盤最熱族群》台積電領軍台股衝破47000點！聯發科ASIC大單將至，最新目標價曝光 Yahoo新聞",
-      "published": "Mon, 07 Sep 2026 01:27:57 GMT",
-      "display_time": "09/07 01:27"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普特使首訪基輔！澤倫斯基：比愛國者飛彈還罩 美烏密談拋新構想 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yejEtMUc0dFZOcFdvbnlxRHByNWEwdUpmcy1TT2JQZmJvYmNFUDZ3X2RfQm80LUoxb1VBelJHNkRWNF8wZnpZTWR2NUptM1V10gFWQVVfeXFMUGcwWnlHbUJRb1ptQWhaemowQS1Na21wV0N6d2x5d0g2TlZZZE03dXN5dGJoNVNuQ2FVN1FzZExfeHpuUVg0dV9XSUlzcjdlWkxqS3l3b2c?oc=5",
-      "summary": "川普特使首訪基輔！澤倫斯基：比愛國者飛彈還罩 美烏密談拋新構想 UDN 與美特使會談澤倫斯基：目前看來冬天仍得繼續戰爭| 國際 中央社 CNA 美特使訪莫斯科與基輔 烏高層透露：終戰新案更具可行性 Yahoo新聞 普丁見川普女婿討論俄烏終戰- 國際 旺得富理財網 先見普丁再赴基輔！川普特使斡旋俄烏仍無突破 澤倫斯基：恐打到冬季 上報Up Media",
-      "published": "Mon, 07 Sep 2026 00:20:52 GMT",
-      "display_time": "09/07 00:20"
-    },
-    {
-      "source": "Google News Global",
-      "title": "ETF淘汰賽！　高股息受益人數大遷徙 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzb2ZCbFMwdmFXbzNJYkZpTXlTalhHN3dPcndKSS1QdHItU21LdHhZRVpKVVVsd1RaQS1FNjJ4eTFBX0E1cVZaNS1lZWdvNmlBZUHSAVBBVV95cUxQY3VZLV9VMkVkSDUtRzFaYVIwS0tqMDVlV0gxcWMtbVFKSEp1V0pEVVUyaUpQc2lYbEJXYmV1eGxZNmJBQ1lDRnhkR0NJWVR5VA?oc=5",
-      "summary": "ETF淘汰賽！　高股息受益人數大遷徙 ETtoday財經雲 比00919猛！9月逾20檔台股ETF要除息 3檔年息衝破20% Yahoo股市 00919連9天收盤創高 躍升第4檔6千億台股 ETF、9月15日最後買進日 經濟日報 又會漲又會配！00929今年漲逾71%、年化配息率近16% 股民狂讚「ETF績優生」 | 文子奇 | 地方新聞 Storm.mg 存股族瘋搶進！ 挑戰6千億達陣 00919股價連9天創新高 Yahoo新聞",
-      "published": "Mon, 07 Sep 2026 00:04:00 GMT",
-      "display_time": "09/07 00:04"
-    },
-    {
-      "source": "Google News Global",
-      "title": "【盤前】非農太強不怕！費半逆勢漲台指夜盤飆473點 台股多頭拼再攻 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQTDFoQ255Sl9FVXh4VzZuUVU5YWpucDdHbmVyZEhYR3JxTWE4VFdPY2l5ZTMtUkFBZ0V1cmt3SFB6QWZwdFJvcXJITEtlR1drS3FKazRrWlZEeWtUcGtyemJ4bGZTc3d5U05DVjZsV1l3Q0RGYzk2MzNSXzNNTFpCMnIyNlV0ZTRLLUV4b19CMzVVcWxxbTY3Z2lrSnF1UjJqNEZ3RldVbllFVHIzTVdyazFYRWcyVTZmdTlHNWNXZjVaZ29xdVFQT3k4SXYtZGR4cjliRkFNYW91ZXo2Z0p5ZGVyVHpPcEhLNnlyNmFSdlVOZ09ka3hxd1RuWnJiaUxOQjJ1Z2RPT29KUWNZQXk4ZDBlWlFKa1AtS2RHTkRCaENTQWprdFRhZFV4MnE2dHozRzlKQU80Ry10RHladU96em5wS0xiZHlGSlN1OWRtUUxqcE5SZXlDWGhFeDIzN05fX1NBV0NoTnNsaHQ2MHlvblNFN0tjeFRIeldud1JsN3VkT2F5X3JwQ3EzdnpIUnRhTXI0?oc=5",
-      "summary": "【盤前】非農太強不怕！費半逆勢漲台指夜盤飆473點 台股多頭拼再攻 Yahoo新聞 〈台股盤前要聞〉台指期夜盤突破4萬7、金融指數率先創新高、台灣50指數藥華藥進榜 news.cnyes.com 台股利多三箭齊發 本周指數可望上探47K大關 UDN 台指期夜盤站上四萬七 法人看AI題材續撐科技股動能 自由時報 台股週一穩了？台指期夜盤衝上4萬7　阮慕驊：選股比選市重要 ETtoday財經雲",
-      "published": "Sun, 06 Sep 2026 22:15:00 GMT",
-      "display_time": "09/06 22:15"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "〈財經週報-投資趨勢〉AI投資進入變現期：台股中小型股憑「規格升級」突圍 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPUEVXY3hDRUpVYnZiMi1CUUliODlqcWprYW04d1pYMnAzMVEwSGtoWV92aENFcS1JZ0pZenVUZlZmTFFwTVhqSUN0QXBSaWhlNk9keV9B0gFbQVVfeXFMTl9qMnZhel9BMUhfWkhRZmMxMXpOUjEtTTdmWkQzWTRMaFZ6RW13NzlDV0JDeEZBSE0zc0Nyanc1dXQ2M3ZRRGlrMkJkZmhLLWdUTjRzenFoQjhiVQ?oc=5",
-      "summary": "〈財經週報-投資趨勢〉AI投資進入變現期：台股中小型股憑「規格升級」突圍 自由財經",
-      "published": "Sun, 06 Sep 2026 21:30:00 GMT",
-      "display_time": "09/06 21:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗攻擊美艦失敗 反遭美炸3油輪 - news.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fYWo3dkNZZmxmNEYzdU15aHVHNUV4ano0TnQzSE01R1h3ajAxbl82MC1GUmFZTjg2dkZxSVlMblhrMlZGMFdjZF9aUGZVNW94cW1FQWRSRHRYOVIt0gFiQVVfeXFMTTl2VmM1NldXbjBZSUlISUdjcE5QM016R190Wm1ER2NkdS1QcHRwLVNZdTdJN3VBVElVYXBjSmpTcGRRZnZ1bU5ldEtrLS0wTXpoUUVjSmU3U0dEdC1iRmJfN2c?oc=5",
-      "summary": "伊朗攻擊美艦失敗 反遭美炸3油輪 news.ltn.com.tw 美軍強化伊朗海域封鎖 92艘商船遭改道 Yahoo股市 川普「贏學」你信？說美控制荷莫茲海峽 油價卻衝破97美元 Yahoo新聞 美伊互襲油輪 荷莫茲海峽通行量創5月以來新低 rti.org.tw 《油價》供應擔憂影響 NYMEX原油上漲0.2% moneydj.com",
-      "published": "Sun, 06 Sep 2026 21:30:00 GMT",
-      "display_time": "09/06 21:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "南韓擬派兵荷莫茲海峽！伊朗撂話警告 韓外交部回應了 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83R21yMFhKQ0R5VEw4SGZPcFptRk8tY1hDUENhaVRQb0ZjaktDd2JobncwSHU5QXM1OThQX09ibk1aQllzNmRTTmFuM3BGUHNn0gFWQVVfeXFMUGxqWmtEdDBrQXRkajJCcHBNMXBmSFYzYVJGWkhZX3pzSDEzYS1XOWI2UFRwRUw5blduckxXUFA2Vm5mYTNSdDlLbmNqYjRQWGxrdFF2TWc?oc=5",
-      "summary": "南韓擬派兵荷莫茲海峽！伊朗撂話警告 韓外交部回應了 UDN 傳南韓將派兵荷姆茲海峽護航 伊朗撂狠話「後果嚴重」下一個換日本？ 工商時報 南韓可能派P-8反潛機赴荷姆茲海峽！川普持續施壓 伊朗撂下這句狠話 自由軍武頻道 韓國已經開始想要不要派掃雷部隊，台灣還在用補貼壓油價：能源安全下一步該做什麼？ Yahoo新聞 美逼南韓派兵荷姆茲！伊朗警告：派兵一律視為參戰攻擊 TVBS新聞網",
-      "published": "Mon, 07 Sep 2026 02:51:03 GMT",
-      "display_time": "09/07 02:51"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "9月新基金募集熱！3檔ETF接力登場 主動式台股再添新兵 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR1NoWXpXdHFIcW14U0s2UzVTZUY3QVhxMlpzcWVBQTdteE5ncDk0Uzh2c0prV2RPRFpfcXB3UDFSZko2U3p4TG9LTDZVUlJFdTNtZGtESFItc09KaFh4Qjk4d0E1ZU44bTNnS0hsMjM0RjV1N0lEV2QwM1g0RFptVkdR?oc=5",
-      "summary": "9月新基金募集熱！3檔ETF接力登場 主動式台股再添新兵 壹蘋新聞網",
-      "published": "Mon, 07 Sep 2026 02:40:00 GMT",
-      "display_time": "09/07 02:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "8月營收不如預期大立光陷7千元保衛戰！法人：「CPO」才是下一張王牌- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZTDdsaHNqSmpUcGRaS3NUSVJaak1lTVpOUTZxM1doeGJ6TWFkXy1ORU5VN3V2dkRvTWFVclNQTWl5d0JHRll3QVhjbElzOWt0QVRWb1Z6MkdrRzVMenpj?oc=5",
-      "summary": "8月營收不如預期大立光陷7千元保衛戰！法人：「CPO」才是下一張王牌- 證券 工商時報 大立光慘跌停！專家揭CPO美夢破滅罩門 網驚：漲多鬼故事 Yahoo股市 台股不妙...大立光不值這個錢？外資開出「價評雙砍」第1槍最新目標價、評等1次看- 上市櫃 旺得富理財網 AI貢獻光學收入！大立光再砸6億買台中廠房 6月以來狂獵地透露什麼訊息？ 工商時報 信驊、鴻勁、致茂…高價股爆發領台股衝破47000！大立光為何跌停？台達電也傳雜音，現在能買嗎？ 今周刊",
-      "published": "Mon, 07 Sep 2026 01:42:00 GMT",
-      "display_time": "09/07 01:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "鴻海驚傳「股票1拆20」！詐團假冒分析師斂財 手法曝光 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQOFNpSk5QaWpxaXVHSnhEX0wtUzFlRjRnQVhQNHhhdjhld0ZIVGcwdnE0TDU4WHVxQlNweUF3ZV84T1NLNllEdGhEVkthZHpTVGZqR1V2dlI4Xy1GbXBsZXM3Ymc0ZVg4dVM1RTVETmRBVGhLUExfWE9oTFdoQVZibGRUaVhnaGd6M3I1SmhOMEtQcm9UbUNsVGdaNXpoMlhBWjRQM1JYT1c0WEVpbVZDY28zNW5CLWhWN0FPQVhYbHM4YWZoNUJuYktRVUJ2SWExYVdaRFliUXlpM1FXQndTc0lPRzFURmstMzhfUXB3VVRBZEhOY0p5Q3RSYThocmMzV1hJR0pxTWdSSjhRMnk5T1hFS3p3aVRQcmQ1RWl5MWduN2ZLWTZHdmd1VmFNZ1Zmbk02c21DTFNEUlZMNUZKVjRkeWd1d3RlUm1pT25tWnJ5Nm8?oc=5",
-      "summary": "鴻海驚傳「股票1拆20」！詐團假冒分析師斂財 手法曝光 Yahoo股市 鴻海營收太強被詐團盯上 網傳「1拆20」假訊息勿上當 自由財經 主力越賣越噴？鴻海8月營收炸裂「9,218億」！外資集體調高目標價：準備見證單月兆元神蹟- 上市櫃 旺得富理財網 高盛預估 ODM 產業將出現分歧 看好鴻海、緯創、緯穎成長力道 經濟日報 AI題材快漲完了？鴻海股價波段重挫27% 專家曝市場3觀察重點：只看營收成長已不夠| 張庭維 | 新聞 Storm.mg",
-      "published": "Sun, 06 Sep 2026 14:35:00 GMT",
-      "display_time": "09/06 14:35"
-    },
-    {
-      "source": "Google News Global",
-      "title": "你打2艘我炸你3艘 美軍轟伊朗3油輪畫面曝 - tw.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQOFAxTjB3QzFkNHM0UVB3akJ4UGlCeldnNFNSblA0RlJVbnp6b1VLZVFOdi1NcVNuOEFoTXRtYjBoMVRHUTg5d1dsVHVSUlJPWmRpY1hheF9hRk9zVDZKTktjNC1TM2NlNmZMU19TVjVmYXFZOWYwWnBZbnRLR2RwWkY0SFg4bEZ6RW5NbGdWSUduMFpuR3YtNUtncUt2T05vUGdsM1cxNmgyWkFTZElLb1R0LUJLenl4UFpmUWtPLXNsOWI1RjVjdFV3VTRkRHdibXktMWoxeGFKUC1uS3Z1WUVMS0g2ZFlfUEtjQnVYODB1X3RpTkpGTmJFdGE4NjNCUVFWSGVDaGhybFd5YU5vcS0xT2poaFZOZ0t0VmJqbFYtX05z?oc=5",
-      "summary": "你打2艘我炸你3艘 美軍轟伊朗3油輪畫面曝 tw.news.yahoo.com 美軍炸油輪後遭報復！「伊朗革命衛隊」狂襲6船 美軍油輪沉沒畫面曝光 tw.news.yahoo.com 美伊互攻擊油輪進一步衝擊全球能源供應- 國際 工商時報 美伊再爆交火油價狂飆 法人看台塑化受惠目標價100元 自由財經 影／伊朗油輪翻覆沉沒畫面曝！美軍狠酸：與海底伊朗海軍作伴 money.udn.com",
-      "published": "Sun, 06 Sep 2026 13:12:00 GMT",
-      "display_time": "09/06 13:12"
-    },
-    {
-      "source": "Google News Global",
-      "title": "開火了！當局要求3分鐘內撤離 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVX3FxWmFqbllzb3p2QVJ0RXpRZjVfYTFOTjlHTHJTbklySHNpSUp4Xy1ySEVpbW5lajNaZy1tU1I0U1NlakEyYTMxOXc3dVl6dk1J?oc=5",
-      "summary": "開火了！當局要求3分鐘內撤離 東森新聞 油價飆升加劇通膨擔憂 西亞局勢牽動全球股市走向 Yahoo股市 本周開盤前 五件國際事不可不知 經濟日報 美伊互襲油輪 荷莫茲海峽通行量創5月以來新低 rti.org.tw 《油價》供應擔憂影響 NYMEX原油上漲0.2% MoneyDJ",
-      "published": "Sun, 06 Sep 2026 13:12:00 GMT",
-      "display_time": "09/06 13:12"
-    },
-    {
-      "source": "Google News Global",
-      "title": "《經濟學人》解析輝達「AI銀行」：1兆美元金融布局為何不會重演網路泡沫？ - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKNTRVS3VUdmZQOU1UY3ZaVTZkT2U4NnRfeWxhaHFhT1ZwNnRpdVRXd0FnVHE0Mk0wQlItMlFyc0t3YUxsWGFoWE9BTHdhOU0?oc=5",
-      "summary": "《經濟學人》解析輝達「AI銀行」：1兆美元金融布局為何不會重演網路泡沫？ news.cnyes.com 黃仁勳不忍了！1個字終結AI泡沫論 輝達最大底氣曝光 Yahoo股市 輝達股價不到1年翻倍？外媒算出「10.65兆美元」市值　靠這3大關鍵 finance.ettoday.net 股東抱緊了？分析師超狂喊輝達股價1年翻倍 市值衝破10兆美元 stock.ltn.com.tw 輝達爆發力被低估？摩根大通驚爆：2028營收拚「增70%」 中天新聞網",
-      "published": "Sun, 06 Sep 2026 10:40:03 GMT",
-      "display_time": "09/06 10:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "非農數據牽動利率走向！美股費半逆勢狂飆 專家揭台股選股關鍵 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxONkdMYS1PWFROdTM5cjl6SVZjaUl6cjdRYzEtLXVYVDRUWFR2dUVyTXpCaXRpY1ZoWno2NWRUVTJzOTF6aHQ0YUttN1UyVTVHejRZRl9oNVNPNTdEMGU4RVFHd0dod3I1bGNNU3V6emZpRHBJSzVmYmFRa0lrNmdSbDdaeXlheFFodEdsUDd1WndudXdqdUx2ek45RHpDanpadjIyc1o2bnBpZkwzMWxLcmpUMTB4ZUpja21QY1ZORjNGS3JacUUwTWV4ejBrSGdmX3c4V0RaMXBqNFlMY1NIOHlGM2pJQTNQRXk5MHRNYjVOcUNhSF9YSTlSaFo3eGoyRXJMRmp6cWpGRnVYUVNnY2tjM095eDRJLU94a0lmd21rcTNZMXZmUjA2c0dKSjdCWFRnUmEzWmdUWVlWQ1o3Q3plTDd0WEhEdFFDNUJCMXhlQU9zaWs4RkZkN3F5aTVCQy1qWnVqYWNINm13eFdpVzJFaUJlZlNZVWptOGthMWlIbk03ajhmeDdicnVoT2NaWGl4RFJxd3Q0QQ?oc=5",
-      "summary": "非農數據牽動利率走向！美股費半逆勢狂飆 專家揭台股選股關鍵 Yahoo新聞 台股週一怎麼走？台指期夜盤衝上4萬7 財經專家「揭秘」最新風向 Yahoo股市 台股週線雖紅 明開盤前3風險 Yahoo新聞 台指期夜盤站上四萬七 法人看AI題材續撐科技股動能 stock.ltn.com.tw 費半強漲！台積ADR上周五彈升2.9% 本周通膨數據牽動美股後市| 全球財經| 全球 UDN",
-      "published": "Sun, 06 Sep 2026 09:42:00 GMT",
-      "display_time": "09/06 09:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "AI題材快漲完了？鴻海股價波段重挫27% 專家曝市場3觀察重點：只看營收成長已不夠| 張庭維 | 新聞 - Storm.mg",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQN01PZmhrd1hkYWJkNGxvUVNKN05zNlVvWUZiTE4xZk14Zjgxczl4aVlHTzhNZGxsa1c3b1ZQeUIySm1maHU3NU5LZmlmUQ?oc=5",
-      "summary": "AI題材快漲完了？鴻海股價波段重挫27% 專家曝市場3觀察重點：只看營收成長已不夠| 張庭維 | 新聞 Storm.mg 鴻海營收創最強8月達9,217億 前八月同步攻頂 本季看旺 經濟日報 鴻海8月營收9271億創歷史次高 9月營收挑戰「破兆」有望？ Yahoo新聞 鴻海營收太強被詐團盯上 網傳「1拆20」假訊息勿上當 自由財經 主力越賣越噴？鴻海8月營收炸裂「9,218億」！外資集體調高目標價：準備見證單月兆元神蹟- 上市櫃 旺得富理財網",
-      "published": "Sun, 06 Sep 2026 03:37:47 GMT",
-      "display_time": "09/06 03:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "普亭會晤川普特使3小時！討論結束烏克蘭戰爭 會談結果曝光 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aNGVCNVEtRDJiRV9QMGJiVVZuX3hoX0VzVEVyQU1wYzZlNzF3aUluaE5iN0FlMVhyMkZQZDZfSk02NnN5T1E1LThzOVRCSlh00gFWQVVfeXFMUGl4ZG9yQ3JjTV9zZ0hULWJyQzJuQTQxczhCRE9tTXF6dWRiTGpKZ3g2NjZnSzBjc2szX3dXT0M0cnJUV2JjRzloZ1Y2OGF5a1ZwSjhCV3c?oc=5",
-      "summary": "普亭會晤川普特使3小時！討論結束烏克蘭戰爭 會談結果曝光 UDN 川普特使、女婿抵達基輔 將與澤倫斯基見面 Yahoo股市 俄美密談 普亭會川普特使3小時談終戰 UDN 尋求烏克蘭衝突解方！美俄談判特使今抵莫斯科明轉赴基輔會晤澤倫斯基- 國際 工商時報 庫許納與普欽會談3小時！啟程去烏克蘭 基輔機場卻被轟炸 TVBS新聞網",
-      "published": "Sun, 06 Sep 2026 00:56:20 GMT",
-      "display_time": "09/06 00:56"
-    },
-    {
-      "source": "Google News Global",
-      "title": "AI擴產潮燒進工具機！上銀、大銀等6廠搶單這家過半營收都靠半導體- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xcGppSUttc0VnS212d0g0bGFxbzVnVlBnSlliVC1NVVJWMlQyU3BrS0N1VWI5Q3RDbGlHeTZULUdYSVlpa2p3YjhMb3ZMNGc2VGp3aGR1X2gxT1kxMzVn?oc=5",
-      "summary": "AI擴產潮燒進工具機！上銀、大銀等6廠搶單這家過半營收都靠半導體- 日報 工商時報 殺入半導體供應鏈！「9家」工具機台廠帶隊 狂吞1,659億大餅 三立新聞 半導體鏈拚全自主 機械公會︰培育國產設備不外求 自由時報 1圖淘金》不只台積電、聯發科！SEMICON Taiwan鑽石股完整看 川湖、健策、台燿、聯亞、精測...專家篩出「這8檔」閉眼買 旺得富理財網 AI 光通訊加持 工具機翻身…練兵數十年 money.udn.com",
-      "published": "Sat, 05 Sep 2026 19:00:00 GMT",
-      "display_time": "09/05 19:00"
+      "title": "台股大漲775點衝破4萬7！陳重銘揭主動ETF新選擇：0050新對手來了 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxQaTM3TEFwSmEzZEpGQktTWUV4R1NLS3RqN0dfNHBudlpmcXZleENwSktFbXVWejRyWkRjQnd3YmNFLXdQS0lDRGFaSWRuYlBfLUdabW9Qb3pNNGNJZ3hGLVNrczZFZHJSNFVMb3BXZXdRMzZrT05VRmN0T05mSHV4eWlnN2RYbDVNbUJENEZoVUczZktOd0lKVWJMVzZlVUVBLXN5WTR5akR4Q0RGOGxSYUlIUVR5RHpCdDNQRjBxWjI1N2xvUnlZbHV4dk5kWDBvTUZKbGdVa2R0c3RuWmwycHZsWmplUDU3SmpqUVhoaTRobVV1Zmd3eDZ4V2tHazRFZlg4U2FjSktlb3JBV3duNUxDbFA4bno1eUpFVDRJSjRBelAxYUg4clRsVW1sTGJOenZnOFNZeDN3WDUxM3dIMU9hSFpacDltWEFOemZuY2Y4US1pVkVVRXhRT2tpWVdxSU9ELU8xaTIwRmFiUnc?oc=5",
+      "summary": "台股大漲775點衝破4萬7！陳重銘揭主動ETF新選擇：0050新對手來了 Yahoo新聞 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Mon, 07 Sep 2026 09:21:00 GMT",
+      "display_time": "09/07 09:21"
     }
   ]
 }
