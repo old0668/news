@@ -2,6 +2,14 @@
   "date": "2026-09-08",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "published": "Tue, 08 Sep 2026 00:48:43 GMT",
+      "display_time": "09/08 00:48"
+    },
+    {
       "source": "Google News Finance",
       "title": "比台積電更會噴！「這1金融股」狂漲1.2倍 專家列3暴漲關鍵：真的不一樣了 - finance.ftvnews.com.tw",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1adVFrWGU1ZUlUODdneTk1Qk80Z1ljc2REUUthNkpZQ3ZXQ0haS2ZOMHFIT1RkMlVJZDR4TlAxd3A5eldSem5kREJIanJ0b3lFZGxOLTNkaHluVlVSSkRYUF80c210Zw?oc=5",
@@ -16,6 +24,38 @@
       "summary": "AI封測需求太猛！「這檔」8月營收大增233% 京元電、力成、矽格、漢測全創高 Yahoo股市 矽格營收／8月20.7億元 月增近3%、年增近29% UDN 穎崴擴產效益逐步顯 8月營收17億元飆新高 news.cnyes.com 打破 AI 泡沫傳言，穎崴：真正難關在產能供不應求 TechNews 科技新報 AI催動高階測試需求 穎崴8月營收連續3個月創新高 自由財經",
       "published": "Mon, 07 Sep 2026 14:15:00 GMT",
       "display_time": "09/07 14:15"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普批龐巴迪「產品不夠好」揚言不赴美生產就禁止在美銷售 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uVmxKS2xwUE1ieWVCdlhXU014UlFGYmNpdEVNWlFIWGhWQnNQRl9oUVJoMVB4dXN5blZQMW5iZEs4UWNkZW9wLVRqbWtia2s?oc=5",
+      "summary": "川普批龐巴迪「產品不夠好」揚言不赴美生產就禁止在美銷售 news.cnyes.com 不甩川普警告！加拿大今對美實施最高50%報復關稅 UDN 「起來吧，州長！」川普美加關稅戰前夕社群開砲曬冰球漫畫大酸卡尼| 國際 Newtalk新聞 加幣成川普新目標 怒批美加匯率失衡「不可接受」 news.cnyes.com 美國加拿大貿易戰再升溫川普揚言封殺飛機製造商龐巴迪| 國際 中央社 CNA",
+      "published": "Mon, 07 Sep 2026 22:11:41 GMT",
+      "display_time": "09/07 22:11"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈能源盤後〉美伊衝突擴大 荷姆茲海峽通行量創5月來新低 油價衝上六週高點 Brent逼近98美元 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qeF9aZE85WTRKUUdqbzhwRW10UklEczFnQUxzZ0RkY1Vtb1I3V3BQU3lmcnN1SjZoVUZJc3pZVWdvWHlXVjFYbncxY0NqTDQ?oc=5",
+      "summary": "〈能源盤後〉美伊衝突擴大 荷姆茲海峽通行量創5月來新低 油價衝上六週高點 Brent逼近98美元 news.cnyes.com MoneyDJ新聞 2026-09-08 06:15:26 黃文章 發佈 MoneyDJ 「軍傳媒」從模糊嚇阻看美國對伊朗的荷姆茲策略 Yahoo新聞 美伊互襲油輪 荷莫茲海峽通行量創5月以來新低 rti.org.tw 期貨商論壇／原油期 伺機布局 UDN",
+      "published": "Mon, 07 Sep 2026 21:31:45 GMT",
+      "display_time": "09/07 21:31"
+    },
+    {
+      "source": "Google News Global",
+      "title": "獨家》中一張賺上百萬！興櫃股王漢測現增太香壽險公司忍不住出手了- 金融 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45M3NzczIxa2g4cFREQ0k5cklHM193ZWMtS3FOd2FUVEpkcVNucWthaEtRbTI0aDRMRlBzWElrSHJwR0R4RS13aTBRQXI4aVdva3BrSWd4Q1J4NGt0TVNn?oc=5",
+      "summary": "獨家》中一張賺上百萬！興櫃股王漢測現增太香壽險公司忍不住出手了- 金融 工商時報 上半年EPS狂賺21.5元！這大廠抽中一張爽賺245萬 獲利暴增近4倍 Yahoo新聞 漢測9月22日上櫃！毛利率衝54.88%、AI測試需求爆發，從工程服務走向高毛利解決方案 鉅亨網 漢測做什麼，搭上矽光子熱潮？12檔光通訊千金股名單公開 遠見雜誌 興櫃股王漢測8月營收衝破5億元大關 再創新高 stock.ltn.com.tw",
+      "published": "Mon, 07 Sep 2026 11:19:00 GMT",
+      "display_time": "09/07 11:19"
+    },
+    {
+      "source": "Google News Global",
+      "title": "AI封測火力全開力成、京元電、矽格8月營收年月雙增「這家」面板級封裝產能已被包下- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lMjdkT284d0NHb0otR0RzUjgwc3JBUi01aDNWUmtOZWRod2lOSFhYWHFfZE1CekF2bWFNTEtJSWlNTVJxMkt1TlZ4QjJ5SlQyMkxjcEptVk85WV9vaWZV?oc=5",
+      "summary": "AI封測火力全開力成、京元電、矽格8月營收年月雙增「這家」面板級封裝產能已被包下- 日報 工商時報 AI封測需求太猛！「這檔」8月營收大增233% 京元電、力成、矽格、漢測全創高 Yahoo股市 穎崴擴產效益逐步顯 8月營收17億元飆新高 news.cnyes.com 矽格營收／8月20.7億元 月增近3%、年增近29% UDN 打破 AI 泡沫傳言，穎崴：真正難關在產能供不應求 TechNews 科技新報",
+      "published": "Mon, 07 Sep 2026 19:00:00 GMT",
+      "display_time": "09/07 19:00"
     },
     {
       "source": "Google News Global",
@@ -43,14 +83,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "獨家》中一張賺上百萬！興櫃股王漢測現增太香壽險公司忍不住出手了- 金融 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45M3NzczIxa2g4cFREQ0k5cklHM193ZWMtS3FOd2FUVEpkcVNucWthaEtRbTI0aDRMRlBzWElrSHJwR0R4RS13aTBRQXI4aVdva3BrSWd4Q1J4NGt0TVNn?oc=5",
-      "summary": "獨家》中一張賺上百萬！興櫃股王漢測現增太香壽險公司忍不住出手了- 金融 工商時報 上半年EPS狂賺21.5元！這大廠抽中一張爽賺245萬 獲利暴增近4倍 Yahoo新聞 漢測9月22日上櫃！毛利率衝54.88%、AI測試需求爆發，從工程服務走向高毛利解決方案 鉅亨網 漢測做什麼，搭上矽光子熱潮？12檔光通訊千金股名單公開 遠見雜誌 興櫃股王漢測8月營收衝破5億元大關 再創新高 stock.ltn.com.tw",
-      "published": "Mon, 07 Sep 2026 11:19:00 GMT",
-      "display_time": "09/07 11:19"
-    },
-    {
-      "source": "Google News Global",
       "title": "8度不副署 卓榮泰自比《少林足球》守門員：球一直往我打 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORW45Rzh5S2F6Wkd3MXZYT3I4VU1GWE5EeXZ2d2VBUm8tSk13c0xYR25NeVF1S3Iyd3gyQjlDNGY1Zm1acjJJQkg1ZklXSlBHcHR5NVgtWFJPbzhyb251NU9heE1IVV9kZkU3UTItVGh2VGRYOEtweWsybWxHSFRiT3VDNkk0RzRjWnV6X2NiNzR6UHg1RzlMN2toR091cGM0RFB6ZHdpT2NCeElNaVpUX3NkZi1fYW41cFlzeFg3TklmZWZzM0dwZGVKb29PYnA3RHN5eXJTb0dWdjdublJVeThvaGNfZ2VBTnBJSkFJUkU4T2h5YVBwMy1HdnFoN1JYeUFoWFNnMFdzb2pRQUxYMFJBcXNPZVdGQXpzOTE5RS0yb1lqNWc?oc=5",
       "summary": "8度不副署 卓榮泰自比《少林足球》守門員：球一直往我打 Yahoo新聞 被動不副署…卓揆自稱法案守門員 藍白痛批集權太上皇 UDN 不副署黨政軍干涉媒體修法 卓：得罪很多人 不斷被攻擊 Yahoo新聞 挨轟川普都羨慕 卓榮泰：我是少林足球守門員、排排球一直往我打| 政治 Newtalk新聞 行政院長「不副署」究竟恰不恰當？ 上報Up Media",
@@ -64,6 +96,22 @@
       "summary": "快訊／亞運中華隊古林睿煬因傷退賽　黃仲翔緊急遞補待響尾蛇同意 ETtoday運動雲 亞運棒球》中華隊24人最終名單出爐 古林睿煬因傷退賽黃仲翔遞補待響尾蛇同意 tw.sports.yahoo.com 亞運》旅美韓兩大左腕領銜 成棒24人拍板 自由體育 亞運／古林睿煬受傷忍痛辭退 經紀公司：他真的非常想打比賽... 台視新聞網 中華隊折損主力投手！古林睿煬拉傷「確定退出亞運」 遞補人選曝光 | CTWANT LINE TODAY",
       "published": "Mon, 07 Sep 2026 06:15:00 GMT",
       "display_time": "09/07 06:15"
+    },
+    {
+      "source": "Google News Global",
+      "title": "荷姆茲海峽恐開戰！美伊爭奪「石油咽喉」 介文汲揭川普打也打不贏、走也走不掉 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxQZ1k4dGh2Q2ZjTVRXYXpKNmh0TklrSkplNUFfUzdJcVlZZFliWERLWlRLdndUcDVFdmZLYmVLZ21SN18xY0syQldnUmw4QnNaUzBJV2h6X0R3TENjWGNwck1tTFowUzBOTEZJeFZMM1ozaEZsS3l3bEdMcHJGdUdTXzhrZktfMnNtZnBzd1Ffc0p6MDRlNjMyeDVoZERDZXhiVUVTRjY4bDZWN1VVOXpiYUZ6akNWTThYRWpjcERlTk1oVzN4WGpGek9TQmNXa21KWXRNZDhlcGU0MXRVSG1FMDVLcmRWOV94OG1rVXhhbEFGYVpWRl9BS0diQTdmWkpMV2pZX3lSdVAtSHYtOVprSXYtQ2hQdEdrX3Rlc3RFdzBHS0YxRUhrWGUwV3daNnN5TndpSkc4YjNaQU5TQzdjMjlUOTdyTUJjQVdic2I1aTlNN3J2c0gxdjdjOUoxVVRtWXFVOUE4YUUwd3VDNmhVRjR6bVhEYTA0U2ZYUUtxbEpqS01pa3VCS2FsX3NRV3RKc0NOWm8zZXhqeW04aDJUZ1d3bUxjeXoyRjVHMU9HYWNfMkJVVnR1VS1fN0g4blBvRTF5WFVzMHlXcDZnRnJVaUdPLWZEVDFI?oc=5",
+      "summary": "荷姆茲海峽恐開戰！美伊爭奪「石油咽喉」 介文汲揭川普打也打不贏、走也走不掉 Yahoo新聞 伊朗宣布將於荷姆茲海峽外設「限制海域」！船舶闖入恐列制裁名單 Yahoo股市 美F-35A支援海上封鎖 伊擬設新「禁區」 中時新聞網 美軍報復性擊沉伊朗船隻！伊朗擬設海峽限制區制裁船隻 嗆：給予「更痛苦反擊」 Newtalk新聞 伊朗警告：美企在波斯灣石油、天然氣設施　都可能成為目標 ETtoday新聞雲",
+      "published": "Mon, 07 Sep 2026 12:06:11 GMT",
+      "display_time": "09/07 12:06"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美國特使在俄烏間穿梭外交：雙方分歧未解 澤連斯基預計戰事將持續到冬季 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxOUy1tdV9HOTk0Z0lrUmFqMkVtUVMxVVdoQU5mYzM3dC1qZUF6NlVUWHhXaTE5M3JhdVAta2hNcTN3NHl0QjM4YmI1c0syUjkyQTMxeTE0czVwLURtQTljZ3NRWm5Mbk01bjZJeGRfb1B6WnBERXJHQWlOaU11RzZsSHdzTDlfN2pyTEV6S2hjQXROWG5YaWNqRXZXLThVb1BkYlZqb3k2Y2gtdEp3dGpDelpSUVBzMWlZXzM1bGEzN0FtSjNnUGxTUW1qTkdxMmx5cDdNLWh3VXFtR0VSY1Rza0dacXRCSVJiV3dXTk1Qb1M3c1hpNVdPMDVxWGFNaUl4N0RjU256S1VSdW1DMnVSTlNDLS00WEM4MmFoSGlUSjQwYkhPVzgyLU1BSVM2WFZHckE4TFNEbzVQRHdyVUMtR2RpaHRMdVZIN1MzMUZXUjdrOUxMSzQ2TTA5dUQ4MFl0MzItVk96TWVjVWltbndISVhESW1SS214UDNiNlp3QW5FMUk4TGthQUUxb2dpb2dUVjlPNnY4LUlLcDdOdHQyTThNSUd3TTNLb1JnV2Q0NURJb0s1Z01mUlJvamNXbTV1cDExZlpxcGhvb0w2UjAzdnJndzFCdw?oc=5",
+      "summary": "美國特使在俄烏間穿梭外交：雙方分歧未解 澤連斯基預計戰事將持續到冬季 Yahoo新聞 見完普亭首赴基輔川普兩特使續推俄烏斡旋| 今日紐時頭條 聯合報數位版 歐洲和平有望？美推動安排三方會談 特使魏科夫先後訪問俄烏 Yahoo新聞 20260907 8點新世界 完整版｜美國特使穿梭俄烏 居中斡旋兩國促成和平談判 公視新聞網PNN 烏國官員︰美帶來更具效益終戰提案 自由時報",
+      "published": "Mon, 07 Sep 2026 07:07:58 GMT",
+      "display_time": "09/07 07:07"
     }
   ]
 }
