@@ -3,14 +3,6 @@
   "news": [
     {
       "source": "BBC Business",
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
-      "published": "Tue, 15 Sep 2026 00:32:21 GMT",
-      "display_time": "09/15 00:32"
-    },
-    {
-      "source": "BBC Business",
       "title": "What is the triple lock and how much is the state pension worth?",
       "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
       "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases.",
@@ -19,35 +11,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "美股｜AI巨頭齊喊「踩煞車」 晶片股重挫 費半崩近6％ 台積電ADR跌3.5％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Qjg4N3F3SnRCVkNlNDhoR0JaUTQ2ckhEZVhDazlSTUJVY3I1aTFfMXB2djFLTHFMOTVFdXhGRlVES3FINVhmbnpDV1hZYWFLZFJBdHFtb01HS2d4X3dv?oc=5",
-      "summary": "美股｜AI巨頭齊喊「踩煞車」 晶片股重挫 費半崩近6％ 台積電ADR跌3.5％ 工商時報 〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% news.cnyes.com 美股重點新聞摘要2026年9月15日 Yahoo股市 AI踩煞車重擊晶片股 費半大跌5.9% 輝達跌3.4% UDN 《美股》AI擔憂拖累 費城半導體指數跌逾5% | MoneyDJ理財網 LINE TODAY",
-      "published": "Mon, 14 Sep 2026 22:56:00 GMT",
-      "display_time": "09/14 22:56"
-    },
-    {
-      "source": "Google News Global",
       "title": "蘇格蘭、北愛爾蘭及威爾斯獨派政黨聯合宣言追求民族自決| 國際 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95NlRxTTJNS2FHZ3k1SjdXQzYtM3RTMHdTMmFvTW5yU1dsUXpTS0VXRDlad2hEVGJibllvRmxKMjBxLUlVQ2hXMElpcEhpaGE0OUZlM19fRWdZM0V1a0Ew?oc=5",
       "summary": "蘇格蘭、北愛爾蘭及威爾斯獨派政黨聯合宣言追求民族自決| 國際 中央社 CNA 英國要被一分為四？蘇格蘭、威爾斯、北愛爾蘭齊向倫敦施壓謀求自決 cnyes.com 北愛、蘇格蘭和威爾斯領袖今將署聯合聲明 啟動英國解體 Yahoo新聞 蘇威北愛3政黨領袖歷史性會晤 共挺脫英、訴求「民主自決」 公視新聞網PNN 川普才挺愛爾蘭統一…蘇格蘭、威爾斯、北愛推公投脫英| 國際焦點| 全球 UDN",
       "published": "Tue, 15 Sep 2026 06:38:00 GMT",
       "display_time": "09/15 06:38"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黃仁勳台上受訪突接川普來電 雙方齊駁AI末日論[影] - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSkR1YWk2bDh5TnlQN0lKVUF4RTJ1Z1l0cmlRSTJpX1VhTVAyT0pKWW9QVGVSbERRYURuc0dhQ2h6X2cyVlJXbVFldDd4RzR1eExubW00RTF5WWZzQ3c?oc=5",
-      "summary": "黃仁勳台上受訪突接川普來電 雙方齊駁AI末日論[影] 中央社 CNA 在台上手機狂響！黃仁勳突接到「川普來電」 開擴音大聊這1事 Yahoo新聞 川普熱線黃仁勳 透過擴音在All-In峰會駁斥AI末世論、暗指中國搞鬼 UDN 川普突襲致電黃仁勳 聯手拆解「AI末日論」 news.cnyes.com 「AI威脅論」全是假的？川普稱AI不需要更多監管，斥責安全擔憂是「騙局」 | 國際中心 | 新聞 風傳媒",
-      "published": "Mon, 14 Sep 2026 22:15:00 GMT",
-      "display_time": "09/14 22:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "AI巨頭齊喊「減速」輝達美光領晶片股暴跌 資安ETF創史上最大漲幅 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQLXJNWTQ5QV9iXzZ1NlUwVThraHpLdE9Ob2o2TWJFbVV2bnJhUTdyTjRMbklsaGhjTzNzRTZ5b1F2b1NYX0tJelVVeDB4VlpSb2gtRmpXQWpmU0F5LWJ5dTRGakNiR1k3dFFkUGllNG85eEpPdzdfR0hFYXh4TWFyS0wzOHlUMTFJYm5BY0ZzQi1RbWdFa0VRbk5LTkJOQjhxT2hKWUc4eFZERm90Y2VtV1dDcFdJZkQzenp0eHg1WnBYUVlKR1NCUjdveXduZVFDcFJUSVpXSU9fM3cyYUh2czV6MjREaUVsZ3hTZWhaZWo0MkpMMWZNZXpLMUxXMU42cXJEd3FwZk5BVTVOUHM5aXd5aXU0Rm1iQVFFcVRMb1dkbzZfb0FKbm1TcmRGVm5TZWZlcEN6ZzlnOEFlc0pQV3A0U3RSTl9QYkxmZ2VTaUZoamZSSklPTTI2ckxreE5vNUVDV1RNQWdQOXA1Y1FEalJ4ZW52STVRUVpNODV5M21wN1lrR29tSUpfbXVqS3AzOGc?oc=5",
-      "summary": "AI巨頭齊喊「減速」輝達美光領晶片股暴跌 資安ETF創史上最大漲幅 Yahoo股市 堅守千億營收目標！博通執行長回應Anthrooic安全警告：AI只是一種工具 算力需求無虞 news.cnyes.com Anthropic聯創：AI關閉機制須第三方驗證 Yahoo新聞 OpenAI揭露前沿AI安全新措施，川普反對AI發展速度減緩 iThome 聯合國人權高專警告AI風險 籲各國和企業緊急管控 rti.org.tw",
-      "published": "Mon, 14 Sep 2026 21:45:11 GMT",
-      "display_time": "09/14 21:45"
     },
     {
       "source": "Google News Finance",
@@ -64,14 +32,6 @@
       "summary": "台股4萬6大關得而復失！「瑤池金母」連日下滑噴9.4萬 00919紅翻黑炸15萬張 Yahoo股市 盤後／台股紅翻黑跌351點 戰犯是它 Yahoo新聞 台股震盪量縮跌351點資服股紅通通這檔LED爆量漲停- 證券 工商時報 台股大跌原因，外界推測油價高與AI放緩引疑慮！低點可以撿？ 遠見雜誌 〈台股盤後〉觀望氣氛濃！成交量創今年次低 下挫351點回測季線支撐 news.cnyes.com",
       "published": "Tue, 15 Sep 2026 04:51:34 GMT",
       "display_time": "09/15 04:51"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed升息呼聲高 川普怒施壓 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdGhjczRTTjRJd1pRWl9PNUxya2dFMkNSN1ZYdWIydGM3azlQN21UUlk2SW9xbWVOWWtMLXBCdjFTRGdwOHUtOFFVTHE0bllmY1g4ekpNYkU5NHpIdWQ2VVllVXFLRTNMMUVabTRTZ2Q5X2o0Mko0ZEpQMi1DVnRlM2psUXhodjFXZ05GZVlzdVFxN01YbFFzendqVDFHbVhVNmFhVVRONE5kZ1JFTm52QUdSc0FSWDBYa3hsaWZDWkg0aTg1OE1BQVBxZlp0MkJJ?oc=5",
-      "summary": "Fed升息呼聲高 川普怒施壓 Yahoo新聞 美股恐重演2018年拋售潮？Fed若升息 分析師估第一波就大跌10% UDN 川普狂喊降息也沒用！Fed 9月升息機率飆86％ 華爾街押注1碼 工商時報 川普要求美國利率全球最低 華許面臨政治與市場雙重壓力 自由財經 不升恐傷Fed公信力、升息又恐惹怒川普 華許如何突圍？ news.cnyes.com",
-      "published": "Mon, 14 Sep 2026 20:10:00 GMT",
-      "display_time": "09/14 20:10"
     },
     {
       "source": "BBC Business",
@@ -91,11 +51,11 @@
     },
     {
       "source": "Google News Global",
-      "title": "國家隊抄底台股守季線- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqQlVFcjhHdS1DOTNPVC1ET3ZjTHlVMW01bzhqWG96OWRIUkFZUzJ2YVdncHRMNzFqazFpdkxYVFpMZ2RkdnREOGxVOFlnTVhmR0QzdFFHY2pOVldPb2JJ?oc=5",
-      "summary": "國家隊抄底台股守季線- 日報 工商時報 升息疑慮+AI發展降速壓力罩頂！台股量縮失守4萬6 光學雙雄遭降低吞跌停金融指數刷新高撐盤｜Yahoo財經掃描 Yahoo股市 9月15日盤前／債市、油價衝擊股市 靜待超級央行周結果 台股震盪整理 經濟日報 盤勢分析》震盪整理盤 低接不追高 自由財經 台股大跌原因，外界推測油價高與AI放緩引疑慮！低點可以撿？ 遠見雜誌",
-      "published": "Mon, 14 Sep 2026 19:00:00 GMT",
-      "display_time": "09/14 19:00"
+      "title": "暴雪宣布《暗黑破壞神5》職業選擇將成系列之最！狩魔獵人確定回歸 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNY3k3STE1a2QzS0FCNEszQ3l2SHBscHhld09WZlNCNXVNZTBJOFZyTjQ1V3JmWThtZ0J0YWRDdWYxdER6TFBmWVYtYXNaaW44c3haWVRlbG1tQU5xMHRIRElNeXJBOGJJSVA2M2YwWXpldW9odzdEQTVTNzg4cWkzcE1RYmdZR1RSVEpxWUI2XzI5Q25iMXpTcFNlREpkdU1JSkZGVFRFYUFwREhweEN4MXdvLXA1Qi1kMWkzSUZKWDRyNEJ6ZDRXb3h2cy16WmU4MEp0VHlsVVQyaGh5dUk5UUJnellMRnktdFlidndtV0RaMUhaVzV6RzlIdGlBTFV6czkxYy1vamVzV1N0ZmE1SkpHN0I2RjRQWkhUTlFBNmctYTc3UWwweUdkLXBYdm1KN3FEeDFRS1lTb3d1YV9DTmpKT3V4MFVGY1UxSldLY01IeE5YSUoyMHhFNUdWUk9zRkd5MUJtd2dZbVByM0VnMnRISGFSLUJZQzMtMzJvTENTMmhqVE5leEVIeVhqRFAyY3dxOUNpamZ6Q0dV?oc=5",
+      "summary": "暴雪宣布《暗黑破壞神5》職業選擇將成系列之最！狩魔獵人確定回歸 Yahoo新聞 【BZ 26】不死族聖騎士登場！《魔獸世界：永恆》揭開露營系統、無伺服器架構、種族技能變化等《World of Warcraft:Foever》 GNN 新聞網 《暗黑破壞神》30週年慶「地獄餘燼賽季」9/16上線！再戰迪亞布羅、巴爾、墨菲斯托等歷代首領 4Gamers 新IP再等等...暴雪將優先鞏固現有核心IP 總裁：仍有巨大未開發潛力 game.udn.com 【BlizzCon 2026】專訪《暗黑破壞神V》遊戲及劇情總監：迪亞布羅這次真的贏了，最黑暗的系列作品即將誕生 T客邦",
+      "published": "Tue, 15 Sep 2026 11:00:00 GMT",
+      "display_time": "09/15 11:00"
     },
     {
       "source": "BBC Business",
@@ -120,6 +80,110 @@
       "summary": "台股開低震盪 早盤翻紅一度站上46000點 台積電最多漲25元 Yahoo新聞 前往 Google 新聞瀏覽更多頭條新聞和觀點",
       "published": "Tue, 15 Sep 2026 01:46:39 GMT",
       "display_time": "09/15 01:46"
+    },
+    {
+      "source": "Google News Global",
+      "title": "漢測凍資8656億！台股收黑量縮今年次低台達電回神攜資安、矽晶圓當救援隊｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMipARBVV95cUxOV3NTVTQ3OUhqenlJNUphandHQ0pPVGNRdzhBcWNOVlgtVlJxUkhrWF9GXzhkN0E2MUJwaVEtOEFPN0xPRjl5ZEpVTUlmMmJ6ZlV0Nm9fc2FlSV9GNnM1cTRrNjRsc3VMSFVzQlE2c3NMd25hWDV0MGtETUhnbTNBWUNJb2RQMTA3OTI5NVZvNUVHSHpSdFE1QlNUQ2thbno4QnlRTHB4eW11SzlJY3dfaWRmTWZGR19oWnNURWZWaEUybEV6Z01aQ1N2emNoU2tEVG45NjdhZVNpWlJUcGtVZnNuQzFkQlA1TmMtdlNxOXVtMkdiblRET0c4WEZMcHBNcWp2aHNyZU8tYlRjT1NvUkw3UUJoYTAxcm94N1N4TnoxckZkRHExVkV4TjVPWkYzWi1vTml5aGZ3UjRXYWF2OTlCM1o0ME5lYXJLemVhMmxVWVJPTkhjYk9VcmZuZmZoa0IyZTFRTm14ajhpR05KSDJIaGFLZDBRcHZlVmtXS0NsdUc1ZkFUUTg1RmhsS0MxVmhRSGlHY1N5M3p0Z0N5aGJCUTFSdjREQzF3c2xMV296dUQwRm44RjVmd3dXcXp6ODJTMW50SENNV3JVUjFzamxaRlZ5MnNHR3lQc0NkMlNLWW8wbEswRWNHX3N2S0FmVVBqbTQwT05QYmZJbUVEbnAxSk9NWTkzcXV6RHF0a0o2TC1jWEhvQkktYVg0Tjl3Vlp4UQ?oc=5",
+      "summary": "漢測凍資8656億！台股收黑量縮今年次低台達電回神攜資安、矽晶圓當救援隊｜Yahoo財經掃描 Yahoo股市 台股開盤》台積電開盤漲25元！指數平盤震盪 自由財經 台股大跌原因，外界推測油價高與AI放緩引疑慮！低點可以撿？ 遠見雜誌 〈台股開盤〉日韓股市翻紅激勵拚回4萬6 台積電除息行情硬挺 news.cnyes.com 陳嘉偉喊台股「必定走崩盤」！鈍刀割肉像2007年 升息灰犀牛逼近 UDN",
+      "published": "Tue, 15 Sep 2026 09:16:14 GMT",
+      "display_time": "09/15 09:16"
+    },
+    {
+      "source": "BBC Business",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+      "published": "Tue, 15 Sep 2026 00:32:21 GMT",
+      "display_time": "09/15 00:32"
+    },
+    {
+      "source": "Google News Global",
+      "title": "聯發科發布天璣9600 Pro！台積電2奈米製程代工 「這時」台灣有望上市 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNNUE0aUhBbnE5U3lhUE1pNGE4R0dQNWRHZjBEeDZXaHNVWXFOamxSN1hRSG5XTVBwaUowQl94Tm9RUHdjUGtUOHFEeUtJQURyak1mdlh1bWZxQlZXWjlXZ2JlYUVaeE9rOFRyOE1iZHc0VzQtY05MbktYTUJ6c1BpVklMeWVLQW9BeFgzb2dnYkNMQzBQbGtPRGdUbU1JTWtzc3RRQnBRS3BVMmxqUC1NX2kxRS1tamZhbkRlemxSVm9vQWxOOC1fMGpfSlBBZXA4THRVMnRuVlpWbTdzQjdvb2lFSDhneDVwTEtzMWFRVkN6bnpFRk9xek1sSVEzU0FodDNiMmFYd2w4dElGWTBwSjBKZGtKNHJ5QWg5NVUxbmtFQnFOTjJXRVcxY2htdFdrMkd1TEpSWUJ3VEVMRTY2QWE0UGxneC1XUFdWUmw5XzZvU3d0S1lfLVBURXotNENudy11M1QtSGViQm5XYjFuUVFDdEFfV2hLWDRkNWVUekxXMTg?oc=5",
+      "summary": "聯發科發布天璣9600 Pro！台積電2奈米製程代工 「這時」台灣有望上市 Yahoo新聞 攜手台積電邁入2奈米世代 聯發科發表天璣9600 Pro強攻消費型Agentic AI市場 Yahoo股市 聯發科發布旗艦5G Agentic AI晶片天璣9600 Pro　首款採用台積電２奈米製程 ETtoday財經雲 聯發科天璣9600 Pro與9600M登場 力推代理式AI真正落地 DIGITIMES 聯發科首吃台積電2奈米 下一支旗艦手機又要漲了 民報",
+      "published": "Tue, 15 Sep 2026 08:19:00 GMT",
+      "display_time": "09/15 08:19"
+    },
+    {
+      "source": "Google News Global",
+      "title": "【錯誤】希拉蕊柯林頓上節目公開呼籲台灣放棄抵抗？去脈絡化！原始語境為揣摩習近平想法 - MyGoPen",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVEdTa2ROa3FRRGJockZ4TDZGcTRHY1FZTHZsV000Y19WbklCZnFHVF9uSmdLYkQzMWVndHdxbjM4YUR5MnpCVktwM3B1WXVMZXV1ejQ3RQ?oc=5",
+      "summary": "【錯誤】希拉蕊柯林頓上節目公開呼籲台灣放棄抵抗？去脈絡化！原始語境為揣摩習近平想法 MyGoPen 李忠謙專欄：希拉蕊真要台灣放棄抵抗？最新一波疑美認知戰背後，更值得關注的是「撤守第二島鏈論」 風傳媒 台灣如何守住和平？從俄烏戰爭發展，尋找台海危機解方 遠見雜誌 網傳希拉蕊籲台灣放棄抵抗？她擔憂伊朗戰爭傳遞錯誤訊號，讓習以為美軍無力馳援 Yahoo新聞 【夏一新專欄】從烏克蘭到葉門─美國還有餘力協防台灣嗎？ - 生活新聞 - PChome Online 新聞 PChome Online 新聞",
+      "published": "Tue, 15 Sep 2026 06:57:00 GMT",
+      "display_time": "09/15 06:57"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股｜AI巨頭齊喊「踩煞車」 晶片股重挫 費半崩近6％ 台積電ADR跌3.5％ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53Qjg4N3F3SnRCVkNlNDhoR0JaUTQ2ckhEZVhDazlSTUJVY3I1aTFfMXB2djFLTHFMOTVFdXhGRlVES3FINVhmbnpDV1hZYWFLZFJBdHFtb01HS2d4X3dv?oc=5",
+      "summary": "美股｜AI巨頭齊喊「踩煞車」 晶片股重挫 費半崩近6％ 台積電ADR跌3.5％ 工商時報 〈美股盤後〉AI巨頭齊喊「踩煞車」股債雙殺 費半慘崩近6% 台積電ADR跌3.5% news.cnyes.com 美股重點新聞摘要2026年9月15日 Yahoo股市 AI踩煞車重擊晶片股 費半大跌5.9% 輝達跌3.4% UDN 《美股》AI擔憂拖累 費城半導體指數跌逾5% | MoneyDJ理財網 LINE TODAY",
+      "published": "Mon, 14 Sep 2026 22:56:00 GMT",
+      "display_time": "09/14 22:56"
+    },
+    {
+      "source": "Google News Global",
+      "title": "黃仁勳台上受訪突接川普來電 雙方齊駁AI末日論[影] - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSkR1YWk2bDh5TnlQN0lKVUF4RTJ1Z1l0cmlRSTJpX1VhTVAyT0pKWW9QVGVSbERRYURuc0dhQ2h6X2cyVlJXbVFldDd4RzR1eExubW00RTF5WWZzQ3c?oc=5",
+      "summary": "黃仁勳台上受訪突接川普來電 雙方齊駁AI末日論[影] 中央社 CNA 在台上手機狂響！黃仁勳突接到「川普來電」 開擴音大聊這1事 Yahoo新聞 川普熱線黃仁勳 透過擴音在All-In峰會駁斥AI末世論、暗指中國搞鬼 UDN 川普突襲致電黃仁勳 聯手拆解「AI末日論」 news.cnyes.com 「AI威脅論」全是假的？川普稱AI不需要更多監管，斥責安全擔憂是「騙局」 | 國際中心 | 新聞 風傳媒",
+      "published": "Mon, 14 Sep 2026 22:15:00 GMT",
+      "display_time": "09/14 22:15"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台積電工程師偷吃女同事 未婚妻怒PO影片 員編被肉搜 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rR2lVVlBKYXNBVTFCcFh4QmRnWEo2T0NvaDFlaVp0NXJCQzhPVmFKOXRtQjU0MFRRT2xFNkREMWJjLTYtQXc3ZUsxVUowZzl5akZvZQ?oc=5",
+      "summary": "台積電工程師偷吃女同事 未婚妻怒PO影片 員編被肉搜 東森新聞 全台在線吃瓜！台積電工程師劈腿女同事 未婚妻怒PO「抓猴現場」 自由時報 被耽誤18年！工程師劈腿3女同事頻開房 妻狠斷：別浪費在髒東西身上 Yahoo新聞 竹科工程師午休「想找旅館放鬆」房間都滿了！內行曝荒淫內幕 ettoday.net 婚前抓包台積電未婚夫出軌！ 律師揭「保存5證據」：未婚妻可提告求償 | CTWANT LINE TODAY",
+      "published": "Tue, 15 Sep 2026 06:03:00 GMT",
+      "display_time": "09/15 06:03"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美國認了！攻打伊朗「花費破兆台幣」 8國基地被炸、彈藥恐告急 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOMlJzUDFjQUNvb1hERHMyNm5TWU5rRkYtLXV1c19XTVRXWDdMeFZ3ZktQVmowMkx0TnZfUFFGaEFhZWRNd2prcUdDd1B3ZVZrcGdUSWJlc28tbmd2OUxHdjFmTlhXSXp0ZGoyUDFNN1N0Z0NiRmp5MU5MQmc3TXctd2w5UDdMRGVabUZKbDZ1MDU0MTZCZVk1S1k4VkhwdXVYaFo0RWY1YlhZNGNjYnFfUjlOc09QcDQwdFlFbzE1eWtzTmlVWlNiWEExTFFmeXNsb1E3REN2aHB2NndHYlcydFFueGpiOG5Sd1J0UkFYakctLUtzX0xqMm1vdGlmQUl5eDVSVXZ2ZmNhZjNqa25LZlByOXJMbVFNMmtwYkJjMkZieGJWbWdWRkhCTTdxNDRER2FPSmc3NHRBVnlld2t2cS1nRGhoRVh3Y051SGRwN2Z1ck02RHQxdVhIRm9nOG5aQ3d4NExvVm01NDFQbElBS3hoZ2pfZXRsQVE?oc=5",
+      "summary": "美國認了！攻打伊朗「花費破兆台幣」 8國基地被炸、彈藥恐告急 Yahoo新聞 五角大廈證實美軍彈藥短缺 對伊朗前4個月花費達1.06兆 中央社 CNA 討論牆 | 美國認了！攻打伊朗「花費破兆台幣」 8國基地被炸、彈藥恐告急 LINE TODAY 五角大廈監察報告曝光！美伊戰爭成本破1兆 逾50架軍機受創 UDN 不怕被川普罵「叛國敗類」? 美軍承認中東基地受損嚴重、飛彈戰略庫存短缺| 國際 newtalk.tw",
+      "published": "Tue, 15 Sep 2026 06:01:00 GMT",
+      "display_time": "09/15 06:01"
+    },
+    {
+      "source": "Google News Global",
+      "title": "AI巨頭齊喊「減速」輝達美光領晶片股暴跌 資安ETF創史上最大漲幅 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQLXJNWTQ5QV9iXzZ1NlUwVThraHpLdE9Ob2o2TWJFbVV2bnJhUTdyTjRMbklsaGhjTzNzRTZ5b1F2b1NYX0tJelVVeDB4VlpSb2gtRmpXQWpmU0F5LWJ5dTRGakNiR1k3dFFkUGllNG85eEpPdzdfR0hFYXh4TWFyS0wzOHlUMTFJYm5BY0ZzQi1RbWdFa0VRbk5LTkJOQjhxT2hKWUc4eFZERm90Y2VtV1dDcFdJZkQzenp0eHg1WnBYUVlKR1NCUjdveXduZVFDcFJUSVpXSU9fM3cyYUh2czV6MjREaUVsZ3hTZWhaZWo0MkpMMWZNZXpLMUxXMU42cXJEd3FwZk5BVTVOUHM5aXd5aXU0Rm1iQVFFcVRMb1dkbzZfb0FKbm1TcmRGVm5TZWZlcEN6ZzlnOEFlc0pQV3A0U3RSTl9QYkxmZ2VTaUZoamZSSklPTTI2ckxreE5vNUVDV1RNQWdQOXA1Y1FEalJ4ZW52STVRUVpNODV5M21wN1lrR29tSUpfbXVqS3AzOGc?oc=5",
+      "summary": "AI巨頭齊喊「減速」輝達美光領晶片股暴跌 資安ETF創史上最大漲幅 Yahoo股市 堅守千億營收目標！博通執行長回應Anthrooic安全警告：AI只是一種工具 算力需求無虞 news.cnyes.com Anthropic聯創：AI關閉機制須第三方驗證 Yahoo新聞 OpenAI揭露前沿AI安全新措施，川普反對AI發展速度減緩 iThome 聯合國人權高專警告AI風險 籲各國和企業緊急管控 rti.org.tw",
+      "published": "Mon, 14 Sep 2026 21:45:11 GMT",
+      "display_time": "09/14 21:45"
+    },
+    {
+      "source": "Google News Global",
+      "title": "Fed升息呼聲高 川普怒施壓 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdGhjczRTTjRJd1pRWl9PNUxya2dFMkNSN1ZYdWIydGM3azlQN21UUlk2SW9xbWVOWWtMLXBCdjFTRGdwOHUtOFFVTHE0bllmY1g4ekpNYkU5NHpIdWQ2VVllVXFLRTNMMUVabTRTZ2Q5X2o0Mko0ZEpQMi1DVnRlM2psUXhodjFXZ05GZVlzdVFxN01YbFFzendqVDFHbVhVNmFhVVRONE5kZ1JFTm52QUdSc0FSWDBYa3hsaWZDWkg0aTg1OE1BQVBxZlp0MkJJ?oc=5",
+      "summary": "Fed升息呼聲高 川普怒施壓 Yahoo新聞 美股恐重演2018年拋售潮？Fed若升息 分析師估第一波就大跌10% UDN 川普狂喊降息也沒用！Fed 9月升息機率飆86％ 華爾街押注1碼 工商時報 川普要求美國利率全球最低 華許面臨政治與市場雙重壓力 自由財經 不升恐傷Fed公信力、升息又恐惹怒川普 華許如何突圍？ news.cnyes.com",
+      "published": "Mon, 14 Sep 2026 20:10:00 GMT",
+      "display_time": "09/14 20:10"
+    },
+    {
+      "source": "Google News Global",
+      "title": "00919配息、除息日、發息日！一張股息1100元免繳補充保費，股價33元還能買？便宜價合理價一次看 - 今周刊",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFd0Sl85eFRyaVpTWUxHUW9vZFVCZnlqdndLOGhncGRDMG9JU1JpTkRWSmMwdlppX0FVNVBoNFNBa0U3NGhpRzV6QnZMNmtNb1YwSmRzS1hmbTU5bE5JeTB4b1Q2STNQcHBsYzVOUmZfSlBTT0l4WDhLbTJ1OUUweQ?oc=5",
+      "summary": "00919配息、除息日、發息日！一張股息1100元免繳補充保費，股價33元還能買？便宜價合理價一次看 今周刊 AI熄火！6檔「含金量」高息ETF撿到槍　00919今最後買進日 ETtoday財經雲 這檔ETF配息創高！只要有1張「年領7000元」 最後買進日曝 Yahoo新聞 台股震盪第四季買什麼？00918鎖定AI、金融雙主軸…經理人曝看好族群| 存股族愛ETF | 股市 UDN 金融股值得投資嗎？FOMC升息預期狂飆，0055、00998A、00919…熱門含金ETF投資攻略 news.cnyes.com",
+      "published": "Tue, 15 Sep 2026 03:51:16 GMT",
+      "display_time": "09/15 03:51"
+    },
+    {
+      "source": "Google News Global",
+      "title": "國家隊抄底台股守季線- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqQlVFcjhHdS1DOTNPVC1ET3ZjTHlVMW01bzhqWG96OWRIUkFZUzJ2YVdncHRMNzFqazFpdkxYVFpMZ2RkdnREOGxVOFlnTVhmR0QzdFFHY2pOVldPb2JJ?oc=5",
+      "summary": "國家隊抄底台股守季線- 日報 工商時報 升息疑慮+AI發展降速壓力罩頂！台股量縮失守4萬6 光學雙雄遭降低吞跌停金融指數刷新高撐盤｜Yahoo財經掃描 Yahoo股市 9月15日盤前／債市、油價衝擊股市 靜待超級央行周結果 台股震盪整理 經濟日報 盤勢分析》震盪整理盤 低接不追高 自由財經 台股大跌原因，外界推測油價高與AI放緩引疑慮！低點可以撿？ 遠見雜誌",
+      "published": "Mon, 14 Sep 2026 19:00:00 GMT",
+      "display_time": "09/14 19:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "快訊／破紀錄！漢測申購凍資8656億　明日開獎中籤率僅0.27% - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vZVg2cXFGRUxsRF9NdjIyaXhOQ3A3Z2hXU0lrREkwU0NPaEdoY1JsYUU5QmlDNWlwMlRXRmIweWpaV183X0xJV2g0NHFqOEFuMnfSAVBBVV95cUxNWnlFMzRBT0dVMS1mb2t0aDAxQkdxSFZLVUVDS3JxS3kwbzFYd1F4TEI2a3ZlbWd2cFkxd1FXaW1PNHc1MVJ1ajczTnRCdGt2MQ?oc=5",
+      "summary": "快訊／破紀錄！漢測申購凍資8656億　明日開獎中籤率僅0.27% ETtoday財經雲 半導體IPO競飆天價！漢測公開申購搶翻天 漢民科技成「千金股搖籃」 | 個人理財 | 理財 經濟日報 【Hot台股】大盤無量下跌...網哀「投信外資都去抽漢測了484」 分析師：影響有限 Yahoo股市 漢測抽籤爆量！凍結逾8,600億資金 38萬多人瘋搶、中籤率僅0.27％ 工商時報 漢測公開申購中籤率出爐 罕見最後一天申購單逆勢增加 自由財經",
+      "published": "Tue, 15 Sep 2026 02:01:00 GMT",
+      "display_time": "09/15 02:01"
     },
     {
       "source": "Google News Global",
@@ -194,20 +258,20 @@
       "display_time": "09/14 04:37"
     },
     {
-      "source": "Google News Global",
-      "title": "沙烏地輸油管關閉恐影響全球4％供應 國際油價跳漲逾2％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16TkVXOGQ2WnBUbDBNb1hwY1hjaHE1VHF2eVlNQU00bV9RR2NSdTFZN1lwX1JqS2h3T3loaC1YTlJLQW40T0tZV05rLXAxNUlOUzU1dWdYWlJpR2tlSEE00gFkQVVfeXFMUFdHcEd4OHVhTlpEUGNJY3BaZnBadzZRcDgwUkR6X2lUclFoZHN1Ync2UVNpOWN3Z29EMFNxUFltbnBVZVo2U3BzUjdUQ1pHb0tOOUpOTkNxVjBEQjZ1N2FoSndJSg?oc=5",
-      "summary": "沙烏地輸油管關閉恐影響全球4％供應 國際油價跳漲逾2％ 自由財經 沙國關鍵輸油管線遇襲受損 主力運力恐停運數周 news.cnyes.com 沙烏地阿拉伯輸油管遇襲 油價飆破100美元全球供應拉警報 Yahoo股市 葉門叛軍再襲沙烏地 沙國關鍵油管可能關閉3到5週 rti.org.tw 中東兩大能源管道受阻 布蘭特原油飆破107美元｜20260914 公視晚間新聞 公視新聞網PNN",
-      "published": "Mon, 14 Sep 2026 01:02:34 GMT",
-      "display_time": "09/14 01:02"
-    },
-    {
       "source": "Google News Finance",
       "title": "聯發科聯電金融翻紅台股盤中跌點收斂拚收復月線| 股市要聞| 股市 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjTHh4NWlTemJseXpRVkZLQ0UzQ3lqeDZ0eHVySENJU1owNEVJS1MtZUNFMktDSURfNlZCVUoxR2NwNEY1bnFBNDJYNlFtczQt?oc=5",
       "summary": "聯發科聯電金融翻紅台股盤中跌點收斂拚收復月線| 股市要聞| 股市 UDN",
       "published": "Mon, 14 Sep 2026 03:22:14 GMT",
       "display_time": "09/14 03:22"
+    },
+    {
+      "source": "Google News Global",
+      "title": "沙烏地輸油管關閉恐影響全球4％供應 國際油價跳漲逾2％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16TkVXOGQ2WnBUbDBNb1hwY1hjaHE1VHF2eVlNQU00bV9RR2NSdTFZN1lwX1JqS2h3T3loaC1YTlJLQW40T0tZV05rLXAxNUlOUzU1dWdYWlJpR2tlSEE00gFkQVVfeXFMUFdHcEd4OHVhTlpEUGNJY3BaZnBadzZRcDgwUkR6X2lUclFoZHN1Ync2UVNpOWN3Z29EMFNxUFltbnBVZVo2U3BzUjdUQ1pHb0tOOUpOTkNxVjBEQjZ1N2FoSndJSg?oc=5",
+      "summary": "沙烏地輸油管關閉恐影響全球4％供應 國際油價跳漲逾2％ 自由財經 沙國關鍵輸油管線遇襲受損 主力運力恐停運數周 news.cnyes.com 沙烏地阿拉伯輸油管遇襲 油價飆破100美元全球供應拉警報 Yahoo股市 葉門叛軍再襲沙烏地 沙國關鍵油管可能關閉3到5週 rti.org.tw 中東兩大能源管道受阻 布蘭特原油飆破107美元｜20260914 公視晚間新聞 公視新聞網PNN",
+      "published": "Mon, 14 Sep 2026 01:02:34 GMT",
+      "display_time": "09/14 01:02"
     },
     {
       "source": "Google News Global",
