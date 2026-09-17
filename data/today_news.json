@@ -1,269 +1,61 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "news": [
     {
       "source": "Google News Global",
-      "title": "美眾院通過重大制裁法案！授權川普向買俄能源中國、印度課100%關稅 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQRkF0MHdaRGY3c2NIeDVSclRuYzBrNnl0bnNsRW5sZFNqa2hYWUlTWU1ZS3pWWnlZaHdVQzY1MkU1QnpsSGEyQjAzWjFGNUowekN5N2hKZ2hZWWtnbHhGVDd4b1hHYkxLYVhGb0tEXzdzeThFdW5yYVcwc3hscXBLLVpya01nRGVZaUZsZ1czbXZJU2xYQXd0bERQTjhlRUhxXzl0bFpOeXRUZ3FlR0NYbHBzVy1NSUFCME9VdHNxZ0RINmlQeVFhVnNLNDUyVWN4WHdNYVhOQ0JDSHdtTFFXbTJpUzhvREp4ZlpfamJraDQ0ZnNvU1VISkV2UHNzY3FfM2lDakdIQWVlZGc5b2pheW00ZVl5RVdQRmNycG1YODJEbHBfMzc3VUZFYkxqTlBPTF84UnFlLXVkZ3ljR3g0UFpYM2Y1dHpoNzJIQVdHOGRtSEszNkNLSUQzY0FjQlNEaWVGd3gtbUx3MWRQU1BQSDZJdHZiamhmUE05d1gxbzVHT0NUYjRQbE9WOV9yM1JWMmdwWkR4Ul9tcUI2QjBUNmZfRF9Gc1E3RVY4aGV6aW4xM3c?oc=5",
-      "summary": "美眾院通過重大制裁法案！授權川普向買俄能源中國、印度課100%關稅 Yahoo新聞 美眾院通過葛蘭姆俄制裁法案送交川普簽署| 國際 中央社 CNA 「100％關稅處罰」情勢丕變！世界兩大經濟國火燒眉頭 自由時報 美眾院通過「葛蘭姆制裁法」 俄能源遭鎖定、中印恐挨100%關稅 Yahoo新聞 美眾院通過重磅制裁俄國法案！川普獲新關稅權力 中國恐吞100%關稅 UDN",
-      "published": "Thu, 17 Sep 2026 05:34:20 GMT",
-      "display_time": "09/17 05:34"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "不甩Fed升息！台股收漲439點 台積電上漲45元報2425 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZGZjSGNSdmtnWHJ1V05wNlFLaUlWdjAzeEowNHo5Y3FFNHAyNjg0S044LUQ2V3A0RXl0ZkVCQnoxdWh6VDl6REpaVFl6RUN3Q3ZXbURoS202VnpEa2RBUkY1cWFNX0RjYzdFRjQ5SnRZNDlIalJVcF84ZVMyOW9SLWJR?oc=5",
-      "summary": "不甩Fed升息！台股收漲439點 台積電上漲45元報2425 壹蘋新聞網",
-      "published": "Thu, 17 Sep 2026 05:33:00 GMT",
-      "display_time": "09/17 05:33"
+      "title": "紅海石油命脈告急！沙國急向中國求援 北京私下要求伊朗約束青年運動 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZZDRONnhWenVlT0pMUnU0TkU4T3JxWmhORzl3VTlFQUxtRVRvS05uTUY4UHBnbGN3LTNYLVlKZkxqS2otU3cxYzNmcllBakE?oc=5",
+      "summary": "紅海石油命脈告急！沙國急向中國求援 北京私下要求伊朗約束青年運動 news.cnyes.com 與美協議 青年運動：只鎖定沙國船舶 UDN 路透：美官員密會青年運動 對方稱無意攻擊美船 rti.org.tw 葉門胡塞射彈道飛彈襲擊沙國西南部空軍基地- 財經新聞 玩股網 葉門叛軍的勝利啟示：台灣作戰系統如果斷聯，軍隊還能不能繼續打？ TNL The News Lens 關鍵評論網",
+      "published": "Thu, 17 Sep 2026 13:10:02 GMT",
+      "display_time": "09/17 13:10"
     },
     {
       "source": "Google News Global",
-      "title": "台股開盤／Fed升息台積電漲45元！台股漲逾700點 這些族群醒了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPSnRlaEZIQkVad01wbng4cUpZMTZjRGYzaWw4aWhMc1dMTEZFMWZKbVF2V19UM2VSMUVGemdSajM5cnBGUldjeEtqdmhWaU5BSDM5dUN5d1hVNzlMa2VnRHZzZHgzNnI4Z2EtY3BPTVVSdzFhUHQ1Q3huOVEyS1R5MHZoZl9rckdzRWJkQnFpSUdnZzk1Z01FSVdJVUdCQUN1LUtPSzJKdWZWSmx4V09HWENUNmFIU3pYQlVQYWhabjA0VURTaDBZcDdRMjlRNEN2aTM0RnVIUmJrRkVVaGl0YV9sZm5ncUV5TnhZVEMxU1diS2lHQzNZb09yWm9QT09XZFlsWkkzNEItOVl2ZmRNYzNDSHJuVHowV2NNV2VFdlVOYVVQQ2FGNVpxcFF5dm1BV0hqbXBwdF9Hc19zWUZvQWw2Z0sxd1pSUUp2MV9wYVpGMUpLaXRqc2xVNk1SZ3M2VW9ydjcxdzBtZw?oc=5",
-      "summary": "台股開盤／Fed升息台積電漲45元！台股漲逾700點 這些族群醒了 Yahoo新聞 【Follow法人】外資回頭了！終結連5砍轉買超121億元 分析師：別急著樂觀 Yahoo股市 升息不確定因素暫消退！長線保護短線　AI需求驅動產業成長 finance.ettoday.net 亞股兩樣情！日股收漲213點 韓股震盪逾1％翻黑 自由財經 最大利空結束了嗎？Fed 升息一碼 三大法人買超214億元 UDN",
-      "published": "Thu, 17 Sep 2026 04:07:57 GMT",
-      "display_time": "09/17 04:07"
+      "title": "聯準會升息落地外資帶百億銀彈回頭！台積、塑化雙引擎拉台股奪回月線｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxPZHNQcVZBdjRWaW1fV0xlWG1YNnU4aTYtXzJRVjFydk9PWVptRjF5V1ZPbEFNSGNYYVRMbUllYVY1WnBPeVZSNTJDMnFxSnlhYmtTZVVCaF81S01yQ1Z3aU9LUGVhdkVHQUNVUktiX1BZVFJILXVkbGhzcnVKZDNtYWRsZjhnV3luNElla20zNzhOQW5SdDUzTkNFZHRPbDVXc2hZU081WDVqdWZTbHlEbzhQTnhRa3dBeUxUbERuTFYzS21acmp5VDlkVUpMcldfVndsdjBUNHJvVHI2Mlk1MlZ1cVlLV29xMkZzOXVyQjlwdktiVC12ME5CbWRwaV9EX2FFZF9lUVJWSWtfVzdwTF96NTk3U3NjTF9Zc21Rd2M5UlNaTjM1bE9waGRRTVRzU21QcFBseVdINkpodmRqYko1RjlNTDJXckdtVVlvS091a0xrOGdIbHlGWkVRYmxRUkFXWnpwTlpaekUzcW5IZWx1RDRrbzRxUHo4WTVYcjk4Y09tMVYxaWVzNkpGX2ZOVGVrUFZkdllYSnY3akN5YmJyRUpyV0k0b0ZLTXlKdFFtQzJjN2NNVmNPZHFzWWZsYjhEOE1mMHRWVFhuT1B6Ry1jaDVEMHI3TEh6NTk4MHJLemVzblhXbVVzVENmelhPaklvSThmNTlXRFVLb0dmYmxZX1RVelp5WUVGY0xwZVJQQ2RxSDVWSjlVNG5uZw?oc=5",
+      "summary": "聯準會升息落地外資帶百億銀彈回頭！台積、塑化雙引擎拉台股奪回月線｜Yahoo財經掃描 Yahoo股市 快訊／台股開盤穩了？科技股領漲、四指紅通通 台指期狂飆 Yahoo新聞 台股外資歸隊 拚戰新高 法人看好中秋連假後量能回升 | 市場焦點 | 證券 經濟日報 亞股兩樣情！日股收漲213點 韓股震盪逾1％翻黑 自由財經 台股放量重返46K 台塑四寶嗨CCL、PCB族群齊摔- 證券 工商時報",
+      "published": "Thu, 17 Sep 2026 09:06:49 GMT",
+      "display_time": "09/17 09:06"
     },
     {
       "source": "Google News Global",
-      "title": "Fed升1碼 川普：Fed升息前與華許談過 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tcnd6QngyM0dIRDctUDhQWUppUGtERFJVRXdLVjZoZ0g5UW5IaWl4UDBxTkZ4VEc0THdIaFdLYTJOUWxlR0N3SHRETlBQUkE?oc=5",
-      "summary": "Fed升1碼 川普：Fed升息前與華許談過 news.cnyes.com 美國三年來首次加息 對全球和中國意味著什麼？ Yahoo新聞 聯準會齊挺升息抗通膨 富達專家估Fed將升息3至4次 原因全說了 Yahoo股市 聯準會升息 1 碼，川普籲利率降至 1% 以下 TechNews 科技新報 Fed重啟升息對股市影響，12:0背後代表什麼？ 遠見雜誌",
-      "published": "Thu, 17 Sep 2026 02:48:12 GMT",
-      "display_time": "09/17 02:48"
+      "title": "一文掌握Fed重點決策：升息三大理由、拒供前瞻指引、迴避川普施壓 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9QTEN4bGhOc3V5SFpraElLdndxQzh4YV9yZ2xvNkZzaEFXSEgyR25tSFFXZW5TTU1HQ0NlWVMzYTMzUk41OXBJTnFFVQ?oc=5",
+      "summary": "一文掌握Fed重點決策：升息三大理由、拒供前瞻指引、迴避川普施壓 鉅亨網 瑞銀喊未來4年聯準會「極鷹」！估12月再升1碼 華許新框架引爆升息潮 鉅亨網 華許雙面話術 說服市場、安撫白宮 UDN 美聯準會3年來首度升息 白宮：令人遺憾的決定 公視新聞網PNN Fed重啟升息對股市影響，12:0背後代表什麼？ 遠見雜誌",
+      "published": "Thu, 17 Sep 2026 03:18:19 GMT",
+      "display_time": "09/17 03:18"
     },
     {
       "source": "Google News Global",
-      "title": "白宮AI內鬥曝光！黃仁勳等人直接找上川普遊說 屢擋監管惹不滿 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE51TjNFNWt0elQ3M0h5ZktXVnRhTHdnWW1WR1ZXLUFZRE9RTC1mWndOZGFOOGRJRXNnc1l5alBJc0JONU1uaDhxaFRvNHpBVDdL0gFWQVVfeXFMTmRUTHZPd0FlSmZMYUJ3dDQ2STdBaW55RU9mdWlxUTlPYnYybUEzY2FheUFOajdobmZGZ0p0MWQzeW43aFNjNXZXMXpoSW1OQ1Q5ZUtWUXc?oc=5",
-      "summary": "白宮AI內鬥曝光！黃仁勳等人直接找上川普遊說 屢擋監管惹不滿 UDN 另一名相信AI可能殺死人類的研究人員自Google離職 iThome AI巨頭公開分裂！祖克柏反對「大家一起踩煞車」 Altman、Amodei與馬斯克支持放慢自我進化模型 Yahoo新聞 自己的模型自己擔責！黃仁勳、扎克伯格反對協調放緩AI研發 自由財經 AI 出事別只查技術漏洞：真正的風險起點，藏在更早的人類決策裡 TechNews 科技新報",
-      "published": "Thu, 17 Sep 2026 01:47:58 GMT",
-      "display_time": "09/17 01:47"
+      "title": "Fed震撼升息！央行今日跟進恐掀雙重打擊專家爆房市三大利空- 房市 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0VlVBYnZvSWRKenc0UjdPWjI4ZVNlcEZJdlIwQzlnQ3JycGM4UU1CZ05NN0sza1NnTE9oUFdRV1dSaTEwV2NiOWJjb0lENVZkTjgtd2xWdURSLXo2TVlR?oc=5",
+      "summary": "Fed震撼升息！央行今日跟進恐掀雙重打擊專家爆房市三大利空- 房市 工商時報 完美升息時間 為何不動如山？ K 型經濟…楊金龍的顧慮 | 金融脈動 | 金融 經濟日報 專家：台灣央行12月調升利率 機率提高 經濟日報 央行房市管制再度鬆綁！放寬二屋限貸至七成、建商同步迎活水 蕃新聞 央行利率連10凍！放寬打炒房措施 理監事會重點一次看 PChome Online 股市",
+      "published": "Thu, 17 Sep 2026 03:10:00 GMT",
+      "display_time": "09/17 03:10"
     },
     {
       "source": "Google News Global",
-      "title": "漢測0.29％中籤幸運兒現身！20年第一次抽就中 他錯愕：3個帳戶中1個 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUM2doeF8tMDU2VFdRSHpoMEpRTkptU2VqQlY3aVlyRm41aVN4Rnk1VF91UjNQOUFJNXREdEdGUFNIUXBuWGJZSF80RjMtUmFLMkHSAVdBVV95cUxQMHpYcHp5VDNGY0pfOFQ3UjZkZHhLZmt2UnZmZS0wS3BJLVRBR3V4d1BNWVUyVmlra1ZmWHJ1YWFxN29PTHUtZDAtMmZGMno4TWQtcS1Ma28?oc=5",
-      "summary": "漢測0.29％中籤幸運兒現身！20年第一次抽就中 他錯愕：3個帳戶中1個 UDN 「漢測落選大軍」帶著現金回家了！專家笑等明日：8000億資金準備拯救台股 | 張大任 | 新聞 風傳媒 225萬抽一次！漢測35萬人搶1048張 幸運兒曝光「20年第一次抽」就中 Yahoo新聞 砸225萬試手氣！新手「抽中漢測」現賺256萬驚呆 news.ebc.net.tw 半導體IPO飆天價　漢測超越鴻勁能否重現漢微科輝煌？ finance.ettoday.net",
-      "published": "Thu, 17 Sep 2026 00:55:51 GMT",
-      "display_time": "09/17 00:55"
+      "title": "血腥掃毒戰釀萬死涉反人類罪！杜特蒂首現身ICC 爆嚴重失憶不記得川普 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OemttWmNCUVlFelhScmQ1NHhYUWRHOUJCX3I3MHNhNDJiYnJaQ2hZenI5Zm5rLWRoZE5NS09zbmFKSW9hWWVrRGVIMm1JWklG0gFWQVVfeXFMTTVRY293SWpGRm01U3hiRjB4dTRfWDdpSVdhalV1YUkxcnJPRy1Sd3VldmRyOGlveFpQS2I5WTAwWUxORXdkdWU4R2t1bDN6Wk5iOW1JeGc?oc=5",
+      "summary": "血腥掃毒戰釀萬死涉反人類罪！杜特蒂首現身ICC 爆嚴重失憶不記得川普 UDN 菲國前總統杜特蒂失憶了？涉反人類罪遭國際法院審判 辯護團曝「他連川普名字都想不起來」 Yahoo新聞 涉危害人類罪 杜特蒂海牙首次親自出庭 中央社 CNA 菲前總統消失一年多首度公開露面出席海牙聽證-新聞 rti.org.tw 杜特蒂血腥掃毒涉危害人類罪 海牙首次出庭身形暴瘦 ｜20260917 公視午間新聞 ｜ 公視新聞網 PNN 公視新聞網PNN",
+      "published": "Thu, 17 Sep 2026 03:07:08 GMT",
+      "display_time": "09/17 03:07"
     },
     {
       "source": "Google News Global",
-      "title": "聯準會升息1碼 川普籲利率降至1%以下 | 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hVDRVWVBINk8yOE95R3JpOUUxVWFFby01WmZmaVV3Q21lT2xXYXhVR2Rya09NTmxWVi05UTRmMm9ILWx6SEJINjNMN1pkZy1zY2JpYm1XdGhoOVVTWmdv?oc=5",
-      "summary": "聯準會升息1碼 川普籲利率降至1%以下 | 國際 中央社 CNA Fed 未啟長期緊縮循環？華許緊盯通膨、稱仍寬鬆 TechNews 科技新報 美聯準會3年來首度升息 白宮：令人遺憾的決定 公視新聞網PNN 【全球大頭條】聯準會睽違3年升息1碼 川普火速喊話：利率要1％以下｜#鏡新聞 Yahoo新聞 Fed升息1碼惹怒川普 喊話利率應降至1%以下 news.cnyes.com",
-      "published": "Thu, 17 Sep 2026 00:51:00 GMT",
-      "display_time": "09/17 00:51"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
-      "link": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The .25% increase comes despite fierce opposition from the US president, who has called for rates to be cut.",
-      "published": "Thu, 17 Sep 2026 00:38:50 GMT",
-      "display_time": "09/17 00:38"
-    },
-    {
-      "source": "BBC Business",
-      "title": "EU chief backs plan for Canada to become 'associate member'",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump, who has frequently clashed with Canada's PM, threatens to cut trade with the European Union in response to the proposal.",
-      "published": "Thu, 17 Sep 2026 00:32:05 GMT",
-      "display_time": "09/17 00:32"
+      "title": "不滿歐盟準會員相中加拿大 川普警告恐祭重稅 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wTFdfTDl6LVpIUmxYS1pBNkxQUDZIZGlMdTBYVGtiN1BSY1VJMU1jbFJtYjJiRWxfS3pGM3NzTktJbmxlMmUwRDNPVWg2dVZicUVJOEFaVVVDb2U0U1NVNFdnaW1Qd9IBa0FVX3lxTE80TlZXWnpxWGJQeVNmOEhXZ2V6d0h0YjVoNmdmSmZIYThNcTg2WUhKVDFrNDlYWmhsMFd1VWR0UGotZjhTZGxfWUdZcFY0MFR2cW1LQndpNWZJSkhZcm9VYXlESTZHN0FXYXhz?oc=5",
+      "summary": "不滿歐盟準會員相中加拿大 川普警告恐祭重稅 自由時報 歐盟提議加拿大「準成員國」！川普氣炸再揮關稅大刀 Yahoo新聞 歐盟、加國合作 與美國脫不了關係？雙方都「這麼想」 UDN 加拿大擬成為準會員 歐洲官員：歐盟吸引力前所未見 rti.org.tw 歐盟要收加拿大？川普怒嗆「可笑」：若成真將徵非常嚴重的關稅 | 謝駒蕥 | 新聞 風傳媒",
+      "published": "Thu, 17 Sep 2026 01:39:53 GMT",
+      "display_time": "09/17 01:39"
     },
     {
       "source": "Google News Global",
-      "title": "漢測中籤幸運兒曝光！　身分是專業投資人：當下傻眼 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0ampObE44Z2tXaXhKX3FzWG9pSHFMcVJZT3oxOEtOeE5wRVNiVEVZbWFWU2xrbktkVXpQc3Nva2ZoblhEdm9aSHBPaWd6SVdNVGfSAVBBVV95cUxOZElnNmtfX1lpMVNVZXNFM1NBY3pQM3BFNlljaGl0Znp1eWtQSWdwWklXWC03eDJpWlNnNXNlTDF4YkJudmxMS0I5NWg0NEpfNA?oc=5",
-      "summary": "漢測中籤幸運兒曝光！　身分是專業投資人：當下傻眼 ETtoday財經雲 漢測抽籤結果出爐！幸運兒大賺逾250萬 阮慕驊、巴逆逆都失敗 Yahoo股市 漢測一張要225萬「台灣人這麼有錢？」申購人數嚇壞…網曝有人質押、合資湊錢 UDN 開心！漢測最終中籤率再提高 公開申購不合格數超過3萬筆 自由財經 「漢測落選大軍」帶著現金回家了！專家笑等明日：8000億資金準備拯救台股 | 張大任 | 新聞 風傳媒",
-      "published": "Thu, 17 Sep 2026 00:28:00 GMT",
-      "display_time": "09/17 00:28"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Interest rates hold expected but Bank of England facing tough choices",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
-      "published": "Wed, 16 Sep 2026 23:15:01 GMT",
-      "display_time": "09/16 23:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed睽違3年多首升息！美股3大指數震盪收黑 台積電ADR逆勢漲逾1% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPaGpsX19KSlpqM1BJdHF6U3UtcTFmX1VqYVZEcm1tSWZpOWdwRTlCOV9wcVZvdzh3SEZleUpTYnNsSDhQR21JTDNuY0dLZ3BWQTQ2MzY2TDRXZDFzU1k0TTIzMTlJQW9WcHhiX0NOVDllU1VfVXpQdWRHdDlYa2REQW45VDJFaklKQkV6WlZXNTFFbDBiQzJ2QTdaQ0N3elhKd1NaaHJwRWRyWHZGNHVvNlZ3aklObkV4bXc3SGhEUS1xV25panQ5RllKcmRjQlBYZWNxaDFYM3NVdkdrTENEcXktVVhlMnB5VHR3dWtMeWJyc052RTNpUXNDNlpNeVBPR2ktbGhlbGxwcVhwM3dWNjVvQ1FhbU9mZU5WLWZxM0R6ZUg3X09ZX2xqUWNQVHp5eXFoMTlaWnFLWEEydDlmVUREQmUySmtjOEJyVXYxRTJteG51aWcxWXFRUnBfRnBZMU42dWxZclRxTE8yY3A2Q3ptVHdCUQ?oc=5",
-      "summary": "Fed睽違3年多首升息！美股3大指數震盪收黑 台積電ADR逆勢漲逾1% Yahoo新聞 聯準會升息美股收黑法人：台股留意美債殖利率| 證券 中央社 CNA 【美洲速報】Fed升息1碼 美股收黑道瓊大跌631點 費半逆勢漲｜#鏡新聞 Yahoo新聞 華許放鷹！道指暴跌 費半獨漲 英特爾喜提1利多 旺得富理財網 華爾街屏息等待聯準會利率決策！美股開盤走高　費半上漲近200點 NOWnews今日新聞",
-      "published": "Wed, 16 Sep 2026 23:05:34 GMT",
-      "display_time": "09/16 23:05"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Watch: Why has the Federal Reserve raised interest rates?",
-      "link": "https://www.bbc.co.uk/news/videos/cmx2zw08dvk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Samira Hussain looks at the factors considered in the increase and what it could mean for the US economy.",
-      "published": "Wed, 16 Sep 2026 22:26:10 GMT",
-      "display_time": "09/16 22:26"
-    },
-    {
-      "source": "BBC Business",
-      "title": "US interest rates raised for first time in three years",
-      "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
-      "published": "Wed, 16 Sep 2026 22:16:51 GMT",
-      "display_time": "09/16 22:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed升息1碼惹怒川普 喊話利率應降至1%以下 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45R1VJNVVrZFh5bEpuX052T0lrM2g2RmVfUXRIQ2VCUktuUTBMbXZuMlZkSTlWOUZYOEhUbEU5S25nNF9FTEw4dXRxQTdTYWs?oc=5",
-      "summary": "Fed升息1碼惹怒川普 喊話利率應降至1%以下 news.cnyes.com Fed如預期升息1碼！美股道瓊收挫逾600點 tw.news.yahoo.com 華許獲川普任命仍頂住降息施壓　聯準會決定再掀波瀾 自由時報 Fed升息1碼年底恐再升息 道瓊暴跌逾600點 中時新聞網 Fed 決策／9月16日會議聲明全文| 全球財經| 全球 UDN",
-      "published": "Wed, 16 Sep 2026 22:07:29 GMT",
-      "display_time": "09/16 22:07"
-    },
-    {
-      "source": "Google News Global",
-      "title": "菲國前總統杜特蒂失憶了？涉反人類罪遭國際法院審判 辯護團曝「他連川普名字都想不起來」 - tw.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMinwRBVV95cUxPV1QwYkVNT2NkM3ZyZmVWQ21rTVVyaGU2emFpQlliR0p2ZDM2OWs1ellUWDk1LXkwV0tza2FYOE1JZms5ZnljQjZwcXI5X1liQmZ2ZVc3U25EM0FLdTlhd2NEbDc5bTE3bHZ5VXhPc2RVUHAyeWZpUVVKYWZtWkYyMDlhVlZkM1lLUUVyNV9LdmV4Q3BDLXpGTG81XzdxbVZTYlNPSHhSaENhbWFxNlJpR2FTaWxrMk9FeEZNUUR0OVFUWDZMQk5WWmUxQnY0WUt1MHYtd0oteFVCMDIwVG9WWncxY083RjF1azNfamRBVVhiei1DSVZmdVYzdU5tdzFUcVlEeDlDVHI2Z1ppdkVXRlJzTXZSODBGSDZmYnBNeWF0UnBrbGh2RE1rRGhKMjNMSVd5MkFPeVJqMGUtYmN2TnNoTWlBNFU2blVoY2VqTzRlanJDc2VONEF5RkVwMTB6dFBxTmZiZEVWYVRMSUtYMWp2V1U3Q3M3YS1UN1VQTGU3cDJ4cUJhVEptM0ZGYkhaNTh2cVM0cTVtQ3BlMC11RWR6R05SQlJYU21qZzJySENTM0d1VTBQODU0TW5iUGRrR1NfNGxneENWZWxDMTBsb1hyM0ZCWDBjSTRUaUJSNU8tRlAza1l2ajdHbUZCSnlpWFViNDVmRnRGLV9jRUxLUC1VX3RkcE9sUlVzSXhNM1A2VkI4Vm9JV3lXZEZBMUE?oc=5",
-      "summary": "菲國前總統杜特蒂失憶了？涉反人類罪遭國際法院審判 辯護團曝「他連川普名字都想不起來」 tw.news.yahoo.com 血腥掃毒戰釀萬死涉反人類罪！杜特蒂首現身ICC 爆嚴重失憶不記得川普 UDN 涉危害人類罪 杜特蒂海牙首次親自出庭 中央社 CNA 菲前總統消失一年多首度公開露面出席海牙聽證-新聞 rti.org.tw 杜特蒂血腥掃毒涉危害人類罪 海牙首次出庭身形暴瘦 ｜20260917 公視午間新聞 ｜ 公視新聞網 PNN 公視新聞網PNN",
-      "published": "Thu, 17 Sep 2026 05:51:00 GMT",
-      "display_time": "09/17 05:51"
-    },
-    {
-      "source": "Google News Global",
-      "title": "超越0056、00878！台股ETF股利王 00919豪發207億元創新高 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPY3VidHZEQUw3cnRIMHV1ZGRwZk9YdGpRQW5qc0p1WDlaWXBOb2lwMU5FN2Q0RGcyVjdFUVVkYVNIaklxQUl4TzFOaEV1R3Z3RkM0WUUxcmY2N3BzcTA5czh1amNiRnpVNjE0Uk9rYndBd255MEhrWDhGcUVhcXFxTmJFOFFZWDNEYnNjRjBXeFVvWVROYWN5ZlAzRWRaQzBVR2FMaS1jdl9aZDJDSzBWejFUVFNsNFNqTVJsZkEtd0ZYRnRwX1NfaGJfbklrSVd1enR5TmM5SmtpSHFsUm9hbG9Ja0h1bmVySUpCUjJXNWhuV2ZIbDZRUy1HRlhldTVsT2ZPUmstOWhfdmFVZ29ydHRMcEJ0TDRZcG9pSFpSS2FUdw?oc=5",
-      "summary": "超越0056、00878！台股ETF股利王 00919豪發207億元創新高 Yahoo股市 高股息真的能賺？「這檔」狂發208億登配息王創紀錄！141萬人10月領紅包 tw.news.yahoo.com 00918明天除息1.75元！規模飆破1500億 達人揭爆量背後關鍵 tw.news.yahoo.com 台股Q4投資錦囊 鉅亨網 00930大方配0.815元！年化殖利率衝20%　9/22最後買進日 finance.ettoday.net",
-      "published": "Thu, 17 Sep 2026 04:55:57 GMT",
-      "display_time": "09/17 04:55"
-    },
-    {
-      "source": "Google News Global",
-      "title": "歐盟向加拿大招手來當「準會員」 川普撂狠話：若有敵意就祭高關稅| 國際焦點| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9JeWVuUU42dklva1RPMmJmekxmakprVmJLcXFqUWwwTkdDQ0doTkdyUF9fbjdWVnNIS083SXdIcG1LbVowSVhYYlV6RnEyeDdp?oc=5",
-      "summary": "歐盟向加拿大招手來當「準會員」 川普撂狠話：若有敵意就祭高關稅| 國際焦點| 全球 UDN 歐盟提議加拿大「準成員國」！川普氣炸再揮關稅大刀 tw.news.yahoo.com 美加貿易戰未歇！歐盟「準會員國」提案引爆川普怒火威脅祭關稅重拳反制- 國際 工商時報 歐盟、加國合作 與美國脫不了關係？雙方都「這麼想」 UDN 加拿大入歐效應 歐洲議會議長：澳紐有望成為歐盟「準會員國」 自由時報",
-      "published": "Thu, 17 Sep 2026 03:35:09 GMT",
-      "display_time": "09/17 03:35"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股早盤／靜候Fed決策…費半續揚英特爾與SK海力士衝高| 全球財經| 全球 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ra2VQWFZPNnl0UUw0ZTFQX05RRnlEV1NOcDRRLVN5dTNUMm5mQWJwQVVLVUpIeHFON3hlWFRkY3pKVFJhY204QmhhRXhmUEJY?oc=5",
-      "summary": "美股早盤／靜候Fed決策…費半續揚英特爾與SK海力士衝高| 全球財經| 全球 udn 全球關注！Fed是否升息「美股盤中見分曉」費半衝高1.7％ 台積電ADR漲1.3％、台指期夜盤站穩46K Yahoo股市 美日升息警報響起！台股就算反彈也恐拉回專家曝金融股討喜- 日報 工商時報 快訊／Fed決議要公布了！晶片股強勢領漲 台指期狂飆 三立新聞 華爾街屏息等待聯準會利率決策！美股開盤走高　費半上漲近200點 NOWnews今日新聞",
-      "published": "Wed, 16 Sep 2026 19:31:27 GMT",
-      "display_time": "09/16 19:31"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "American Airlines says 30% of seats drive half of revenue as premium cabin rush heats up",
-      "link": "https://www.cnbc.com/2026/09/16/american-airlines-ceo-first-class-seats.html",
-      "summary": "American says a minority of its seats now accounts for half of its revenue.",
-      "published": "Wed, 16 Sep 2026 18:33:51 GMT",
-      "display_time": "09/16 18:33"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "J.B. Hunt stock plunges 10% after company warns third-quarter earnings will fall",
-      "link": "https://www.cnbc.com/2026/09/16/jb-hunt-stock-jbht-earnings.html",
-      "summary": "Shares of J.B. Hunt plunged more than 10% Wednesday after the company warned of an earnings drop between 5% and 10%.",
-      "published": "Wed, 16 Sep 2026 16:48:13 GMT",
-      "display_time": "09/16 16:48"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed升息機率近90%也不算穩！華許若按兵不動 恐引爆美股賣壓 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpZ19FSDJkbEtyemR3cDQwalBVZ0NMZThaY0RxOVg1N0xqSjRjOGFnbVB6Qm9SeklzMTNOdHR5MXpXeDFKdDNwSnNxVmt2ZWs?oc=5",
-      "summary": "Fed升息機率近90%也不算穩！華許若按兵不動 恐引爆美股賣壓 news.cnyes.com Fed 9月聲明全文+最新經濟預測 Yahoo股市 聯準會升息1碼　2023年以來首度調升利率 自由財經 通膨死灰復燃！12票全數通過 美聯準會睽違三年升息1碼 | 信傳媒 today.line.me 聯準會升息1碼！這次沒人投下反對票，惜字如金的華許將如何定義利率決策？ | 林彥呈 | 財經 風傳媒",
-      "published": "Wed, 16 Sep 2026 16:31:26 GMT",
-      "display_time": "09/16 16:31"
-    },
-    {
-      "source": "Google News Global",
-      "title": "FOMC鴿派升息定調？台指期夜盤先衝一波 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05d3A1bnFac09Yc0drWm9jaF9HYXNFV2hUMXhGU2dENDhHb3JrRUdEcG82dVpoeDJKMGZ4a2taLWxNYW12R3Z0S3VaYlhndDBU0gFWQVVfeXFMUHF0Qzgta2M4X1NWUy1DOWtKTnJsT09nc0xpeUVLc3ZXaWVCUzFJN1NSN3VyZ0tuU3ZOZ1NMQ1VFZEVTaUJxcXMweUo1aXpDTFlENzJ2VGc?oc=5",
-      "summary": "FOMC鴿派升息定調？台指期夜盤先衝一波 udn 股民緊盯聯準會利率！專家喊話早點睡：不管怎樣台股都漲定了 Yahoo新聞 《DJ在線》台美升息在望，銀行業利差添助益- 新聞 MoneyDJ Fed升息定局？專家曝台股「這天」迎轉折 留意國家隊抄底5檔 工商時報 聯準會決策前夕！6大族群、26檔靈活調整 三立新聞",
-      "published": "Wed, 16 Sep 2026 13:02:58 GMT",
-      "display_time": "09/16 13:02"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed升息早被市場猜中！華許說錯一句話才是真正風險 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fSnNnX2YyaHY4OGs4N2JvaUQ2ZFY0UFNBazZXSzl6aXYtYmpGQzc2Z0cyNGMtcjM4Rl84bU1nRGpQSzRYYm5kSWRCeEdrZGc?oc=5",
-      "summary": "Fed升息早被市場猜中！華許說錯一句話才是真正風險 news.cnyes.com Fed明晨「升息」還是「不升息」哪個會害股市跌？答案讓人意外 Yahoo股市 Fed利率決策將出爐 市場4種反應哪一種可能發生？ UDN 聯準會升息恐不只一次？華許今晚正式開獎 陳鳳馨曝3劇本：這情況股市將大修正 | 許恩祐 | 新聞 風傳媒 Fed升息機率近90%也不算穩！華許若按兵不動 恐引爆美股賣壓 news.cnyes.com",
-      "published": "Wed, 16 Sep 2026 11:30:10 GMT",
-      "display_time": "09/16 11:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed升息！台股迎利空出盡？法人曝45K、46K多空防守線、期現貨操作策略一次看- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nN2FjZlhWS1B3d1NPa2oyNHFKNGYzTEZ0S0JSUk1BR1BMVDE4bGdEU2V2NUstVHlwN21FRUZkVW5RcGJmbDh3cFE1WHdzZ3FqUGYtdDZzTGdEVUdzQkh3?oc=5",
-      "summary": "Fed升息！台股迎利空出盡？法人曝45K、46K多空防守線、期現貨操作策略一次看- 日報 工商時報 亞股兩樣情！日股收漲213點 韓股震盪逾1％翻黑 自由財經 Fed升息後台股怎麼走？投信拆解26年數據贏家、輸家與3大後市指標一次看- 證券 工商時報 爆量8千億強彈是最後狂歡？融資失控狂增，逼近前高小心成為最後接盤俠！ news.cnyes.com Fed升息一碼! 台股早盤收復4萬6 央行\"是否升息\"受矚 Yahoo股市",
-      "published": "Wed, 16 Sep 2026 19:00:00 GMT",
-      "display_time": "09/16 19:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "外資賣超179億元 但這三類股竟逆勢獲青睞大買 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90bDJZMlJGZVdsNnVNMHpRMFA1TzFiZG1UaTNkdmZiYjVIdzhFa0N0NXNXNWlIUGNpSjg0MHdQT0tNc3dDV0FZcFE0SjFQMmJQ0gFWQVVfeXFMTWJUM3Ezamg3ZUVzNzZUdkxrcUxmdWpSOUxLbXA5dnhPcVI3al9GVXFyVHZtYm9paE1OZXJsamtuYTlJaTVwUnMtZXA1QTUwTTZVNGhQZEE?oc=5",
-      "summary": "外資賣超179億元 但這三類股竟逆勢獲青睞大買 UDN 【盤前】養不夠肥？外資砍完再加碼「這檔」4.2萬張 69萬股東哭笑不得 tw.news.yahoo.com 外資狂賣179億卻「買爆」這檔！一口氣掃5.24萬張 61萬股東嗨翻 自由財經 外資砍台股179億！中鋼賣最多　買賣超前10個股一次看 finance.ettoday.net 友達爆26萬張量股價飆逾5%、群創也漲快半根停板…面板雙虎外資回頭買超7萬多張，原來這利多上身 今周刊",
-      "published": "Wed, 16 Sep 2026 10:16:17 GMT",
-      "display_time": "09/16 10:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "漢測(7856)中籤率0.29%結果揭曉！一張現賺至少250萬超過3萬筆申購為何被取消資格？-Money錢 - CMoney投資網誌",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUZVNmUFBFb3VCbmV4Zm4yQUN1TFNXS2VrbnExcG1HSFppelBkd3hpUExJQXR6bzBCMUp4dUhLN3NnQkI5OUt3SGxyYXE2R1A0WU9PbmFKTVN3ZUdpTDc1Y1RGUzZsMTJCdGNWN2IzYUtTSndteFBrdnRLdUg?oc=5",
-      "summary": "漢測(7856)中籤率0.29%結果揭曉！一張現賺至少250萬超過3萬筆申購為何被取消資格？-Money錢 CMoney投資網誌 你中籤了嗎？每張可賺250萬 漢測申購逾3萬筆不合格 實際中籤率提高至0.29% Yahoo股市 「漢測落選大軍」帶著現金回家了！專家笑等明日：8000億資金準備拯救台股 | 張大任 | 新聞 風傳媒 漢測一張要225萬「台灣人這麼有錢？」申購人數嚇壞…網曝有人質押、合資湊錢 UDN 漢測槓龜行情來了！台股飆逾566點　重回46K ETtoday財經雲",
-      "published": "Wed, 16 Sep 2026 10:08:37 GMT",
-      "display_time": "09/16 10:08"
-    },
-    {
-      "source": "Google News Global",
-      "title": "聯準會前台股反攻337點仍卡4萬6關前！聯發科南亞科台達電帶中小型股熱舞｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimARBVV95cUxObHpPYy1JbWZBdGhEb0JkbjRkTUJNTGpXYnhhZkt5N05DY1BWaktXWGlKY2VEWlJva0h3RUliUG1VTlpxendwOHJjcW5Xam9NVVlPbFZnTmdVc0dqajhHYlU5VVQ4S2NHbDBSWndiTTJQUDlsWWRXWUlsVzJhTUMyV0c4QmM3NHBkcUxjYW50QjlvSlgydTVmSXBrbDI1N1VHSUQ2RDhhdFFrU2hNTkpkbE53SEdHdjUzX3lQNlZWOHhsTi10dHdvVGlEeGV4MEI1enQ5bnd4Z1AwMlI3Wmt6elhzUjM2a0pMM2lzLUtRUWhob0lJRDF1SzV6cHpQODVKMkY5aXJJVDZnVG1lcFJnUnlkZFFRRWZYbmpsX2o2dUJfNm0ydmswVW81WUN3SFY3MkVSYnFvQ20wcWtSbVQ4OHVGZ0pyM2h1NHpIZFF3NUZMZVNYWU9XdDBjOXdsb0FZSktGeWFtcXVIYXNEaEpUXzJ0d2lLMk9Ib1c3X0R1NmVreW5oZ0FsWFc0S3o3VzBKekJDYUZLSzJSOEZFNUZINlJlUUtJNUxibnp2MXBKWXBia3NkOE0zdS1QV2xPVHRGTC1KN1Z2Y2lINjA2a2RpUjRYU1ZyVHRsVmt0bHlYdl9OOThjYW50bTBUaEZfeDNrLUpINEUzZlZFbG5hVXlONXBiNzNaM19YWlVWcnc3ekRCVmhLckppbw?oc=5",
-      "summary": "聯準會前台股反攻337點仍卡4萬6關前！聯發科南亞科台達電帶中小型股熱舞｜Yahoo財經掃描 Yahoo股市 一堆鬼故事！ 他不解「台股今天漲什麼」內行人全說了 Yahoo股市 台股開盤》光電、記憶體領漲 指數漲逾200點 自由財經 〈台股盤後〉台積電填息、AI散熱與記憶體點火 受制月線漲337點未收復4萬6 news.cnyes.com 46K得而復失！台股收漲337點　台積電持平至2380 ETtoday財經雲",
-      "published": "Wed, 16 Sep 2026 09:05:08 GMT",
-      "display_time": "09/16 09:05"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股獲利大爆發！瑞銀估明年再賺31% AI投資因2大限制放緩 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkc0c1ljenQwV0pZQy00Y09UeU83b1FsVE93NExfaTY2bVFZTHhWNndzTlYtdE1RZXhVUVY2SllDY19FRDYxcXBwNTRGODNXQWpySGZpQlZlTVcyQnVsS2k1N3J1d0t3N0JUemljVENQT19qNG1uREs5UmpyZHN6SXdn?oc=5",
-      "summary": "台股獲利大爆發！瑞銀估明年再賺31% AI投資因2大限制放緩 壹蘋新聞網",
-      "published": "Wed, 16 Sep 2026 07:56:00 GMT",
-      "display_time": "09/16 07:56"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈台股盤後〉台積電填息、AI散熱與記憶體點火 受制月線漲337點未收復4萬6 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpMm5YdlZUQTk0eG91WWo3NllkX2pMb2ZnYUMtVnpTUWFaazdNNDRMV1RxSkVWRVFLWWdxYmtKaWFPVjZBNC16NkdLSkhLM1U?oc=5",
-      "summary": "〈台股盤後〉台積電填息、AI散熱與記憶體點火 受制月線漲337點未收復4萬6 news.cnyes.com 一堆鬼故事！ 他不解「台股今天漲什麼」內行人全說了 Yahoo股市 量價榜揭資金轉向！緯穎爆量觸跌停、成交值衝第三 記憶體獲外資回補 UDN 台股漲337點收45848點 台積電平盤 rti.org.tw 《台股盤後》收漲337點、日K翻紅，46K得而復失 | MoneyDJ理財網 LINE TODAY",
-      "published": "Wed, 16 Sep 2026 05:53:30 GMT",
-      "display_time": "09/16 05:53"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股終場收漲337點！台積電收在平盤 台達電、聯發科齊揚逾2% - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXBZeHB6STAweVlHR2VEdng3WFBmdjdpb01zU2dab2RPcklycFk1MnZOVFNsczIxVEZ0VTRSTWVNUlNRTnFLaWFfN2dsS0VvcWVYczlOQ1ZobHYyUEV6UnpoVVpMODFwN1BVTGZJRWJ0YkYtZ3AzQWlXV2RQOGQ4RDdR?oc=5",
-      "summary": "台股終場收漲337點！台積電收在平盤 台達電、聯發科齊揚逾2% 壹蘋新聞網",
-      "published": "Wed, 16 Sep 2026 05:33:00 GMT",
-      "display_time": "09/16 05:33"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美國消耗大量攔截彈仍擋不完伊朗空襲 凸顯攻防不對等 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6a1kzd1BzRUxtZUhZdEJ5eEJwWktjeWcxb1YxUFViRldkU1ZNMzBuZUVYclVLTVdhZWVZZFFHMDJTN0hZOUtISllfYUlpYnlHMHpWV1RxbnVoNklUUGZoTVNWYTQtT29WRjJMMHNn?oc=5",
-      "summary": "美國消耗大量攔截彈仍擋不完伊朗空襲 凸顯攻防不對等 中時新聞網 美軍防空快被打出洞？伊朗射約旦20枚飛彈 逼美軍燒70多枚愛國者與薩德 Yahoo新聞 美國打伊朗 估已燒掉台幣1.2兆 UDN 不怕被川普罵「叛國敗類」? 美軍承認中東基地受損嚴重、飛彈戰略庫存短缺| 國際 Newtalk新聞 MoneyDJ新聞 2026-09-16 10:18:09 黃智勤 發佈 MoneyDJ",
-      "published": "Wed, 16 Sep 2026 05:13:45 GMT",
-      "display_time": "09/16 05:13"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed決策倒數 台灣股匯雙殺 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwUWkxMFEycGF3RURjWDR6X1U1aERwdkF4cG1ndGJ2RFdkTUNRUEhkMlFNSXRnSWpaVjFwNm93RnhfNGhaYjJBUzVFeFEyWHBHTEhXbkk1TmJfYjlURXBEMGpXbV9lS0pYcDhF?oc=5",
-      "summary": "Fed決策倒數 台灣股匯雙殺 中時新聞網 外資倒貨626億「重砍力積電」 網見買超標的驚：訊號來了 東森電視 它變外資新寵王 上週買近23萬張居冠！ tw.news.yahoo.com 9月16日盤前／油市及債市干擾股市 台股震盪整理 提防外資壓低結算 經濟日報 外資大砍台股626億！力積電賣最多　買賣超前10個股一次看 finance.ettoday.net",
-      "published": "Tue, 15 Sep 2026 20:10:00 GMT",
-      "display_time": "09/15 20:10"
+      "title": "目標價730元！「銅箔大廠」EPS直衝31元 HVLP4切輝達Rubin供應鏈獲利爆發 - FTNN 新聞",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvWnVwXzhRTHNsWnVyaHlyUGE5dWs0amgwZm93Z2xWQzczS3FYblg4SWtfcXJzN2NRcG5BQkREUHFYYzNrUGRBeTc3SQ?oc=5",
+      "summary": "目標價730元！「銅箔大廠」EPS直衝31元 HVLP4切輝達Rubin供應鏈獲利爆發 FTNN 新聞 擺脫產能拉警報！ 「這銅箔廠」海外開外掛 大摩喊到730元 東森電視 抓緊NVIDIA Rubin算力商機！「這大廠」8月EPS達0.8元 最新目標價出爐 Yahoo新聞 金居8月每股純益0.8元 UDN 金居：HVLP4供應缺口來了！ 8月獲利年增達123.1％ 自由財經",
+      "published": "Wed, 16 Sep 2026 15:20:00 GMT",
+      "display_time": "09/16 15:20"
     }
   ]
 }
