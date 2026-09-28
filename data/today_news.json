@@ -1,213 +1,45 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "news": [
     {
-      "source": "Google News Global",
-      "title": "美股早盤／油價+殖利率上漲拖累四大指數齊跌 輝達逆勢大漲3% - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCU3hGNEoybVhEcEpEUXgtUjJjU0FHRFZXVmVJN25FdjY3V2dhb1pmaXE5ZndZb19nTU1KTnN4ZDZTUmw4dVpwZjVBOUV0QXpF?oc=5",
-      "summary": "美股早盤／油價+殖利率上漲拖累四大指數齊跌 輝達逆勢大漲3% udn 台股明天慘了？台積電ADR下挫1.66%、聯電ADR崩3.54% 美股四大指數全走跌「費半重摔3.09%」 Yahoo股市 台股中秋節後開盤皮要繃緊？ 油價、殖利率大升，美股開盤下挫 | 太報 today.line.me 油價、美債殖利率飆升三大指數開盤重摔台積電ADR、台指期夜盤躲不掉- 國際 工商時報 台股明天要小心？美股盤前下挫 記憶體族群、台積電ADR全倒 自由財經",
-      "published": "Mon, 28 Sep 2026 13:59:49 GMT",
-      "display_time": "09/28 13:59"
+      "source": "BBC Business",
+      "title": "UK tries to stop Trump's diesel export ban",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "published": "Mon, 28 Sep 2026 20:39:31 GMT",
+      "display_time": "09/28 20:39"
     },
     {
       "source": "Google News Global",
-      "title": "Epic 警告遊戲業大崩潰來了！記憶體漲四倍、NFT 失敗讓產業失血巨大 - 動區動趨",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZl9VeTBoZzlRVERTRU9lRmhzRk1BSVZqdjc1ZERQVXNVU09CZWYwNTNwanVyRzlNTmdsdGJ0VUhld19Ub3NvUG1rWHc3cVJXdkRJeW56dDZvd2Z3NnFoS2xVd2otOFRpeVRJXy1Fdy1CRExsUjdUYnhxa2pKb1JnUHlXLVJEVW51d1ZkSG52ZDF4RkI2N0ZJ?oc=5",
-      "summary": "Epic 警告遊戲業大崩潰來了！記憶體漲四倍、NFT 失敗讓產業失血巨大 動區動趨",
-      "published": "Mon, 28 Sep 2026 04:58:22 GMT",
-      "display_time": "09/28 04:58"
+      "title": "快訊／川普拒伊朗協議推漲油價！美股4大指數齊跌　費半下挫2.6％ - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLdlY4T3pWLVA5X290TTU0cm9aMjBZeHNLNUhCZ1ZpQ0RWRXowcmlHV3NFZHVkZXEtYW1LWG5hSkVmbUxhUzVvTmRRQWFWUkZPNmfSAVBBVV95cUxPYUJ5ZVJXYUtGZmlvNUhaM0JlakQtTUZwZDFLWFI4UWYxRVc3NC0xQjdfMXJMaUZNODBjajZWenkzb1lvS2RhLXZaZEUxdEJBOQ?oc=5",
+      "summary": "快訊／川普拒伊朗協議推漲油價！美股4大指數齊跌　費半下挫2.6％ ETtoday財經雲 美伊談判0進展美股全收黑　台積電ADR逆勢漲0.50％ ETtoday財經雲 川普拒停火 油價應聲暴漲4％ 工商時報 美股早盤／油價+殖利率上漲拖累四大指數齊跌 輝達逆勢大漲3% UDN 〈美股早盤〉油價與美債殖利率攀升 主要指數開低、道瓊跌逾300點 news.cnyes.com",
+      "published": "Mon, 28 Sep 2026 14:57:00 GMT",
+      "display_time": "09/28 14:57"
     },
     {
       "source": "Google News Global",
-      "title": "台股挑戰5k有望！法人點讚15檔目標價曝光「最高看萬元」 輝達Rubin、ABF載板、光通題材全中 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQWm9OUnc5SzU5dFJTUEpZdmZoVWFTRDZLNFRqRmljelRkcHlPLXBSM3VpX0FIM3RISGNHN0RsaWlPVnpKY3djZjgtS180M2pWOEZaZGM0TFVQRmV4SUJJQXdWcnl3WjkxNWFqbV9iN0E2U3lPREJsUTRRQTlKbUVkdmdkNXdwQVlaUWwyOG5vTS1QaFpZTDM3VThYUVotMlNjd1h6dE5Tc0V5dkNMeWc3TjhleloyRE0wZ3lTR3dJalFaTzB6TDFpeVE4dXJ3ZXdobG42MkN4VExGWUR0VDJWaXY4UzRmQnZZZi1IdDNJNW45b3drUkRNTXdEVEJBTG1kOVJPS3ZDTWNfMGthSFdNNEJsS1hwVFlNSEstRzhTZHhUMmN2Q1JkMmlYdnhiZzZGNHNrVkZETGZncjRjWUlTRmhsZ19BMUQ0WGNnTFl2bzlzV0xHTnBaUVZlM0JHQ2ZVb2JMZzBESW8xa2lXU1R5UVVobVVHcVdHNV82MnNLUkxSSF9lM3RoNF9SeWVtUG0xeXMzZk9veVFzZlNS?oc=5",
-      "summary": "台股挑戰5k有望！法人點讚15檔目標價曝光「最高看萬元」 輝達Rubin、ABF載板、光通題材全中 Yahoo股市 籌碼面受外資追捧 台股16檔必收 Yahoo新聞 準優勝者謝逸文︱籌碼換手低基期族群吸金- 日報 工商時報 台股技術修正！「27檔」低基期飆股 三立新聞 外資倒貨、內資吞貨！台股10月先蹲後跳劇本曝光「台積電、國巨領軍基本面大噴發」12檔高勝率黑馬搶先看- 上市櫃 旺得富理財網",
-      "published": "Mon, 28 Sep 2026 02:56:42 GMT",
-      "display_time": "09/28 02:56"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-      "link": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-      "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
-      "published": "Mon, 28 Sep 2026 10:32:46 GMT",
-      "display_time": "09/28 10:32"
+      "title": "台股中秋後拚新高？專家點3大黑馬 7檔股票明起遭處置 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZFdySUE5N1ZXQTMzaFRqOGlmWDR1ZUx5SWhXdHNUenZLWlE0eWhSOVF2UFlSMC0xdk44NnUwZjB0MEtEcUl1eGE2c0NURkxWSzdFbW9oVl9mTUc5Y1kxVlFKSE5qelhuN29HUVFFMVJNZndkQ2E0VWN3YUd3ZWM1c3ptOEtMRHprY1dvUFY4SklYWGZrVEo2RkdfZlhmdDY0NnRSQWxMY0YxeWYtNlJiR0tIY051M1NHNjZrRHBoMUdLY2wxaXdjTktONGVmYUJjQ2FNLUllOWRFUnlrUjFHU1prankyeUdDUjREei0xRnBqWlUyTUpYMnVPQVUyOW1OT0ZwM0dxVW15QjB2dTZnSjRYcXdBNXdJS185Q3BsTHZsY3hZaXdzbjlzSlBmVnZ5Z281UkZaRFMxYTRvbVFHbEdsMHNPU3ZTWDRhcEdHcTZ6R1QycW9zMXNkU2hVa3k1?oc=5",
+      "summary": "台股中秋後拚新高？專家點3大黑馬 7檔股票明起遭處置 Yahoo新聞 中秋後台股怎麼布局？杜金龍：3大族群安心抱到明年 Yahoo股市 Q4旺季到 投顧看好中秋後 台股6利多 自由時報 南亞科、華邦電、欣興、景碩…台股節後衝關5萬？老手盤點3大利多，記憶體、載板股卡位先搶誰 今周刊 台股中秋連假後首開盤！美股收紅助陣　近10年節後5日上漲率8成 ETtoday財經雲",
+      "published": "Mon, 28 Sep 2026 13:08:00 GMT",
+      "display_time": "09/28 13:08"
     },
     {
       "source": "Google News Global",
-      "title": "對台軍售還卡著！美大使曝川普問習近平買不買美國武器 國務院急澄清 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45MklSNVE3ZnBOdkx0c29lcjhoVjZDTEYzenVtRnJmVGdURktwU2xRVHdtc1pRWHhQbGpFdEJPdWtEQmN0bk1WMmRxZGd0YnJURTMw0gFYQVVfeXFMTzU5ZG8wRTdwSHVmeTJoMm1ZQXozTmlmcEhtOU1mMXAzbnBGRHZZSXE2V21CUTM1YlJIcWphZkF5OU9tVnhsTEdVaXJwYnJtalMtb1Jab0VMaA?oc=5",
-      "summary": "對台軍售還卡著！美大使曝川普問習近平買不買美國武器 國務院急澄清 UDN 「817公報」再成談判籌碼？習近平施壓美停軍售 明居正 : 川普若對台軍售讓步「必須非常笨」 Yahoo新聞 川習會後九十天關鍵期專家籲臺美日深化安全合作-新聞 rti.org.tw 稱會中未花太多時間談台灣 川普：習近平了解我的立場 公視新聞網PNN 習川會落幕國安人士：保持戰略定力台灣重中之重- 要聞 工商時報",
-      "published": "Mon, 28 Sep 2026 00:27:00 GMT",
-      "display_time": "09/28 00:27"
+      "title": "美大使曝川習會秘辛！川普竟問習近平「要不要買美國武器」白宮急澄清- 國際 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BRUM1RUFEY09CLU1NWlNhaUM3UkttV1lrdmk3am9TZ1FWSl81TXRramg5amtlcHRVakZJME5WV1ZYOFg0S0RySkhMWTdtMzhka0FxS1J0eFd3d1NoMWdiNm55Q3A0dlVBZ2JTWjh3?oc=5",
+      "summary": "美大使曝川習會秘辛！川普竟問習近平「要不要買美國武器」白宮急澄清- 國際 中時新聞網 對台軍售還卡著！美大使曝川普問習近平買不買美國武器 國務院急澄清 UDN 川習會後140億美元對台軍售仍待定 牽動「台灣之盾」防空關鍵拼圖 自由軍武頻道 〈社論〉美國應不致停止軍售，台灣高枕無憂？ 中華新聞雲 習川會落幕國安人士：保持戰略定力台灣重中之重- 要聞 工商時報",
+      "published": "Mon, 28 Sep 2026 00:59:36 GMT",
+      "display_time": "09/28 00:59"
     },
     {
       "source": "Google News Global",
-      "title": "中美聲明後 伊朗提出七天達成協議 被特朗普拒絕 - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YU3lvdEJKSnN4U1RZeFNxaDMyc01xX3NvSl9TMUhmY2hyY0NaNVpsU2RReFVUZmMxaVBMc2tYYVU4VU82YVI5aVhIbTF4YUpoZGZzcVY5MlQ4QWlOUTVOMkg1MUZpa2PSAWxBVV95cUxNM1pJTWNUeDdJVXVvNDZ2NVZyRG53U3dPSzlxc1RoYmhIcFFiRF95QjkyYlJHUF9EZUx5dUxad0MwMHJJSEJjbVR5aVFOOU9ZbWJ5VElGcWczb0tYM3pOdjdoUmlQaGZhTTI5bGU?oc=5",
-      "summary": "中美聲明後 伊朗提出七天達成協議 被特朗普拒絕 bbc.com 美伊本週擬再談 川普稱沒排除恢復打擊 Yahoo新聞 川普拒絕伊朗和平提議 傳期中選舉後重啟空襲 國際油價漲逾1％ 工商時報 荷莫茲海峽重開再等等，川普拒絕伊朗提案 TechNews 科技新報 拒絕德黑蘭停火提案後 川普預期美伊將重啟會談 rti.org.tw",
-      "published": "Mon, 28 Sep 2026 00:16:33 GMT",
-      "display_time": "09/28 00:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股明恐補跌！韓股跌2.7％、日經跌486點 中國創業板跌逾4.5％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11QmlkblliS3o5bF9kanVBQjdNQVhSQ2szNjJKVTlEeHp0ajBNNWRfVEtVcmV6dy1tRmVOeXd3TUNqSUFLcldoblM3c2tWWFVNMEg0cDkyMGVHeW13b2Rz0gFkQVVfeXFMTVJxWGNhei1zVkpIQVdQYWc1M3BpOGFyZjNLSUx1aXZUNXc3S2lfcnhEckYzYXJFdXZzMWFjUmVreXpjNjU5WWcyNUkyeUhOZW80U3ZldHZwUW04b3kyVGNHa1RYMA?oc=5",
-      "summary": "台股明恐補跌！韓股跌2.7％、日經跌486點 中國創業板跌逾4.5％ 自由財經 亞股腳軟！台股休市　陸韓AI股重挫日經翻黑收跌486點 ETtoday財經雲 「川普拒絕停火協議」科技股也現憂慮 日股韓股皆收黑...台股週二要補跌？ | 太報 today.line.me 台股明日開盤恐一片慘綠？不只亞股全面重挫「美股盤前也崩了」 市場憂中秋變補跌| 張大任| 新聞 風傳媒 金銀跳水油價拉升，市場在交易什麼？ SL886 財經網",
-      "published": "Mon, 28 Sep 2026 08:16:00 GMT",
-      "display_time": "09/28 08:16"
-    },
-    {
-      "source": "Google News Global",
-      "title": "投顧看好6大利多 中秋節後展開「第四季旺季行情」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZN3RDdXByY2JhSzhBVUFZMk9raENqNHQzcTZBYnRxa1AxazVhTEJINzhhRlVYY1hxbmNsbUdOdGZtWHdyQWtaLTVGOW5KUmVMcnNxbXV2MFhCbWE3WVAw0gFkQVVfeXFMTjhzLV9jQzIxYWs5T294bVIzU2FuU1Fnc2t2VXNuNWt4SHlqemhFMXV4SFdOVnZvaXZmN2RhcFBPb21sYWFaR01oX3VSazMyS2wzM3FyZnh0TlBaQ1dvRXg2SXZvcQ?oc=5",
-      "summary": "投顧看好6大利多 中秋節後展開「第四季旺季行情」 自由財經 五萬點時代2／台股居高仍需思危留意黑天鵝 主動型ETF規模龐大資金導向 Yahoo新聞 台股超威！　法人喊出年底目標5萬5000點 ETtoday財經雲 年底狂奔5萬點？知名分析師押「5檔大魔王」 不只聯茂矽晶圓也入列- 財經 中時新聞網 權值股領軍衝鋒！Q4「3檔」迎戰旺季 三立新聞",
-      "published": "Mon, 28 Sep 2026 00:14:58 GMT",
-      "display_time": "09/28 00:14"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黃仁勳坐主桌！川普國宴秀AI肌肉 謝金河曝「中國企業家窘境」 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9PdGtTUFVmSkhfWmdnYzNhR1Y2VktTMjlYUnRNcG5QNzQwSFpNRE5QSmtBZHJaNGpSQ3BHLV9ZajVzeWF4ekFWTnZtZW1PdHNBeU8tNVBkd3lRQkZCanNv0gFkQVVfeXFMUGNxTnhrQnV2blhKeDBMbzZyZzF0YWYtU0ZMc1djMHB3LVI2d01zb1ZaNUxSbTdWckJrR21wbTR5dmFHUXUwclpDb2l1RlM5MnpmMlByRXRDZFhodEpMWlhGTG5Ibw?oc=5",
-      "summary": "黃仁勳坐主桌！川普國宴秀AI肌肉 謝金河曝「中國企業家窘境」 自由財經 黃仁勳坐上川習國宴主桌 晶片議題卻神隱？專家揭背後原因 UDN 川習會成果清單法媒關注兩人2026年還有2次會面-新聞 rti.org.tw 川習會成果清單出爐 關稅、煤炭與科技對話入列卻未提台灣 Yahoo新聞 張鈞凱專欄：習川二會，一條無法迴避的隱形主線 | 張鈞凱 | 評論 風傳媒",
-      "published": "Sun, 27 Sep 2026 23:53:49 GMT",
-      "display_time": "09/27 23:53"
-    },
-    {
-      "source": "Google News Global",
-      "title": "「能讓10億人死亡」比爾蓋茲鎖定川普開砲批AI防護不會阻礙與陸競爭| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6X1F4bFlqUWZoV3VKcWxSY3NQMTJlV0hZNGtodFVHUmZacE45c1FldmpncEtIaG1vNUtQMXlPTHh2aWFSX0x2RkZWaFlPbGR0?oc=5",
-      "summary": "「能讓10億人死亡」比爾蓋茲鎖定川普開砲批AI防護不會阻礙與陸競爭| 全球財經| 全球 UDN AI能力強大比爾蓋茲：落入惡人手上可殺害10億人-新聞 rti.org.tw AI末日論的契機　找回人類沉思能力 ETtoday新聞雲 比爾．蓋茲警告：AI若濫用 恐致10億人死亡 自由財經 討論牆 | AI恐釀10億人死亡！ 比爾蓋茲示警「史無前例威脅」：政府一定要出手 LINE TODAY",
-      "published": "Sun, 27 Sep 2026 23:34:39 GMT",
-      "display_time": "09/27 23:34"
-    },
-    {
-      "source": "Google News Global",
-      "title": "英軍基地險遭恐攻 5男持爆裂物被逮、川普讚逮捕行動「太棒了」 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12b085Y3RuM2hiZXZpMHgtQmNLNktYNFdZX2std09EX2xFSUhGRTVNc1FlSmNfZ2Izal9ZYU9XQTl5YlBEN0hOOVRsZnY2b0VfU0FRdWQtN19EM3liZE1jSGU2VnBFd9IBa0FVX3lxTE1PZl9ES3VianBENnN3S0lKa3ktN2o2Q1BfUWhFMDFiZTF6eEJoTVVBaVpxMGd3cnhXV2NXQUk4dzNqRkZUaWlhZ0l6bzE2cVZxMFRPb2RNNWpOdV81cV9WWUxSeEdaaF95elIw?oc=5",
-      "summary": "英軍基地險遭恐攻 5男持爆裂物被逮、川普讚逮捕行動「太棒了」 自由時報 英美軍基地3廂型車裝爆裂物 5嫌涉策劃恐攻遭逮 公視新聞網PNN 疑伊朗恐攻嫌犯對英國美軍基地企圖發動攻擊 川普表示嫌犯本要造成巨大傷害 Yahoo新聞 英空軍基地發生重大事件數人被捕　附近民宅緊急疏散 經濟日報 英國空軍基地發生「重大事件」 5男涉爆炸物及恐怖主義活動被捕 台視新聞網",
-      "published": "Sun, 27 Sep 2026 23:25:35 GMT",
-      "display_time": "09/27 23:25"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美AI踩煞車反讓中國加速？日媒曝習近平「王牌」恐成自毀裝置 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBOemJIWWVxeGJhekNHZUplZ0FiWUdseUN1aXJ0ekMwYWtzWVdhTW50OGMyRnhWekhuZWZ6NlQ4a0UzcklrY25zdFlrbFdfVG9CcENxZnRpQ0tWUG5NaERj0gFkQVVfeXFMT3hfMDNTVHhyb0pBRDNZejFrNF94QzM4SjBCOGlsYVhmY2pJakhoenlweTBWTDhTaWs1S0dZb0w2aWxGRmtOMW5wV0UzLUtSVENxakRHNVJCT0laZUZlTk5McGUweA?oc=5",
-      "summary": "美AI踩煞車反讓中國加速？日媒曝習近平「王牌」恐成自毀裝置 自由財經 美中貿易休戰延至明年1月 雙方擬推300億美元產品互降關稅 | 民視新聞網 today.line.me 川普：與習近平會晤富有成效 將有重大事情發生 news.cnyes.com 紐約時報：中國把西方AI 末日論視為拖慢自家企業的策略| 動區動趨-最具影響力的區塊鏈新聞媒體 動區動趨 美允和中建立AI對話溝通管道 拒絕雙方技術整合 公視新聞網PNN",
-      "published": "Mon, 28 Sep 2026 07:21:18 GMT",
-      "display_time": "09/28 07:21"
-    },
-    {
-      "source": "Google News Global",
-      "title": "3天川習會落幕！川普證實閉門過招談到台灣：習近平了解我的立場 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimwNBVV95cUxNdG53MnBVSHBpWVlEMy1DZC1TeDhIX01MRjdWbm5wbkxuX0dzdjJzVTU1WWRDQWxsYWoxMlFnZzd0Y0xzc3B4WEg2SlF0bXdKZUNod2hjTWVMTjVBUGU2WVpVaWZ1Z0dpZ3NkSjd1VV81ZFB0R0h5SnNLcHhIUzduRkNsandITkMwR1ZVcVhCVHVHdXl6d1o4R3djQnBGUWtVdUVrN2NyRVdCalBtVmVINGU1MlctMzMwM0RpTS1XcjhGSVpKLVlYYzhEbWplUDBpb2JLeXpPcVpidXhMajJTeXB3RGUyby1vV2JkRGdMdHg3VktPWmRuc2NBYWYybXpmdlRVci1uRFRVM2NpRFltUTJNTkJaMHE4R1NQWEphZkdYVmhqVEZucUV5S0JyNS1MVmNkX3ZTYTJvNWJRVnNaeXZpSDFZdDVOSjJHM1MwV0hiS3k5MUtkbFlGSWNpRHdTZUM5MHY4VG00ODFqNGt3UEtRUlBiVF9WRW9KWTJoYm9rc0I3UDNMUnFlY1hUNFI4RkhYalZxLUNna2s?oc=5",
-      "summary": "3天川習會落幕！川普證實閉門過招談到台灣：習近平了解我的立場 Yahoo新聞 美國駐中國大使：繼續磋商對台軍售對台政策未改變| 國際 中央社 CNA 美專家：相較台灣 川普更重視與習近平關係 UDN 華府川習會的影響與啟示 ETtoday新聞雲 川習會談台灣軍售！美駐中大使：美國對台立場未改變 news.cnyes.com",
-      "published": "Sun, 27 Sep 2026 22:41:00 GMT",
-      "display_time": "09/27 22:41"
-    },
-    {
-      "source": "Google News Global",
-      "title": "借美軍轟炸伊朗惹禍？英國基地驚傳恐攻疑雲 川普曝5嫌想搞大破壞 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4xdmQ3bFZraXAxRnN2M1lPTEhQMlVNMEl2Mi1DUklPN3RvZENCY2x5ajhaNXdHRDN3ZmtJc0EyRVhPbElsUHRQazB0Y2lVQVN30gFWQVVfeXFMT08xXzlVYkZuT1ZaOWZxbXRFdjZiQUFjZEFDbjBDU28xbDZCMDRxdFk1ejRnOGFobUdhQ0h4TG5tbHpydUh5aVVsTW1RTzBfc3dJY3k1YWc?oc=5",
-      "summary": "借美軍轟炸伊朗惹禍？英國基地驚傳恐攻疑雲 川普曝5嫌想搞大破壞 udn 20260928 公視早安新聞完整版（無網路版權內容除外）｜英美軍基地3廂型車裝爆裂物5嫌涉策劃恐攻遭逮 公視新聞網PNN 英美軍基地逮5嫌 涉預備恐怖主義行為 中央社 CNA 英國美軍在用基地發生反恐案件：我們目前知道什麼？ Yahoo新聞 英軍基地險遭恐攻 5男持爆裂物被逮、川普讚逮捕行動「太棒了」 自由時報",
-      "published": "Mon, 28 Sep 2026 05:55:06 GMT",
-      "display_time": "09/28 05:55"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "〈財經週報-台股看盤〉AI供應鏈長線仍具優勢 須留意短期波動風險 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lQjlPY1hidTJ5VVJGYWJpbkdSMlVIOERDeGlUT0pXT1RkMV9QTmFOSkFNeE9STWFnQ3RHaHI3X0J1d19QdENYVDVqanVxdGR2dzZHSW1B0gFbQVVfeXFMTXhxOUotdmlkLVRsYkh6RXJyT1JkNHJjQ29HQ2VaSHdOZTBmTExfcnByYkhFc2N2c0tNRmU3bzZUSmVmMkxjLWJaalVkcUZrREMtdk81ZXdSUVR0UQ?oc=5",
-      "summary": "〈財經週報-台股看盤〉AI供應鏈長線仍具優勢 須留意短期波動風險 自由財經",
-      "published": "Sun, 27 Sep 2026 21:30:00 GMT",
-      "display_time": "09/27 21:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "GPU旁邊的小晶片也開始缺了！AI燒進成熟製程聯電、世界、力積電迎漲價潮- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNaVZ4dHBFWGZoZE9UdG5BTTdiOEx3OEpsVzRvcFhubjJlM3pTRm1vZTYxd1c2cS1oS0JmMUFOX0lUbWsxbE13WlBpQ0JVMDNwQ3NvRVdPMkpBMk9kdTdB?oc=5",
-      "summary": "GPU旁邊的小晶片也開始缺了！AI燒進成熟製程聯電、世界、力積電迎漲價潮- 日報 工商時報 嘉科三期擴建起跑 台積電再加碼5座先進封裝廠 自由財經 嘉科3期計劃啟動　點名台積電增設5座封裝廠 ETtoday財經雲 台積擴產進度提前 供應鏈24檔起飛 三立新聞 三刀流的先進封裝黑馬：力成| 雜誌 UDN",
-      "published": "Sun, 27 Sep 2026 19:00:00 GMT",
-      "display_time": "09/27 19:00"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "外資歸隊搶進693億！台股中秋後拚第四季行情 投顧上看4萬9 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdmdCSnVRWWp6WFZZdWdyRlhMU28tbjhqU2V1blhmdTdxQnNXU3VMRElENENITXRwSnZxZldMTkZvblUwQVplOE1STWtTaGkxZ3U0RUlGWF9CSlpGbk5QRGRlb0NXUHcwNE40VFljaERlSHprQXNSN0hFbU9qZ2lnV0R3?oc=5",
-      "summary": "外資歸隊搶進693億！台股中秋後拚第四季行情 投顧上看4萬9 壹蘋新聞網",
-      "published": "Sun, 27 Sep 2026 17:00:00 GMT",
-      "display_time": "09/27 17:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "紐時揭中國看待AI末日論：失控就拔插頭 抓人就沒事了 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5WWZmNWxxT3RVTjZwdVhGeUNWVER4d1A0SU1WbE5YaDh3c0tOTUFTTXJhSEYzUzk1cWxsc2VhZzhDUDJoZ01XenRQX1pzMXNyU3FFYXAwRmJtLU1ReWoteXZPTlBzd9IBa0FVX3lxTFA0RTBFOE41WXYxMVhZUDEzQk9vaHlGeXUwMHNLSFFCQnFJOVZxNDdQZnlrMWlETTlaWEthU3k2ZHMyNHQtVWNrZFl3WFNfck9sV3NZbzJEcWtBcU9PUkQ3YXJFR1ViT3NMTGJz?oc=5",
-      "summary": "紐時揭中國看待AI末日論：失控就拔插頭 抓人就沒事了 自由時報 矽谷怕AI失控 北京為何對末日警告不以為然？ 聯合報數位版 川普：與習近平會晤富有成效 將有重大事情發生 Yahoo股市 中美經貿關稅談判細節9/28公布 王定宇：對台灣衝擊應該有限 | 自由電子報 LINE TODAY 〈專文〉川普盛大迎習延長休戰兩個月！雙軌博弈掐緊經濟咽喉鎖定動態平衡 蕃新聞",
-      "published": "Sun, 27 Sep 2026 16:29:14 GMT",
-      "display_time": "09/27 16:29"
-    },
-    {
-      "source": "Google News Global",
-      "title": "牆外文摘：只有特朗普一個人覺得\"榮幸\" - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONHNhSTY1R0txMGVVcElGeGRPZFJucDRSeXZpRmZPVXQzNHhuM040YVM1OWZMUGpXRUVUVy1vLWNmWFhyT1JOT3FmT1pFTWd1SG9RTWJCR1FVZHJ0NDN1d2pUMUFlVDltWUctOFZrMGVQVlpjUzEtdkhuZzNaRjRiYm92Xzgwa3lrdEZiVm16bHdCanZZS2RyTHkzT3ZROXh5cHAwRUJWVkxkdU5lblVydmFKYlo2M25aTGZqUkJ0OVJrRENFWm5KTVEyMG90S1YxVHg4SjYzYlBFZnRlYlNUUzVEeG5HQXV1aVpSeENQUl9tNm9aREFoSHhjME8tX3NzZkZyWTFienFmS3M?oc=5",
-      "summary": "牆外文摘：只有特朗普一個人覺得\"榮幸\" Yahoo新聞 川習會場面大成果乏力學者：美中結構性矛盾仍深| 兩岸 中央社 CNA 美中貿易休兵僅延2個月學者：2027恐再掀貿易戰- 兩岸 ctee.com.tw 美中貿易休兵僅延2個月 學者：2027恐再掀貿易戰 | 中央廣播電臺 LINE TODAY 〈專文〉美中達成300億關稅調降！川普商戰精算各取所需、高科技封鎖寸步不讓 蕃新聞",
-      "published": "Sun, 27 Sep 2026 12:11:00 GMT",
-      "display_time": "09/27 12:11"
-    },
-    {
-      "source": "Google News Global",
-      "title": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHbXJkbU03WUFqUHJFbXhYLWlGWDhWUGc2SzFfYmJkTmVqUTNQejNmcElWcGQtUGwwc09hSmwzZ3FVYkRZRGdFZkRJckw3WnI3SlRzMjFHcDdOOG5CblpONVdaNjNDeXPSAWxBVV95cUxNNUlPRkxZNDRkbWpkV2U1NnBiUUdDZS1qVmdKaVNPTzd3cE1KU05zRXgxbExtQ2FKYTlES2U0bUJvZFQySENKQXNRbHBZSXEzOEtxd2hOUXhFVUEwYXpnYUNrQjNNMmhDVWlSMzA?oc=5",
-      "summary": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本 BBC 習近平刻意不帶商界領袖赴美？明居正揭「孫子兵法」心理戰：看準川普這項弱點 Yahoo新聞 川普高規格迎習近平「核心利益」仍無解| 民意論壇| 評論 UDN 中美共識第四點最耐人尋味！李振廣：美國委婉承認一中原則對民進黨打擊沈重- 兩岸 ctee.com.tw 川習會成果清單法媒關注兩人2026年還有2次會面-新聞 rti.org.tw",
-      "published": "Sun, 27 Sep 2026 11:51:34 GMT",
-      "display_time": "09/27 11:51"
-    },
-    {
-      "source": "Google News Global",
-      "title": "面積利用率81%！台積電CoPoS題材引爆 這2檔「濕製程設備供應商」一起漲 外資卻逆勢倒貨 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOQ2R0NE1wUnZKWEhOZlFnWW9zcmtFay1GY05ab2lXdGMxbGNqM0hvQ2lnVjNrOXN4UUF6RDlFcVQxZkpWdW4xS3ZWYkd4ZHV1cURjYzlJejREcEd3YzZSbWRnbDJHT0d6SjhtWExYTkM5R2czVjR5UEtWbEZrQS1tWkh6a2lzRnVnajFFTGNPemd1MXpXV2wyRUdpNmxHaUt1V0pWenFSTFdKT3BYdlZSWFhhZzZIaU5LRG1HaUEyTDh3LVUyXzlKZFhkdEIySHpRMnA4OWpnaDIwUUpucllNd0M3cXNhdzFDUHhjcDlONmZwMUdhcjZ5czhmV3ZDaGx3dTZCRkg0Ym9HZmxFeV91T0V4MUp3R0NNNnJpeGRINWJ3b2xuQ1phZEhOVmlxNUZvYm01VjQtalRJWktVQkpqM3BoM1JOc3hROERES0EzbzljN3ZILWdNcEIwa0VqLXdub0UyUy1weGhrc2RFNnRUakVQajQxc3liaEQtZmo0emRmejAtcnVXN0RrVQ?oc=5",
-      "summary": "面積利用率81%！台積電CoPoS題材引爆 這2檔「濕製程設備供應商」一起漲 外資卻逆勢倒貨 Yahoo股市 一座晶圓廠要250億美元！台積電擴產紅利 法人點名8檔供應鏈 經濟日報 嘉科三期擴建起跑 台積電再加碼5座先進封裝廠 自由財經 嘉科3期計劃啟動　點名台積電增設5座封裝廠 ETtoday財經雲 台積電熊本效應擴散，「蓋晶圓廠的人」也出海：洋基買日本公司、拿熊本訂單再攻美光廣島 Yahoo新聞",
-      "published": "Sun, 27 Sep 2026 11:22:00 GMT",
-      "display_time": "09/27 11:22"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黑色10月恐重演？ 專家警告美股危機四伏：崩盤條件已齊備 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxPY3dHcFpBcTJtOVhBeWJiWW16dk43NGkyR3pOX2UyMUt1MUFGQWwtTEhqQmZ1SU04a0JjT2tHWTFJczhONk9HcTNMUXhXa2xtbS1hS0U2U1FwcHpYMzZqVnFHY0xzNVVDa2xmQU9iazJxTlUwOElEVnVwdDhteTU2QS1Pc0R3U21WdEpWbzdleHdJNnplYkhGVks0MktkQTlGVHViMVlGZ1hWLVJMYnAzSmxzelNkMkpJR0FBUURpb1RCQUhCMnhaSk5sUzdzWGY3X1h0aDEtOFRjMmFsY1lEN3RSd2tZVnNMdkpzbzFZZV9vdjJGWWt3ZXA0Tm56d1RjVUhtd3hvSElvYm9VOUhtT1Z4VUplLXBiOWMxTU96Wml2bmIwYlhSeG9vcUhicHFPWUxYSkd1REoyZ3dxQ3J0QlhlQmFla2NZbzRyeHZVSC1vZ0M1bVo1cGRoWWVlZXJvTTNXa0tuaHNhbjluNVh1Y3JKaVY?oc=5",
-      "summary": "黑色10月恐重演？ 專家警告美股危機四伏：崩盤條件已齊備 Yahoo股市 專家示警：美股崩盤要素已全部到位只待導火線引爆| 全球財經| 全球 UDN 美股股災會來嗎？Das示警債務風險，高盛看獲利支撐漲勢 蕃新聞 TWA00 加權指數- 我不看空，但有三件事，我們得放在心上- 股市爆料同學會 CMoney 黑色10月恐重演？ 專家警告美股危機四伏：崩盤條件已齊備- 財經 中時新聞網",
-      "published": "Sun, 27 Sep 2026 11:05:30 GMT",
-      "display_time": "09/27 11:05"
-    },
-    {
-      "source": "Google News Global",
-      "title": "這擋ETF「翻倍猛賺」超強！專家曝1招「平穩進場」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQYmpYcmk5VW5LejFFWjZkRTF1MFd2UVVwaklyMFdJSFhBeTV4RTVaNFQzOTRXNjBDb0JFa0cyS3FoZGNjanhHM0owY2h0QVp2ZU1jdnhSWWkwOTV4ek13bmpTVGJfZkFUNUFvTEhSeG1Mdl9wMmdxUTctaWRTNWR1TEJ3bjJLNFBobGlFVmdNQ3IzMDY5ZThndjhpUk9OZkRLUzNjbXJVeUludi1wb21EaUQzclJQR3MyUklmdllhSUpTdHhydWMtUFBVT1RTa0MzWklLWmtyMXVKX0hkaUprenVkNHd5S29iaVAzNjBiaHBxc3A3QUlBdl9DLW9rZzlqb1VJVjJpaTQ0SE5Ra2hJQzdKR19FZUdNSV9xdGk4bnNReWpsUFE?oc=5",
-      "summary": "這擋ETF「翻倍猛賺」超強！專家曝1招「平穩進場」 Yahoo股市 台股槓桿型ETF 翻倍成長- 日報 工商時報 海外科技基金強強滾 十檔近一周報酬率超越大盤 UDN 川普組AI部隊！台灣半導體迎大單 這3檔3年績效逾300% Yahoo新聞 台股9月震盪！Fed升息陰影嚇不跑 這6檔受益人2位數成長 三立新聞",
-      "published": "Sun, 27 Sep 2026 10:06:56 GMT",
-      "display_time": "09/27 10:06"
-    },
-    {
-      "source": "Google News Global",
-      "title": "年底狂奔5萬點？知名分析師押「5檔大魔王」 不只聯茂矽晶圓也入列- 財經 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CbGpUV0dNSF9KYlViWFIzOVdCOGdzUVhGamo0eVotNE9ObTNpMDkzTmNGSzhLOHVkbktDd3phSjRBanVmS1BKRXVrRzhFSDFldUR5dWppZmoyb0ZmMXp3VDI0WUZGUU9ETHlhQi1B?oc=5",
-      "summary": "年底狂奔5萬點？知名分析師押「5檔大魔王」 不只聯茂矽晶圓也入列- 財經 中時新聞網 投顧看好6大利多 中秋節後展開「第四季旺季行情」 自由財經 權值股領軍衝鋒！Q4「3檔」迎戰旺季 Yahoo新聞 台股超威！　法人喊出年底目標5萬5000點 ETtoday財經雲 第四季台股如何布局？專家建議保守型買「這檔」搭配高股息ETF 三立新聞",
-      "published": "Sun, 27 Sep 2026 07:50:30 GMT",
-      "display_time": "09/27 07:50"
-    },
-    {
-      "source": "Google News Global",
-      "title": "一座晶圓廠要250億美元！台積電擴產紅利 法人點名8檔供應鏈 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vN0FWcDBoeEQxd00yRWFOTmhWRlpaaVFqUWpfamI0V2NCMEpGMzdVWUdYT1hFc0xqSkdlZHZxYzNFR1JPOVJqZEFLV1c1VU81bTV5cnduV1FGd9IBX0FVX3lxTE5WWVVzMU9sNTFtVU1ZbXBPVVVrYk1Kci1JbDB1TG9CZEh2dzh3WUNid0hvWkV3UUNOa3FRY0NHWVpENGFxTnpFeUdfYzB5VGo2R3pYREJHMUt4VHBPR204?oc=5",
-      "summary": "一座晶圓廠要250億美元！台積電擴產紅利 法人點名8檔供應鏈 經濟日報 面積利用率81%！台積電CoPoS題材引爆 這2檔「濕製程設備供應商」一起漲 外資卻逆勢倒貨 Yahoo股市 獨家》一共10座！嘉科三期起跑 台積電再加碼5座先進封裝廠 自由財經 嘉科3期計劃啟動　點名台積電增設5座封裝廠 finance.ettoday.net 三刀流的先進封裝黑馬：力成| 雜誌 UDN",
-      "published": "Sun, 27 Sep 2026 02:00:00 GMT",
-      "display_time": "09/27 02:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普拒絕7天停火方案 伊朗最新回應：僅1情況能重開荷莫茲海峽 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90bXN6RTRYVG5SZF9GYjRORGdtWmRUOThtMlhfWFNNOFRZMDRMNUVKZTBSSlkwbkFfbnF4dlVyYjFlNXN4Q0RWSUZsdXFjY0xTRDhv0gFYQVVfeXFMTjZteThGRjYyc1Zsak5KSW9lTXU2ZUpwVXZQTmZaQWxGQUhIemw5SndMcVFGSnEwWkxmRTJlNFY4cENPNXJQdlVPWlhKOFBrc3hCdWF4T251Nw?oc=5",
-      "summary": "川普拒絕7天停火方案 伊朗最新回應：僅1情況能重開荷莫茲海峽 UDN 伊朗再向美提7天停火計畫 川普拒絕稱對方輸得一塌糊塗 公視新聞網PNN 川普拒絕伊朗停火方案 美伊談判前景籠罩陰霾 經濟日報 童文薰觀點》美期中選舉前的弔詭交易：川普擋瓜分、伊朗幫選情| 專欄 Newtalk新聞 川普拒絕停火提案 伊朗堅持外交談判才能打破僵局 rti.org.tw",
-      "published": "Sun, 27 Sep 2026 01:51:06 GMT",
-      "display_time": "09/27 01:51"
+      "title": "美伊最快今重啟談判！川普仍留後手：不排除期中選舉前再攻伊朗 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12Tk5hX1kyWTRPVXZVUXZFbWh1ZnZ3emp6VDEteWozOHBJTkFXNGZtT0ROZ1hZVm92NE13Rk9STnkzTDhoY2VjQi1WVVFBYnJjWGRZ0gFYQVVfeXFMTTF0VDZpc3FZSXNNdHZVUUtfQ2FQMjVxQ3gtQUVBbWhwbm1oM2FhOGM0cU5wZjhoaWJXQ3oxV1IwVkJXcFBqWEdFVjVRM1RYd3VNRDlhYzltVw?oc=5",
+      "summary": "美伊最快今重啟談判！川普仍留後手：不排除期中選舉前再攻伊朗 UDN 國際油價漲勢急煞車！美伊談判傳進展 川普願有條件鬆綁制裁 Yahoo股市 川普稱不排除再空襲或本週和談 伊朗外長：要戰要和都準備好｜20260928 公視晚間新聞 公視新聞網PNN 否認川普宣稱 伊朗官媒：代表團與美國無談判計畫 rti.org.tw 不放棄外交途徑 伊外長：已準備與美打末日之戰 UDN",
+      "published": "Mon, 28 Sep 2026 00:50:28 GMT",
+      "display_time": "09/28 00:50"
     }
   ]
 }
