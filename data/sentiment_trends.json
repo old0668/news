@@ -8888,5 +8888,10 @@
     "timestamp": "2026-10-01T07:47:20.223932+08:00",
     "average_sentiment": 50.0,
     "news_count": 12
+  },
+  {
+    "timestamp": "2026-10-01T13:49:46.911004+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 17
   }
 ]
