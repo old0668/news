@@ -1,197 +1,45 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "news": [
     {
       "source": "BBC Business",
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT",
-      "display_time": "10/01 11:37"
+      "title": "UK in talks with EU partners to release strategic fuel reserves if needed, BBC understands",
+      "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US.",
+      "published": "Thu, 01 Oct 2026 17:27:37 GMT",
+      "display_time": "10/01 17:27"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Nike is set to report earnings after the bell. Here's what to expect",
+      "link": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+      "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
+      "published": "Thu, 01 Oct 2026 16:00:01 GMT",
+      "display_time": "10/01 16:00"
     },
     {
       "source": "Google News Global",
-      "title": "川習會一事無成！台灣「隱形大贏家」 學者：習近平把台灣牌打爛了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOX0VPNmtiTTRGUWQySUY1UFhrYURDdkk5MkVMdjNYMGhFdENOcExiRlE2RzBaQ1dsaW1xOHVTdU1TSTN5d2gyY0pNcE9Wc29vWkJyTmRtcVl1R1Qyc3pRbzJ6b1VFQ3hpMFQxQVlfQUhRRl9qZVBPNmk3VEpxbFNQNFU2a3pLTnR0dXMwVHVXMFI5R2E3M2NiMXo4MDI1SjhiZGhldV90UkVBN3YzTS1zWF9QYW1ERUNxOHRBcVM2eTdGTVBwQmpkTUhPZlJBdWlCY0ZvVldHc3NSbGQ2N0RHOXRFTjF4a0J2ZEVmcy1CSHN5V25HTXRLZ29qRFZUb0xob3pWXzlSQmVvSWM2?oc=5",
-      "summary": "川習會一事無成！台灣「隱形大贏家」 學者：習近平把台灣牌打爛了 Yahoo新聞 美逾20名參議員促交付對台軍援 強調支持台灣自衛不容談判 rti.org.tw 自由開講》面對習近平施壓美停軍售：台灣的信心應建立在防衛自主上 自由評論網 謝步智觀點》川習將連5會 台灣在「菜單」上? 白宮首度這樣表態了……. Newtalk新聞 川普稱習近平在台灣問題「理解我的立場」 國台辦未正面回應 UDN",
-      "published": "Thu, 01 Oct 2026 02:40:20 GMT",
-      "display_time": "10/01 02:40"
+      "title": "別被高殖利率騙了！策略師示警美債可能還沒跌夠 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdzhkNnVnaDZFRk1vZmJOblU1Y05RekhvYkpVeWxMSUkzOGNxdEFpczByaXBGVXYwZ0p3Wk4zOUwyRlpUNkN5Mzk5T28wam8?oc=5",
+      "summary": "別被高殖利率騙了！策略師示警美債可能還沒跌夠 news.cnyes.com 十年期美債殖利率可能升破6%，可以抄底嗎？ 天下雜誌 全球債市為何跌跌不休？十大原因一次看 美債殖利率年底衝6% Yahoo股市 戰爭、債務與金融裂縫風險　不利川普的期中選舉 ETtoday新聞雲 全球長債殖利率走高，股債市怎麼看？ 鉅亨買基金",
+      "published": "Thu, 01 Oct 2026 14:00:03 GMT",
+      "display_time": "10/01 14:00"
     },
     {
       "source": "Google News Global",
-      "title": "台股早盤漲逾200點 台積電漲15元 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRFNOOTdtOHNIV2oxRmFtZU0yVWM1anhySXoxRWFFVmtUOGFpYVJhMHdKc19Oc0tkbnZZNmgwNUxfdGkwd2hPc0pZd293Slo0LTJOaFZLRHVqb0xaRWhKRjhodlZveExEdU5xbzJsY3pWbWN2N2ZmUkh2TEd0TnNUcURGTnJqb01uQW82MkVVVHNWQkRfcmFqQlNVSFpEenZQY3pObzMxQVZPWWl5VWwzbWxsOXg2MWxubTdtRC1mQVYwcWN4RF80OUV4MTBLNmZ6X0FrVEJ1UVZJeC1GWFc3MDhvcWU2Z3VLVFhJ?oc=5",
-      "summary": "台股早盤漲逾200點 台積電漲15元 Yahoo新聞 〈台股開盤〉權值股漲跌互見 上漲200點、徘徊4萬8大關 Yahoo股市 盤勢分析》9月漲1811點 10月不看淡 stock.ltn.com.tw 美股跌多漲少 台股開高走高站回4萬8000點 news.pts.org.tw 專家看盤》台股48K震盪！外資買氣成關鍵 反彈轉強名單來了 Yahoo新聞",
-      "published": "Thu, 01 Oct 2026 01:35:47 GMT",
-      "display_time": "10/01 01:35"
+      "title": "杜拜航空駕駛艙喋血！宛如《空中浩劫》神救援 乘客勒頸制伏襲擊者 拉回操縱桿 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOYkJYSWlVVEowYTc4SEVnUWhESXZJYmdPWGJLNW9WcXJ1OVFINkh2ZUx5VEFJdkdlbTdfWUNlZ19nTU55VEpkRTZmNmpXVlFZSjVad3RDWFBKekMzY1Z4UUR2RlctSi1kVEd6WkQ0SHplSktZRTdtVE1hd0dLQkpXYzBHZjdWbU5mNW9BRVoxYVJhWlpNTm91aU5kU2F4OHB2c1BxNm5yaDFCWWhKWURQeXI1a2hpeEZrMjdFdzZVcldONFA1OFRpaVRXWllYeDdTM3o3RU5CTTZNQmlKbnA1YW4yRm5yeXU4eWZYS2JUTUN6RG1TQjdTSjlvakxoZmNabm52TmFSbkhSS2JTaTFFU1pqTkRadHM1MTZ4ZXM2VWpCSlhFbkVqaElsVHVmQ0FSUE5zSnlQVkFyQUdYeU00Ym9Eb0ZBV25OZkJGQ3hLVmFkZ2lNSzU4N1hHVWtLWnVUZ2VCTmRMZ3duVWVTVDNGX1czeVpWTGdTWTU2ZW5iSldyUzZ1eHBrcy0yUnV4QUFfUHRjeHkzak5ValZSc1I2bWxuNzBCVXBzTFRFSTNjUUNjRmdUZm9heFNHZndBdDNBZ1BySzJMVmNuQkNDR3hHdWpCZjhGcVhHR1RaaklMMGtRNlV6cC1qYS1wRmMwTnFXRHoxb1J4WmhzUQ?oc=5",
+      "summary": "杜拜航空駕駛艙喋血！宛如《空中浩劫》神救援 乘客勒頸制伏襲擊者 拉回操縱桿 Yahoo新聞 從紡織工程生變「空中英雄」！杜拜航空印籍機長驚人背景曝光 Yahoo新聞 川普稱杜拜航空喋血事件疑和伊朗有關　若屬實將狠狠打擊 經濟日報 30秒暴跌萬英尺呼求「示瑪·以色列」！化劫機危機成「奇蹟」！174人全蒙眷顧 基督教今日報 杜拜航空機師喋血 高度驟降險釀墜機 中央社 CNA",
+      "published": "Thu, 01 Oct 2026 07:15:34 GMT",
+      "display_time": "10/01 07:15"
     },
     {
       "source": "Google News Global",
-      "title": "台股站回4萬8再創收盤新高！國巨帶隊亮燈、景碩晉升千金與載板雙雄抱團衝｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirARBVV95cUxNamY5Y29IQ2EzcXNVNXpmd2QyT2hUcmFyeEczeWNYTXF2cnhndnpuVl9vMFFzMFQzeldlOE16UFRHTUUtejRsY3dBZTlkS0VuZDFYNzJxaGMydVF3VWdmcndnM2VSVVlfUmUwZzBTTV9ILVNOei1CZ1Rld3N1ZHlPeFIybnV5ZTg0Q0dpcFRXVnZwLXhKUDBBU0xiNjlxcXlVZmJWT3RPSkxMSkZQSzY5X095RzRObE9raVlKSU5xazFZOU1RTV9hdFpjRnNlNmZnZzhobG5IYnBfMHhlOWk0RU9FV0JOZzhlbUFraDFQdWY2YUhVX1RRYXFJOG9aNW9PXzRvLWdjeGxWUThoX1pSTC1QUlE0RFA0dS1tRGpJVC1jaXdxY0F6QUhLS2pEMDJoa25NN0lVSXo4U1Z6RnRXR0dtbFM3OUlDVUpqM3F5Y2xzREpfdENQM01KLUxSV0x3dmZ5dFZWcHg2RGVqMm93UGFQT3lZRkMwc0trMXlJcHhzSkZlMHEzYmg0czNxQ2pKUkNYS0dLOVpCTmV2bFNMbFZkalVJVjF4LUFUOFBCU1dLbVR1MTJCRzFiUVRrQlBmdExHQ3RjSzlMTmZuQzlUbHRoSVhva3NwMDRKU3NVbmJPUjFpWnpNcmpvY2wwV2FpR2x0Y2JrNjNYb3pMMHFxQ293bEVvanBnUlN5REdxbUx5ZDJzVmhXX1QxZ1hfa3RRVWNENWZCX3pobVpv?oc=5",
-      "summary": "台股站回4萬8再創收盤新高！國巨帶隊亮燈、景碩晉升千金與載板雙雄抱團衝｜Yahoo財經掃描 Yahoo股市 台股收48353點創新高！晶圓雙雄、被動元件狂飆 指數收漲413點 自由財經 成交動能不足 難有大漲行情 類股輪動表現 華冠投顧 美股跌多漲少 台股開高走高站回4萬8000點 你的公共電視 台股收48353點寫新高被動元件與ABF載板族群走強| 證券 中央社 CNA",
-      "published": "Thu, 01 Oct 2026 09:12:07 GMT",
-      "display_time": "10/01 09:12"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普豪賭「AI自律」若押錯恐賠上全人類命運 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZzFYSDRYQjdGc2JyanZjN3ZwWVFXOGhTSS16MEVzZkVWZnMtS0lxR1NvbGZYY0JwNzJOelV0VHRja3ZFaGVMLTY2bnFYRDRyVVpUQU9yN20yZWJwREZpT2pSaEgzcmVkaHN4MHZ5NUd6Uk5UT0ZPZmxoTVhncWMwQ01ncHBBSmthbkQ4V3l3LU51TFVjbzdfYnJlcVRmT0Vybzc5NVdEZ0VzaUFuQ2FpSGJ0TW03cmI2c2ExRl9EY0tFc3pXY2tjMWFQeTVoTkZVRmRUTkxfNlRzcTMyM3pNNWoxTDVDWDBiZ05IVEcxSWpmRGJ1VWwyRkRQbC12UTJqZ0I5VjUwU3Vvb0d6Z2UwR2cxLUZpQzBRNm9xUjBWRW5KeWs?oc=5",
-      "summary": "川普豪賭「AI自律」若押錯恐賠上全人類命運 Yahoo新聞 白宮AI共識背後仍有分歧 傳Anthropic與科技巨頭安全立場分歧 DIGITIMES 影／黃仁勳、馬斯克、蘇姿丰都來了！川普攜科技巨頭簽AI安全協議：不會和中國合作…宣布AI改名「超級智慧」 今周刊 美國聯邦政府入口網站America.gov上線，底層使用Google Gemini、Grok iThome 川普讚白宮AI協議如憲法 文件拼錯「美國」掀熱議 rti.org.tw",
-      "published": "Thu, 01 Oct 2026 00:43:34 GMT",
-      "display_time": "10/01 00:43"
-    },
-    {
-      "source": "Google News Global",
-      "title": "副機師刺機長企圖墜機！內唐亞胡稱險釀911災難 川普也發聲了 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YazlMVzlxRVBfZVNkOGxBUjh4V3Q3bFRVYmZLMlhmelE0YXM4Vm5NcFdNdFhlVzF5MkUxNHk2OHI3YTFtX054VWNobkF0dG5T0gFWQVVfeXFMTU5VX3Y4NzRGaUVqdUREbmxXTHE2LWFPaENNeXR2N1hkRHJQdEdrSGZNVW50TGpfSERYdUFsR2h1dXdNYlM4dENvNzhwZlhKRS1iVUlfVVE?oc=5",
-      "summary": "副機師刺機長企圖墜機！內唐亞胡稱險釀911災難 川普也發聲了 UDN 看過「空中浩劫」派上用場！杜拜航空驚魂 乘客闖駕駛艙救回飛機 Yahoo新聞 杜拜航空機長浴血阻墜機！昔日談空中救命關鍵 如今一語成讖 UDN 杜拜航空機師起衝突 發出緊急訊號轉降沙國 news.pts.org.tw 成功阻止「911事件」！杜拜航空喋血川普爆第一時間拉起飛機英雄是水管工 自由時報",
-      "published": "Thu, 01 Oct 2026 00:42:13 GMT",
-      "display_time": "10/01 00:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例 - taiwannews.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1CX3FyeVlGRzE0NWxieFhrMFJ2ZXhKZ01yeGFKZkI4bjJUZDNpeFMtWUxzZU5UWFdiX0VWcnZnRjF0Y0RYZXBMV2ZYV0h2WXZfOHhrak0wTlU?oc=5",
-      "summary": "美國賓州麻疹疫情擴大 今年第5例相關死亡、確診逼近千例 taiwannews.com.tw 賓州報告第五例與麻疹相關的死亡病例 大纪元 美國麻疹疫情創35年最慘 賓州出現第5起死亡病例 | 民視新聞網 today.line.me 【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執 CMoney投資網誌 美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例 forecastock.tw",
-      "published": "Thu, 01 Oct 2026 08:28:00 GMT",
-      "display_time": "10/01 08:28"
-    },
-    {
-      "source": "Google News Global",
-      "title": "AI需求旺！美光財報、財測雙優 營收年增近4倍 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxYW5Rb0pqa0xTb3o3S193UmpfdHZKcTdnNm0tbm5peHlBUEJvSEppcEZuNTFTbl9HMllGdDY1X1BxaXpZcmhNS3B3N1I0SFBaSzBnSzcyQmZMRHNJRGlF?oc=5",
-      "summary": "AI需求旺！美光財報、財測雙優 營收年增近4倍 工商時報 美光財報超預期！記憶體股卻走弱 專家示警「這變化」 UDN 反指標又發威？她說「這句話」 美光財報炸裂卻漲不動 Yahoo新聞 美光AI需求爆發 Q1財測大幅超預期股價盤後走高 news.cnyes.com 美光財報財測優 CEO：明後年度供需遠比今年吃緊 - 新聞 MoneyDJ理財網",
-      "published": "Wed, 30 Sep 2026 23:19:00 GMT",
-      "display_time": "09/30 23:19"
-    },
-    {
-      "source": "Google News Global",
-      "title": "賓州報告第五例與麻疹相關的死亡病例 - 大纪元",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NeXctMHp2em9EVk5PSGs5ZVVCSFlQRURqRTdlbmFNcHVPZ2Jrc1IxbUtJZHR1amd5Z3BBd2RqbXlGMkFNT2djQjdCREE2MjdJRFd3NURNVW91NVVrYXZRNtIBZkFVX3lxTFBGdnB1LWNMRVhGTWtRSHFMeVdtVk5ZVmVEeWc2b29JV2NQMjlydU1GQ1U3RkVScDFhaU9GSllENXdGSl9zYUxlTlg1V3lpYVcyTGVFV0ItUnR6cEh3RzRFb04xaXRzZw?oc=5",
-      "summary": "賓州報告第五例與麻疹相關的死亡病例 大纪元 美國麻疹疫情創35年最慘賓州出現第5起死亡病例| 民視新聞網 LINE TODAY 【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執 CMoney投資網誌 美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例 forecastock.tw 美國賓州麻疹疫情持續蔓延 確診已超900例 大纪元",
-      "published": "Wed, 30 Sep 2026 22:44:00 GMT",
-      "display_time": "09/30 22:44"
-    },
-    {
-      "source": "Google News Global",
-      "title": "【盤前】美債殖利率又飆高！台指期夜盤下跌32點 台股拚續攻看它 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPQUN3Q0ZubEVmNmRvUVE0TXFmSFRDYWRoajRZdi1rWloxSEYtb05FbHRKQmt3dVdLbW1ER0dLZVdVMWxxNjFzWVFfbnlxU0FGUndEOWhoV3Y1UmNRaS1rZmNfeDdiUjlNUjNnamkwclVNNzM2QzRuODhIeHk2U256b1BjM25KT2hIV3pxMGVGNmNKREdLV3BVV3c3NFZQZVVfcElzTmJvc2REZ0tBUHdrbEU1Y3hjU3VZUW52SWxhQzFMU05mTW8zdzQxY25fTlFiYnBYQTg0SDR3OFNyckRXWU9MeXYwQ3ljai1lamttZmlxZWFrTnotQzBVS3VvazQxaEdsT3VTYjFza1YtVE00ZE1Vb2FrWnRvOUJEYms3RFNzZkpLWmlSUFozajVHSU5zV2JPSGRnVGhHWjl4TkNLQnl6aGpxVE5fODVuU1ZuMzNSQWxjQ1k4ZlZabVY4Z2lkX1dUaW9LNFhpeXZEWWc1NU1CSEcxNWZRUldOallmMUR3SnZBdmc?oc=5",
-      "summary": "【盤前】美債殖利率又飆高！台指期夜盤下跌32點 台股拚續攻看它 Yahoo新聞 美股收盤》公債殖利率飆高 美股多收黑、台積電ADR漲0.90％ ec.ltn.com.tw 美債見5%該逃？超級財報周、央行周齊登場，沒獲利的中小企恐遭血洗…為何專家仍說：長線撿便宜時機來了？ | 今周刊 LINE TODAY 美債殖利率上升「不用擔心」？分析：美國經濟夠強 news.cnyes.com 美債殖利率5.25%意味什麼？這位策略師停止唱衰美債、翻空為多| 全球財經| 全球 UDN",
-      "published": "Wed, 30 Sep 2026 22:21:00 GMT",
-      "display_time": "09/30 22:21"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股收盤》通膨放緩！道瓊跌443點 台積電ADR走低 - ec.ltn.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fNlBRUXNzYW93WW5YZV9HZHFKaktKejljdDVwWkR6WTAyamY4VXlmQ0RiQ2dFMk1BYTVyc0F6VTM2RmdaRFNDZmpkMnJmNDRLclJFWjh4cm55OWo0SFlJ0gFkQVVfeXFMTVAzeU1paWota2NMcW5MYWhzdzlHWWkwLUlHbnhOM0F3U0RHWHAxSGxyMElHNUR1RWRNemNiVFV5blN1RExpRzFESWFkelRHU2t0YWM0dVQ0ZjNHQUJaaTNSY241WA?oc=5",
-      "summary": "美股收盤》通膨放緩！道瓊跌443點 台積電ADR走低 ec.ltn.com.tw 美國核心PCE低於預期 美股為何沒大漲？阮慕驊揭4大原因 Yahoo新聞 通膨低於預期 美股尾盤卻變臉！美債殖利率攀高「那指獨紅」 UDN 美通膨低於預期！台指期夜盤猛拉「一根大紅棒」 ETtoday財經雲 Fed偏好通膨指標出爐美8月核心PCE年增3%低於預期| 國際 中央社 CNA",
-      "published": "Wed, 30 Sep 2026 21:50:20 GMT",
-      "display_time": "09/30 21:50"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈美光加碼台灣〉美光台灣四大基地同步擴產 台中HBM先進封裝二廠本月啟用 - news.cnyes.com",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VR3kxQTFDVllKbV82S1ZaZFpIc0RPdFY0Z2JuZ0tkTkltS2FWQ1lhNHMwNzFUb19vVFlpQTdGUmljbl9xN0xBRHRfcUlSX1U?oc=5",
-      "summary": "〈美光加碼台灣〉美光台灣四大基地同步擴產 台中HBM先進封裝二廠本月啟用 news.cnyes.com 美光曝已在台投資逾1.6兆元！4大基地加速擴產 台中新廠10月啟用封裝HBM Yahoo股市 記憶體仍缺！美光：2027、2028年供給更緊　明年HBM多數已簽約 ETtoday財經雲 美光在台四地同步擴建 攜手帆宣等五業者出海擴大全球布局 經濟日報 美光在台4基地大興土木 台中先進封裝2廠本月啟用 自由時報",
-      "published": "Thu, 01 Oct 2026 05:11:07 GMT",
-      "display_time": "10/01 05:11"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗稱收到美方終戰回覆！盧比歐「失去耐心」要求代表團離境| 中東戰火連綿| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16SjBRUHZaVFBkZTFNbDlvOXBjWnZ1dl96WG9rak9ObkFISDY3X0h5czhVZmh6M0hKdEVoX2ZuTDVuSEwwRGhnYlNnQjgteEMyaUYw?oc=5",
-      "summary": "伊朗稱收到美方終戰回覆！盧比歐「失去耐心」要求代表團離境| 中東戰火連綿| 全球 UDN 伊朗已遞交停戰條件 雷扎伊：川普陷決策「泥淖」 Yahoo股市 美伊停戰磋商卡在執行順序 荷姆茲海峽再傳船舶遇襲 news.cnyes.com 美伊衝突出現解決曙光？ 路透：德黑蘭已收到華府對「七日計畫」回應 Newtalk新聞 川普：期中選舉後可能加強轟炸伊朗！原油升破100鎂、美股盤前看跌| 動區動趨-最具影響力的區塊鏈新聞媒體 動區動趨",
-      "published": "Thu, 01 Oct 2026 04:05:58 GMT",
-      "display_time": "10/01 04:05"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美光財報炸裂股價卻不漲　陸行之示警：記憶體轉向「產能擴張」 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DR1RYSUxxakZ0NDIySVJjN2wzUzZtUFR5SGk0XzdQZmdQbm9ZYzlGV3I4UWVESG5FQTNBX3hqVVI0aUJ2QjUwQ2FtMWRiTzdJdEHSAVBBVV95cUxPcmVkOFBUb1dRdnZnS2dBcUF0OFhTU0xRLXdUeXNjbFlsV2JvZV82UnMyaXNQQnJvQ3RjSUpNZnk1Q1VwM2JKWnpldXRVT1BLVA?oc=5",
-      "summary": "美光財報炸裂股價卻不漲　陸行之示警：記憶體轉向「產能擴張」 ETtoday財經雲 【美股盤前】美光財報炸裂！外媒拋大哉問：瘋狂成長還能撐多久？ Yahoo新聞 美光Q4業績再度炸裂！AI記憶體缺貨推升毛利率至87% 但空頭依舊存疑 news.cnyes.com 台灣美光：2027、2028年記憶體供應市況比今年更吃緊| 產經 中央社 CNA 美光加碼2027會計年度資本支出無塵室擴建瞄準2028年後供給| 優分析 today.line.me",
-      "published": "Thu, 01 Oct 2026 01:08:00 GMT",
-      "display_time": "10/01 01:08"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美軍完全撤離伊拉克！川普高喊「勝利」：地獄之旅結束 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5STTBWM1g0WkxVbVFRN0c1Q1JHTkpGS0xKNlhBQnJGdmdGeDVNRDJuNGhCb2swTVE3UXN5ZThVdjVnMFdyNEhVYi1JZ0x1Ync4ZXEyNS01X1Q2U0RRYy1FZkFzLWR2QdIBa0FVX3lxTE5kQmNya21wYzFBU05DbHhwUmlqV1VWdS02MTIwUm1QRElZbkFuQ1k0MUI1N21TWUx5b2FpRlZPZFUtZGRVNkhub3pmV09YVUlYbjRQdjViTW1zY1NaeWJJTkw4eGJGdnZ2aldv?oc=5",
-      "summary": "美軍完全撤離伊拉克！川普高喊「勝利」：地獄之旅結束 自由時報 美聯軍撤離伊拉克川普宣告勝利| 國際 中央社 CNA 20260930 8點新世界完整版（無網路版權內容除外）｜結束23年軍事部署、美聯軍全面撤離伊拉克；伊斯蘭國恐趁勢捲土重來 你的公共電視 童文薰觀點》十月驚奇在中東局勢的輕紗後| 國際 Newtalk新聞 美軍撤離伊拉克 當地安全陷真空…專家：伊朗側翼民兵、IS恐壯大 UDN",
-      "published": "Wed, 30 Sep 2026 23:32:17 GMT",
-      "display_time": "09/30 23:32"
-    },
-    {
-      "source": "Google News Global",
-      "title": "【全國新聞】疾控中心確認今年第二宗麻疹死亡個案 全美麻疹病例持續上升 - KTSF.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KOUdwb2Y1T1lWMk5YYUlJTXlxSWE2QmlRSk1jNjYyRE5OdUVJa2xORVJEOGRlRWFBOHFMLUZKSmU2N2lQTUtHZWpWVjd5cHNoQzVsbjhWOWlESFJGY3R2X1J1VXA0aWk5akE?oc=5",
-      "summary": "【全國新聞】疾控中心確認今年第二宗麻疹死亡個案 全美麻疹病例持續上升 KTSF.com 美國賓州麻疹疫情持續蔓延 確診已超900例 大纪元 【即時新聞】美國麻疹病例暴增創紀錄！CDC證實2死，川普政府與賓州爆發激烈爭執 CMoney投資網誌 美國麻疹疫情惡化！2026年新增兩例死亡，賓州報告四起致死案例 forecastock.tw",
-      "published": "Wed, 30 Sep 2026 14:32:43 GMT",
-      "display_time": "09/30 14:32"
-    },
-    {
-      "source": "Google News Global",
-      "title": "李在明喊「台海與我們何干」！美議員示警：南韓與中國越走越近 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sTmxTOG5pdjJxdGxIRGVPSXNOQVlFRlRMdzNkanptczg4d3lxSG5FdXJGNlJmQnM1RHh6a0NKSFZXc29pbUo0djluYlREbmc1WWJPRHRJMHY1Ri1YVzJBT2g2bnE0Z9IBa0FVX3lxTFB2bnE2WEtmRVQzeVdaaXlxejRFLVFvaUZzQk9JemJ0QzI1SlRRQ2VLdzg0WUszajNUV3JUSHRzU3pQenR3NmRWVUdJdWNRODRKaEkxSlY1UXhaMnZrMk95WnhRVWphU3hCSXFR?oc=5",
-      "summary": "李在明喊「台海與我們何干」！美議員示警：南韓與中國越走越近 自由時報 美共和黨議員籲審視南韓對中關係　憂李在明不挺台 經濟日報 美議員致信國務卿 促審查南韓與中國升溫關係 | 民視新聞網 LINE TODAY 憂李在明不挺台　美議員：川普政府應警戒南韓對中關係 ETtoday新聞雲 美眾議員要求魯比奧警惕韓中關係回暖 共和黨高層首對F-35零部件事件表關切 RFI",
-      "published": "Wed, 30 Sep 2026 14:22:48 GMT",
-      "display_time": "09/30 14:22"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美8月PCE年增3.4％ 低於市場預期- 國際 - ctee.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mS2M2UEVvOGp0T2NOTTBhRjV0R1dMazNWcnlreWhKU29ldW5QQ2FvVXNBY1cyWE9YaGs1emxWQllaS3d6TDdjdWdBbEJiUFQwVXIzUHdOZ1RSS0Y5MjNN?oc=5",
-      "summary": "美8月PCE年增3.4％ 低於市場預期- 國際 ctee.com.tw 快訊／PCE出爐了！美股開紅盤 台指期夜盤持續48K Yahoo新聞 美通膨指標增幅 比預期和緩 Fed本月可望按兵不動 money.udn.com 小非農先報喜！9月就業新增9萬人 增幅創3個月最大 news.cnyes.com 美通膨低於預期！台指期夜盤猛拉「一根大紅棒」 ETtoday財經雲",
-      "published": "Wed, 30 Sep 2026 12:55:00 GMT",
-      "display_time": "09/30 12:55"
-    },
-    {
-      "source": "Google News Global",
-      "title": "中客最愛鳳梨酥虧損無解 維格餅家宣布終止興櫃股票買賣 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5YTM2WDZ4bGQxZmg5MUduU25sMkxyb3V3M253WFZHSjRWYm5oOUFXaXlhdU5CYzF1aEV5Rk9ic2EyS1czeVZpM1ZKLVBYaFJxRmpkZGtESGtsc1NSZE930gFkQVVfeXFMTmMyY2d1SjYyOFlfbV8yZEVLOWdVTkdTQkVKaEVvd2I0T29yTHpEeU93ZnFaa3d3ank5ekk1VXNmbUNjS1c2SWJCdi1EQTNPNkhqVEdSX1k5RXlKT0tlOGs5OHBVeQ?oc=5",
-      "summary": "中客最愛鳳梨酥虧損無解 維格餅家宣布終止興櫃股票買賣 自由財經 等不到陸客了？維格餅家虧損多年宣布撤興櫃 昔靠鳳梨酥EPS衝8元 udn 陸客曾經的最愛！維格餅家「連年虧損」　重訊宣布終止興櫃 ETtoday財經雲 維格餅家董事會決議擬向櫃買中心申請終止興櫃股票買賣- 證券 ctee.com.tw 鳳梨酥名店維格餅家退出興櫃 連虧6年董事會決議終止買賣 | 上報 LINE TODAY",
-      "published": "Wed, 30 Sep 2026 12:29:04 GMT",
-      "display_time": "09/30 12:29"
-    },
-    {
-      "source": "Google News Global",
-      "title": "烏軍「殭屍車」硬闖要塞！釀2000俄軍傷亡 生擒250人 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oRjJWVDNEMS15WHZFNHV0bk9XOXI5VHlyTWhGT3hkaTBhM3VvNmxlS3JaNDA1MEZlUmZZNWdLUFUteHE0emljUU9GYVpWWUlwUC1IVFd5b2NJUkF2N0FCVGI0djlxd9IBa0FVX3lxTE50RWpTRjNsLWc1eHd5czJfUFYxa1hOZkQxMVUyRHp3aFlfOS1saHgySkZQLXpxUFQwNzlpUkJRbmRlMWpfZVR3c0lpSkVkSGo1TG42a0x2bHh1bnJNZHVHR294ZXlZMU5XNmxv?oc=5",
-      "summary": "烏軍「殭屍車」硬闖要塞！釀2000俄軍傷亡 生擒250人 自由時報 烏軍再出奇招！舊蘇聯裝甲車成「殭屍車」衝破俄軍陣地！「韋瓦第行動」告捷收復失土｜史上首見！東京連35天下雨破紀錄｜2026/09/30 中央社全球晚間新聞 中央社 CNA 比利時將移交3架F-16戰機給烏克蘭 澤倫斯基公開軍備強化進度 自由軍武頻道 全球首例！ 「地面機器人」深入敵後 烏軍竟用無人機空投 | TVBS LINE TODAY 烏軍奇招曝光！「殭屍裝甲車」塞滿炸藥直衝堡壘 逾250俄兵遭活捉 TVBS新聞網",
-      "published": "Wed, 30 Sep 2026 11:24:34 GMT",
-      "display_time": "09/30 11:24"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "【科技企業分紅解密2】同賺AI財？台股前5大企業「員工分紅制度」大比拚鴻海7%最驚人、台積電至少1% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi3ARBVV95cUxNcDZsQy10WEVpN0ItdUlnQ003NVY3cm9JX3JRSmxjX1RSM1B5SEN5TzJ3VkVxSXVVREc5QzZ0WWx1REtNOXJSbVB4XzBUSG1WT0ppM3VkYVltTGdQcGpxT2hSZmNwODRDWGZ4bmxLYkY4N05PVzNPSVFHMWZORThwS0dUVjFKb3JVM0Z4bGQ5NF9xbVc2enlxYlBCSTA2S1RySkZwZGh3TVRWeGwzcU4tWGE3Y2p3TnRGdlhreHlqb0hXQmZuRGR5VFA4Wkc4YXBTLTZQLXVITzJmVWJTbW1reVB2NklVYkRraTZ2R09NT2F5U2JBemMzR3J5bGFWU0RQcVJPaEs3R0thZkRKY2x6TktlTnRPNnh5VlhRcVk0VTZaOFVQUGRrNEw4eDRIRFpRLTYxc0lxc2RzTDNmR0dkMENRcERwQllWQ3lTb3RYTnQwN2NBVXBHRnJrell1dFJMN2tnNGJtT0xRQWFXemxBMGFkdW5NZkhyelN3Y0plT1RVemZpdHJ1S3VPbkVZc2kzcTJheGZRdUdXM2hKRU5nVC1USE9HcVM2a3JqWHpXaER0VGkxcnlPUGwtYnFTeXI5cW5wLVluSm9oZHd2TnV2c3F0dERvdld6UmwyNDNxdFJiOHpyR1NUNVdmX0o3SnZ6aVhvV1FpajQ3ckRuenJKVGNVazh0VzktMUl5YUp6Z0RxUEVaSzJ0UDVDNnZndmdnRjJRbmRYZzFkUHVwb2xEWWxxVnRGRkdwNURqaW1YZm5XMkxhSEtTVGpvM0hodDVsQVRFNXNWOGJWeDFZ?oc=5",
-      "summary": "【科技企業分紅解密2】同賺AI財？台股前5大企業「員工分紅制度」大比拚鴻海7%最驚人、台積電至少1% Yahoo股市",
-      "published": "Wed, 30 Sep 2026 10:49:17 GMT",
-      "display_time": "09/30 10:49"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股ETF「人氣、績效」兩樣情！ 00919吸8萬人 3檔雙料資優生出爐 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS3FwYmctcVh3MkxBdXBKeGk1Yk9DbWt2SUk2SXI0cGxfVVNHVTRUcWhteXhhY1pQMWtVQ3JvQ0VrTkdXVW96S01YcDB2cE5IRkZlR0I1SDJnblVlWlZLaE80aGdBbUNuVmxwcEdkRHZzU1hZVW8yUjRyeUMzZnlEaExBMmpGS0dyWlNHU19zWm1WeC15NjM4X3FlU0dpajNpT0dRZnctSHc2bDFER3NNNW1fYTU5SktHY2V0VkxldDJ3bEV5dFB0TTN6Tkl2ZHRJNncwYjBmWWFXeDYzTjJuQkhGQmlDLWhMckdIN1VaV1c0aXN4N0tnWmVEVUQ?oc=5",
-      "summary": "台股ETF「人氣、績效」兩樣情！ 00919吸8萬人 3檔雙料資優生出爐 Yahoo股市 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Wed, 30 Sep 2026 06:07:26 GMT",
-      "display_time": "09/30 06:07"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美軍撤離伊拉克：為什麼是現在？發生了什麼變化？接下來會發生什麼事？ - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uSTlaR211QTZPaE9KaVZfQ1hhNWd0dExORjJKYnZmUTNZTklNazVWOV9LTXJVN0NUMG5vVGVOWGVZZUQwX0hfdDhPZVFfd2piWWZVYVRkQ3B6UXgwcGNGZ2diQ1l4SHfSAWxBVV95cUxPVG80RVlZUFBDb0ZELUE4X3p4QVRJZHV5VHNiWFNFeXJqV25zdjlaS3lSSHJvanByVmNxdDZRYXJzVUFPRElkaHV6RnVocTBDenFkTkZjbWxNVXZzNUxIQ2VFOTR3X2RuNHViYUo?oc=5",
-      "summary": "美軍撤離伊拉克：為什麼是現在？發生了什麼變化？接下來會發生什麼事？ BBC 美聯軍撤離伊拉克 川普宣告勝利 rti.org.tw 20260930公視手語新聞 完整版｜逾20年戰火衝突 美聯軍全面撤離伊拉克 ｜ 公視新聞網 PNN 公視新聞網PNN 五角大廈：美國正式結束在伊拉克任務| 國際 中央社 CNA FOCUS全球新聞／後美軍時代開啟！伊拉克迎主權回歸 防線空窗恐怖分子蠢動 TVBS新聞網",
-      "published": "Wed, 30 Sep 2026 00:25:59 GMT",
-      "display_time": "09/30 00:25"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普轟加拿大「世上最糟國家」！今封殺3類加國輸美商品- 國際 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54YWN3WDJvUjg4aUUxRmhpc054aFVxMVZXM0hUQXVWR2dGY1BlSm5RLUp3ZjZqOG1EV1JYeXJqbFFEbW5BLTJiUG1qWi1ManZlc0wyZU40ZlN6LUVQeG5qRFVZTnBkdElEMHcyZjZn?oc=5",
-      "summary": "川普轟加拿大「世上最糟國家」！今封殺3類加國輸美商品- 國際 中時新聞網 美加貿易戰升溫 美國製車輛在加拿大銷量銳減逾兩成 Yahoo股市 貿易戰升級！川普祭「全面進口禁令」加拿大鋼廠關閉- 新聞 MoneyDJ 禁10億美元商品進口！ 川普升級對加貿易戰 恐重創期中選情 TVBS新聞網 中期選舉在即 美加關稅對戰場州的影響 大纪元",
-      "published": "Tue, 29 Sep 2026 10:04:42 GMT",
-      "display_time": "09/29 10:04"
+      "title": "美光財報、展望亮眼股價為何沒反應？陸行之示警記憶體模式正在轉向- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pUURzRTRhMXh6Q0N3U2FxMGp6X0VwdUx2RlRnZmhPNF9SRzB6MERvZFVlc19EbmlnS0hzejB0THlxQXRuT1lzMUtwV1M4cDkyaWVuVmYzVE5fWEF2c1JB?oc=5",
+      "summary": "美光財報、展望亮眼股價為何沒反應？陸行之示警記憶體模式正在轉向- 國際 工商時報 台股記憶體族群走弱！全因巴逆逆高喊「這句話」網跪了 Yahoo股市 美光毛利率高達87% 是福也是禍 news.cnyes.com 台灣美光：2027、2028年記憶體供應市況比今年更吃緊| 產經 中央社 CNA AI需求帶動美光營收展望大幅超越預期 長約訂單激增 | 路透社 today.line.me",
+      "published": "Thu, 01 Oct 2026 03:33:00 GMT",
+      "display_time": "10/01 03:33"
     }
   ]
 }
