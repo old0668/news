@@ -1,157 +1,69 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "news": [
     {
-      "source": "BBC Business",
-      "title": "Trump announces 'Super Intelligence Force' to oversee AI policy",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president named his national intelligence chief will head the taskforce as worries over the technology grow.",
-      "published": "Mon, 05 Oct 2026 01:33:08 GMT",
-      "display_time": "10/05 01:33"
+      "source": "Google News Finance",
+      "title": "台股基金前三季大爆發！39檔報酬翻倍 逾8成績效打敗大盤 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdko5bUdoV3JsWVVYMHhHXzdvOFlFa0ZJTGVDYWlna2FXc0g4S0hhZ1hDcGtyMUY0ZzJXX0JBRV9ZXzNSd1NWTWxveGtVZjFaLVhSY1hCek5yblZVaXVXZGFoQkN4UXE0YXc3bzBsSU8tNXZ0Tm9kS0NRY2trOUp3XzhB?oc=5",
+      "summary": "台股基金前三季大爆發！39檔報酬翻倍 逾8成績效打敗大盤 壹蘋新聞網",
+      "published": "Mon, 05 Oct 2026 18:00:00 GMT",
+      "display_time": "10/05 18:00"
     },
     {
       "source": "Google News Global",
-      "title": "台股早盤漲逾千點衝上4萬9 台積電創2580元新天價 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQZDkxQXlVWUNSWnJQZ0RWX3ZVeWlTVzJ1SFNYM2JKZTdMYnhwbl9uTUVma3cxOFpPUFlmb1VFOW1DV1JIcUJLdDU0eXlORlk4X1R1QnZub0FTaFRWeWNQbHBncHBwbWZaaEdmTThZLWV3OGU2ZWVFT1NZRFM5TXhjUk84NkwtbC1hTkdMMlJLVy1TbG44dmNZVEdacHh6aUFOTVBzemVjLUlUY09qal9ZelNOb2ZwVDNST3hmM2pqZkloVGNUUVpYclpiLUd5dG43Y1NTd2QzcXVrSmhMNk4wQjY4QW5ZdTVWbVQweFI5TkFVNUpoVnJCMElFeVBIWDZMUXhEUzBLOVJpZFNWa2dUdHdRT3BIVUVRNU1hZU12MF9ISC15RW02dFcxQkpTM2diYXJEZkQ3Yy03QTlqZ3Jpcw?oc=5",
-      "summary": "台股早盤漲逾千點衝上4萬9 台積電創2580元新天價 Yahoo新聞 台股4萬9來了！盤中漲近1200點「近3個月第三大」 市值一天暴增逾3兆元 Yahoo股市 非農意外爆冷但本週又遇到國慶連假 台積電、聯發科、鴻海、緯創、廣達需要小心什麼??? news.cnyes.com 台積電衝歷史新高2580元　市值66.9兆創新猷 經濟日報 台指期夜盤飆破4萬9！ 專家估：台股10月中可站上5萬 MoneyDJ理財網",
-      "published": "Mon, 05 Oct 2026 01:18:45 GMT",
-      "display_time": "10/05 01:18"
+      "title": "馬斯克晶片計畫找上台積電！英特爾股價承壓 - news.cnyes.com",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vaGlZbWYwRDEwUy1vWk5YREh4YS1ON2ZqcFd1blF3R0N5VERLYXNadUxCRmxOc3NKUXloN3NKMWFrNk4yQ1RRaWw1Y1ltZEU?oc=5",
+      "summary": "馬斯克晶片計畫找上台積電！英特爾股價承壓 news.cnyes.com 馬斯克尋求與台積電合作 專家:想確保晶片供應 Yahoo股市 台積電未官宣、台廠已聞風搶進德州 廠務鏈先卡位搶人搶證照 digitimes.com.tw 馬斯克找台積電買時間 李鎮宇：40年的生態系經驗，很抱歉，有錢也不能插隊 財訊 台積、Terafab接洽獲馬斯克證實 Intel仍有戲？ MoneyDJ理財網",
+      "published": "Mon, 05 Oct 2026 14:30:07 GMT",
+      "display_time": "10/05 14:30"
     },
     {
       "source": "Google News Global",
-      "title": "台股快5萬點不敢買？復華投信：緊抱獲利上修龍頭股 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQaU50dEdmQ2U3cUhPNlh6QkVLRnZtVHFYU2YtSmJuaVN0cWVOLUdTempodjJTLUZWOHFFblBvSm5Mc0NxVDJGRDU2VEk5ejBjWDU4ZnNJc3lud2RDcHJ3R2RacWR3WXJjazh5UkNadE1XdGFYTWFWeWpzbVhqcW5ud3JfSzd2YmNHWEh4ZnlKS2NDcTlkZDd1bHEtdHFNblV4bnJtRzBzOWVMUVNPRGRnN1JVNDNMVFlMYVhmRUVJcXJnUzB3SzJJUXhNcUJaLU1WbmQ2RXRpWGd6WHZSWUNxNVU3U3NibmtqQ0lUcXEtR0h0VV9NT0RncFBsUVItdE5iaHgxcnpMWjFtd3g3WmVwX3ZJOUJBMTV5UEZlOEViaGgtZVdkOTEzUGJnMmg0VVR6V3Y4dWhuQ2x6YUp3YzBVbFdXcnlhRkZDTnZfMGhsallUUDZLT29XcFFSLTJ4MXlSMGJfWERRVGhPeEN5V1FsVQ?oc=5",
-      "summary": "台股快5萬點不敢買？復華投信：緊抱獲利上修龍頭股 Yahoo股市 台股首檔中小股本主動ETF開募雙龍頭法說行情！台達電大立光接連登場中國大陸股市復市！外匯儲備信貸數據同步公布牽動港股與新興市場走向中油宣布油價凍漲｜投資早知道 Yahoo股市 00416A是什麼？首檔小股本主動式ETF登場，AI供應鏈下一批飆股藏在這裡？ news.cnyes.com 台股劍指5萬點　00418A鎖定3大類成長股、10／21開募 ETtoday財經雲 小股本台企近四年擠進市值50大比重攀升一倍 00416A 今日開募 money.udn.com",
-      "published": "Mon, 05 Oct 2026 07:03:31 GMT",
-      "display_time": "10/05 07:03"
+      "title": "光遺傳學奪諾貝爾醫學獎 國內專家：有望助攻失智、憂鬱與失明治療 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54SngzN1Y1M3hmU3ViVzd0U0h1VnhWOV96cFp3YkFBUFBhRVYxeXhWQkk4bVhGWWdDWDhPc3dpbEcxS2F4b01ZSlFRYnFrN21T0gFWQVVfeXFMUDN4RmJhV1U3YTFjbjVTY18yNVpwekFCQS1NZlpqSnRFYWV5Q3hCd0pzdjFYSGhCd0tLc1pnOXgwYmh3VXJNMmtjc3NuZEpVcU1CWjNPTXc?oc=5",
+      "summary": "光遺傳學奪諾貝爾醫學獎 國內專家：有望助攻失智、憂鬱與失明治療 UDN 美學者獲諾貝爾醫學獎自稱「夜貓子」獲獎後沒睡飽| 國際 中央社 CNA 1分鐘看世界／光遺傳學研究大突破 三人同獲諾貝爾醫學獎 經濟日報 諾貝爾醫學獎3學者共獲殊榮！去年和平獎得主把獎牌送川普，今年「避雷」選誰才能扛住他的憤怒│全球暸望 今周刊 【諾貝爾醫學獎揭曉】美、德3學者探索光遺傳學獲桂冠 Yahoo新聞",
+      "published": "Mon, 05 Oct 2026 13:10:38 GMT",
+      "display_time": "10/05 13:10"
     },
     {
       "source": "Google News Global",
-      "title": "大事發生？英國基地「美軍轟炸機全撤光」 五角大廈說話了 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQjhqZExkSWhPcG5xRUFtQnRlRkFNcU84OUJfUFBhWkl6d09mYTBpdUxVMkoydGYtMWF4UVAwam5lbWtWQmFiUFZyYlh4SThiQ0xncjBLRUZVcG1WZlhFb01tWHA3TkRyRnQ0ejJtUUx4blRubUJ6M0hrQ3NDR0RnLXJVYjhjZFBFWlE?oc=5",
-      "summary": "大事發生？英國基地「美軍轟炸機全撤光」 五角大廈說話了 壹蘋新聞網 英國空軍基地疑遭攻擊陰謀鎖定美B-1轟炸機全數撤離| 國際 中央社 CNA 今晨國際頭條一次看／美撤回部署英國的B-1轟炸機 巴西大選進入第2輪 經濟日報 疑有伊朗新威脅 美軍轟炸機全撤離英國基地 Yahoo新聞 英國基地疑似成為恐攻目標 美國空軍撤離所有轟炸機 rti.org.tw",
-      "published": "Sun, 04 Oct 2026 22:46:00 GMT",
-      "display_time": "10/04 22:46"
+      "title": "50,247點！台指期夜盤再創歷史新高| 權證期貨| 股市 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wSlhxeDVMeTA2WjJaa3lOQjVreG9faVU0MVNTc3FqUWRjYjVhWks4MzFxbUMwU21nQjMyMFhvV3ZVWWFZLWw1VUloaXVuRGxs?oc=5",
+      "summary": "50,247點！台指期夜盤再創歷史新高| 權證期貨| 股市 UDN 外資719億灌台股飆千點衝4萬9新高！台積揪高價團衝低軌衛星、PCB一起飛｜Yahoo財經掃描 Yahoo股市 兩大利多帶動 台指期盤中站上50K 後續行情仍有走強機會 經濟日報 台指期驚見50,097天價！拉高出貨？網揭最慘族群：不如買台積電、「這1檔」躺著賺- 上市櫃 旺得富理財網 台股盤中最高49770點再創新高 今年漲幅暫居亞洲之冠 你的公共電視",
+      "published": "Mon, 05 Oct 2026 13:04:43 GMT",
+      "display_time": "10/05 13:04"
     },
     {
       "source": "Google News Global",
-      "title": "台股收49712點創新高 台積電漲75元 聯電逆巿跌逾5% - tw.news.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxORnNrd2FVbUVPaldUbVBTSVRod2plSF9vQTNURzM2MGh2Z1AtYU1IcGUyN19iSW1HUGtTa29ROU0zUjAyUHpmcTNoaGFXbFVzZ0JQSll6MXBkcW5uT2lmVlhkRi1Qc3JZZnFIbWpmSjNEVWFYT25OYlM2X1RKUGVPTXV2LXJ5OU9UOTJ1YjlwRm9BS1lxM0lMajJLSGxqTWlJU1Y3T3FmMUpiTkUzeWlOMFhZYVdCbHRXay1DcU5uZDFDRXVFb3kxbTZyV0pxTUlTQ3FoSmtiMzRCY2F3ZjBPaktNc0lzeTBtY2tEZlRaR0xVajFoUG55VmtEeXRWbFpwSG8tWUJEOEZqUjhLeTVPTXRxZ0VyNnFmbDBOU1kxdjU2TGtQS0ZIdUtmRldBYVp1M0QxNUJMYWY?oc=5",
-      "summary": "台股收49712點創新高 台積電漲75元 聯電逆巿跌逾5% tw.news.yahoo.com 5萬點來了還能買啥？分析師建議「改買這種股」：別再追高 ETtoday財經雲 〈台股盤後〉台積電攜低軌衛星、PCB狂歡 收漲1236點續創新高叩關5萬點 news.cnyes.com 狂噴1,200點直衝5萬點天險！內行卻在悄悄換股？「3大低基期族群剛發動」台積法說前夕4大變數浮上檯面 旺得富理財網 台股盤中最高49770點再創新高 今年漲幅暫居亞洲之冠 你的公共電視",
-      "published": "Mon, 05 Oct 2026 06:17:54 GMT",
-      "display_time": "10/05 06:17"
+      "title": "富邦金董事長蔡明興：台股5萬點近在咫尺 台積電跳一下就過去了 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPV1E5Q3EwNGFPRWRPTXlSRFRVMW5ua2UzdUdyU0ZZLXZpUXM3c1FkOEVEc1puUldNUGJjMVVGQzdVRXpHTHozSUdNRE1BYndVcDUxZVFEYlpSbjZlbTBpdVNIRWhyLXhGSzQxRmh0LVZ5Xzc3T0RBaGNkSXd2Wmx3OEc4STVjQzlZOHo5dW9RTWFzZVNOTVQ1TGZlQlVFZWRsMDFtZ3RhRFVhU29hbVJ6eF81Q0gzLTMxVnVQcldNaEJLNDV0eGZrZXAzUksxWWR2R0swSXVaQS1YcDFWX21PMFJJLXo2OElIaVYwVzJkcTByYkd4TnVYb1NacV94Tm5kSDgyNk5UR1B1c1dELWpPVEI1ajlBcXNsYUQ3WEw4T3hiT3NlRG9EcWRsdTZRQm5qMEJIMGxNRUVHX191OFZDQmx6amsxQ3g5NkJnVnhiY1prMFpJX2pnUVZsVXJxVW5PWE03eFI5ZnJBVFFMekFxYnBBNjRZX2h3R2tlb3FwYVExeWYwR1BVcjRXNThwdzFv?oc=5",
+      "summary": "富邦金董事長蔡明興：台股5萬點近在咫尺 台積電跳一下就過去了 Yahoo新聞 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Mon, 05 Oct 2026 12:17:33 GMT",
+      "display_time": "10/05 12:17"
     },
     {
       "source": "Google News Finance",
-      "title": "〈財經週報-台股看盤〉傳統旺季疊加AI需求強 台股多頭續攻 半導體族群看俏 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zU1ZyU01EOUhuZDlhTmdNX0JLTkZGU3JDMHFoa3NPNTFJd0dyMEdlTEduRk5kb2k2M0QwYkdfNEFMS0dlS2lXTkxUUmxOb1d0T2oyd1U1RXVYM03SAVtBVV95cUxOc1NWclNNRDlIbmQ5YU5nTV9CS05GRlNyQzBxaGtzTzUxSXdHcjBHZUxHbkZOZG9pNjNEMGJHXzRBTEtHZUtpV05MVFJsTm9XdE9qMndVNUV1WDNN?oc=5",
-      "summary": "〈財經週報-台股看盤〉傳統旺季疊加AI需求強 台股多頭續攻 半導體族群看俏 自由財經",
-      "published": "Sun, 04 Oct 2026 21:30:00 GMT",
-      "display_time": "10/04 21:30"
+      "title": "台股挑戰5萬點 蔡明興看好大型股接棒、健康輪漲 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcU1NSjg2WjNYR2ljV0gxRk9taGp1S28wREliNWpBTENSZjNjV3JISWp2bVA5NFM3LVQxVHNIUjZlVVFqbENhZFFaT2FLQzlaaGRTVkJZSUpQU2VlUDc2RDNtYmo4LURDNmN6WEc1ODhjMl9HaUpJektyQmNFTlB2S3Vn?oc=5",
+      "summary": "台股挑戰5萬點 蔡明興看好大型股接棒、健康輪漲 壹蘋新聞網",
+      "published": "Mon, 05 Oct 2026 10:44:00 GMT",
+      "display_time": "10/05 10:44"
     },
     {
       "source": "Google News Global",
-      "title": "台積電可能加入 Terafab，馬斯克證實正在洽談晶片製造合作 - finance.technews.tw",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbDZKT250TVBMQXJhZm9TZHpjYzVIREF2VzFVSE9FcFY3eU80Vi1uTVM0OHNQRlM0OTV4RENhcXJpRFRyT2xyNFYta29YeDZYSXpTRzFiSllvRFptbDNGRDNtTC12TThXTDVqanpEejVFNk1BTnNkWjdmTFNZNHZ4cGd6WmozMlpFb1VrempoTldVMWpQcnZTWm9KYXVveW5qeWRSbFVxcWRjSmtvQkJqWA?oc=5",
-      "summary": "台積電可能加入 Terafab，馬斯克證實正在洽談晶片製造合作 finance.technews.tw 台積電驚傳「親自找Terafab談合作」！馬斯克親口證實是真的：或許會有所成果 Yahoo新聞 從馬斯克擬建晶圓廠 看晶片變局 經濟日報 台積電10/15第3季法說會 外界關注是否會與馬斯克合作 你的公共電視 馬斯克Terafab為何找上台積電？魏哲家早說過一句話 殘酷現實曝光 自由財經",
-      "published": "Sun, 04 Oct 2026 19:26:47 GMT",
-      "display_time": "10/04 19:26"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股Q4大戲台積電、大立光法說必考題、觀戰焦點一次掌握- 日報 - ctee.com.tw",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84MTFkMkNBY1g3RTd3ejNVMkthNUtCMFhya1RKX0NNN0RJMzlEd2d0LUsyRUZRWWRybWZMZ19fd21UdmVxd09mdUJLQXd5R3p5Rm95QjJoSXlxbGw1UGtz?oc=5",
-      "summary": "台股Q4大戲台積電、大立光法說必考題、觀戰焦點一次掌握- 日報 ctee.com.tw AI會旺多久、會不會赴德州設廠？台積電法說15日登場 聚焦三大議題 Yahoo新聞 台積2奈米良率甩三星/Intel？先進製程滿到2028 MoneyDJ理財網 台積電將成2027年最大贏家！外媒分析曝驚人理由 股價上看這數字 自由財經 搶先卡位法說會行情 台積供應鏈24檔 Yahoo新聞",
-      "published": "Sun, 04 Oct 2026 19:00:00 GMT",
-      "display_time": "10/04 19:00"
+      "title": "台股快5萬點還賠錢！苦主虧60%曝「套牢名單」：還爛在原地 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RRVc4YkRYZVVFc2k4SVo1OWdOQ1BKT1dVMkNYdUdmVWNpTS10Yk1pdEp3R0g4OXdCRnpmWHBfVWFXNGFMLUlDM0VvLU4wRzZ1TWfSAVBBVV95cUxQaWNPdi1wNW1GUTduZVlvOE1aZG81dENNU0h4ZXhJRFU4LS1HTm5QZlJGWkQxYW9YWTcyaWpRLV95LWIxX3VhbzRwZ1Fqd1N2cA?oc=5",
+      "summary": "台股快5萬點還賠錢！苦主虧60%曝「套牢名單」：還爛在原地 ETtoday財經雲 你的股票有賺錢嗎？一票苦主曬「血淚戰績」 慘況全曝光 自由財經 台股衝49770點 他急問「現在買還有救」？ 專家建議：先落袋 東森電視 台股49K站在高崗上能買啥？分析師點名載板漲多勿追高關注「這檔」指標股- 證券 工商時報 台股「光輝十月」要衝破5萬了？專家示警「先別FOMO想追高」：這波站賣方 | 張大任 | 新聞 Storm.mg",
+      "published": "Mon, 05 Oct 2026 09:35:00 GMT",
+      "display_time": "10/05 09:35"
     },
     {
       "source": "Google News Finance",
-      "title": "台股量縮創高還能攻？投顧看本週上探5萬 台積電9月營收成關鍵 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2ZicWY1MHVGN2dFY0pFLXFLMkptODlaaEhzLWg1NTBOVXJ3dEl1YmpGMVBLaTlURFlZX3JuY3RsUU5sUTg3blNRbDZQNDlEM2dyaF83S3Eyb3dxWExZc1ZNOFNvaS1mZU1lbk82LVZzT0Rad0c5WVNVbEJBV1FwUUdn?oc=5",
-      "summary": "台股量縮創高還能攻？投顧看本週上探5萬 台積電9月營收成關鍵 壹蘋新聞網",
-      "published": "Sun, 04 Oct 2026 17:00:00 GMT",
-      "display_time": "10/04 17:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "LTN經濟通》全球引爆柴油荒 台灣搶到一杯羹？ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lSTRFTDVsT2FnRzNXdW5WUGo4cl9Jc2xCZTE4Z1c3ZF9NeDNmdUFBamp2c3JfdWtReS10UFBwWVJHMkd5WUJpWGxIWjJCYjEtUFBOUmtCS0tzaEQycGYw0gFkQVVfeXFMUGxnOVlodkpNbjNyQnl1TWhqdjg2RW02czNxeFlIeUJPRHJIX05POEtqWHhBbjAyb3pPdzhuX3cxUDNDbm1velRZTVFWeG1Gc1VSU09XeEZ0M0QxVjR0Y1BsYmFnUA?oc=5",
-      "summary": "LTN經濟通》全球引爆柴油荒 台灣搶到一杯羹？ 自由財經 G7釋出緊急儲備後 川普宣布不禁柴油出口 Yahoo股市 MoneyDJ新聞 2026-10-05 08:05:19 黃文章 發佈 MoneyDJ理財網 國際能源總署：成員國迄今釋出3.25億桶戰略儲油 money.udn.com G7突宣布釋放1億桶戰略儲備！油價跳水後反彈 美伊戰事仍是最大變數 news.cnyes.com",
-      "published": "Sun, 04 Oct 2026 23:00:00 GMT",
-      "display_time": "10/04 23:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "預言台股攻上5萬大關時間點 專家曝4大利多點火：周一開盤這檔必漲 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxQMnZIY3NwLUp1bVZ5LTB4eHRRb3Y1MjRXZlpYTFhBVGJfajZWcjR6NHY4a1VpMmxaTm9rcjJSU051RmZJeEtiZ29WUVJ2UDZyUnc3SkRQRlBVMHZKYWJWRXZrWDVwQ0JYbGM3Q0RRb3RDZVZYdDJ2QnZLaFFaVDNORE1oaWNRQmZHcTRjdGFhTkR4QXh2V2pNNEtwRm1QQ2M2ZWFmY1ZOc3J4Xy1uaDI5cmVrdlhoMlFnbzItTmc1N0h2cHFNMldpM25mNmJIb1NONDlJeUU5dFo4Q2Y2NzAzWTA0Y25UTmJ2Y3htVmd2bkZRRTY0bjh2d0FJWHJVc0JFdVBhM2Q2S094YklOb2l5WDBHODc4aHhxX0Rkazc5dlhWU3hVc0x3VHlQNDIwRDd2YjczUnVKNUprdGxpaE80MXNnWmlOc0lfSE9OekNtREtvYkhIQXVLbVl6d3ZvM0FzOV9aajBGSXdXemlxTWZSR011TmM4b19ESFROUU1hMGtFcUV2aFh3cUJ1dms3Mm5IeEZobVU4Q1hESXEtMlE?oc=5",
-      "summary": "預言台股攻上5萬大關時間點 專家曝4大利多點火：周一開盤這檔必漲 Yahoo新聞 下周一台股準備噴千點？缺貨潮燒到明年仍未完分析師點名必搶黑馬- 證券 工商時報 台指期夜盤飆破4萬9！ 專家估：台股10月中可站上5萬 MoneyDJ理財網 台股好強！今年漲幅67.37％ 勇奪亞股第一、續超車日韓 自由財經 台股無懼國際市場紛擾逆風創高 下周關注這些「變數」 news.cnyes.com",
-      "published": "Sun, 04 Oct 2026 11:47:04 GMT",
-      "display_time": "10/04 11:47"
-    },
-    {
-      "source": "Google News Global",
-      "title": "U15世界盃》賽史第2次無緣獎牌戰！ 台灣隊最終排名出爐 - 自由體育",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wS01XSjFJVTQ5WFpucmlPM3IzVnlBbjgtVDhsX0VZQlFjV0RPZkkwdnZkenExLXJYQVltQzluNVZwZkF4U0hpQVN4a3FUTHd0T3Q0NGVsb2xoMlBkUkxfYtIBZkFVX3lxTE1qb2xqQ2cxVG5IMFBXNWRkb3RKOUwxelBXVlFWUlBBODRqNFN0QUJHSTk3OGlXbWpFN3FoQXlhSkc2UHlFQ0tfdW5HZjQ2di1McWlabW84MWVWYlh1UmRIN2dqdkZxQQ?oc=5",
-      "summary": "U15世界盃》賽史第2次無緣獎牌戰！ 台灣隊最終排名出爐 自由體育 U15世界盃》台灣隊慘敗無緣連3屆季軍！多明尼加闖冠軍戰強碰美國 自由體育 U15世界盃棒球賽投手群擋不住台灣不敵多明尼加| 體育 Newtalk新聞 2026 WBSC U-15 棒球世界盃：墨西哥在延長賽逆轉擊敗美國；日本登上超級循環賽榜首平手位置 World Baseball Softball Confederation (WBSC) 美國破不敗之身！U15中華隊金牌戰還有希望　晉級條件一次看 ETtoday運動雲",
-      "published": "Sun, 04 Oct 2026 11:39:00 GMT",
-      "display_time": "10/04 11:39"
-    },
-    {
-      "source": "Google News Global",
-      "title": "蔣萬安談美沙冬維持療法 北市衛生局急回應 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNRzV1WUFlcFRyS01QU3pUb0hhVl9TbTJWMURIbzNZblpYV19QSGpPODlYMHZrMGVhUGRXSk5Tc3JNd3QtQ3hGXzAydVhKblFyTTlYd2lWdXRvRWVnX1VpSGRTM0ZlMVdsb1RMaXBZblhVNFNWRG5YN2ZXS3FYZ0k0a1hoNTJHSUtMR3J5YXBSd0tTVTFfVHpLQUpwMFo5YXFpRHZndV9BUGxPbl9kemZycEtueTdEaG1YVGtmZHN4TEFJUWduVUZUV1Q3a2IyNGRhT1R1ZWNWMW1qU21yWUFXQzlsMVk0T05CR0YyR0QtMVo2ekMzYXNsZVNyX0d5SWhJS19RNnk1QWtHdkFlRmtTSWw0OGxjUFZPQUQyMG1ZT1haZHRBUlZUVmpCRnBwOTBBYmlSYXZhV1M?oc=5",
-      "summary": "蔣萬安談美沙冬維持療法 北市衛生局急回應 Yahoo新聞 機器人灌爆蔣萬安臉書？名醫不裝了曬「一圖」揭真相 Yahoo新聞 美沙冬與乾淨針頭成北市選舉議題戳破毒品零容忍政策| 總編News開箱 聯合報數位版 蔣萬安批以美沙冬遮掩說法 沈伯洋：毒品立場沒變 你的公共電視 美沙冬減害遭質疑 專家：不等於鼓勵吸毒 rti.org.tw",
-      "published": "Sun, 04 Oct 2026 11:17:55 GMT",
-      "display_time": "10/04 11:17"
-    },
-    {
-      "source": "Google News Global",
-      "title": "重磅政策！《決勝時刻：現代戰爭4》雙倍經驗判定更改　網讚爆 - game.ettoday.net",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IM0hBLUlCbURYMWtNYWpkOU5mWFliN0NoZG55OHN0SzlnelBMcmFKeXJGejExR0FYZnliWmlRdlNTUG5hN0xqWm5DZm5Od09xQXdrNTZWMNIBTEFVX3lxTFBaUjB2Q2Nka1d4aHZxTUpyQlgwYkhTWEcxR1otc1JXb3p4cjl4SmRUQ3R5TGhKZ2hhekZ2ZktDUDlDZnYzd0pha2t1T18?oc=5",
-      "summary": "重磅政策！《決勝時刻：現代戰爭4》雙倍經驗判定更改　網讚爆 game.ettoday.net 《決勝時刻：現代戰爭 4》推全新伺服器剔除技術 隱藏玩家資料打擊透視外掛 GameApps.hk 《決勝時刻：現代戰爭4》公開全新「Collateral」模式，玩法向《CS》靠攏 GANK 電玩誌",
-      "published": "Sun, 04 Oct 2026 10:52:00 GMT",
-      "display_time": "10/04 10:52"
-    },
-    {
-      "source": "Google News Global",
-      "title": "經濟日報社論／從馬斯克擬建晶圓廠 看晶片變局 - udn",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IbmJuSkNZcnJnbDkwZ014RW1QR0laT0NBbTlMOVExQjliQzY5dFpiQnpjdEpnaE4zc2FvRmlhQ2dheTdpcXREZ0xldXJNeUlJ0gFWQVVfeXFMUFlsbC10b3E3NWdEcm1GYU00V2pXaF93WjN6NWtrc3J4WU9JMll5a2ZMQWZ5QTI5WkRKWlpJSGdjQ0VabnVNbThPck9peWUzdFJrYU5LSmc?oc=5",
-      "summary": "經濟日報社論／從馬斯克擬建晶圓廠 看晶片變局 udn 魏哲家早說「沒有捷徑」　馬斯克晶片廠如今傳找台積電合作 ETtoday財經雲 特斯拉 Terafab 接觸台積電探索合作方案 業界看英特爾仍扮演關鍵 money.udn.com 馬斯克找台積電買時間 李鎮宇：40年的生態系經驗，很抱歉，有錢也不能插隊 財訊 台積海外再出擊！攜馬斯克德州設廠英特爾與Terafab合作進度曝光- 日報 工商時報",
-      "published": "Sun, 04 Oct 2026 18:18:49 GMT",
-      "display_time": "10/04 18:18"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台達電、聯發科、南電、華新科…20檔「低基期股」接棒台股衝關5萬點！「億元教授」點它有望挑戰股王 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaGM4TGJtdWhxYWo3a2kyb05EVmZCWjBod081Sk40XzVxSVk0MjhGdmp1RDk2dHVVOEY5RjMxX1g1RUJqUmlyRVZzcmtfTmRpWlc4ZzJEOXBUekVERnB1SjdOdVJ1OGJoWlhCaVAyWGJPaWU0QTNvUDh3eVIycC1tWQ?oc=5",
-      "summary": "台達電、聯發科、南電、華新科…20檔「低基期股」接棒台股衝關5萬點！「億元教授」點它有望挑戰股王 今周刊 林鈺凱︱基本面有撐指數慢牛續行- 日報 工商時報 一周盤前股市解析／先進製程、封測 前景俏 經濟日報 台股第四季回歸基本面 聚焦具實質獲利的半導體與 AI 供應鏈 自由時報 台股5萬點要來了？江國中點名4大產業：卡位缺貨漲價飆股 Yahoo新聞",
-      "published": "Sun, 04 Oct 2026 10:15:00 GMT",
-      "display_time": "10/04 10:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "普亭新空襲戰略曝光！俄突警告撤離基輔 澤倫斯基不甩川普將加倍反擊 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10UkJDcVJBb00wc3JwMUg2bzl0U2xkZ0d4c3NzVS05cWR5Y0l4MGFLYXBzampnSkdneTFrbGU1RXN2ek11WFRrSlRWVGQ5dVFt0gFWQVVfeXFMUDB0ZXJ1NzZtcU5adkFhT21xNWJoNENyaDYxUE0tczlVWGVmc3Bzb1NxVW54NGhZdlpSLUxJaENMZm9ET1VqRUVUT0Z5MFJoOGtxakl5VEE?oc=5",
-      "summary": "普亭新空襲戰略曝光！俄突警告撤離基輔 澤倫斯基不甩川普將加倍反擊 UDN 俄軍將加強攻擊烏克蘭回應澤倫斯基受訪談話- 國際 工商時報 俄烏戰爭再升溫！澤倫斯基下令加強攻擊俄羅斯煉油廠、反制普丁冬季空襲 Yahoo股市 俄羅斯揚言對基輔發動新一輪攻勢 促外國人撤離 rti.org.tw 基輔第2座大橋遭俄軍空襲 市長籲全面備戰 | 中央廣播電臺 LINE TODAY",
-      "published": "Sun, 04 Oct 2026 04:37:51 GMT",
-      "display_time": "10/04 04:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "聯合報社論／兩架戰機降低疑美，外交國防外包疑慮難解 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MR2ZITnFwelZNeTliZ2p0QTFaMzIwOEJGRUxfUms5aHRwU3ZWNFdsWFBwRVdPVzMyNEJ4V0FnSmN1ZWVMY2lReU1HOWxySkhq0gFWQVVfeXFMTlRnVUgzOWU4cGxmdUtpX05RUzJYUnh0YzloSFpwSjh2T1FlUEVOc3RFVmNudFFfTWVUdUo4ODFBaVY5QzhDdUxBUXJuNXp6aXJ2VEVvb2c?oc=5",
-      "summary": "聯合報社論／兩架戰機降低疑美，外交國防外包疑慮難解 UDN 台灣一拿到新F-16V 川普發文秀我國旗 解放軍報馬上登出「推進祖國統一大業」 Yahoo新聞 470億F-16V遠距武器有什麼？135枚SLAM-ER曝光 其中64億頗神秘 自由軍武頻道 F-16 BLK 70 抵臺 空軍戰機伴飛輝映 | 青年日報 LINE TODAY 為何F-16V拖到現在才交機？唐湘龍曝「與習近平有關」：打亂空軍佈局 | 林子靖 | 新聞 storm.mg",
-      "published": "Sat, 03 Oct 2026 17:05:23 GMT",
-      "display_time": "10/03 17:05"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普會氣炸今年諾貝爾和平獎可能不是頒給地球人或在地表上的組織| 國際焦點| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBud041akUzeXFfRGhSMmdRQWVYQ01yZVQxbHdNZFoyYS1sWnNFOHdVQ1p2aHlfdlBKSVhacGVVSDNlY1c1UDdENFd2WWdxTkpR?oc=5",
-      "summary": "川普會氣炸今年諾貝爾和平獎可能不是頒給地球人或在地表上的組織| 國際焦點| 全球 UDN 諾貝爾生醫獎今揭曉！GLP‑1減重降糖研究成今年最強候選 3科家學是大熱門 Yahoo股市 2026年諾獎花落誰手？人工智能如是說 | 德國之聲 LINE TODAY 川普會氣炸……今年諾貝爾和平獎可能不是頒給地球人或在地表上的組織 經濟日報 諾貝爾獎明起揭曉！AI押寶「瘦瘦針」 ChatGPT預測不存在的數學獎 自由時報",
-      "published": "Sat, 03 Oct 2026 10:05:55 GMT",
-      "display_time": "10/03 10:05"
+      "title": "光輝10月！主動式台股ETF強勢回歸 5檔勁揚逾4.5% - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQb0MyNjlZMGRIZG1Yc01sU1V5X29LUWhXc2U1QUdVOFNuZlZEYTI3MGpJcXkwWFNscnJzOEd6OWlGc2ZvRkZpZVkwLWEwdnR2OGRZMXJPeDFjbGpVd2dpMkNUM240OTBvNndVRzh2eEoxdUh0QS1xUms3YkpKb0JfWUln?oc=5",
+      "summary": "光輝10月！主動式台股ETF強勢回歸 5檔勁揚逾4.5% 壹蘋新聞網",
+      "published": "Mon, 05 Oct 2026 09:16:00 GMT",
+      "display_time": "10/05 09:16"
     }
   ]
 }
