@@ -2,38 +2,6 @@
   "date": "2026-10-08",
   "news": [
     {
-      "source": "CNBC Finance",
-      "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
-      "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
-      "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
-      "published": "Wed, 07 Oct 2026 20:25:25 GMT",
-      "display_time": "10/07 20:25"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-      "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
-      "summary": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
-      "published": "Wed, 07 Oct 2026 19:14:03 GMT",
-      "display_time": "10/07 19:14"
-    },
-    {
-      "source": "Google News Global",
-      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFTFdsdWlQVDN2WURQSk1HTUowcVdTOVJ1MXZ1c085WTFQVS1xLWE3SlJBbnVZSk5lWVhOZldXYnp6b1pzX290TnU3N2p3bTBVVWJCTkFyb2U5U2RjOVhwVS0xTkVzVUXSAWxBVV95cUxPc1pycEFnOTdkenZVdUhwYkxxMk1ZMXlyWEg0M3JEMmxrZFMxWUF4MjJvOTFrbU1LMDFWdlg3YW5YcWU3aHNjS0hmWG5LelpxY3B0UmJxVWVTSHFHajJLcHpROHM3T18wMzV2U18?oc=5",
-      "summary": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化 BBC 肺鼠疫致死疑雲！肺鼠疫是什麼？跟新冠肺炎有何不同？全球公衛恐慌再起 專家、疾管署全面解析 工商時報 俄爆疑似鼠疫第2例死亡 專家示警寵物同有染疫風險 自由健康網 俄羅斯傳鼠疫死亡病例 蒙古下令邊境加強監測 | 中央廣播電臺 LINE TODAY WHO 估俄鼠疫風險低、川普將與普丁通話 疫苗股摔 TechNews 科技新報",
-      "published": "Wed, 07 Oct 2026 16:15:46 GMT",
-      "display_time": "10/07 16:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "不是南亞科！ UFS 5.0記憶體台廠王者是它 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWTVwZnFGNXJ2bUIzWFlJTllEN25KcmY3a1F3ZkVuQnJ2V3RHeGV5eXFGTThKVktVVTBpQ1VWUkVsaEUySGxZZGxpUUpNVUpfU3ZhVHVDclpaY2x4T2xJSkhQd1ZiRUxTbVdwSWV0cnRUTzZhaFhxYWF4QWllbkFxa1g0NHBab3ZFYWZ5Wmo2NHRlWE44ckdkM3FUekRfOWNfZ1FhejkyellEV3llUmI3dUF2cXlQX1FuNmhzVnE0bDlSMG1SVXliS0xsb0FZNERabFhNUXlaZUxpazlxdTFGQzNTN1M3QlFQU2RtT0lFOTc2S2FQTzVqZjBHblAwWDViTmZpSDRB?oc=5",
-      "summary": "不是南亞科！ UFS 5.0記憶體台廠王者是它 Yahoo新聞",
-      "published": "Wed, 07 Oct 2026 16:05:00 GMT",
-      "display_time": "10/07 16:05"
-    },
-    {
       "source": "Google News Global",
       "title": "收盤創新高！台股ETF近一月績效前10強 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUDZidUN0QS1SSWI4QWktQ2p3a0ZYaVNCTkk3dnBZRVNrQ1V4cHVlWExRNFZKXzRjYmxWVkNzaG1FdFhycHZzRndmZUd2NGg1Q2lRWmFWM1dzVGlCZ0ZsWXJjMmFFaXdzamg5alRGWG1hLXUwcXFxWmxKVjFYOTVGMG1kOHBYLXJIOFRiSFpWQW1VVnRUZ2ppVGJxZ0RvZGJGOUVuRXF6aFFRWVhyUVlEZ1M3NUJUbWhISEpaVklkLWpTb2gyd2FjYi1fcjVUOElpeDhxdUs5ZFJwR1B5eEtIZUV5SWdySU5XUHF0azNUWUtZNlJKSXJMYQ?oc=5",
@@ -59,11 +27,91 @@
     },
     {
       "source": "Google News Global",
+      "title": "台股下跌492.93點收49313.44點 台積電跌35元 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQd1k2c1JhU1hRYVNRNE9PR19lVENGUm13bVpsNXFMVXNJTEJrSlh0cTBBWkw0VXRoTDR5clVYNEtFcWZQQzRtR0VCeWxLaG1kMjYyck9QaHdsX2JER1BwOVpIM0RNS3c4YUlnVl94NHotWHVXcDE1cXFDNXNGSGZaM1pCWE9vQWp0QW15ZjcxV3ZRREdxQVpyOThLVUFKbS14eXRheVhndkZfakVwclpvb05fYkxYdjloMlZWdTZEaW9CWkZDaDRNVjFPSDJMaG5LMW1paDEwMnFiNmstbTVQaktiRU5LTFpUczJJeVRRRGdCZ0R4UGpR?oc=5",
+      "summary": "台股下跌492.93點收49313.44點 台積電跌35元 Yahoo新聞 台股挫492點險守49K！台積電收最低防疫、塑化股逆勢噴出- 證券 工商時報 台股收盤／連假前變天！台積電挫35元台股跌492點 記憶體被動零星點火 Yahoo新聞 科技股弱勢台股收跌492.93點 週線連4紅 中央社 CNA 盤後／台股重挫492點 戰犯是它 三立新聞",
+      "published": "Thu, 08 Oct 2026 05:49:51 GMT",
+      "display_time": "10/08 05:49"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台積電9月營收衰退！今年前三季仍衝到3.9兆元 史上最強 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxORGplSlpKR2otSmpLaEowdWkxemNZaFhJVEEwOS1nSFlyelBGWm41N2U4ci1DNEtMZDBTd3IzZGdIQWRYODZMU2h6SjN1NjNuSWY3YWM1QjRwQ25JSks2Z1ExWkM2cVVOaVhpazN5MjFwaTBMbEU3ZzNMRjhBMmdUajNXaDUzeTB1UmlNNV85WFgxUWlCNWdxTFVZUkdJaEduRDhZSFJIZHo0UDZ6RUJBaGhjMU5nbnI3Q0loZS00U0txZDNXeWRPdkpNZndOS2tCWjlLT1VKWmJIVlduQUtKZlhRb2RBN3hyRWtsWUV5Y1lIb2kzRFlPVHBEU0RSQ2RlNmEyQjNOTm95VXdENm9Tc2VPMWlDbmFOTFR2cEVXXy1pYk8zazUtSVZIR1h3ZUk4OGY2NV9GZm9EU0VycF9tUUw0cTFvTXRHOFlzcG5ZNkZMR1BrWTNuc1c4XzNpSFlnUl9fSXJOMWplZmg1OWdraEZmWWM?oc=5",
+      "summary": "台積電9月營收衰退！今年前三季仍衝到3.9兆元 史上最強 Yahoo股市 快訊／台積電9月營收5118.57億元　月減0.6%仍刷史上次高 ETtoday財經雲 台積電9月營收5118.57億元寫單月次高 Q3登1.49兆元同締新猷飛越財測高標 鉅亨網 台積電9月營收站穩5,000億 美國擴產與Terafab合作成法說焦點 DIGITIMES 台積電法說行情升溫！00891近一年飆138%、規模站上714億 UDN",
+      "published": "Thu, 08 Oct 2026 05:45:52 GMT",
+      "display_time": "10/08 05:45"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
+      "link": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
+      "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
+      "published": "Wed, 07 Oct 2026 20:25:25 GMT",
+      "display_time": "10/07 20:25"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股5萬點情怯！「這檔」迎「金九銀十」助攻衝18萬張居冠台玻Q4玻纖布營收占比拚逾50%成焦點 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQTVlrX0IwOGhUVWtIUXpiYVk4N002YllPbXhua1pRd3RZYm1wNDlJXzJPbnhPZHRDMXZfeE1nS01XZENXOTRMNFBRMFhWVWtKU245aXZzRVM3R2pBa0dGdnZlSVZxU1FLRmRwejd2b0J5b3h3TGFnWjlVVWF5ckJmX3c3LUZfbXQzSWZUVjZrUlhRNjlrV1BHSDhxeDAzUmZ6S3BvRTUxOTUwNWQ4dm1QOXhyTEQ1MWpJbjRJb3hTUl82c0JPTzRYWHFraDQ5NndqUUZ3eHRNbVRtRU5TcTJNbkg3UmRQWGotVndma0lzWXJWa19vOVVkaXMyeHFjTWp1SHk2QTFxRlJtanU5WUhNTkZLeVNhLWxCTm1kOUtOY0xWYThQVHEzVFJFcVlyR3RodXZLMkh4MGZvZ05yVUhuUkVBMnRpdkNkVDVhQU0xRkhsOWE5?oc=5",
+      "summary": "台股5萬點情怯！「這檔」迎「金九銀十」助攻衝18萬張居冠台玻Q4玻纖布營收占比拚逾50%成焦點 Yahoo股市 2330 台積電 - 10/7 吃飯了喔🔥🔥 - 股市爆料同學會 CMoney 外資投信鎖定這檔加碼？它成交量破22萬張 鏡週刊Mirror Media 塑化老象發飆、被動元件與光通訊全面噴出 聚財網 10／7台股雷達｜國慶假前觀望氣氛濃台玻、台塑逆勢爆量漲停原因曝- 證券 工商時報",
+      "published": "Thu, 08 Oct 2026 03:43:58 GMT",
+      "display_time": "10/08 03:43"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
+      "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
+      "summary": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
+      "published": "Wed, 07 Oct 2026 19:14:03 GMT",
+      "display_time": "10/07 19:14"
+    },
+    {
+      "source": "Google News Global",
+      "title": "影／伊朗猛攻科威特美軍基地！CBS獨家揭露遇襲畫面 守軍趁夜撤入沙漠 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81VUZEaXdLVkJUX09GMFk4MzJBeWVLSWJFMTVVb2REeEJwZmZRMGkxTGtLRzJNdVVidDFmdm1LZm1XQ1hYMXlXYWhoYnJ6Ty04YWhJ0gFYQVVfeXFMTnVHTzhESHQ3RThreWZpMW4yTFg5eUdQdllKclRBOTBDd1JqT0ZIZTFGdnNwRGEybC1wMzQ4RllCODMxQmNsS3I4MFo1QWRzUlh3WlFtMThpSw?oc=5",
+      "summary": "影／伊朗猛攻科威特美軍基地！CBS獨家揭露遇襲畫面 守軍趁夜撤入沙漠 UDN 科威特美軍遭伊朗猛攻畫面曝光！　守軍被迫撤退沙漠 ETtoday新聞雲 影／伊朗猛攻科威特美軍基地！CBS獨家揭露遇襲畫面守軍趁夜撤入沙漠| 中東戰火連綿| 全球 UDN 伊朗猛攻科威特美軍基地 CBS獨家揭露遇襲畫面 守軍趁夜撤入沙漠 世界新聞網",
+      "published": "Thu, 08 Oct 2026 01:43:39 GMT",
+      "display_time": "10/08 01:43"
+    },
+    {
+      "source": "Google News Global",
+      "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFTFdsdWlQVDN2WURQSk1HTUowcVdTOVJ1MXZ1c085WTFQVS1xLWE3SlJBbnVZSk5lWVhOZldXYnp6b1pzX290TnU3N2p3bTBVVWJCTkFyb2U5U2RjOVhwVS0xTkVzVUXSAWxBVV95cUxPc1pycEFnOTdkenZVdUhwYkxxMk1ZMXlyWEg0M3JEMmxrZFMxWUF4MjJvOTFrbU1LMDFWdlg3YW5YcWU3aHNjS0hmWG5LelpxY3B0UmJxVWVTSHFHajJLcHpROHM3T18wMzV2U18?oc=5",
+      "summary": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化 BBC 肺鼠疫致死疑雲！肺鼠疫是什麼？跟新冠肺炎有何不同？全球公衛恐慌再起 專家、疾管署全面解析 工商時報 俄爆疑似鼠疫第2例死亡 專家示警寵物同有染疫風險 自由健康網 俄羅斯傳鼠疫死亡病例 蒙古下令邊境加強監測 | 中央廣播電臺 LINE TODAY WHO 估俄鼠疫風險低、川普將與普丁通話 疫苗股摔 TechNews 科技新報",
+      "published": "Wed, 07 Oct 2026 16:15:46 GMT",
+      "display_time": "10/07 16:15"
+    },
+    {
+      "source": "Google News Global",
+      "title": "不是南亞科！ UFS 5.0記憶體台廠王者是它 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNWTVwZnFGNXJ2bUIzWFlJTllEN25KcmY3a1F3ZkVuQnJ2V3RHeGV5eXFGTThKVktVVTBpQ1VWUkVsaEUySGxZZGxpUUpNVUpfU3ZhVHVDclpaY2x4T2xJSkhQd1ZiRUxTbVdwSWV0cnRUTzZhaFhxYWF4QWllbkFxa1g0NHBab3ZFYWZ5Wmo2NHRlWE44ckdkM3FUekRfOWNfZ1FhejkyellEV3llUmI3dUF2cXlQX1FuNmhzVnE0bDlSMG1SVXliS0xsb0FZNERabFhNUXlaZUxpazlxdTFGQzNTN1M3QlFQU2RtT0lFOTc2S2FQTzVqZjBHblAwWDViTmZpSDRB?oc=5",
+      "summary": "不是南亞科！ UFS 5.0記憶體台廠王者是它 Yahoo新聞",
+      "published": "Wed, 07 Oct 2026 16:05:00 GMT",
+      "display_time": "10/07 16:05"
+    },
+    {
+      "source": "Google News Global",
+      "title": "1表看》009816有夠誇張 人氣贏00981A 報酬贏0050 達人解析4優勢：退休金花不完 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQRjdFMHAzWHFFM2p2NEtQZkZaek84T1FJMVF0VVZSQ3BiaTc2eWhKSnJtaFZJNnRKamNZTHI2RklRMzlic2s0NUY2eXlWcmZlUHRkVmN2d2lnSHlobWdJczdjcHJTVzBkZEVGZzhhOXRkSXhKbmZuOGpYWjBBaHlReGlQSjRrRVNyQ0wzZWJ1X1JfNG9mU3NOT1E1N05XUlRsYXBjNl8xWXU4QTNRRmpvZ0V3YVdBa0JrcHVJcUc2U3JPVUlFQWVLeElPWWlFenV1UnBnUGw2UjFYNnBFUy1Za0xlY0pRaFc3RVo4LVhmbVp4R0dIVHNYT0JmOTMxRXZySzZ0SFVEQWhfbFQ3bjEzV3BqeUpQS0p0bDZWY2kwXzV0bnd5eHF5MThMVkRlVlVNLUJmakhLM2FBSVd0cGFLQ05tV2p0cS1iRjRJZUI3Vjg?oc=5",
+      "summary": "1表看》009816有夠誇張 人氣贏00981A 報酬贏0050 達人解析4優勢：退休金花不完 Yahoo股市 【ETF誰最賺1】最賺的不是0050？今年台股ETF績效Top20出爐 Yahoo股市 1表看》009816有夠誇張人氣贏00981A 報酬贏0050 達人解析4優勢：退休金花不完- 基金 旺得富理財網 大型市值型 強力吸金 經濟日報 0052、00992A、00400A…4檔台股ETF報酬率站上雙位數，「這檔」上市就破發，股價10.6元要續抱？ 今周刊",
+      "published": "Wed, 07 Oct 2026 22:00:30 GMT",
+      "display_time": "10/07 22:00"
+    },
+    {
+      "source": "Google News Global",
       "title": "荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jN0Z5bjlsaXNuMkJ2TFA3Rks4VndpbS1xZVgzLW9JcXQyU0p0Qk1aWWhTME1nazBEVU1GaF9iX195dFN0WUNWWk5lVFRGYllW0gFWQVVfeXFMUFRPcldieDlJQnJHTjFPdjNpNUI4V3RvOHpPaHgySkF4UzVpanJNOUZ0YXh3RVRHTktua0RvM0F6T0lLQTdWVVJOZDhWMklYS05wVkNXMEE?oc=5",
       "summary": "荷莫茲海峽、美債殖利率衝擊 台指期夜盤下跌500點 UDN 台股連假前5萬點無望？美股四大指數全倒 台積電ADR挫1.4％、台指期夜盤殺回49K Yahoo股市 快訊》國慶行情沒了？ 台指期夜盤狂殺逾700點 道指重挫600點 中時新聞網 台指期夜盤失守5萬點！AI利空＋聯準會紀錄壓力 費半下挫322點 TVBS新聞網 美股早盤科技股疲軟！台指期夜盤跌700點 | NOWNEWS今日新聞 LINE TODAY",
       "published": "Wed, 07 Oct 2026 13:07:06 GMT",
       "display_time": "10/07 13:07"
+    },
+    {
+      "source": "Google News Global",
+      "title": "9月 CPI 年增率2.73%拉警報 主計總處坦言「物價壓力升高」 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UQ0Nwc0V5ZThlUHVmUDhmU3c4NmhSRU90eHBBQjEzYUV4SEhmY2paSEkxcl9ib3FRYWxhQjVkTEpveGtnSWJSRk9PenpRTDRfd2MxSW01V1pNb0nSAWBBVV95cUxOVS15eTY3dUh4Z0dUV3J1Q29JczQ2cFM0eDNIVnFZeEphbTZyZV9YaERKZFRqOVNKQ3Q5V3UyVzRlWmZZSUZFVVZ1blpLem1yMDFxOTNUVjZjano5TTJHdmE?oc=5",
+      "summary": "9月 CPI 年增率2.73%拉警報 主計總處坦言「物價壓力升高」 經濟日報 CPI飆至2.73% 許舒博：對底層民眾影響太大 Yahoo新聞 居住成本創20個月新高管理、維修、電費漲幅贏房租| 房產新訊 udn房地產 記憶體漲價效應大爆發　9月電腦設備漲9.75％飆44年新高 ETtoday財經雲 三因素推升9月物價創31個月新高 估10月漲勢收斂 Rti 中央廣播電臺",
+      "published": "Wed, 07 Oct 2026 17:50:05 GMT",
+      "display_time": "10/07 17:50"
     },
     {
       "source": "Google News Global",
