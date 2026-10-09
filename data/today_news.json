@@ -1,109 +1,53 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "news": [
     {
-      "source": "Google News Global",
-      "title": "美軍二戰後首度槍決！ 胡德堡槍手12/3伏法「全程直播」 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xb3dtazhUT0l3LXhJcVNtRnJqTHhuR0ExWWJoVkx6dGlXb1dNZ2lBbUUzdV82a2FYTkNVQnUtc3RwbE16Z0FwdDlQQmtfVVNULVBlbnREbGhoQmIzZ1BEOTJBb3F1QdIBa0FVX3lxTE1RMTNoSmh6OFlDNjdpX3FFQkpKZFFhRUg4NHBBWnJyem9ZY2l1WVVtOGQtTk5HS29sMlk1V1dSdjNxblpkUUtpWGdXd3BsTWx1YllIX0d1YlFjNW5OWm9IY0dobEZ2TlVab3Zj?oc=5",
-      "summary": "美軍二戰後首度槍決！ 胡德堡槍手12/3伏法「全程直播」 自由時報 美軍將槍決胡德堡槍擊案兇手 五角大廈證實將直播 Rti 中央廣播電臺 美軍擬槍決胡德堡基地槍擊案兇手 二戰後首例 BBC 美軍將槍決胡德堡案兇手　行刑隊執法網路直播 經濟日報 川普批准了　美國60年來「首次處決軍人」將祭行刑隊 三立新聞",
-      "published": "Fri, 09 Oct 2026 00:48:03 GMT",
-      "display_time": "10/09 00:48"
+      "source": "CNBC Finance",
+      "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+      "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+      "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+      "published": "Fri, 09 Oct 2026 15:07:46 GMT",
+      "display_time": "10/09 15:07"
     },
     {
       "source": "Google News Global",
-      "title": "期中選舉前不打伊朗！川普五度否決軍事行動 美軍備戰以防改變心意 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qbmhOYXQtQlJWNU95Rjk1R04zM0ZOX05DZjZUNlJ2SjQ5S3RyakxRTWpidk1zcWlQcE9NN3lZbng1TXF4Szg2Q0dHZE83T2FGcEZF0gFYQVVfeXFMTnh2ZVVqcUdSYlhVTTMtb093eE5GSjBfcWFqYndCRGZZRlBtMXhSeGdfSllqY0oxaWtZak9YZkt6dmx2dTI0cWsxRzlTbjZzNHVDRVMxQm5udA?oc=5",
-      "summary": "期中選舉前不打伊朗！川普五度否決軍事行動 美軍備戰以防改變心意 UDN 傳川普準備重啟伊朗戰爭 國際油價應聲暴漲4％ 工商時報 川普稱：美國不會在11月中期選舉前攻擊伊朗 | 國際焦點 | 國際 經濟日報 大選前避戰？川普承諾期中選舉前不打伊朗 自由時報 川普暫緩攻伊 避免戰事衝擊期中選舉 | NOWNEWS今日新聞 LINE TODAY",
-      "published": "Thu, 08 Oct 2026 23:45:28 GMT",
-      "display_time": "10/08 23:45"
+      "title": "一毛未付？美退出WHO 北京喊捐159億兌現多少竟成謎 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAySW9RV2U1RkJrcEpQNlgwclhsZWYxUmdGTlhaeXZPNElqQmZPZ0twdkMwRnJpTVU4d3FtVGZ1VXNmZzRaYjN2M1p0ejVKS0ZHaEVtS2RyOW9oSEQwU2o40gFkQVVfeXFMTUoyQWx6a3BzT0JYOGtIQkx2cVdVUG56cDF6TG9UUDlzSG5sbWY3dWl1Mlp0TktWU3ZvZ0ttU19HazlzQkJTQm91OV9DM1NXUnV0WG5FbHY5ejc3MmwyRlBfM2phTQ?oc=5",
+      "summary": "一毛未付？美退出WHO 北京喊捐159億兌現多少竟成謎 自由財經 路透爆料：陸擬推人參選世衛祕書長 填補美退出後影響力空窗 UDN 中國證實提名宋莉角逐WHO秘書長| 兩岸 中央社 CNA 美退中進？中國宣布提名「新冠防疫有功」宋莉角逐世衛秘書長 Yahoo新聞 趁川普退群擴大影響力 大陸提名宋莉競選世衛總幹事 PChome Online 新聞",
+      "published": "Fri, 09 Oct 2026 14:03:00 GMT",
+      "display_time": "10/09 14:03"
     },
     {
       "source": "Google News Global",
-      "title": "AI股挫！費半大跌逾3％ 台積電ADR慘摔3.01％ - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdVd6bWxHODBoOGhKZ1oyWDRZMzMyek5OWlhWRFdhb0FsZDBhajlydEd6VG5DcXcwZDlDLUIxc0Q3NW5qUkZSREFMNndYMm9mMHg0a2JvVHBSaWlYbG9MTVkxa1BUd2plWWpIQXZuZkU2ZTFrVnV4bFdmTE50dU5ScEFhX04xdjA1b1lIakVKbzdLUm96VzNmM0VNRDVwMVZKb3dzclFJLWRuZHUzWTc5RnJHVTJQZjFoVEpobFJneEpvQ2JoRWdzVUVIZFZyQzdUZm9YQ2tBOGRRa0Z2R0JqTEVrX0pzTnhhWkhyN3J2UTM3MWFvSkNJV09TSQ?oc=5",
-      "summary": "AI股挫！費半大跌逾3％ 台積電ADR慘摔3.01％ Yahoo股市 台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9 Yahoo股市 美股收盤／OpenAI營收落差引爆晶片股賣壓 費半和台積電ADR跌逾3% UDN 美股收盤》AI股重摔！費半大跌3.39％ 台積電ADR重挫3％ 自由財經 OpenAI營收消息震撼AI產業 較先前報導低200億美元 鉅亨網",
-      "published": "Thu, 08 Oct 2026 22:23:29 GMT",
-      "display_time": "10/08 22:23"
+      "title": "諾貝爾和平獎揭曉 南非女法官皮萊獲殊榮 捍衛國際法治促進全球和平受肯定 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNWGd3b2FuSDdHUlZXNjZydThabkQ1VUg1dEFsUVJ0NE5KMGwteGxKcHRHU0ZPZ0xBcEl4czYwSVgtNjllV0F3NHpqNkZ0Q2kxa29LS3NsVE56R1pNSDBHWk05Ulh0Z3ZzakxCR1pEcmR1Q29ZMmdaeG1ac2hfcVFlTjBSZzVWdkdhZGdmcVFVVlN6aEFYOE5UdGp4N2dDc1NsWF9yTThKdlhEalJBR0NEcmJkN3pteFVzSE9QX1FnZXluWloxS1lfdEhTaUptdGZma0k0UmZiTUpDc1Rnb1pIdFMtdG5iOEpWYnZhbkhtd3BWVzFhMTZHNWtEUDJMX2FXOW5zNDdHY3hmdm1vWnF3N2xFNnRUZy12TEJpQjVVREVHYW5rNDR5V2k1QjdNQXpiTFh5Wlk5ZkMzNmVtMUU5dTNzLUZEaG5mYVNyWVZVaWs0UHp4dnR4Y2U3UGExTHJpWGlpX2tWaVlyczRMQU5wUHpfdEVIb3haMThFQjF4cWNyTTRtZlpRWWdOLVZ0eUx6Q1MxMExfMnh2X0x0OXRYcTN4U3lNQ203cF9qWVQ1THZtWDNKZEstUlotWF9mMzI0LXBJZW5la1lhOTNYVk01R1ZmREhIR0RncmNlWDBxR3JxQQ?oc=5",
+      "summary": "諾貝爾和平獎揭曉 南非女法官皮萊獲殊榮 捍衛國際法治促進全球和平受肯定 Yahoo新聞 諾貝爾獎和平獎得主皮萊 曾要求中國公布六四真相 Rti 中央廣播電臺 Navi Pillay獲諾貝爾和平獎 聯合國讚彰顯人權價值 | 民視新聞網 LINE TODAY 南非法官皮萊獲諾貝爾和平獎 戲稱可能與川普分享獎項 UDN 快訊／不是川普！諾貝爾和平獎出爐 由南非女法官獲得 東森新聞",
+      "published": "Fri, 09 Oct 2026 13:22:23 GMT",
+      "display_time": "10/09 13:22"
     },
     {
       "source": "Google News Global",
-      "title": "台積9月營收月減0.6% 週一開盤剉咧等？ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTlHaV93cVlTNU1jSnpKSFU1LXpsSTRPWkpfenJpYXo3N1lISDZBTGlSSmRBVEJKWjVKeVJyeTkzZUpwWTQxUEhHSzhmYzNPazgtMlJkdXhVQzYzQUg0N3B6V0dwN1RDNVk1eXFXUnlqX0dHMnBZQ0V0c2tRbUtqaGZRY185UWhBaHZ1b3JZSDBaajZkRkFOVW1nSnV5VWJrblRUbUM0bnNvWmJ6U2FTRnpXZFNTVWRtVnZaMkQ5VVJ1aDJkTFdRdlMxYm1WeXc4d0pEVG5Qc3RuVHdnTWJLU2ZRMmxYVEo2b2o0Z01PRUtIVmp4UzAw?oc=5",
-      "summary": "台積9月營收月減0.6% 週一開盤剉咧等？ Yahoo新聞 台積電發重訊 東森新聞 法人：台積電法說會15日登場有助支撐台股高檔整理| 證券 中央社 CNA 台積電 9 月營收雖月減但仍創同期新高，第三季 1.49 兆元突破財測高標 TechNews 科技新報 9月營收又衝破5千億 台積電Q3再創單季新高 自由時報",
-      "published": "Fri, 09 Oct 2026 05:10:51 GMT",
-      "display_time": "10/09 05:10"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-      "published": "Fri, 09 Oct 2026 04:55:14 GMT",
-      "display_time": "10/09 04:55"
+      "title": "美債跌夠了？有人先進場抄底 押注長債反彈 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NcFNrdm95ck5xMGRSYVRZMnJTYlVNYnR4VGxjQUNzeE45SkZLM2tQbXI3MnRVakxDU2F2TmwtY2dCYVdSNG1pSk1neVQzcG8?oc=5",
+      "summary": "美債跌夠了？有人先進場抄底 押注長債反彈 鉅亨網 美債跌到能買了？大摩債券高手十年來首度翻多 Yahoo股市 美債殖利率飆20多年高！資金湧向AI巨頭避險重創小型股 羅素2000跌快10%接近修正區間 鉅亨網 美股牛市還能持續嗎？ 日經中文網 美債殖利率脫離高點、油價趨穩 黃金白銀同步上揚 PChome Online 新聞",
+      "published": "Fri, 09 Oct 2026 11:32:18 GMT",
+      "display_time": "10/09 11:32"
     },
     {
       "source": "Google News Global",
-      "title": "美股｜AI股跳水！費半重挫 OpenAI營收遭爆不如預期 台積電ADR跌3％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rWEk0ZTUyOVZTTW01S0tLSGpTTVpDaV9oNjRlMFJYZ2U4MGQ3UW5BdG5xancySHp3Mkd5ZDdHX2o2ZHR3Yi1KemVkcUdJdVd0MkpyVWV4ZDkzdENRNlg4?oc=5",
-      "summary": "美股｜AI股跳水！費半重挫 OpenAI營收遭爆不如預期 台積電ADR跌3％ 工商時報 台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9 Yahoo股市 AI不賺錢？OpenAI傳9月年化營收「700億美元→500億美元」200億落差怎麼來？ 工商時報 美股科技股重挫！克雷默：AI股遭拋售再次證明分散投資的重要性 鉅亨網 美股收盤》AI股重摔！費半大跌3.39％ 台積電ADR重挫3％ 自由財經",
-      "published": "Fri, 09 Oct 2026 00:55:00 GMT",
-      "display_time": "10/09 00:55"
+      "title": "與馬斯克合作有戲？台積電法說會10/15登場 分析師最想知道的事1次看 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IQ092T1h4Tk5hSnN0cjQyM3RUVndtNG5kdTYyTnBnc0RlSzBobE9wNWYtbjk2SHVfSGNzM00xRG81cS1vU3VSb3JLeEFEcjJESkduUTl1b0JlcDhBT2N30gFkQVVfeXFMUHNSVWM0WEQ4aXphVU5NTEkwWDZqTXhCaTVmeTd4WHlTT2pBS3o0WVlMRkJoSldhaklqZEdydTk3VHc1aU9XNkRkSW5DLWEyamp4R2p4NmRfUVliWEhMUnBfclhweA?oc=5",
+      "summary": "與馬斯克合作有戲？台積電法說會10/15登場 分析師最想知道的事1次看 自由財經 台積電法說會10／15登場！馬斯克Terafab合作有譜？5大焦點一次看 ETtoday財經雲 台積電Q3營收1.49兆元創單季高、大立光攻CPO、9月進出口連35紅 本周大事回顧 鉅亨網 赴德州設廠、結盟馬斯克？台積電15日法說聚焦營運擴產| 產經 中央社 CNA 花旗看好台積三大亮點 調升目標價 經濟日報",
+      "published": "Fri, 09 Oct 2026 11:22:29 GMT",
+      "display_time": "10/09 11:22"
     },
     {
       "source": "Google News Global",
-      "title": "棒球》中華隊亞運奪銅仍穩居世界第2 WBSC最新排名出爐日本持續稱霸- 棒球 - TSNA體育新聞團隊",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5NSV9XRmRaNnpfeXVPUnhITDhCTFZrNElLQW5xOVNmdU9OZjBxVXl0eEJ6emY4ZjZlMnhmVVBQUTY5LTNnc3c?oc=5",
-      "summary": "棒球》中華隊亞運奪銅仍穩居世界第2 WBSC最新排名出爐日本持續稱霸- 棒球 TSNA體育新聞團隊 最新世界排名出爐 中華隊亞運奪銅、U15拿第五「續當老二」 Yahoo運動 棒球》最新世界排名出爐！台灣維持第2 南韓緊咬美國 自由體育 WBSC最新排名出爐！中華隊守住世界第2　韓國只差40分逼近美國 ETtoday運動雲 日本繼續穩居 WBSC/SHARP 男子棒球世界排名榜首，墨西哥與多明尼加排名上升 World Baseball Softball Confederation (WBSC)",
-      "published": "Fri, 09 Oct 2026 00:54:26 GMT",
-      "display_time": "10/09 00:54"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普喊話期中選舉前不打伊朗！國際油價短線急挫 美債殖利率回落 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNYWtuQ2VrblE1OFdzaUkzZl9iUEtHV0YxVVNGZWdCd0pNRmtjeXVqUk1CU04td2l6UmNLellENWt1aWdMZC1SZUZETjVlNS1TWTJ0NHcwbHZYdmh2bmU1WGhLUXVhYldPZWh3SkxTendYM1hXQ2ZBYW1wVTBfb1ZmT0NyenNqUHJtVnk2N2JqYVdUNmVaUmNhczBwdWNDRDcxd05DbGxxNjhEMHpBYllyZElSRk1zZGNGTlc0Z18yVUMyX2JkSWVrRjFCc2xjUG5oWFo5am1tRUM2bTd1YWdyVF9hUmJzZi1BRmd6dWhTdmpWWFJGSGpWOFVsYkNrZThlWU1CTjEybDNlWFptTGp5RE5UR1p0RTRRWlBJNGlPYW85VlhNX0pqZlpRRHBxaUc4eTc5OGJqZmlKcmxySHhZSFJ6eFJYUlFzcmt3QUlVWU4xNFdRdVYyUk8yTW1jVGNDRGFDQ0hIUGxBSjRBeW9GU2R3ZDNYdlN5eWNKS0dzZ2hBaGJ3LVE0akkwdjVnZGxOTEN1WEtyTUg2djE3YmJmNk5NdnFKeFhXTHRPN3l3?oc=5",
-      "summary": "川普喊話期中選舉前不打伊朗！國際油價短線急挫 美債殖利率回落 Yahoo股市 川普稱和伊朗討論富有成效　美期中選舉前不會恢復攻擊 經濟日報 美以選舉倒數 傳美軍奉令備戰擬再大舉空襲伊朗 Rti 中央廣播電臺 大選前避戰？川普承諾期中選舉前不打伊朗 雙方談判持續進行 自由時報 傳川普準備重啟伊朗戰爭 國際油價應聲暴漲4％ 工商時報",
-      "published": "Thu, 08 Oct 2026 16:23:07 GMT",
-      "display_time": "10/08 16:23"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普稱期中選舉前不會打伊朗！美伊談判未見突破 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOdzAtTlFrV0xwZFRyZHpuelpBQ29uM1JOVUpwaFlxcEhld0ZKOWpySzN4bXNocjdXaDFmcFk0d2R3b2hjb24tbjRJU04yQ1ZiUzgtaVg3Tmxiek1iUGsyNnVKampKUVRtREh6ZnVnVHV0MHgxMGZaQzNURkk5c2dWQk04LTBIOWVseXpFN2c2QlBiM19XZ1RHekhYT1Jfd2x2UFhya0U1d2YwTVg0QlZHUVdkbjZQTjViSnEteG10Y0hUSzN3a3YzOWVKcGF2OHMtb2o4UkwwSU42MjVfemlMS0drNnpjLWNrakZDN0JoTjFmdHhLMUdDcE5Ca3pobHBneUlLM0ZPeE5Tc0dXWUpnVVg2WjE1Umd6UXZVa1BaWmI2OGhLYnpocjJrNmJxLVRIWVVnOWlFLWN0UGprN3JxeTZXWkVkdTBCUFpYNnpobS0?oc=5",
-      "summary": "川普稱期中選舉前不會打伊朗！美伊談判未見突破 Yahoo新聞 「談判富成效」川普：期中選舉前不會攻擊伊朗| 中東戰火連綿| 全球 UDN 川普喊話失靈？美伊衝突延燒7個月、油市轉盯實際供應流向 鉅亨網 大選前避戰？川普承諾期中選舉前不打伊朗 自由時報 川普稱選前不打伊朗 紐時：美軍擬3天空襲方案航艦將會師中東 Rti 中央廣播電臺",
-      "published": "Thu, 08 Oct 2026 23:21:06 GMT",
-      "display_time": "10/08 23:21"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股下週開工會跌？台指期夜盤一度跌逾500點 費半下挫逾200點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxQOF81eHFLaWlSazNmUlhSWDBfUTFaa1JJaUw4Mmg1THJXdW1tdVJxVktocDdsSWJHQnNCV2pzbElWWndBNmFJdHFPekx0a1NGc1FhZTZmbHpoSlM0bVFMa2x5MS04Wk5GUjZ5eUVKUS1XakFxQnNZNUstRXBXd3VWY3ZGUWZ3Mk15ZWRfeFc0cm9LS0VTUVczX2IyQjBnay1BNzdfMnFOX1kzcjFBWUR6VGpMdFoyUE9aOXEtRjh3WmU2ZUFRdnlUS0lsVXp1cUR4bXZ5NUFKMk5mN3ZmVXptVllkWThfRHhqZk1nUUxzRjRGZ2Y2NXdoMnQ4ZFpoT3dMQUs3VHA0enc4cVlYazBpWi15Sk9VU2xFMHlpU0tUUi1LZnczM0R5T1lsTzJmeTJxNUZjMnZ4eFJqV2lYbmZRS0lneFcwUXk3Umc0OUdnN0M1NnM4dmk4TGM5ZVdMQ1BLc21TbjBoVVZTUU94V2dMRkwzOA?oc=5",
-      "summary": "台股下週開工會跌？台指期夜盤一度跌逾500點 費半下挫逾200點 Yahoo新聞 台股下殺493點！ 專家喊直言「安心了」：這是換手 Yahoo股市 法人：攻克50K 下下周前可達陣- 日報 工商時報 下週要小心？台指期夜盤殺破4萬9大關 自由財經 《台股盤後》量縮收跌492點、失守5日線；週K連四紅- 新聞 MoneyDJ理財網",
-      "published": "Thu, 08 Oct 2026 13:48:00 GMT",
-      "display_time": "10/08 13:48"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈美股早盤〉通膨陰影又來了！主要指數開低 晶片股也吃悶棍 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8ybXg1Q3pFcEgxV05IZl9ITzFmbVJUQjh4RFJDVk9LQU4wZXpmSkZJWXMxQWdlXzZNbzBMLTdOYk1NRXpQQURSenhwZEM2eVE?oc=5",
-      "summary": "〈美股早盤〉通膨陰影又來了！主要指數開低 晶片股也吃悶棍 鉅亨網 油價上漲、美債殖利率居高不下 美股三大指數開盤走低 Yahoo股市 美股早盤／四大指數盡墨！油價登105美元、股債齊跌 費半摔近2% UDN 快訊／通膨疑慮加劇！四指、晶片股慘綠 台指期重挫656點 三立新聞 全球股市全面走跌 油價飆漲與債市緊縮打擊市場信心 | 民視新聞網 LINE TODAY",
-      "published": "Thu, 08 Oct 2026 13:39:04 GMT",
-      "display_time": "10/08 13:39"
-    },
-    {
-      "source": "Google News Global",
-      "title": "森崴後又一家風電類股要下市 4.3萬名股東股票成壁紙 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EckpvcXJHOEE3N18yVWo5RVBXX2JDRWtGd2hnM2wzaVhneVVjbG9yckFNSUlBc2Q3cVRnM1JNbFk3QUFnQ2ZnN2l6bFdkY0pDUXNENmI0NkJUanRsZWdB0gFkQVVfeXFMT25YU1FqVm5aOE5IWG9RdExjSk5md0F5dFRtcjhldjNHb0o3V2ZWbGU4aWpseE5sVmRmem02V1AtT0VZLW9mUFV1OWs2ZVBoM0dHTXFwM2pSZlRsVHdoSkUxY0d3UA?oc=5",
-      "summary": "森崴後又一家風電類股要下市 4.3萬名股東股票成壁紙 自由財經 4.3萬股東哭倒！永冠-KY未如期申報去年財報　11／18下市 ETtoday財經雲 4.3萬股民注意！這大廠下市時間確定 股票淪壁紙 東森新聞 「這檔」風電類股面臨下市危機！4.3萬股東持股恐成壁紙 LINE TODAY 台股又有公司淪壁紙！這檔未如期申報去年財報 11月18日下市 三立新聞",
-      "published": "Thu, 08 Oct 2026 09:49:11 GMT",
-      "display_time": "10/08 09:49"
-    },
-    {
-      "source": "Google News Global",
-      "title": "雙十連假賣壓！三大法人賣超898.95億元 股后川湖面臨萬元保衛戰 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtTnUxdnhubkxrX1I0MUZ5SXNWV0xpODJ4SFBhN0R0UTRUbHNUTUJJVDlyRWluUk5qb0JGRU5aal9zV3FfSHNwRGhGMWNJUU9X0gFWQVVfeXFMTjdaQ1dVUE01QURESVd5UXh4U2J2QkFHRFpLeEZCa1M0NWZhQVB0d215TV9JSDJmU0dDRXBIS29DVTltUk96c0ZNaWxFU3NjRVpuTmROZHc?oc=5",
-      "summary": "雙十連假賣壓！三大法人賣超898.95億元 股后川湖面臨萬元保衛戰 UDN 外資一週賣71億！這3檔包辦買超前3 合計狂掃近30萬張 Yahoo新聞 台股外資連三賣套現千億…熱錢節前出走 大盤本周攻50K功敗垂成 UDN 連假前市場偏觀望 外資賣超加空台指 華冠投顧 外資連四賣！國家隊砸2.4億救不回「這檔」 終場下挫逾3% 三立新聞",
-      "published": "Thu, 08 Oct 2026 07:14:00 GMT",
-      "display_time": "10/08 07:14"
+      "title": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dEI4V2tjeTNvM2J2ZUhmXzItNmJEZjZhSnFNZWZ6dWk4Wmp2Mm5CRnpYUTJHcmJYazFtcnFCdTZ1d1NwVkRFX1QtZEQ5SE5od2ExVXpPSW81VXhmemZB?oc=5",
+      "summary": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ 工商時報 光寶科第3季營收574億年增28% 創2021年轉型後新高 經濟日報 光寶科第三季營收季增 9%，康舒單季首破百億元 TechNews 科技新報 光寶科前三季營收年增26% AI伺服器電源挹注動能 台視全球資訊網 光寶科9月營收188億元年增逾2成 AI伺服器電源系統出貨暢旺 鉅亨網",
+      "published": "Thu, 08 Oct 2026 19:00:00 GMT",
+      "display_time": "10/08 19:00"
     }
   ]
 }
