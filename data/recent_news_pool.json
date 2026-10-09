@@ -1,13 +1,5 @@
 [
   {
-    "source": "CNBC Finance",
-    "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-    "published": "Fri, 09 Oct 2026 15:07:46 GMT",
-    "display_time": "10/09 15:07"
-  },
-  {
     "source": "Google News Global",
     "title": "一毛未付？美退出WHO 北京喊捐159億兌現多少竟成謎 - 自由財經",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAySW9RV2U1RkJrcEpQNlgwclhsZWYxUmdGTlhaeXZPNElqQmZPZ0twdkMwRnJpTVU4d3FtVGZ1VXNmZzRaYjN2M1p0ejVKS0ZHaEVtS2RyOW9oSEQwU2o40gFkQVVfeXFMTUoyQWx6a3BzT0JYOGtIQkx2cVdVUG56cDF6TG9UUDlzSG5sbWY3dWl1Mlp0TktWU3ZvZ0ttU19HazlzQkJTQm91OV9DM1NXUnV0WG5FbHY5ejc3MmwyRlBfM2phTQ?oc=5",
@@ -24,12 +16,20 @@
     "display_time": "10/09 13:22"
   },
   {
-    "source": "Google News Global",
-    "title": "台積9月營收月減0.6% 週一開盤剉咧等？ - Yahoo新聞",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTlHaV93cVlTNU1jSnpKSFU1LXpsSTRPWkpfenJpYXo3N1lISDZBTGlSSmRBVEJKWjVKeVJyeTkzZUpwWTQxUEhHSzhmYzNPazgtMlJkdXhVQzYzQUg0N3B6V0dwN1RDNVk1eXFXUnlqX0dHMnBZQ0V0c2tRbUtqaGZRY185UWhBaHZ1b3JZSDBaajZkRkFOVW1nSnV5VWJrblRUbUM0bnNvWmJ6U2FTRnpXZFNTVWRtVnZaMkQ5VVJ1aDJkTFdRdlMxYm1WeXc4d0pEVG5Qc3RuVHdnTWJLU2ZRMmxYVEo2b2o0Z01PRUtIVmp4UzAw?oc=5",
-    "summary": "台積9月營收月減0.6% 週一開盤剉咧等？ Yahoo新聞 台積電發重訊 東森新聞 法人：台積電法說會15日登場有助支撐台股高檔整理| 證券 中央社 CNA 台積電 9 月營收雖月減但仍創同期新高，第三季 1.49 兆元突破財測高標 TechNews 科技新報 9月營收又衝破5千億 台積電Q3再創單季新高 自由時報",
-    "published": "Fri, 09 Oct 2026 05:10:51 GMT",
-    "display_time": "10/09 05:10"
+    "source": "BBC Business",
+    "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+    "published": "Fri, 09 Oct 2026 20:32:42 GMT",
+    "display_time": "10/09 20:32"
+  },
+  {
+    "source": "BBC Business",
+    "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+    "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+    "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+    "published": "Fri, 09 Oct 2026 19:32:50 GMT",
+    "display_time": "10/09 19:32"
   },
   {
     "source": "Google News Global",
@@ -40,12 +40,44 @@
     "display_time": "10/09 11:32"
   },
   {
+    "source": "CNBC Finance",
+    "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+    "published": "Fri, 09 Oct 2026 15:07:46 GMT",
+    "display_time": "10/09 15:07"
+  },
+  {
+    "source": "Google News Global",
+    "title": "台積9月營收月減0.6% 週一開盤剉咧等？ - Yahoo新聞",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUTlHaV93cVlTNU1jSnpKSFU1LXpsSTRPWkpfenJpYXo3N1lISDZBTGlSSmRBVEJKWjVKeVJyeTkzZUpwWTQxUEhHSzhmYzNPazgtMlJkdXhVQzYzQUg0N3B6V0dwN1RDNVk1eXFXUnlqX0dHMnBZQ0V0c2tRbUtqaGZRY185UWhBaHZ1b3JZSDBaajZkRkFOVW1nSnV5VWJrblRUbUM0bnNvWmJ6U2FTRnpXZFNTVWRtVnZaMkQ5VVJ1aDJkTFdRdlMxYm1WeXc4d0pEVG5Qc3RuVHdnTWJLU2ZRMmxYVEo2b2o0Z01PRUtIVmp4UzAw?oc=5",
+    "summary": "台積9月營收月減0.6% 週一開盤剉咧等？ Yahoo新聞 台積電發重訊 東森新聞 法人：台積電法說會15日登場有助支撐台股高檔整理| 證券 中央社 CNA 台積電 9 月營收雖月減但仍創同期新高，第三季 1.49 兆元突破財測高標 TechNews 科技新報 9月營收又衝破5千億 台積電Q3再創單季新高 自由時報",
+    "published": "Fri, 09 Oct 2026 05:10:51 GMT",
+    "display_time": "10/09 05:10"
+  },
+  {
+    "source": "Google News Global",
+    "title": "南非法官皮萊獲諾貝爾和平獎 戲稱可能與川普分享獎項 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FM25HR2pka3JYYXEwTGgxNU9PandaR25hRW8wYWViSEFPVGJmdC1TdnVTVEthWDFMX1JwcEc3ZmluVHhpdjRlWDFMcktRVGZXS2d3?oc=5",
+    "summary": "南非法官皮萊獲諾貝爾和平獎 戲稱可能與川普分享獎項 UDN 諾貝爾和平獎得主皮萊為全球受難者發聲曾多次挑戰中國| 國際 中央社 CNA 美擬擴大制裁 歐洲及日本等8國聯合力挺國際刑事法院 | 民視新聞網 LINE TODAY 諾貝爾獎和平獎得主皮萊 曾要求中國公布六四真相 Rti 中央廣播電臺 2026諾貝爾和平獎》與川普無關！南非法官納薇皮萊榮獲桂冠，感謝她捍衛國際法治 Yahoo新聞",
+    "published": "Fri, 09 Oct 2026 12:07:10 GMT",
+    "display_time": "10/09 12:07"
+  },
+  {
     "source": "Google News Global",
     "title": "與馬斯克合作有戲？台積電法說會10/15登場 分析師最想知道的事1次看 - 自由財經",
     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IQ092T1h4Tk5hSnN0cjQyM3RUVndtNG5kdTYyTnBnc0RlSzBobE9wNWYtbjk2SHVfSGNzM00xRG81cS1vU3VSb3JLeEFEcjJESkduUTl1b0JlcDhBT2N30gFkQVVfeXFMUHNSVWM0WEQ4aXphVU5NTEkwWDZqTXhCaTVmeTd4WHlTT2pBS3o0WVlMRkJoSldhaklqZEdydTk3VHc1aU9XNkRkSW5DLWEyamp4R2p4NmRfUVliWEhMUnBfclhweA?oc=5",
-    "summary": "與馬斯克合作有戲？台積電法說會10/15登場 分析師最想知道的事1次看 自由財經 台積電法說會10／15登場！馬斯克Terafab合作有譜？5大焦點一次看 ETtoday財經雲 台積電Q3營收1.49兆元創單季高、大立光攻CPO、9月進出口連35紅 本周大事回顧 鉅亨網 赴德州設廠、結盟馬斯克？台積電15日法說聚焦營運擴產| 產經 中央社 CNA 花旗看好台積三大亮點 調升目標價 經濟日報",
+    "summary": "與馬斯克合作有戲？台積電法說會10/15登場 分析師最想知道的事1次看 自由財經 台積電營收衝近3.9兆新高！網見「月減」戰翻 他喊：下周一彎腰撿鑽石 Yahoo 台積電法說會10／15登場！馬斯克Terafab合作有譜？5大焦點一次看 ETtoday財經雲 台積電Q3營收1.49兆元創單季高、大立光攻CPO、9月進出口連35紅 本周大事回顧 鉅亨網 台積電發重訊 東森新聞",
     "published": "Fri, 09 Oct 2026 11:22:29 GMT",
     "display_time": "10/09 11:22"
+  },
+  {
+    "source": "Google News Global",
+    "title": "美股｜AI股跳水！費半重挫 OpenAI營收遭爆不如預期 台積電ADR跌3％ - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rWEk0ZTUyOVZTTW01S0tLSGpTTVpDaV9oNjRlMFJYZ2U4MGQ3UW5BdG5xancySHp3Mkd5ZDdHX2o2ZHR3Yi1KemVkcUdJdVd0MkpyVWV4ZDkzdENRNlg4?oc=5",
+    "summary": "美股｜AI股跳水！費半重挫 OpenAI營收遭爆不如預期 台積電ADR跌3％ 工商時報 台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9 Yahoo股市 AI不賺錢？OpenAI傳9月年化營收「700億美元→500億美元」200億落差怎麼來？ 工商時報 美股收盤／OpenAI營收落差引爆晶片股賣壓 費半和台積電ADR跌逾3% UDN OpenAI年化營收較預期短少200億美元 AI前景疑慮上升 Rti 中央廣播電臺",
+    "published": "Fri, 09 Oct 2026 00:55:00 GMT",
+    "display_time": "10/09 00:55"
   },
   {
     "source": "Google News Global",
@@ -65,11 +97,27 @@
   },
   {
     "source": "Google News Global",
+    "title": "期中選舉前不打伊朗！川普五度否決軍事行動 美軍備戰以防改變心意 - UDN",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qbmhOYXQtQlJWNU95Rjk1R04zM0ZOX05DZjZUNlJ2SjQ5S3RyakxRTWpidk1zcWlQcE9NN3lZbng1TXF4Szg2Q0dHZE83T2FGcEZF0gFYQVVfeXFMTnh2ZVVqcUdSYlhVTTMtb093eE5GSjBfcWFqYndCRGZZRlBtMXhSeGdfSllqY0oxaWtZak9YZkt6dmx2dTI0cWsxRzlTbjZzNHVDRVMxQm5udA?oc=5",
+    "summary": "期中選舉前不打伊朗！川普五度否決軍事行動 美軍備戰以防改變心意 UDN 川普重申「期中選舉前不打伊朗」 油價小跌、美股開盤小漲 Yahoo股市 障眼法還是保證？ 川普稱不會在期中選舉前打伊朗- 國際 工商時報 選前避戰？ 川普發文：期中選前不打伊朗- 新聞 MoneyDJ理財網 保住國會多數比一切重要！川普承諾：期中選舉前不會再攻擊伊朗 | 李靖棠 | 新聞 Storm.mg",
+    "published": "Thu, 08 Oct 2026 23:45:28 GMT",
+    "display_time": "10/08 23:45"
+  },
+  {
+    "source": "Google News Global",
     "title": "川普稱期中選舉前不會打伊朗！美伊談判未見突破 - Yahoo新聞",
     "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOdzAtTlFrV0xwZFRyZHpuelpBQ29uM1JOVUpwaFlxcEhld0ZKOWpySzN4bXNocjdXaDFmcFk0d2R3b2hjb24tbjRJU04yQ1ZiUzgtaVg3Tmxiek1iUGsyNnVKampKUVRtREh6ZnVnVHV0MHgxMGZaQzNURkk5c2dWQk04LTBIOWVseXpFN2c2QlBiM19XZ1RHekhYT1Jfd2x2UFhya0U1d2YwTVg0QlZHUVdkbjZQTjViSnEteG10Y0hUSzN3a3YzOWVKcGF2OHMtb2o4UkwwSU42MjVfemlMS0drNnpjLWNrakZDN0JoTjFmdHhLMUdDcE5Ca3pobHBneUlLM0ZPeE5Tc0dXWUpnVVg2WjE1Umd6UXZVa1BaWmI2OGhLYnpocjJrNmJxLVRIWVVnOWlFLWN0UGprN3JxeTZXWkVkdTBCUFpYNnpobS0?oc=5",
     "summary": "川普稱期中選舉前不會打伊朗！美伊談判未見突破 Yahoo新聞 「談判富成效」川普：期中選舉前不會攻擊伊朗| 中東戰火連綿| 全球 UDN 川普喊話失靈？美伊衝突延燒7個月、油市轉盯實際供應流向 鉅亨網 大選前避戰？川普承諾期中選舉前不打伊朗 自由時報 川普稱選前不打伊朗 紐時：美軍擬3天空襲方案航艦將會師中東 Rti 中央廣播電臺",
     "published": "Thu, 08 Oct 2026 23:21:06 GMT",
     "display_time": "10/08 23:21"
+  },
+  {
+    "source": "Google News Global",
+    "title": "夜盤一度殺944點…台股躲崩了！專家曝下周「絕佳買點」 機會稍縱即逝 - Yahoo股市",
+    "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPOWFkRUJjUEdOcnpwcGR3WFJjTnhDNXVHWWFxMVB5bHFhV3lEZzh4NVZnbGFmTHEwdEtwT3VWRDlhdHg1aE00SjdXTUZWa0pTWUJ2WVZ4QTFYM2JmNndQeHpSRTRSVF81bE5xbjFybVBOX2diaWRHemx3Mnc3cVB4S3VJdnQ2R2lOSnZsUm1ucmRqU3lidG02SEJ3enB2V3UyTlB5SFF6WGNSa2FnSkhxa3NRVzhGMVBPYm85R1VydlBmWGZKYXVtSmFjaGxhUWlxampzaUFTWGpMS2JQY2F2blNVQWpWNFhuRlpMaHo1Z2UteXFyX1JiT2JqMnd5djVJRkNnWUpwZU94M2pxLUlwQmJtTkhfMzNqN0pRUEVaRC1HWi1LT1hQMWFLa2NuVVpCRlY5bVBadklXWWI3WDZEYV9NNENyV2F2?oc=5",
+    "summary": "夜盤一度殺944點…台股躲崩了！專家曝下周「絕佳買點」 機會稍縱即逝 Yahoo股市 雙十連假後崩盤來真的？郭哲榮揭492點殺盤真相：幸福是等來的！ Yahoo新聞 台股大跌近500點…原來是這個訊號現蹤！法人這樣看台股後市 UDN 盤勢分析─5萬點缺臨門一腳 量能是關鍵 自由財經 台股下殺493點！ 專家喊直言「安心了」：這是換手 東森電視",
+    "published": "Fri, 09 Oct 2026 06:29:08 GMT",
+    "display_time": "10/09 06:29"
   },
   {
     "source": "Google News Global",
@@ -80,20 +128,28 @@
     "display_time": "10/08 22:23"
   },
   {
-    "source": "BBC Business",
-    "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-    "link": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-    "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-    "published": "Fri, 09 Oct 2026 04:55:14 GMT",
-    "display_time": "10/09 04:55"
+    "source": "Google News Global",
+    "title": "遷松山機場空軍一號怎起降？蔣萬安：川普從白宮搭直升機轉空軍一號 - 三立新聞",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5feEY3cEJhRHl6YTQ0UWJvSGh3X19UbG16TTdIQU81Q09aT1BqNEFqT1JJNHRlVW1UNlV6d0Yxem1qMFJJX244ctIBTEFVX3lxTE1mR2p2ME1GNWVuODFfd29mUm1DMEZNSklDWThpWTNxQ3B6RFktZ1lfYnZ4UHFXbHZfV1I1U0c3T0pGVTZwZmpLNkxhZHY?oc=5",
+    "summary": "遷松山機場空軍一號怎起降？蔣萬安：川普從白宮搭直升機轉空軍一號 三立新聞 不只松機遷移！北市1工程快做一半了 沈政男驚：脫胎換骨 中時新聞網 蔣萬安從政10年「遷松機」做了什麼？苗博雅曝實情：自信告訴大家是0 Yahoo新聞 曾提捷運中和光復線延伸松機 李四川：認同蔣萬安造AI園區 你的公共電視 台北市長選戰／松機遷移 蔣萬安：以最大誠意與中央地方溝通 Rti 中央廣播電臺",
+    "published": "Fri, 09 Oct 2026 06:01:00 GMT",
+    "display_time": "10/09 06:01"
   },
   {
     "source": "Google News Global",
-    "title": "美股｜AI股跳水！費半重挫 OpenAI營收遭爆不如預期 台積電ADR跌3％ - 工商時報",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rWEk0ZTUyOVZTTW01S0tLSGpTTVpDaV9oNjRlMFJYZ2U4MGQ3UW5BdG5xancySHp3Mkd5ZDdHX2o2ZHR3Yi1KemVkcUdJdVd0MkpyVWV4ZDkzdENRNlg4?oc=5",
-    "summary": "美股｜AI股跳水！費半重挫 OpenAI營收遭爆不如預期 台積電ADR跌3％ 工商時報 台股連假後挫咧等？美股3指數收黑、半導體股齊下殺 台積電ADR跌3%、台指期夜盤失守4萬9 Yahoo股市 AI不賺錢？OpenAI傳9月年化營收「700億美元→500億美元」200億落差怎麼來？ 工商時報 美股收盤／OpenAI營收落差引爆晶片股賣壓 費半和台積電ADR跌逾3% UDN OpenAI年化營收較預期短少200億美元 AI前景疑慮上升 Rti 中央廣播電臺",
-    "published": "Fri, 09 Oct 2026 00:55:00 GMT",
-    "display_time": "10/09 00:55"
+    "title": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ - 工商時報",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dEI4V2tjeTNvM2J2ZUhmXzItNmJEZjZhSnFNZWZ6dWk4Wmp2Mm5CRnpYUTJHcmJYazFtcnFCdTZ1d1NwVkRFX1QtZEQ5SE5od2ExVXpPSW81VXhmemZB?oc=5",
+    "summary": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ 工商時報 光寶科第3季營收574億年增28% 創2021年轉型後新高 經濟日報 光寶科第三季營收季增 9%，康舒單季首破百億元 TechNews 科技新報 光寶科前三季營收年增26% AI伺服器電源挹注動能 台視全球資訊網 光寶科9月營收188億元年增逾2成 AI伺服器電源系統出貨暢旺 鉅亨網",
+    "published": "Thu, 08 Oct 2026 19:00:00 GMT",
+    "display_time": "10/08 19:00"
+  },
+  {
+    "source": "Google News Global",
+    "title": "OpenAI營收低於預期 甲骨文尋求巨額債務融資 AI概念股全面承壓 - 鉅亨網",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FSmRjeTl1VUtLSlZxX3JCelp3bGZ6X19XZi1ZdkNKQnVaOG5BdHdVdjVINGVGMGdtRHJEOFF3Q0Jpbk4xVG9zZllZaDIwaTA?oc=5",
+    "summary": "OpenAI營收低於預期 甲骨文尋求巨額債務融資 AI概念股全面承壓 鉅亨網 美股科技股重挫！克雷默：AI股遭拋售再次證明分散投資的重要性 Yahoo股市 OpenAI 業績爆冷台鏈承壓 市場憂影響鴻海、緯創等表現 經濟日報 OpenAI一紙數字嚇壞市場！輝達、AMD、美光重挫費半跌逾3％ - 國際 旺得富理財網 OpenAI年化營收較預期短少200億美元 AI前景疑慮上升 Rti 中央廣播電臺",
+    "published": "Fri, 09 Oct 2026 02:10:04 GMT",
+    "display_time": "10/09 02:10"
   },
   {
     "source": "Google News Global",
@@ -102,14 +158,6 @@
     "summary": "川普喊話期中選舉前不打伊朗！國際油價短線急挫 美債殖利率回落 Yahoo股市 川普稱和伊朗討論富有成效　美期中選舉前不會恢復攻擊 經濟日報 美以選舉倒數 傳美軍奉令備戰擬再大舉空襲伊朗 Rti 中央廣播電臺 大選前避戰？川普承諾期中選舉前不打伊朗 雙方談判持續進行 自由時報 傳川普準備重啟伊朗戰爭 國際油價應聲暴漲4％ 工商時報",
     "published": "Thu, 08 Oct 2026 16:23:07 GMT",
     "display_time": "10/08 16:23"
-  },
-  {
-    "source": "Google News Global",
-    "title": "期中選舉前不打伊朗！川普五度否決軍事行動 美軍備戰以防改變心意 - UDN",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qbmhOYXQtQlJWNU95Rjk1R04zM0ZOX05DZjZUNlJ2SjQ5S3RyakxRTWpidk1zcWlQcE9NN3lZbng1TXF4Szg2Q0dHZE83T2FGcEZF0gFYQVVfeXFMTnh2ZVVqcUdSYlhVTTMtb093eE5GSjBfcWFqYndCRGZZRlBtMXhSeGdfSllqY0oxaWtZak9YZkt6dmx2dTI0cWsxRzlTbjZzNHVDRVMxQm5udA?oc=5",
-    "summary": "期中選舉前不打伊朗！川普五度否決軍事行動 美軍備戰以防改變心意 UDN 川普重申「期中選舉前不打伊朗」 油價小跌、美股開盤小漲 Yahoo股市 障眼法還是保證？ 川普稱不會在期中選舉前打伊朗- 國際 工商時報 選前避戰？ 川普發文：期中選前不打伊朗- 新聞 MoneyDJ理財網 保住國會多數比一切重要！川普承諾：期中選舉前不會再攻擊伊朗 | 李靖棠 | 新聞 Storm.mg",
-    "published": "Thu, 08 Oct 2026 23:45:28 GMT",
-    "display_time": "10/08 23:45"
   },
   {
     "source": "Google News Global",
@@ -134,14 +182,6 @@
     "summary": "〈美股早盤〉通膨陰影又來了！主要指數開低 晶片股也吃悶棍 鉅亨網 油價上漲、美債殖利率居高不下 美股三大指數開盤走低 Yahoo股市 美股早盤／四大指數盡墨！油價登105美元、股債齊跌 費半摔近2% UDN 快訊／通膨疑慮加劇！四指、晶片股慘綠 台指期重挫656點 三立新聞 全球股市全面走跌 油價飆漲與債市緊縮打擊市場信心 | 民視新聞網 LINE TODAY",
     "published": "Thu, 08 Oct 2026 13:39:04 GMT",
     "display_time": "10/08 13:39"
-  },
-  {
-    "source": "Google News Global",
-    "title": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ - 工商時報",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dEI4V2tjeTNvM2J2ZUhmXzItNmJEZjZhSnFNZWZ6dWk4Wmp2Mm5CRnpYUTJHcmJYazFtcnFCdTZ1d1NwVkRFX1QtZEQ5SE5od2ExVXpPSW81VXhmemZB?oc=5",
-    "summary": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ 工商時報 光寶科第3季營收574億年增28% 創2021年轉型後新高 經濟日報 光寶科第三季營收季增 9%，康舒單季首破百億元 TechNews 科技新報 光寶科前三季營收年增26% AI伺服器電源挹注動能 台視全球資訊網 光寶科9月營收188億元年增逾2成 AI伺服器電源系統出貨暢旺 鉅亨網",
-    "published": "Thu, 08 Oct 2026 19:00:00 GMT",
-    "display_time": "10/08 19:00"
   },
   {
     "source": "Google News Global",
@@ -270,29 +310,5 @@
     "summary": "1表看》009816有夠誇張 人氣贏00981A 報酬贏0050 達人解析4優勢：退休金花不完 Yahoo股市 【ETF誰最賺1】最賺的不是0050？今年台股ETF績效Top20出爐 Yahoo股市 1表看》009816有夠誇張人氣贏00981A 報酬贏0050 達人解析4優勢：退休金花不完- 基金 旺得富理財網 大型市值型 強力吸金 經濟日報 0052、00992A、00400A…4檔台股ETF報酬率站上雙位數，「這檔」上市就破發，股價10.6元要續抱？ 今周刊",
     "published": "Wed, 07 Oct 2026 22:00:30 GMT",
     "display_time": "10/07 22:00"
-  },
-  {
-    "source": "CNBC Finance",
-    "title": "Modelo owner Constellation is getting creative to bring back beer drinkers as overall demand weakens",
-    "link": "https://www.cnbc.com/2026/10/07/constellation-brands-earnings-beer-demand.html",
-    "summary": "Constellation Brands beat earnings and revenue expectations as beer brands gained share, while inventory rebuilding and consumer caution clouded demand.",
-    "published": "Wed, 07 Oct 2026 19:14:03 GMT",
-    "display_time": "10/07 19:14"
-  },
-  {
-    "source": "Google News Global",
-    "title": "9月 CPI 年增率2.73%拉警報 主計總處坦言「物價壓力升高」 - 經濟日報",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UQ0Nwc0V5ZThlUHVmUDhmU3c4NmhSRU90eHBBQjEzYUV4SEhmY2paSEkxcl9ib3FRYWxhQjVkTEpveGtnSWJSRk9PenpRTDRfd2MxSW01V1pNb0nSAWBBVV95cUxOVS15eTY3dUh4Z0dUV3J1Q29JczQ2cFM0eDNIVnFZeEphbTZyZV9YaERKZFRqOVNKQ3Q5V3UyVzRlWmZZSUZFVVZ1blpLem1yMDFxOTNUVjZjano5TTJHdmE?oc=5",
-    "summary": "9月 CPI 年增率2.73%拉警報 主計總處坦言「物價壓力升高」 經濟日報 CPI飆至2.73% 許舒博：對底層民眾影響太大 Yahoo新聞 居住成本創20個月新高管理、維修、電費漲幅贏房租| 房產新訊 udn房地產 記憶體漲價效應大爆發　9月電腦設備漲9.75％飆44年新高 ETtoday財經雲 三因素推升9月物價創31個月新高 估10月漲勢收斂 Rti 中央廣播電臺",
-    "published": "Wed, 07 Oct 2026 17:50:05 GMT",
-    "display_time": "10/07 17:50"
-  },
-  {
-    "source": "Google News Global",
-    "title": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化 - BBC",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFTFdsdWlQVDN2WURQSk1HTUowcVdTOVJ1MXZ1c085WTFQVS1xLWE3SlJBbnVZSk5lWVhOZldXYnp6b1pzX290TnU3N2p3bTBVVWJCTkFyb2U5U2RjOVhwVS0xTkVzVUXSAWxBVV95cUxPc1pycEFnOTdkenZVdUhwYkxxMk1ZMXlyWEg0M3JEMmxrZFMxWUF4MjJvOTFrbU1LMDFWdlg3YW5YcWU3aHNjS0hmWG5LelpxY3B0UmJxVWVTSHFHajJLcHpROHM3T18wMzV2U18?oc=5",
-    "summary": "到底是鼠疫嗎？俄羅斯實驗室人員死因說法不斷變化 BBC 川普稱俄羅斯鼠疫不像生物武器 周三致電普丁 Yahoo股市 美要求俄交代可疑鼠疫 川普談生物武器之說 Yahoo新聞 俄爆疑似鼠疫第2例死亡 專家示警寵物同有染疫風險 自由健康網 肺鼠疫致死疑雲！肺鼠疫是什麼？跟新冠肺炎有何不同？全球公衛恐慌再起 專家、疾管署全面解析 工商時報",
-    "published": "Wed, 07 Oct 2026 16:15:46 GMT",
-    "display_time": "10/07 16:15"
   }
 ]
