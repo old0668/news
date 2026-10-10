@@ -9088,5 +9088,10 @@
     "timestamp": "2026-10-10T21:39:28.077356+08:00",
     "average_sentiment": 50.0,
     "news_count": 28
+  },
+  {
+    "timestamp": "2026-10-11T02:33:40.119907+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 4
   }
 ]
