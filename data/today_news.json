@@ -2,12 +2,52 @@
   "date": "2026-10-10",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "published": "Fri, 09 Oct 2026 20:32:42 GMT",
+      "display_time": "10/09 20:32"
+    },
+    {
       "source": "CNBC Finance",
       "title": "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
       "link": "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
       "summary": "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
       "published": "Fri, 09 Oct 2026 15:07:46 GMT",
       "display_time": "10/09 15:07"
+    },
+    {
+      "source": "Google News Global",
+      "title": "南非法官皮萊獲諾貝爾和平獎 川普轉發貼文痛批 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2WnpnSmo4RjNfT2hESEM1MVc0VEYyZVlxeW1zRlR4VkVXVGZUMXdvODFBVmVrNjB1NWE0Q0R0Um1JbXZ4OWswU1FxSElIeUUyMXZR?oc=5",
+      "summary": "南非法官皮萊獲諾貝爾和平獎 川普轉發貼文痛批 UDN 諾貝爾和平獎得主皮萊為全球受難者發聲曾多次挑戰中國| 國際 中央社 CNA 國際刑事法院前法官獲頒諾貝爾和平獎後　美宣布制裁法院 自由時報 美擬擴大制裁 歐洲及日本等8國聯合力挺國際刑事法院 | 民視新聞網 LINE TODAY 有片／很幽默！諾貝爾和平獎得主皮萊「你們再鼓掌、我可能就要和川普分享這個獎了」 Yahoo新聞",
+      "published": "Fri, 09 Oct 2026 22:50:00 GMT",
+      "display_time": "10/09 22:50"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "published": "Fri, 09 Oct 2026 22:30:22 GMT",
+      "display_time": "10/09 22:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈美股盤後〉川普稱普丁同意向全球投放柴油 標普逼近歷史高點 三大指數周線收紅 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91TUdPNXNYbFFBR0xKUDJlUXJHM0tzTEZUZ1ZuaTBicVVDZGJGRzBiRHBqckQ4SHR1a2o2ZjJoSDNId2REd3FjY3hXU1o4cWc?oc=5",
+      "summary": "〈美股盤後〉川普稱普丁同意向全球投放柴油 標普逼近歷史高點 三大指數周線收紅 鉅亨網 伊朗局勢緩解！美股三大指數齊揚 「這指數」卻逆勢走跌 Yahoo股市 期中選舉前政策大轉彎！ 川普向普廷買柴油 澤倫斯基痛批 自由時報 川普宣布與俄羅斯達成柴油供應協議 澤倫斯基批送普丁大禮 Rti 中央廣播電臺 川普宣布與普丁談妥！ 俄擬供逾480萬噸柴油選前拚壓低美國燃料價格- 國際 工商時報",
+      "published": "Fri, 09 Oct 2026 22:11:53 GMT",
+      "display_time": "10/09 22:11"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股收盤》道瓊上漲423點 台積電ADR跌逾1％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NOGhUdXpkams2SjFjbW03dVRjT3o5MGc0bVpMTlhhSVhwOGRZM0RkZURmRDdzLS1OdHNvdXNrZkM4NXExZEZSZUxvQXpfLTBucUpObDNrVHkzTUJoUHRN0gFkQVVfeXFMTjFYSE9mblU1dFNCdUlfZl9rZS1BNzdXVlZ4VDdTRTdBUDRtWDVQdEVHRzdlTWN3Q25qQ254aV8tRldMcDdJSmE2ZTUxLXR5emFnMUpRSm1pUUQ5MjI1SG1Vb0ZCZg?oc=5",
+      "summary": "美股收盤》道瓊上漲423點 台積電ADR跌逾1％ 自由財經 美股｜川普餵定心丸 3大指數收紅！SpaceX進軍通訊市場 電信股崩跌 台積ADR跌逾1％ 工商時報 〈美股早盤〉油價降溫、AI買盤回籠！晶片股領軍 主要指數開高 Yahoo股市 川普「選前不會攻伊朗」原油回落、科技股反彈 美股3指數收紅盤 台視新聞網 標普500、那指再創新高！11檔美股ETF近一季全數正報酬 00926奪冠 鉅亨網",
+      "published": "Fri, 09 Oct 2026 22:08:04 GMT",
+      "display_time": "10/09 22:08"
     },
     {
       "source": "Google News Global",
@@ -26,12 +66,20 @@
       "display_time": "10/09 13:22"
     },
     {
-      "source": "BBC Business",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "published": "Fri, 09 Oct 2026 20:32:42 GMT",
-      "display_time": "10/09 20:32"
+      "source": "Google News Global",
+      "title": "南非法官皮萊獲諾貝爾和平獎 戲稱可能與川普分享獎項 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FM25HR2pka3JYYXEwTGgxNU9PandaR25hRW8wYWViSEFPVGJmdC1TdnVTVEthWDFMX1JwcEc3ZmluVHhpdjRlWDFMcktRVGZXS2d3?oc=5",
+      "summary": "南非法官皮萊獲諾貝爾和平獎 戲稱可能與川普分享獎項 UDN 諾貝爾和平獎得主皮萊為全球受難者發聲曾多次挑戰中國| 國際 中央社 CNA 美擬擴大制裁 歐洲及日本等8國聯合力挺國際刑事法院 | 民視新聞網 LINE TODAY 諾貝爾獎和平獎得主皮萊 曾要求中國公布六四真相 Rti 中央廣播電臺 2026諾貝爾和平獎》與川普無關！南非法官納薇皮萊榮獲桂冠，感謝她捍衛國際法治 Yahoo新聞",
+      "published": "Fri, 09 Oct 2026 12:07:10 GMT",
+      "display_time": "10/09 12:07"
+    },
+    {
+      "source": "Google News Global",
+      "title": "不只美股！這市場也要延長交易 時間曝光 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPOUNDSFQtNEJhVnhpVi1GWUZBb1AzaWVabktpbnZYUzNSYm1RQ21zRXpTMTA4RDlsMDNjbUk0YURCbGMzaTJWZVN1aWJ2aGJPYXIzbG15STZTN1ZuODFwQjJETlFnU1Z4Z0ZvODdlczF0MXlfdlVPWEEyYWZ5WWZjb05wN2lpQW85Y19sWGdZbEUwb3lkVHYtN3pRUFdpeF9ncmU0QXJKd0dtWEJfY0ZqN1FsUHVJYWdGazJ3SXhXU3Z2U3ViMzBGY2xDblQ3QW05NDFaZ0M2aUc4eVFKTzdFcnVSNzdfQ3drSVQ5dFRKY3RENUZaVDhxcEUtZnZhQ0M4Tnp1Wm5WZU1uWGpGU3JaN2V3R2RNTG1LVFQ2QzJzcjJNZw?oc=5",
+      "summary": "不只美股！這市場也要延長交易 時間曝光 Yahoo新聞 增強動能/提升資本效率改革微觀結構構建生態圈證監：三大領域發力促進港股流動性- 經濟 大公文匯網 港股加時 證監：港交所今季發文件 梁鳳儀：衍生品先行 助應對跨時區變化|香港經濟日報 香港經濟日報HKET 港交所陳翊庭：運用科技提高上市審批效率 縮短股票結算周期大勢所趨 香港商报 關於延長港股交易時間，香港證監會發聲！ 風火輪傳媒有限公司",
+      "published": "Fri, 09 Oct 2026 19:38:00 GMT",
+      "display_time": "10/09 19:38"
     },
     {
       "source": "Google News Global",
@@ -51,14 +99,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "南非法官皮萊獲諾貝爾和平獎 戲稱可能與川普分享獎項 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FM25HR2pka3JYYXEwTGgxNU9PandaR25hRW8wYWViSEFPVGJmdC1TdnVTVEthWDFMX1JwcEc3ZmluVHhpdjRlWDFMcktRVGZXS2d3?oc=5",
-      "summary": "南非法官皮萊獲諾貝爾和平獎 戲稱可能與川普分享獎項 UDN 諾貝爾和平獎得主皮萊為全球受難者發聲曾多次挑戰中國| 國際 中央社 CNA 美擬擴大制裁 歐洲及日本等8國聯合力挺國際刑事法院 | 民視新聞網 LINE TODAY 諾貝爾獎和平獎得主皮萊 曾要求中國公布六四真相 Rti 中央廣播電臺 2026諾貝爾和平獎》與川普無關！南非法官納薇皮萊榮獲桂冠，感謝她捍衛國際法治 Yahoo新聞",
-      "published": "Fri, 09 Oct 2026 12:07:10 GMT",
-      "display_time": "10/09 12:07"
-    },
-    {
-      "source": "Google News Global",
       "title": "夜盤一度殺944點…台股躲崩了！專家曝下周「絕佳買點」 機會稍縱即逝 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPOWFkRUJjUEdOcnpwcGR3WFJjTnhDNXVHWWFxMVB5bHFhV3lEZzh4NVZnbGFmTHEwdEtwT3VWRDlhdHg1aE00SjdXTUZWa0pTWUJ2WVZ4QTFYM2JmNndQeHpSRTRSVF81bE5xbjFybVBOX2diaWRHemx3Mnc3cVB4S3VJdnQ2R2lOSnZsUm1ucmRqU3lidG02SEJ3enB2V3UyTlB5SFF6WGNSa2FnSkhxa3NRVzhGMVBPYm85R1VydlBmWGZKYXVtSmFjaGxhUWlxampzaUFTWGpMS2JQY2F2blNVQWpWNFhuRlpMaHo1Z2UteXFyX1JiT2JqMnd5djVJRkNnWUpwZU94M2pxLUlwQmJtTkhfMzNqN0pRUEVaRC1HWi1LT1hQMWFLa2NuVVpCRlY5bVBadklXWWI3WDZEYV9NNENyV2F2?oc=5",
       "summary": "夜盤一度殺944點…台股躲崩了！專家曝下周「絕佳買點」 機會稍縱即逝 Yahoo股市 雙十連假後崩盤來真的？郭哲榮揭492點殺盤真相：幸福是等來的！ Yahoo新聞 台股大跌近500點…原來是這個訊號現蹤！法人這樣看台股後市 UDN 盤勢分析─5萬點缺臨門一腳 量能是關鍵 自由財經 台股下殺493點！ 專家喊直言「安心了」：這是換手 東森電視",
@@ -75,19 +115,19 @@
     },
     {
       "source": "Google News Global",
-      "title": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dEI4V2tjeTNvM2J2ZUhmXzItNmJEZjZhSnFNZWZ6dWk4Wmp2Mm5CRnpYUTJHcmJYazFtcnFCdTZ1d1NwVkRFX1QtZEQ5SE5od2ExVXpPSW81VXhmemZB?oc=5",
-      "summary": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ 工商時報 光寶科第3季營收574億年增28% 創2021年轉型後新高 經濟日報 光寶科第三季營收季增 9%，康舒單季首破百億元 TechNews 科技新報 光寶科前三季營收年增26% AI伺服器電源挹注動能 台視全球資訊網 光寶科9月營收188億元年增逾2成 AI伺服器電源系統出貨暢旺 鉅亨網",
-      "published": "Thu, 08 Oct 2026 19:00:00 GMT",
-      "display_time": "10/08 19:00"
-    },
-    {
-      "source": "Google News Global",
       "title": "OpenAI營收低於預期 甲骨文尋求巨額債務融資 AI概念股全面承壓 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FSmRjeTl1VUtLSlZxX3JCelp3bGZ6X19XZi1ZdkNKQnVaOG5BdHdVdjVINGVGMGdtRHJEOFF3Q0Jpbk4xVG9zZllZaDIwaTA?oc=5",
       "summary": "OpenAI營收低於預期 甲骨文尋求巨額債務融資 AI概念股全面承壓 鉅亨網 美股科技股重挫！克雷默：AI股遭拋售再次證明分散投資的重要性 Yahoo股市 OpenAI 業績爆冷台鏈承壓 市場憂影響鴻海、緯創等表現 經濟日報 OpenAI一紙數字嚇壞市場！輝達、AMD、美光重挫費半跌逾3％ - 國際 旺得富理財網 OpenAI年化營收較預期短少200億美元 AI前景疑慮上升 Rti 中央廣播電臺",
       "published": "Fri, 09 Oct 2026 02:10:04 GMT",
       "display_time": "10/09 02:10"
+    },
+    {
+      "source": "Google News Global",
+      "title": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14dEI4V2tjeTNvM2J2ZUhmXzItNmJEZjZhSnFNZWZ6dWk4Wmp2Mm5CRnpYUTJHcmJYazFtcnFCdTZ1d1NwVkRFX1QtZEQ5SE5od2ExVXpPSW81VXhmemZB?oc=5",
+      "summary": "康舒第三季營收首破百億！光寶科也繳近10年高點 AI電源有多旺？ 工商時報 光寶科第3季營收574億年增28% 創2021年轉型後新高 經濟日報 光寶科第三季營收季增 9%，康舒單季首破百億元 TechNews 科技新報 光寶科前三季營收年增26% AI伺服器電源挹注動能 台視全球資訊網 光寶科9月營收188億元年增逾2成 AI伺服器電源系統出貨暢旺 鉅亨網",
+      "published": "Thu, 08 Oct 2026 19:00:00 GMT",
+      "display_time": "10/08 19:00"
     }
   ]
 }
