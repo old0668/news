@@ -3,19 +3,11 @@
   "news": [
     {
       "source": "Google News Global",
-      "title": "胡塞武裝再襲利雅德機場 釀12死309傷 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ2xUZDhTNml6WjZYTER1UEZkekZSUlBJTnZyODRpekoyLVNHUWpmeEtfaHVjaWRHajEyNW96d2VJcmxPT2xoYk9fdUNtNnYtekxkNWhyVzdMczFaTmtjYzdUSkhuVU9qdzdCcEtQWEhSOVNXbXcydzJoRUloWE5DeUZSbU1HdUpkUk1NZlNEUUZLYVFsQ0w3WE1Qa1d3V0FLOVpuU3A3VVZlNW9jRWpYTmVOLVpac0dDWnZiSkQ1Zm9IMmxCWWlHMHI4VGxDTFpwSUxYMGhtVHZlNmpkR0RuTGRwOW9LVjhvUFNSM2xpaDE5UmRrYmVsVHpmejBtSk5rWEpF?oc=5",
-      "summary": "胡塞武裝再襲利雅德機場 釀12死309傷 Yahoo新聞 沙國機場遭飛彈擊中321人死傷！川普考慮參戰 外媒爆防空警報竟未響 UDN 沙烏地聯軍大規模行動 稱摧毀葉門叛軍上百個軍事目標 東森新聞 沙烏地阿拉伯利雅德機場遇襲 至少12死逾300傷 自由時報 沙烏地利雅德機場遭攻擊暫停營運！逾260航班取消、沙國與胡塞衝突升溫 鉅亨網",
-      "published": "Sat, 10 Oct 2026 23:26:48 GMT",
-      "display_time": "10/10 23:26"
-    },
-    {
-      "source": "Google News Global",
-      "title": "「中國沒犯台全靠我」 川普點名台灣：我理應獲得8座諾貝爾和平獎 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPaUxLYTZKZEhic3luZm51TzZ5am4xdFJLYVMzRkFmcGFHcTVBeEt6T3dtdFpkZnJHRjFTdTdVWWQ4R1lRUTZJa2tKZnpTZVZDaGVnNTYwRlZrb2lRRWo1ek5CMFVZLUN2VmtvU2pFX3Z3VE1iVnZSRko4SVhDamNyVzZWZHpLeGx6ck8xNlhkeHc0cTNQQmFrRUFFbkZ2TlhfS1ctdkltbFJmU2VNeGg3MktBaWhDNXdLWk9hV2hiUllTUmo3OUlVNHFUQXR6RzZIcTQ3UWpjVlpma0xVSEtMbUVwcVh3Q3BUOGFuN2ZyM3pZQ01KVndXR1hCX0lVMUFGM09mZzNCSUI0Tm55WERkQlh0SjYzMVQzTm4zTDVPU0IzOEl1dlprV2szQjhkM3Nhc0Z2Y2dvUDJNSGZyU09sS0F4MTE3cS1DYzdnSTBkOVVVLXlTdzhua21oTDJoQmRLdG9MeFF2VE1iWldaYkJzcGtuVklPY3NoQ0hQdEp5dnB2OW5idXYxYXJENG0tUlE?oc=5",
-      "summary": "「中國沒犯台全靠我」 川普點名台灣：我理應獲得8座諾貝爾和平獎 Yahoo新聞 川普開砲！皮萊獲和平獎 美國制裁ICC UDN 川普落選震怒發長文 點名台灣！ 東森新聞 美國擬制裁國際刑事法院 8國外長齊聲反對 Rti 中央廣播電臺 川普又沒拿到諾貝爾和平獎 怒噴兩分鐘 鉅亨網",
-      "published": "Sat, 10 Oct 2026 22:59:53 GMT",
-      "display_time": "10/10 22:59"
+      "title": "快訊／川普突宣布俄烏即刻實施能源停火 強調雙方均已同意不得違反 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNOWl4bTU0b0Y1ZWltTl92NFNjdW9TUnVHUElYdTMwUFJ6dkRfSjNiOUlrMGZqNWVCU0htUnZyOFhjNWlyX0N3dWJuRDVtandjb2V0bVlsb3lUUWh4X2t6LVNTR3lLWFNSbm9acXZnSkJOcnlkcWlYNWVtemF3T0lvOXhsY0RJMmR3SjZvWFFnQ2x1VUJpNlJVSlVtXzFPRUNpWlhGSlpVVl9uaGxZTjQ0dF9ZUEoxd3VweVM5Tm1iZDczd1lGVTh4OTE1eGtfcWt4RVgyUG1QREpKOFdxeVpXcE5LNDRaWUdFNktrY1o1LXU1bVNDV1U4OEFJRXhMdlhZUVhSaDFsNEswQW9rczhGeEN4SUxCOG0wcGVRNWoxNHlxYUxGd1BXSUNBS0NuNUNMem4xVXQzajc0TE5qRFE5WVpRYlZFVFdKREFFdm5BeGQ3S184RFdXeTBOYWpZREdJM0YyaUctOEE3RDZLZ2NCUkVULXNnX29vZk9QX0s3TDJPWDZ0WUhLX1V5Sm9yc21OVllfNE8zSzFBR2Qzd0xlUGMzYU1IMzRrOVFFbUhoM2diQQ?oc=5",
+      "summary": "快訊／川普突宣布俄烏即刻實施能源停火 強調雙方均已同意不得違反 Yahoo新聞 被川普點名下台澤倫斯基：普廷同意停火60天就辦選舉- 國際 自由時報 川普籲烏克蘭換總統澤倫斯基：應由人民決定| 國際 中央社 CNA 澤倫斯基批美放寬對俄制裁 川普籲烏克蘭「換總統」 你的公共電視 川普促烏換總統 施壓停攻俄煉油廠 中華日報",
+      "published": "Sun, 11 Oct 2026 14:49:00 GMT",
+      "display_time": "10/11 14:49"
     },
     {
       "source": "Google News Global",
@@ -51,6 +43,22 @@
     },
     {
       "source": "Google News Global",
+      "title": "鴻海、廣達、台達電捲入美國337調查！ 經濟部說明、3家大廠最新回應一次看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxNLURHcjlVLV9xQ2IwVEtFSEhCbjA1WllUVVpjRU5KZHNZc0tWckZtWG1mNktaVlMtQ0xsYWVxM2VzTGNSMVhnN1NKd2lsYzhXbHkzUjlEX1Zfa3dMNjFGUkFsTks1b053T0JVanktc2VXRGZ1RVlmNVc1bnhrX3dQYU5kcHlvTG1RYjVNUU4wd0pFRUVlb2NEQVBpNnNQUW9kQ20zR2NoX18zdVdTQzNLSFhwNXZMU01vdVcxVmJvWG1yVVFyZEwyZjdLMmpUejl3eHFwaWMyU0JLY21JbUxvaDhJa3ZRWS1ZVjBpWGxYMEU2LVNKa3lxaTlYMlVxNzF1XzdKc1BMdWNfc1NiQ1RCVnN0SnMzbDl5dGtiVjRPQUp3WmRIRWhsVEtOaF9qekF3TXlaYWJqQUtzTUpMMXhCTmJRNUFLWkRDWExBOVNEbTM3c2hMcXAtQjMzN2ZUV2dTS3oySVEzZmNTTldscEtvVV83TENFaklybXVBczJaX0M0VFoxaC1FdUZiTGlvc2d4REE?oc=5",
+      "summary": "鴻海、廣達、台達電捲入美國337調查！ 經濟部說明、3家大廠最新回應一次看 Yahoo股市 網問台股週一會殺兩千點？專家揭下週「只盯3件事」 Yahoo新聞 鴻海及子公司遭美國337調查 強調營運出貨正常、已組團隊釐清因應 鉅亨網 美啟動337調查，鴻海、台達電、廣達遭點名，最新回應了！337調查是什麼？最慘恐被封殺？流程、處置方式一表看 今周刊 遭美國337調查 鴻海：出貨及客戶合作未受重大影響 自由財經",
+      "published": "Sun, 11 Oct 2026 11:20:00 GMT",
+      "display_time": "10/11 11:20"
+    },
+    {
+      "source": "Google News Global",
+      "title": "中國宣布5大海域「實彈射擊」 12日起連續5天登場 - 東森新聞",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fb2VYUk5jbm1jS0RDdE1NUFU1clQ0NjM1NUl3aDV6MTF2RktSQ0t2eVhpZXV6MHVhQTZWVmxoSjYyXzVKWWlYcHRocnBUcVM4QXFv?oc=5",
+      "summary": "中國宣布5大海域「實彈射擊」 12日起連續5天登場 東森新聞 賴清德的「中華民國」是幾歲？李艷秋揭他國慶演說「唯一數字」：含糊避開最關鍵4字 Yahoo新聞 〈社論〉迴避中華民國憲法還想維持台海和平？ 中華日報 台股總統牌來了！法人點名中興電、漢翔等17檔指標股 看下一波行情從50K開始 工商時報 反擊大陸國台辦 外交部：台灣前途中國無權置喙 經濟日報",
+      "published": "Sun, 11 Oct 2026 11:14:00 GMT",
+      "display_time": "10/11 11:14"
+    },
+    {
+      "source": "Google News Global",
       "title": "太平洋要改名了？川普提議2個新名稱曝光 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjNUVHYjFmNFpGRHRod0xGLV9VT1FaZHU2bmZLdm5qNGZFRHhnWjNVVHMtT1V2MmZJbmVNbV84MHY1emRXRnlwQW40ZGEtN1Zs0gFWQVVfeXFMTzlfeGZrTl8tWE1wclZ3QzNpcEJfVVdzV3hBUjAwX0Q2WkF0Y1lsNHR1bV9jd2VQOWh3Y0FBbXU5ZUJ0bS1pVnlwcEJvMzk0aGFVRFJheWc?oc=5",
       "summary": "太平洋要改名了？川普提議2個新名稱曝光 UDN 川普又想改名！提議將大西洋、太平洋改名 Yahoo新聞 「川普洋」要來了？川普笑談海洋更名這兩處被點名- 國際新聞 PChome Online新聞 2026美中期選舉︱特朗普倡兩大洋改稱「特朗普洋」 稱卸任前需擁有一片海 星島頭條 太平洋要改名「川普洋」？川普：卸任前該擁有一片海洋- 國際 工商時報",
@@ -67,6 +75,14 @@
     },
     {
       "source": "Google News Finance",
+      "title": "AI科技股大跌＋美337調查 週一台股跌千點？散戶剉 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPTlhHeUE5QXNqRmdyU1Z0MHgzemc3QzRKeUZCR29TMW5sUE02QXczLU5jYk0xbko5bVRVOEtFbWExeDRkZV9XMmJDZHRUV2FIQ3U4UW5CWk1fTDJDMl9DdjNDNFk3Qk54aWhaUEtBU1B6QkJ3ZnFUOUk3ckhXcGlIQjlRbkRyTC1IWk1Nd0xuaklHeGxWeHY2UXN6cmtPSl9vN1kySGFxX3p1UWFtMk1WWUU1ZFJSYURhaWJ5OWVZMTltSXVHY21BSEh2UFo3N0RJbDY5Q2dyOURram9DLXMxZUpHY2prbmZmN0Q1d1o1VjZsRE9xQWI2ZFlQWDhrUnRJeTZoY3FIMW1pdXFWbnhncE1JWWhkMkpXWWY0S1BBS2dydkY3OW91NVhrZ0hkUFN1ckxJ?oc=5",
+      "summary": "AI科技股大跌＋美337調查 週一台股跌千點？散戶剉 Yahoo股市",
+      "published": "Sun, 11 Oct 2026 10:01:03 GMT",
+      "display_time": "10/11 10:01"
+    },
+    {
+      "source": "Google News Finance",
       "title": "台股連假後剉咧等？法人：短線震盪難免 企業獲利、AI基本面仍撐盤 - 壹蘋新聞網",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzI5R1hTYkdyWGVkZHhJcHJob1h4OTRicklmSVVDTVZ3c1lYbDhjWUpncVVIQkMzY0FBSGN5bC1BaHBKM3ZNNC1CTFNFSGR6N0lKSjcwNjRFSkR5ZDZudVcyUkVnR3ZCNEJaQy1kRkpfZmxZYWcxd05icVlpM3QtSDR3?oc=5",
       "summary": "台股連假後剉咧等？法人：短線震盪難免 企業獲利、AI基本面仍撐盤 壹蘋新聞網",
@@ -75,11 +91,43 @@
     },
     {
       "source": "Google News Global",
-      "title": "影／川普公開喊烏克蘭換總統！點名澤倫斯基始終無法達成協議 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFM1VBcWNxNHV4MlhnSmNDbDIySl9xUlpxNEJkN1dDQnFINFNSN1M2OXhBYXlZbjRlYU9sTWtsVnFFa1V5LTE3UGhNTWs0c3Bj0gFWQVVfeXFMTUYyR2NTMjctT3gtenFhbzJ5cXBCQkRLa1ltVW9oMkdlNFdlSDdteGhjMmdndWp5WW1uU1hJcWVvZzVZTUZyTHVtRV9VQ3h3a05TX19Qb2c?oc=5",
-      "summary": "影／川普公開喊烏克蘭換總統！點名澤倫斯基始終無法達成協議 UDN 川普一怒要烏克蘭換總統！旅美學者曝對台灣最大警訊 Yahoo新聞 川普出賣烏克蘭！美解除對俄制裁、逼烏換總統 淪普亭肥羊 UDN 川普要求烏克蘭換總統施壓停止襲擊俄羅斯煉油廠| 國際 中央社 CNA 川普、普丁通話誰都「不想先掛電話」！俄供柴油降油價惹怒烏克蘭 鉅亨網",
-      "published": "Sat, 10 Oct 2026 17:49:24 GMT",
-      "display_time": "10/10 17:49"
+      "title": "報酬狂飆133.8%！「這檔主動式ETF」輾壓0050 阮慕驊曝3關鍵：修正時比較抗跌 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNcDA3dk5jUzdVamt4LVplTjFMNTFta09seWRobkRkUmRLb3o2QV9OOWVEaVRPZXdvSEUwZTlaN1F6RGV0X3hKX1BlRF9jb3pzeFlHTjFKYVJuQTNKSGtVYVFQYWlZRjhSOVdleHV0M1F3RHh2SHFfbnlzaldDUWRWd3ZiVFJiaHoxT19VNzhOWGdPTHZzZ0VVN3UzNG5oVjZteWVsYnRtUFJXd05qLUNIVGx6VnE5V2tvRGw0ZmN3N3dVRHBiTEhmdllEUDAyRnFNTHh5eGljYTZmSmNROF9ZTzd0OFMzVm81SmxQUFhzR2luWHEtQUVjRjBfSEFwNTNYeXAzOXItR2Q4Uml6c0c3UklZX3lDX0w2UjJHLXpwWDRKcUNOQUNYal80bU5PTklRTUY0MkxzSEo5Vk9r?oc=5",
+      "summary": "報酬狂飆133.8%！「這檔主動式ETF」輾壓0050 阮慕驊曝3關鍵：修正時比較抗跌 Yahoo股市 00985A贏0050逾9個百分點！第三季勝00403A、00991A 阮慕驊：錢募得多未必賺愈多| 存股族愛ETF | 股市 UDN 台股高檔震盪「高息型」最吃香！盤點 12 檔 ETF 規模逆勢創新高 TechNews 科技新報 iShares亞太ETF調查：台灣愛買ETF、滲透率53％亞太第一 | 信傳媒 LINE TODAY 大盤創高後拉回 這12檔台股ETF規模仍創高 00927今年來漲幅翻倍居冠 鉅亨網",
+      "published": "Sun, 11 Oct 2026 09:20:00 GMT",
+      "display_time": "10/11 09:20"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "主動式台股ETF下半年績效揭曉！00400A漲逾11%奪冠 5檔打敗大盤 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRUM0ZkVCRWNSaHpiSTNOSWlaNWk4WFRLbmtxTlZnYXpfMGVwS2NsQVNJNVpMbTFSVGx2TG1mZjhIQ2lROVh5NTZTRHZSUDRZM3pyQUdONGdyb0prc0MycFFtRXZPbTRTNXBBMzRSdGV3N3lReWJFUk1iRDJPbkhyc2NB?oc=5",
+      "summary": "主動式台股ETF下半年績效揭曉！00400A漲逾11%奪冠 5檔打敗大盤 壹蘋新聞網",
+      "published": "Sun, 11 Oct 2026 08:50:00 GMT",
+      "display_time": "10/11 08:50"
+    },
+    {
+      "source": "Google News Global",
+      "title": "胡塞武裝再襲利雅德機場 釀12死309傷 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQZ2xUZDhTNml6WjZYTER1UEZkekZSUlBJTnZyODRpekoyLVNHUWpmeEtfaHVjaWRHajEyNW96d2VJcmxPT2xoYk9fdUNtNnYtekxkNWhyVzdMczFaTmtjYzdUSkhuVU9qdzdCcEtQWEhSOVNXbXcydzJoRUloWE5DeUZSbU1HdUpkUk1NZlNEUUZLYVFsQ0w3WE1Qa1d3V0FLOVpuU3A3VVZlNW9jRWpYTmVOLVpac0dDWnZiSkQ1Zm9IMmxCWWlHMHI4VGxDTFpwSUxYMGhtVHZlNmpkR0RuTGRwOW9LVjhvUFNSM2xpaDE5UmRrYmVsVHpmejBtSk5rWEpF?oc=5",
+      "summary": "胡塞武裝再襲利雅德機場 釀12死309傷 Yahoo新聞 沙國機場遭飛彈擊中321人死傷！川普考慮參戰 外媒爆防空警報竟未響 UDN 沙烏地聯軍大規模行動 稱摧毀葉門叛軍上百個軍事目標 東森新聞 沙烏地阿拉伯利雅德機場遇襲 至少12死逾300傷 自由時報 沙烏地利雅德機場遭攻擊暫停營運！逾260航班取消、沙國與胡塞衝突升溫 鉅亨網",
+      "published": "Sat, 10 Oct 2026 23:26:48 GMT",
+      "display_time": "10/10 23:26"
+    },
+    {
+      "source": "Google News Global",
+      "title": "「中國沒犯台全靠我」 川普點名台灣：我理應獲得8座諾貝爾和平獎 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPaUxLYTZKZEhic3luZm51TzZ5am4xdFJLYVMzRkFmcGFHcTVBeEt6T3dtdFpkZnJHRjFTdTdVWWQ4R1lRUTZJa2tKZnpTZVZDaGVnNTYwRlZrb2lRRWo1ek5CMFVZLUN2VmtvU2pFX3Z3VE1iVnZSRko4SVhDamNyVzZWZHpLeGx6ck8xNlhkeHc0cTNQQmFrRUFFbkZ2TlhfS1ctdkltbFJmU2VNeGg3MktBaWhDNXdLWk9hV2hiUllTUmo3OUlVNHFUQXR6RzZIcTQ3UWpjVlpma0xVSEtMbUVwcVh3Q3BUOGFuN2ZyM3pZQ01KVndXR1hCX0lVMUFGM09mZzNCSUI0Tm55WERkQlh0SjYzMVQzTm4zTDVPU0IzOEl1dlprV2szQjhkM3Nhc0Z2Y2dvUDJNSGZyU09sS0F4MTE3cS1DYzdnSTBkOVVVLXlTdzhua21oTDJoQmRLdG9MeFF2VE1iWldaYkJzcGtuVklPY3NoQ0hQdEp5dnB2OW5idXYxYXJENG0tUlE?oc=5",
+      "summary": "「中國沒犯台全靠我」 川普點名台灣：我理應獲得8座諾貝爾和平獎 Yahoo新聞 川普開砲！皮萊獲和平獎 美國制裁ICC UDN 川普落選震怒發長文 點名台灣！ 東森新聞 美國擬制裁國際刑事法院 8國外長齊聲反對 Rti 中央廣播電臺 川普又沒拿到諾貝爾和平獎 怒噴兩分鐘 鉅亨網",
+      "published": "Sat, 10 Oct 2026 22:59:53 GMT",
+      "display_time": "10/10 22:59"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普又想改名！提議將大西洋、太平洋改名 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQN1ZnYkRsUElhSVBLNmxycVByaWIxeWRFc3lMRVFlS3RKNGNGaVVDaGloT3hqVU0zSWZUejFXZHkyZTZFQ0NMMW80dzQzOVFMOTJtNzEzVnNwMk5RdU9iNElTdklCT1lzQ2ljeVY1RW5iQkRKU2kzaVl2TXlYdEVGel9YVXhoUEpOTkdXcWh5Tm1tVzl2TmxRQkFoTHd2b1Bvc1lRSDl0Z3VzYTFzSU8zZjkxWXdVQlJpMm85RmFfaElZWi00X2h4S3J2Mmc3YXdZQ1cycXUtSF9sczVKOGJ1SmYwZGsyWHlKTDRHX2ZoT3lfRTU2S3VvWHdXQ0lQcjhDUmR4bm9pbmJZSHJRTDFMbVZTdDZSVmVIWXpvdHVLRlg2Zw?oc=5",
+      "summary": "川普又想改名！提議將大西洋、太平洋改名 Yahoo新聞 川普再拋更名構想 擬將大西洋或太平洋改稱「美洲洋」 中央社 CNA 「川普洋」要來了？川普笑談海洋更名這兩處被點名- 國際新聞 PChome Online新聞 太平洋、大西洋要改名？川普拋「2大洋新命名」 全場笑翻 民視新聞網 討論牆 | 川普又想改名！提議將大西洋、太平洋改名 LINE TODAY",
+      "published": "Sun, 11 Oct 2026 05:49:00 GMT",
+      "display_time": "10/11 05:49"
     },
     {
       "source": "Google News Global",
@@ -91,19 +139,35 @@
     },
     {
       "source": "Google News Global",
-      "title": "怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNeWViT2xtQnh5N1Nsb2RIUnRBSWZ6REpjS3ZBR1NjR1FTbWxUcFZrMXJnNFJDd0R4UWN5alF6RlFYVElwNjctOWJUZEUzWFh2NWNFc1hUdDREX2FnRHRlWXFZbXZ2TFdQUEJ0RzJKX19fNjdHV2Zfa29lSTVhdkxxeGpXUmJTNVk1QWF1M3FTMkJhOGVmMjJiN0E1QVlxYzdIOFgxSkFROVNKT19Wa1NuZVdCZmhYaTVfU1ZDbGlIMzJPeFc3aGFYSF9nQ3Fja1FsQTZYNFI2VFdoVVJQRHFRdDNBM3ZYakR1bHplZDVJT04xT1JmQjl2SFpZYkZZWXQ1ZW5VR2hpRC1TSzRoWmREVnVFa3gzU3lYdnpQZmJvYnNZcnFGNGNZMk54WGJyRm1PeEZ2X1htUG9GQ3FDMzcwQnVBc1NiZERGNHpyZ3pkb3RBRXJWV2RyRTExTG5jVTlaZnEwUmlOVWNWMmkteFVlbEtIYmlfVDJPTmI0cmRaMnUyT3BwYkRVOUt6Z3JCM0NfWGlUY1pwN0xrQ05lcFhkWGd3cDZxOF9h?oc=5",
-      "summary": "怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位 Yahoo股市 外媒指勿輕忽台積電「強大力量」股價已漲689％還不夠 自由財經 台積電法說來了 周四將公布Q3財報、展望 市場盯七大重點 經濟日報 台積電法說會10／15登場！馬斯克Terafab合作有譜？5大焦點一次看 ETtoday財經雲 台股下周重頭戲台積電法說 國銀估毛利率達這數字、資本支出拉高 | 經濟日報 LINE TODAY",
-      "published": "Sat, 10 Oct 2026 10:45:00 GMT",
-      "display_time": "10/10 10:45"
-    },
-    {
-      "source": "Google News Global",
       "title": "川普要求烏克蘭換總統施壓停止襲擊俄羅斯煉油廠| 國際 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01VGlKZGE3Mm1mN0VEYl9TYmdYbmQzLWZ5dnVHZnhZS3FBVFZEMllvM0VlZHhBS01EQkQyXzdlSTF1RUdnd2NhMERHTm5Ea3hmMlNydHltUHplNzdacVVj?oc=5",
       "summary": "川普要求烏克蘭換總統施壓停止襲擊俄羅斯煉油廠| 國際 中央社 CNA 出賣烏克蘭以抑制美國油價？ 川普與普丁達成柴油出口協議後稱：烏克蘭應換新總統 Taiwan News 川普稱普丁想達成協議 批澤倫斯基拒絕妥協 Rti 中央廣播電臺 美買俄油英首相挺烏未來幾天內將與澤倫斯基會談- 國際 工商時報 挨批與魔鬼交易！川普、普亭達成柴油協議 共和黨人也不挺提案反制 Yahoo新聞",
       "published": "Sat, 10 Oct 2026 18:30:00 GMT",
       "display_time": "10/10 18:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "影／川普公開喊烏克蘭換總統！點名澤倫斯基始終無法達成協議 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFM1VBcWNxNHV4MlhnSmNDbDIySl9xUlpxNEJkN1dDQnFINFNSN1M2OXhBYXlZbjRlYU9sTWtsVnFFa1V5LTE3UGhNTWs0c3Bj0gFWQVVfeXFMTUYyR2NTMjctT3gtenFhbzJ5cXBCQkRLa1ltVW9oMkdlNFdlSDdteGhjMmdndWp5WW1uU1hJcWVvZzVZTUZyTHVtRV9VQ3h3a05TX19Qb2c?oc=5",
+      "summary": "影／川普公開喊烏克蘭換總統！點名澤倫斯基始終無法達成協議 UDN 川普一怒要烏克蘭換總統！旅美學者曝對台灣最大警訊 Yahoo新聞 川普出賣烏克蘭！美解除對俄制裁、逼烏換總統 淪普亭肥羊 UDN 川普要求烏克蘭換總統施壓停止襲擊俄羅斯煉油廠| 國際 中央社 CNA 川普、普丁通話誰都「不想先掛電話」！俄供柴油降油價惹怒烏克蘭 鉅亨網",
+      "published": "Sat, 10 Oct 2026 17:49:24 GMT",
+      "display_time": "10/10 17:49"
+    },
+    {
+      "source": "Google News Global",
+      "title": "趙彭博︱劍指50K 緊盯台積電法說- 日報 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zbF9GOWlHbVkyX191aG1HSGtLNHktMVJTNE1meU9jTEZpR0VWREszaEYtQUcxU1pHS1BTN09qdEd5ek9QRTlWWGxYYjczX3N1LUpsWW1JMF82b05NTVhJ?oc=5",
+      "summary": "趙彭博︱劍指50K 緊盯台積電法說- 日報 工商時報 第四季朝多頭邁進 大盤區間最高5萬1000點 自由財經 台股5萬點 重新學投資 商業周刊 【MM一週盤前】無懼高利率、台股寫下新高，本週聚焦美國 CPI！ MacroMicro 美科技股壓回 投顧：台股本週聚焦台積電法說會 Rti 中央廣播電臺",
+      "published": "Sat, 10 Oct 2026 19:00:00 GMT",
+      "display_time": "10/10 19:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNeWViT2xtQnh5N1Nsb2RIUnRBSWZ6REpjS3ZBR1NjR1FTbWxUcFZrMXJnNFJDd0R4UWN5alF6RlFYVElwNjctOWJUZEUzWFh2NWNFc1hUdDREX2FnRHRlWXFZbXZ2TFdQUEJ0RzJKX19fNjdHV2Zfa29lSTVhdkxxeGpXUmJTNVk1QWF1M3FTMkJhOGVmMjJiN0E1QVlxYzdIOFgxSkFROVNKT19Wa1NuZVdCZmhYaTVfU1ZDbGlIMzJPeFc3aGFYSF9nQ3Fja1FsQTZYNFI2VFdoVVJQRHFRdDNBM3ZYakR1bHplZDVJT04xT1JmQjl2SFpZYkZZWXQ1ZW5VR2hpRC1TSzRoWmREVnVFa3gzU3lYdnpQZmJvYnNZcnFGNGNZMk54WGJyRm1PeEZ2X1htUG9GQ3FDMzcwQnVBc1NiZERGNHpyZ3pkb3RBRXJWV2RyRTExTG5jVTlaZnEwUmlOVWNWMmkteFVlbEtIYmlfVDJPTmI0cmRaMnUyT3BwYkRVOUt6Z3JCM0NfWGlUY1pwN0xrQ05lcFhkWGd3cDZxOF9h?oc=5",
+      "summary": "怕台積電買在高點？大咖法人再升目標價200元 「3大利多」穩占霸主地位 Yahoo股市 外媒指勿輕忽台積電「強大力量」股價已漲689％還不夠 自由財經 台積電法說來了 周四將公布Q3財報、展望 市場盯七大重點 經濟日報 台積電法說會10／15登場！馬斯克Terafab合作有譜？5大焦點一次看 ETtoday財經雲 台股下周重頭戲台積電法說 國銀估毛利率達這數字、資本支出拉高 | 經濟日報 LINE TODAY",
+      "published": "Sat, 10 Oct 2026 10:45:00 GMT",
+      "display_time": "10/10 10:45"
     },
     {
       "source": "Google News Global",
