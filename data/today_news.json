@@ -1,205 +1,37 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "news": [
     {
-      "source": "Google News Finance",
-      "title": "台股AI明日之星出列！寬量國際嚴選500家企業 227檔小型股入榜 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTlFjM25CbUtBekt0M0xPSmVXY1FiNXQzc2U4c0s1czVPVVpVc1Q2WWVONW1BSVdWZ09sQlplWFhGMzAyWEhJSWVJWWxQcVFnMW5TN2hrRFpiUUhja01tZ0dIV0o1aGdrX282M1JicjY1Z2hsZTNvV1dmcGxVdlY2NkFn?oc=5",
-      "summary": "台股AI明日之星出列！寬量國際嚴選500家企業 227檔小型股入榜 壹蘋新聞網",
-      "published": "Mon, 12 Oct 2026 03:25:00 GMT",
-      "display_time": "10/12 03:25"
+      "source": "Google News Global",
+      "title": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoMnQ2c0pBQ21JLTZKalR5aWRZQVVrWkJob19VQlJTbDJGUFdQQnE5YUM4bEpvSHN0TEdramllQlpPbEc4RUNhVUlFOC12c0k?oc=5",
+      "summary": "〈美股盤後〉美光跌3.9%拖累費半、那指 油價走高、銀行財報季登場 鉅亨網 美股走勢分歧！道指收漲 那指受科技股拖累 Yahoo新聞 沙烏地機場遇襲推升國際油價華爾街股市多收跌| 全球財經| 全球 UDN 美股收盤》油價走高、美光跌3.9％ 美股漲跌互見 台積電ADR跌1.98％ 自由財經 美股｜中東、俄烏局勢不明 油價走高 費半收黑2.67％ 美光挫3.88％ 台積電ADR跌1.98％ 工商時報",
+      "published": "Mon, 12 Oct 2026 21:53:17 GMT",
+      "display_time": "10/12 21:53"
     },
     {
       "source": "Google News Global",
-      "title": "台股下跌543點！ 長榮、萬海衝7% 和碩逆勢噴漲停 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPOGhtY3lERXNFOEtQbHBfM3NLaEtiVEM1eFJMQURBUXFBLVhBNVRWblUyUldWTVlDWWtZOWpzcS1xQi1DWlZRVTl0UFhkWXNXY292OTVUbjRJd0JSWlhoMlRJcy1TdDNDZHdKUzE5YUFsX1kxWmJjc3NRUWE0UGdYOFdWc2Z6bnVGd09DYlBYYzhZODlybVlycGNLSDN2U2k2VGNGeXZISjJUeDQxYW9XaFVDVTFEc1BsSWRZWEZWdk5aRjNVdktPcVVBd2Z3eFBRVFVrUDBpTHNVRlFyeGY0SlFxRF9YT3JkR2c5SFNfU2piWWpoSVJIR2RUeVVjR21TcHoxSkJJdmV5Wlh6clBXM2Vla2RGSlE1d0JYVzBHQ3RNaUlZcWItSmh2V1J3alRv?oc=5",
-      "summary": "台股下跌543點！ 長榮、萬海衝7% 和碩逆勢噴漲停 Yahoo股市 台積電跌40元有人提早落跑！有人穩賺…今年增444位「億萬富翁」 Yahoo股市 台積電跌10元至2540　台股收跌11點 ETtoday財經雲 台股週報》美股科技股重挫 台股補跌壓力大 卡優新聞網 大場面來了！台指期夜崩、337調查、胡塞開火...台股「4利空」罩頂摔千點？2表看懂後市怎麼走 大咖投顧操作建議曝光 旺得富理財網",
-      "published": "Mon, 12 Oct 2026 01:28:01 GMT",
-      "display_time": "10/12 01:28"
+      "title": "記憶體還在大賺、股市已怕盛宴散場！美光失守千美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPSkk1VGR0VjJQMF8tODYzTDhoWmFnNzRIRTJ4OHU3MG9SYVZsYldEcG44RlVhMjczZzMySTJ4TUIyOVJBU29ZZ2tZS0hDMzNDUjcxT1ZiR2pjUENzOGt1c2dVWmVkQWlVMlVLQlZHYUFlSzRjNWt0S2JqLVZyeXZycVo5V1FLcFpKMGxDb3l3M3ZMWWFLOTVmTk5wdWViZ3NvVWxFWWlGRUMxb1pPYVozbzdTUVVFeDRvcmlIYndrN0F6S29OUkZkZktmVzlfbzdodkphVDJHdmd5SFQ4WVVXeU1uMnNSeW5PQUwtLWhUaTFNU1dVekdVMXNsUjE3eTlBamhXRzg3QW90SDhNbG83WXR0cExGaXR1Vl9HRjVDOHIzbkVXM2c2OEE0N2NuQ0FRMlBCdC04WXdzQTZudzRCaGJIRjd2ZDM4X2hlVklERVJPZ21KeHdhTnk5YVoxRVh4dUNnOVhB?oc=5",
+      "summary": "記憶體還在大賺、股市已怕盛宴散場！美光失守千美元 Yahoo股市 美光摔3.9%記憶體股倒一片 中國對手進逼核心市場 鉅亨網 美股早盤／記憶體股摔、費半跌2% 財報將決定牛市能否續跑| 全球財經| 全球 UDN 美股費半挫262點　台指期夜盤49K瀕臨失守 鏡週刊Mirror Media 美股週一平盤開出 美光股價重挫 | 太報 LINE TODAY",
+      "published": "Mon, 12 Oct 2026 16:00:05 GMT",
+      "display_time": "10/12 16:00"
     },
     {
       "source": "Google News Global",
-      "title": "337調查罩頂台股尾盤翻黑守住49K！大立光亮燈當靠山金融、海運當救援大隊｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMimwRBVV95cUxNYV9aMUtXci1XSWxlVldKMEdRakt6bUNxSU5GYkdvcHYzUnp1UVZHUUhwT0N2c3N0RnhkRzE3a1lhTlQzeHQzYVNDM00zYi1McGFkN2puM24wTjFHbHpzNGxZbnNyNDI3SG0tVmZZOXBYbUJ0Rks0OC11VkczSTY5eVBUMy0wcWkzdXhMUnhNVDBlSjM1OXhuTTlKR1haYVVWbXVubDZSUHNTM0FHM3IyVEp0LXNKaHpjNFpzcy1ZMU9FOE5LRmVhXzQ1c045NS1xWlRkVm01blZUNU9EZGtlSVVqTGl3SFEzUUU4Sm1jZXR0TEplcDZGU2pOeEYwOVJjMEo4RE95cloyTW1fUU1BWHQxeXZDUk5CNjkxSTJmcXRHR1NIaGFIcmFtZW9zOXo4TnppLURScDhGb0w5X1F2N0NweVpCTzNtWVJkRWJoVHoyYmJvZGZqRVRPVG5LcHBVZl9rU2pnT2s5dUo0ZmxmMFpXUzFCQW10UFRxQ1FTSTF4TVJUMDFXdXhVWkh2bUtSUHN4VzFzcWFUTGlMOHo1Y1BnZ3QzQ2lBQi0wd2xrcl9FRHl4ekJzWHc4eDhmWnZIM1BqXzQwYjZYWGNnUHM3UElpTTM2Nk9ENWZLMEF2dXROZkEycmpONnIxaEpKQXNkR050NVR6MG5IYkswdWZDT2NLQk5EQmlycmFZbHdjc01KaE03LW1yeEdfcw?oc=5",
-      "summary": "337調查罩頂台股尾盤翻黑守住49K！大立光亮燈當靠山金融、海運當救援大隊｜Yahoo財經掃描 Yahoo股市 台股震盪644點小跌11點 收復4萬9 中華新聞雲／中華日報 驚天V轉爆賺送分題？散戶驚呼：救大盤的不是AI「昔日股王一字馬逆天漲停」真大哥也攜手金融大噴發 旺得富理財網 台積電跌10元至2540　台股收跌11點 ETtoday財經雲 台股距5萬點剩700點、外資看旺台積電、哲哲喊年底前攻5萬點| 財經 Newtalk新聞",
-      "published": "Mon, 12 Oct 2026 08:56:04 GMT",
-      "display_time": "10/12 08:56"
+      "title": "誰在賣？台股僅小跌11點 三大法人卻賣超593億元 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wUnZfV1hRaUlFQzFRWWlaajlIQlQ5QzJuT2FCREt0bEhFMFNLZW0wM0JUSWF2X052bWtfWFlxUlVZTERIdmZrNVgyTVJnVFFH0gFWQVVfeXFMTi1aNGI2aWYxSUlydVZEM1VHSW9sNUU5cGJxbG9jRzVkUzViSTdyQkpCRHFsTDZxN2dDa0gxZGFkYjkzUThsN0hiSTkyTUs0OHBya0o1YWc?oc=5",
+      "summary": "誰在賣？台股僅小跌11點 三大法人卻賣超593億元 UDN 【盤前】晶圓三哥淪提款機！國家隊逾2億救火失利 股價連五黑 Yahoo新聞 【盤前】外資狠砍「這檔」3.6萬張 它火速救援！28萬股東卻吸芬多精 Yahoo新聞 外資加碼4金控砍倉台塑3.68萬張　進出台股前10檔一次看 ETtoday財經雲 外資賣超近600億本土接棒點火 台股守住49000點 Rti 中央廣播電臺",
+      "published": "Mon, 12 Oct 2026 07:17:54 GMT",
+      "display_time": "10/12 07:17"
     },
     {
       "source": "Google News Global",
-      "title": "外資狂倒521億！ 台塑、友達、鴻海全中槍 網喊：大媽好強 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPakJoWnNOenY3WFgtbko1RHQwbFpjWlRtdk5TX0hzZUlLOTEzR3hfSFF5NmhBazl0UC11clZsUHJLcExHS0RwUjJhSEJCYWVkaWFMZ0hIYlFBTGhoaERvUGlBTUR0ZDE0cFozMEd6dlBxWHV5ZnZYYURqdXF2SmtRakxweW1tRF83dkVrUU9zSE9jcDA0azJiY29rMFVmWFFhMjdIUkVhd1NURGhPeXBXdkh4em43ZllBLWZoR2N5T0g5V2hPVm9lV3c2UlpSNVNxOFM1Q2JhV1MwX0pfRTJhR3M5TE5KWE0zeVNyUEJ1Q3FBQjlMUmhvdUVXd05WTHpybHJnWWVWLTdTSzRZck9sWmV1MUZNYlRFX21Gd3Y2NURtcFVm?oc=5",
-      "summary": "外資狂倒521億！ 台塑、友達、鴻海全中槍 網喊：大媽好強 Yahoo股市 【Follow法人】外資不只賣友達！台塑遭砍逾3萬張 鴻海也被提款超過2萬張 Yahoo股市 外資賣超近600億本土接棒點火 台股守住49000點 Rti 中央廣播電臺 友達真的被大立光「開法會」？外資續賣2.6萬張 為今日賣超第二名 經濟日報 26萬股東慘了！投信力挺台股狂買71億 卻反手砍「這檔」5765張 自由時報",
-      "published": "Mon, 12 Oct 2026 08:56:00 GMT",
-      "display_time": "10/12 08:56"
-    },
-    {
-      "source": "Google News Global",
-      "title": "開第二條戰線？川普稱考慮助沙國反擊胡塞武裝 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOMnhMRnpZaGM3emJmRVp6ZG5KSFFnRG5BeXRWeVJnRVNqZjF5eFd6Qi1fQzdFTjBLR0pVdTRIbnRvT3VoYnh3ZTkwY29tNWQ4MnFINy1HV1F5ZG56Tm1PbnNydFo4RVF0RkNzZnZMSzZnYzBHRlEwME8xbGZySmFxMmp3SENXdVRUQlUyOVNGTWh1SXp0TWdzZmxVYWJvTGpvTXlQanNpa1BoR3FwY3FNaUsyd1pYLTc4ZTlleUdkS1FUSW5Jc0dFb0NuOGVVTEdfU3hfQ2diWFQ0TkIzUEFGeWJ0VEhEVzU5VEJHekNELXV3Z3VyTHZvVk5iNlNyV2tDNm9mdzhDeEZtcUF3ZnRfZnA2c3BFNmZVUEpLWlRvU3NEWWdXQm5ITnRxSkRZVlVwbjE1MGY5Y1hOVmIxTW9XaFJCUWk?oc=5",
-      "summary": "開第二條戰線？川普稱考慮助沙國反擊胡塞武裝 Yahoo新聞 沙烏地阿拉伯機場頻遭葉門叛軍攻擊歐亞空中關鍵走廊幾近瓦解| 國際 中央社 CNA 沙國機場攻擊未歇 航班改道.遠距上課 Yahoo 沙國遇襲釀死傷戰火擴大恐捲入美國| 國際焦點| 全球 UDN 利雅德機場再遭襲釀1死11傷 英美發布安全警示 Rti 中央廣播電臺",
-      "published": "Sun, 11 Oct 2026 23:32:13 GMT",
-      "display_time": "10/11 23:32"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Trump faces growing backlash over plans to import diesel from Russia",
-      "link": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
-      "published": "Sun, 11 Oct 2026 23:18:45 GMT",
-      "display_time": "10/11 23:18"
-    },
-    {
-      "source": "Google News Global",
-      "title": "荷姆茲海峽7天內重開？伊朗向美國開出7條件 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQeWoyYm5YaFFrU1ZLOF9UTVRFT3A1QXJnX2VubXotZmtZU2wwM0RqUW1pbnZaU1A4LXI4dThCNU1xQ2VsNXBqSks2NkFoZ0c3M01WbWU5OFFhY05vWmpldkI3aUltU1ZRZ0p1bEVueXJrSklwR3Z2X1MtUm1GZzhaUUdiSjJCUDZWdG96dVlObXpzMmVmSGFCLXZKVmpDeDJneTZEdXBuSDl6RTA1QzhkS05xSFgtU1h0MW9UWXgwb01mb3ZPcnNhS0FMbUxDeXN1N0FUR2JTdWpMOFhUYmNGSDlqZGJCY0hfVUxNOV9yR3V5RFhWMHNmMUlhMjNCdmdlVFdDUmhZRDBzNDBZc0IyWVNwMDItaWdMTVdPcUtGc0hvWGtON2V1THl6YmttYlU?oc=5",
-      "summary": "荷姆茲海峽7天內重開？伊朗向美國開出7條件 Yahoo新聞 川普低頭屈服了? 伊稱美已同意部分條件重開荷姆茲「七日計畫」需全盤接受| 國際 Newtalk新聞 伊朗：美國對重開荷莫茲海峽提案所作回應有所不足 Rti 中央廣播電臺 伊朗局勢｜伊朗稱美國接受伊方所提部分條件 要求澄清模糊之處 橙新聞 從「極限施壓」轉向「絕對孤立」！美軍封鎖伊朗航運已讓135艘船隻折返 | 謝駒蕥 | 新聞 風傳媒",
-      "published": "Sun, 11 Oct 2026 23:11:25 GMT",
-      "display_time": "10/11 23:11"
-    },
-    {
-      "source": "Google News Global",
-      "title": "南亞科Q3毛利率飆達85.7％ 每股大賺25.4元雙創新高 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CTWt0RlNNZVhjOGNQZS04b3VLemdVZGtTRF9MaTBxVHZHZlpHMVZaNGs1NTJNbmY0WXRnSkxXNDExOGlkVnFFTFF0VWk0X2g3b2JYTXJ2T3ItMG9rX3c40gFkQVVfeXFMUHh0eWVMZTFUczZNUENnMEo3aURXU25jY0xSYzExMUVQdjd4RmNmQXl3al9Ec2NaUm11VkxKMlZsLUNFTlRRMENLVDhwRzV6WjAwNXZCUGd0UUY0MDlJZTJ3SkVkQw?oc=5",
-      "summary": "南亞科Q3毛利率飆達85.7％ 每股大賺25.4元雙創新高 自由財經 賺爛了！南亞科Q3單季海撈876億、EPS飆25.4元刷新歷史紀錄 Yahoo股市 南亞科LTA期限延長；明年林口廠僅小幅增產- 新聞 MoneyDJ 快訊／記憶體南亞科賺爛！　Q3每股爆灌25.4元破紀錄 ETtoday財經雲 南亞科：DRAM缺貨短期難解 AI營收占比2030年拚5成 Rti 中央廣播電臺",
-      "published": "Mon, 12 Oct 2026 06:26:06 GMT",
-      "display_time": "10/12 06:26"
-    },
-    {
-      "source": "Google News Global",
-      "title": "從「極限施壓」轉向「絕對孤立」！美軍封鎖伊朗航運已讓135艘船隻折返 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQMXNQSm9fQU1SSVJmaHlyd0NxR1VsODVEckVnaWFTbUhpdDJiNGFxNDhKRktQWUoyWGF6cy1aUlJFeXl1Q2phRFBRVDk4LXR5VFJRLXViWUZ1V3Bib1dmUjZJQTFrbW5wNXNEUlV2NlA4RGQzZ2V6OHRHZFluN2dGdXRkTXBGdjZzV3lRZlk2Y0p6MmctNUpEZWJsQk9UeUJYVUJ1bFJ5RHJDNFVVQVB2MUJXaE02cmNIdUN5cURoVF9tNGFYSENndmMxcUY4eGFibU5aQk1vQ09iQ1pHdnM1dlZGblM0XzNTME5PT0JCcWhGX3hqRThIbkc2OXNOUWdIMl9BUE1jcHBhWmo5aEd6Tlc0STRkQS1QN2ozX0o4Z3hRN3dyWmp6YmlDcGZfd2xFYUpZN203RzA2T19odUdzbHlVWTdybUpQZUtaQVRNNHRRRkxLVFRDU0pScEpHVUFnc0xGMktJZklxaWNpVnNMcGtJUWkySkF0c1I3Nkw5ejdFSlI3M28zWV90Mk94Y2FZSlN0Tw?oc=5",
-      "summary": "從「極限施壓」轉向「絕對孤立」！美軍封鎖伊朗航運已讓135艘船隻折返 Yahoo新聞 荷姆茲海峽7天內重開？伊朗向美國開出7條件 Yahoo新聞 伊朗：美國對重開荷莫茲海峽提案所作回應有所不足 Rti 中央廣播電臺 川普低頭屈服了? 伊稱美已同意部分條件 重開荷姆茲「七日計畫」需全盤接受 | Newtalk LINE TODAY 伊朗拒收美國重啟荷姆茲海峽方案！七大條件談不攏停火協議再陷僵局- 國際 工商時報",
-      "published": "Mon, 12 Oct 2026 06:10:29 GMT",
-      "display_time": "10/12 06:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "航運下一戰3》美線長約看漲歐線承壓 貨櫃三雄迎獲利考驗 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPWGEyUVduZ3FpWEtoM2ptUWFqaFEwckF0UUZ5ZXdvem1HaWE2UGRQOGNhbXNwbFQ4TkFSSk5wdWd6cUdCS05XTFJpS2tCVVBLTVRvQWhzeVhOemk2QTFWWE1ERnA4a0NzWmFza0lXd0hINkpNOExFTGRwSVNCWWtCS3ZycFFXVzFkWjFtR0hadnFzWWVFZkpVSTVEX1AtbThvSktlWF9JLThSQ0VYVXlyMDh2d3JIbVN6d0pmLWNqbEZid3p1ZERGbDl4WnJBU2M2VC1PVTZHRVZkd0pJMWJ5UE1WMWg3MVEyZktEYlpKZDVIbGJYU1hNdG94UzB6V3J6eUw2Z2JJTW51V29iYWxLOVQ3Ni1QVEloRUUxMldaYUItaXotZ2FPd1lrQTV3OG1JTGR4Y2JTeTNkbFNwYk5mU3N4TVhiSVhpMUZ1M1BVS0lHalBxYTlxOUhERDJCbnVieXk1d3NLZFIzT0tk?oc=5",
-      "summary": "航運下一戰3》美線長約看漲歐線承壓 貨櫃三雄迎獲利考驗 Yahoo新聞 航運族群集體衝鋒！「貨櫃三雄」9月營收齊衝高長榮飆漲停、萬海、陽明大漲8% 裕民、中櫃同慶漲逾5% Yahoo股市 10／12盤中熱門焦點股- 證券 工商時報 航海王回血！長榮、萬海觸漲停　陽明飆8% ETtoday財經雲 焦點股》 萬海: 水手集合了 亮燈漲停 自由時報",
-      "published": "Sun, 11 Oct 2026 22:02:00 GMT",
-      "display_time": "10/11 22:02"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "〈財經週報-台股看盤〉高利率考驗評價 企業獲利與AI需求續撐台股 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHV25HZUtISnRPSWtJWDZVRWhiQ29BblJlXzhBMWNBWk9pc1JHN3FXazdBMnZLeHdGQkIteWtjZTMwam5wdXBTWHlsWV9iZ2ZSc0JXOEtn0gFbQVVfeXFMT3k1QWFoUGZUS3pxb3FfY3B1WkdWSzhoY3p2RTlxRHUzWlN2bHVQdGNEZXVQSEhVamw2Q2FWa2NvYURaSVNha21QRXpwVkNDUWl1anpzMWV6ZU9NZw?oc=5",
-      "summary": "〈財經週報-台股看盤〉高利率考驗評價 企業獲利與AI需求續撐台股 自由財經",
-      "published": "Sun, 11 Oct 2026 21:30:00 GMT",
-      "display_time": "10/11 21:30"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "〈財經週報-台股看盤〉高利率考驗評價 企業獲利與AI需求續撐台股 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95NUFhaFBmVEt6cW9xX2NwdVpHVks4aGN6dkU5cUR1M1pTdmx1UHRjRGV1UEhIVWpsNkNhVmtjb2FEWklTYWttUEV6cFZDQ1FpdWp6czFlemVPTWfSAVtBVV95cUxPeTVBYWhQZlRLenFvcV9jcHVaR1ZLOGhjenZFOXFEdTNaU3ZsdVB0Y0RldVBISFVqbDZDYVZrY29hRFpJU2FrbVBFenBWQ0NRaXVqenMxZXplT01n?oc=5",
-      "summary": "〈財經週報-台股看盤〉高利率考驗評價 企業獲利與AI需求續撐台股 自由財經",
-      "published": "Sun, 11 Oct 2026 21:30:00 GMT",
-      "display_time": "10/11 21:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股國慶連假後恐迎千點跌勢？台積電ADR挫4％ 葉育碩示警「3大利空」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQVEJuU1ZmN195OVhpUGlvMWxRWm00WnNyX2JvNDZHWndxV3RJblFMRHl5bmFzMVFXZHZUWkRMcVgyYjJ3a05HR2QyX2puSU9hMHJtX1NxLWFTNF95U3d0RlpRU2ZrbDQzSDlUNVd3ODc1WE5GT3hoTENaYnlRdFk4M1ZJUU1KVk9uUWQ3UWlqeTZBZFo4NmFrUGxhSVYxUURqVnNoUXR4MVN4enF6X0hRclB2SGtDdjcwYkpaU1F2Q01jaDhpLVFqZ3ZrY0phYkh2Q2ExVF96MHgxU1VsS04tQUdualZNT1g0Q1FvMnVUTi1CY0dDSmlsS01JeE1LQTZkX2I5ZEY2VkhNbnN1NndwTktCODVwSFdYQjZmSDBjcEN6Nzl0dmJtalhfOWJJd2g2MUVzRGszQmlHdU1qa2N2NmhWb1hTLW5FX1lsNmt1VE85NnoybDJEeS1tUHhneWh4eWRlaTQwdFVra2hTaHE3NlRUMFJ1WnBQbG9kZWpvdG1zWG5MOFlhbUxB?oc=5",
-      "summary": "台股國慶連假後恐迎千點跌勢？台積電ADR挫4％ 葉育碩示警「3大利空」 Yahoo新聞 台股週報》美股科技股重挫 台股補跌壓力大 卡優新聞網 4利空襲擊 台股今壓力測試 自由財經 國慶行情延後上演！夜盤慘摔600點竟是天大好事？「南亞科、群光低基期、高殖利成避風港」10月中旬這檔神股要噴了 旺得富理財網 連假後台股首開盤日！台積電ADR跌4% 三大壓力齊發 東森新聞",
-      "published": "Sun, 11 Oct 2026 21:13:34 GMT",
-      "display_time": "10/11 21:13"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "〈財經週報-國際股市焦點〉邁威爾財報優於預期股價仍重挫 賣壓蔓延晶片股 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ueXkxcUNNSkctbkNVa3V2T2pUUzBRSlIwUGNlekctWkNJdC11bklNZllWVjBZVC1iNzlHNXNuZ1NBSDJhRnNQemJtRE45SmtPZzEydk81WUU?oc=5",
-      "summary": "〈財經週報-國際股市焦點〉邁威爾財報優於預期股價仍重挫 賣壓蔓延晶片股 自由時報",
-      "published": "Sun, 11 Oct 2026 20:10:57 GMT",
-      "display_time": "10/11 20:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股5萬點攻防戰！四大利多、三大利空交鋒 法人估震盪後再衝51K - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtYWJNZmlyeGZ6RmVDWERfSHVtZlRQVWVMM2pFVnZfSGN2d0NkRkZmeU50N3hlNGFLeFdxS09CWG53cUVYMmo0eUFCSDZkRXltem1HSS1NR05FeWlMVkln?oc=5",
-      "summary": "台股5萬點攻防戰！四大利多、三大利空交鋒 法人估震盪後再衝51K 工商時報 拉回就是買點？ 法人揭台股下波行情「3大推手」 4潛力布局曝光 Yahoo股市 凱基投顧看好3大力量支撐多頭 台股可望開啟下波行情 中央社 CNA 台股回檔衝擊49K大關！法人看好Q4行情 點名半導體與散熱等關鍵供應鏈 鉅亨網 外媒早報》韓媒：台股漲幅超車韓股，高居主要股市之冠｜10/12 | 國際中心 | 新聞 風傳媒",
-      "published": "Sun, 11 Oct 2026 19:00:00 GMT",
-      "display_time": "10/11 19:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美337調查台股飄烏雲 聚焦價值股12檔 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGtiQWZWVEIybjR3TFRLb0xwdnExRmR6MEZHUmhnOVZoYnZtakluZ3JydmVfazRjbFJxdHNOYmIyOC03ZkUtQ2RNeU9PSHp4NnZhcjN1UjV1SGVpblNQYlFWd0VVa3VwLU5oZnE1QkM1dGt4RTFtX1dzOUh3NXVXSGVWNnJRX1pDNXpiTUNGODY5SkdJZmFOb1VfX0U4LTN3V3N5LVBid2NrSWtsWUZ3aEVSTVl0dHJ1RXBSazk5c3cxc1hhcVlENEJScEI0dFZseVVJVm9leU04S0VJQlk3d0o3UnJZRDZKT0pfOWdvdVhCOFNNY3FCTDV0RFBRUHB2WDhR?oc=5",
-      "summary": "美337調查台股飄烏雲 聚焦價值股12檔 Yahoo新聞 AI伺服器類股今難逃跌勢？美發起337調查 立訊、富士康與廣達等廠商捲入 Yahoo股市 早安世界》美國啟動337調查鴻海台達電等入列經濟部：必要時提供協助| 生活 中央社 CNA 鴻海集團正式發聲！美337調查　組專業團隊迎戰 ETtoday財經雲 遭美337調查鎖定繼台達電後換廣達出來說話了- 產業 工商時報",
-      "published": "Sun, 11 Oct 2026 17:05:00 GMT",
-      "display_time": "10/11 17:05"
-    },
-    {
-      "source": "Google News Global",
-      "title": "【重磅快評】被川普出賣的烏克蘭也曾是「山巔之城」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBySzB6V3UzOUpYUmxIRHBZbjFwZ3VmSVNMY2lDUEdDOVNRUzFHYjVfdF91NExwT09wdUxIb2tGU0daZTlGUGkyVVY1ZVlpRmEz0gFWQVVfeXFMT0ktOHBqSnVhU1RsN1pXVEUyQkEtRF9oZFFOTVp4cGxCV096VWtreTZ3NDh4eUpVRmtLZkVaNFVISFJ3aXpxT1o5ZFBqSnRCVDZoY2tTeEE?oc=5",
-      "summary": "【重磅快評】被川普出賣的烏克蘭也曾是「山巔之城」 UDN 金融時報：美國威脅阻止向烏克蘭提供武器 以迫使其停止襲擊煉油廠 | 國際焦點 | 國際 經濟日報 川普宣布俄烏能源停火 澤倫斯基意外 中華新聞雲／中華日報 紓解柴油荒 川普與俄達成柴油協議、喊能源停火- 新聞 MoneyDJ 馬斯克挺川普「烏克蘭該換新總統」說法 批澤倫斯基做得太過分 鉅亨網",
-      "published": "Mon, 12 Oct 2026 00:15:45 GMT",
-      "display_time": "10/12 00:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "突發震撼彈！川普宣布：俄烏即刻達成「能源停火」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPaGhmWUllZFJIV1JTWkgyQ2xyWGJWUzFxQlRreTRhMVpVTXh4LUdnbW9XUmJzX0pxenBvdmtUc2RVcXZWRklMWkd3bW45a3JtbFVuNDIwNlNXRkc1dGUtbnV0ZzRFZGNUTE5GQXVsNUFOZ1NDQ182VFp3MHBYSHBUUV9GSjgwR0pzQlUyWTJaR3RUMW8zS0VyMnFqbGlFcDlzT0RqQlU5eHdKUHhQTEU1THQ4eWxfOUpLbThZQ3N6c0ZRb0VNQ2hzOWFZTnB5NzNPOUhYb2dYSzVCVmJYbUphOTlSa0pTRnh0bmhFenl1dGNicnhDUE5jNjZkRmdCMmNiVlNGQnBJel83R3hFTkN5d0RkTi1QRFZMa3BNYnBRc1N0clhzTTVyR0cyVFpaaFBXNmpnWXV1TzdxaUk?oc=5",
-      "summary": "突發震撼彈！川普宣布：俄烏即刻達成「能源停火」 Yahoo新聞 快訊／川普突宣布俄烏即刻實施能源停火 強調雙方均已同意不得違反 Yahoo新聞 川普宣布俄烏同意能源停火　澤倫斯基：俄續攻擊、烏等待細節 經濟日報 川普籲烏克蘭換總統澤倫斯基：應由人民決定| 國際 中央社 CNA 澤倫斯基批美放寬對俄制裁 川普籲烏克蘭「換總統」｜20261011 公視晚間新聞 你的公共電視",
-      "published": "Sun, 11 Oct 2026 14:54:57 GMT",
-      "display_time": "10/11 14:54"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普：俄烏同意停止攻擊彼此能源設施即刻生效| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rTlNiNVZJYjFWX3hCZGh1cGY4d1ppbDRSc0JsM191ZEZES1FHNjZ1VndKMVMxUFNkR1lrZURGdHY4ZUphb1NrSFpkeUptRWF1WUpPUXlLeTdqWTdmdW9V?oc=5",
-      "summary": "川普：俄烏同意停止攻擊彼此能源設施即刻生效| 國際 中央社 CNA 美國警告烏克蘭：再炸俄羅斯煉油廠 援烏武器就別想要了 鉅亨網 川普宣布俄烏能源停火協議生效 烏控不知情、電廠持續遭空襲 你的公共電視 川普與普丁達成柴油協議 緩解美國油價衝擊期中選舉 Yahoo股市 川普砲轟澤倫斯基 高喊烏克蘭換總統｜中央社影音新聞 中央社 CNA",
-      "published": "Sun, 11 Oct 2026 14:40:00 GMT",
-      "display_time": "10/11 14:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電押寶矽中介層 聯電、力積電跟著發達了 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ITFhsQkI3RklqamY3NHZfeWpFckNwd2FNRzhkNGNRYUl4NW5HRndlRFEyV1BQWTR5V0gzeGVBRnB0OFFHSHppSFVZYURxZEY3bGI0eEN2TWVCQdIBX0FVX3lxTE9uRWhHamVWcG9wb2YxQ0ppMUNDVlQ1TTRPQzRzeVM3MXgzVTlqVkYzTnB0UDNZeDFwZFpZaHJfLWZxdmkyRkJidThUekdMNXZ4cldLeDVlWTFOa2NCUi1n?oc=5",
-      "summary": "台積電押寶矽中介層 聯電、力積電跟著發達了 經濟日報 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Sun, 11 Oct 2026 14:12:11 GMT",
-      "display_time": "10/11 14:12"
-    },
-    {
-      "source": "Google News Global",
-      "title": "00919、00918...21檔ETF配息大紅包來了！421億股息本周入帳前三大發錢主力揭曉- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51dGRDSnR6by1aVnN3dkJQV2hiMnRTT1g0RnRXSWRnaUZkVVNNWkt4ajFsTlozWGhhUHhaUmN0cy1QTVZ3bnJNTE94MWNRZUtZdkRtdlhLRzhiZktuV1JF?oc=5",
-      "summary": "00919、00918...21檔ETF配息大紅包來了！421億股息本周入帳前三大發錢主力揭曉- 日報 工商時報 本周21檔台股ETF發股利！00919配發近208億元最多 Yahoo股市 1表看》含息報酬率狂飆120％！00980A、00985A、00935野村三兄弟「最會賺的竟是它」 達人：被動式不一定笨- 基金 旺得富理財網 00927今年大賺107％、配息2元狠甩0056！一張便宜近2萬，0056該換掉？想穩領高息又賺價差，達人這樣搭 今周刊 21檔台股ETF本週發放逾421億股息，料有助台股動能 | MoneyDJ理財網 LINE TODAY",
-      "published": "Sun, 11 Oct 2026 19:00:00 GMT",
-      "display_time": "10/11 19:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "不滿賴清德國慶演說強化全社會防衛 中國國防部氣噗噗：顛倒是非 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOay11eUxlLXl4dU1NLWRLWml6NFZmS2FNUm9mRkNTQlNpSVN1cE9aUnZjZHdHbUJyRUZIeDdNTXpkd1hpMlliTHZJUHFGWjZGS0JHRWtsZ1hBaE80N1dlNklSajNuOHlFZTZhR0hUOUZaLUlBaE5tVVdvYlRBTXpIdkNjMmFGMS1IQUlLb3pKeWlVdW9LV2dGbF93Sk9CQXJVSjltcFJyOVBjWFNQamxpa2JCVjVleFAyWHlGZThpVmIyR2R2WUJZU3V3UG8zZTZrZEluTFU3QzJ2TVNqTXlQaFl0WE9HVC1BbVBiWlEtMDdvV3NWdGtPcnlzMEFlUVliX1RTaXRQRzl1bmxtejF1b0h4TjVnWnJQcV9zYzBJN1MwWllBS2gwYlliTlFfdGtQbUJxYzVCVDFzNWE3bEJfSVBzOWRJWTRfaDVHNWYycGpzQzRkNmJrWlhvamhuYWlyUmt4WWROM1RMVnBnSVBiWnBINVFaMGk3UzdNYkFKOTVjLTdZMEpUQktwMk5mNGRRX0FaM0tCVkdBVFVHWlF5YkJwZ2laQQ?oc=5",
-      "summary": "不滿賴清德國慶演說強化全社會防衛 中國國防部氣噗噗：顛倒是非 Yahoo新聞 賴清德國慶演說「2關鍵詞」消失 前大使驚爆：美國出手了？ Yahoo新聞 台股總統牌來了！法人點名中興電、漢翔等17檔指標股 看下一波行情從50K開始 工商時報 一週大事／賴清德發表第三次國慶文告 諾貝爾獎得主揭曉（2026.10.5-10.11） 你的公共電視 國台辦回應總統國慶談話 我外交部：台灣前途中國無權置喙 Rti 中央廣播電臺",
-      "published": "Sun, 11 Oct 2026 09:21:15 GMT",
-      "display_time": "10/11 09:21"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美國躍升世界和平第2威脅！日民調：8成反對「台灣有事」參戰 僅9.9％願與美軍並肩 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDMHJ2SF9vbHZ0LUJ0aGFkdzA5NW5NWV9sSWdscGRSVlZTSDdKZFZUWWhUcmlvd2xJOFg3ZTlIc3JHVFVqT2pZV2VFbDFGSkZDQXBFWVNWVGpER3JvbWZlVkF6U0RzOUpRTVh0YnNB?oc=5",
-      "summary": "美國躍升世界和平第2威脅！日民調：8成反對「台灣有事」參戰 僅9.9％願與美軍並肩 中時新聞網 美國躍升世界和平第2威脅！日民調：8成反對「台灣有事」參戰僅9.9％願與美軍並肩- 國際 工商時報 日本民調：32.5%視中國為最大威脅　逾8成認川普有負面影響 經濟日報 台海戰危？日民調：陸居世界和平威脅之首 76.7%憂「台灣有事」 Yahoo新聞 學者稱日採人道救援 但會避戰 中時新聞網",
-      "published": "Sun, 11 Oct 2026 07:40:17 GMT",
-      "display_time": "10/11 07:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "賴清德國慶演說「2關鍵詞」消失 前大使揪1轉變質疑：美國出手了？ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNTTVTdUppdDFtclhXYTR6X1V5YVBhQ1FwS2duUFY3U0NabUF5YmFmaVJPa0hnYXFGZ2diUWk0YXFRVmRKZURmMGZGQVFiaHIzd2Q1NG8zaE5Rc0pzOVJlUHJzN3FRSWstR1EyMGFsaFNFZmFMRlN1RGFoV0FTTVpFRllvN0UtaGtUUnA4NnlHYzU2Z090YUdocHdxajBNSFR1LUNjVHQyNmQwd2dpNEJweFJZWUJCdWZnVGMzbWFEOEZWVGYxby1kVDlBNXpxMTBxOEtXcERxcUhHVmVVSUJBTVZsLVMzVmg2ZG1aZzkxYmgxdVd1amtVLVQxcklod2psUDN6OXRBZHNIMG1ya25QbXBPbFJXOUdfbXl5bkUyQmdkb3FCOVhYVjZIYmxKZGJDcjRBQXkzYkZuLU4yMG5wbm1uYzRRdWJ2eGo0X1JpVGhXWVBFNF9ncmJDdmJlYnI1aEw2azd0ZWpBSV9qMWxHZ2Y0UWM2eS1VNGZlSzhGLVl1MFBIWGt3?oc=5",
-      "summary": "賴清德國慶演說「2關鍵詞」消失 前大使揪1轉變質疑：美國出手了？ Yahoo新聞 共軍明起於東海、黃海、渤海、南海 密集開展軍事行動 UDN 山巔之城的地基 民主、安居與和平 Yahoo新聞 台股總統牌來了！法人點名中興電、漢翔等17檔指標股 看下一波行情從50K開始 工商時報 一週大事／賴清德發表第三次國慶文告 諾貝爾獎得主揭曉（2026.10.5-10.11） 你的公共電視",
-      "published": "Sun, 11 Oct 2026 06:44:59 GMT",
-      "display_time": "10/11 06:44"
-    },
-    {
-      "source": "Google News Global",
-      "title": "沙國機場遭飛彈擊中321人死傷！川普考慮參戰 外媒爆防空警報竟未響 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wdlNKQVBScmwwMEdkc0U2eE1KNEFRUDA3dHFTVkxINlQ5Ni1BOXNfakNtWF9nTnJ4cjVjRmZzeTBpcGxtWk53cEhSNGtWMkd3bUZj0gFYQVVfeXFMT1o4QUprcXNWVTZIYXk0OE5YcEs5NmNqZUlwX25rYTdiTjFNRUxENWg2SEJ4LVFWNUVfZ2RHU0ppWDBCdFJwZlEtZlRLUk5kZnJFdHF0M3d6OA?oc=5",
-      "summary": "沙國機場遭飛彈擊中321人死傷！川普考慮參戰 外媒爆防空警報竟未響 UDN 胡塞武裝稱「已關閉利雅得機場」！沙國防空飛彈告急、川普稱美「有可能」加入打擊 鉅亨網 中東再爆動盪 葉門叛軍攻擊沙國機場 經濟日報 沙烏地機場遇襲12死 歐盟、聯合國批局勢危險升溫 Rti 中央廣播電臺 沙國首都機場遇襲12死逾3百傷 一週以來第三度遭攻擊 你的公共電視",
-      "published": "Sun, 11 Oct 2026 00:19:57 GMT",
-      "display_time": "10/11 00:19"
+      "title": "川普拋震撼彈！宣布俄烏「同意能源停火」　澤倫斯基這樣說 - 三立新聞",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvMEVySjl3Rlc2SEktM0ptcTl1N2t5YU9MaTVSbGxwUkl6Q2NXbnhDVmxQZlRSMVJoUWVHV1FDVXdpYXJXZDJCatIBTEFVX3lxTE1zbjJGZjhBODNkcmRrcGYwcTViM182RVEzb05tZGFCY2VFdS1CV3kxNkZ4WDBkcncwTERlTDB3QVdwNU9PRWVLUWItOHE?oc=5",
+      "summary": "川普拋震撼彈！宣布俄烏「同意能源停火」　澤倫斯基這樣說 三立新聞 馬斯克挺川普「烏克蘭該換新總統」說法 批澤倫斯基做得太過分 Yahoo股市 本週焦點：俄烏能源停火，誰說了算？法國學生上街，為何而戰？ Rti 中央廣播電臺 20261012 8點新世界完整版（無網路版權內容除外）｜川普社媒發文，宣稱俄烏達成「能源停火」協議；烏克蘭錯愕、俄方未證實 你的公共電視 紓解柴油荒 川普與俄達成柴油協議、喊能源停火- 新聞 MoneyDJ",
+      "published": "Sun, 11 Oct 2026 21:10:00 GMT",
+      "display_time": "10/11 21:10"
     }
   ]
 }
