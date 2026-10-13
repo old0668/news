@@ -9143,5 +9143,10 @@
     "timestamp": "2026-10-13T11:32:31.623070+08:00",
     "average_sentiment": 50.0,
     "news_count": 10
+  },
+  {
+    "timestamp": "2026-10-13T19:45:32.514538+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 18
   }
 ]
