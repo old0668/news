@@ -2,22 +2,6 @@
   "date": "2026-10-23",
   "news": [
     {
-      "source": "CNBC Finance",
-      "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
-      "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
-      "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
-      "published": "Thu, 22 Oct 2026 15:52:00 GMT",
-      "display_time": "10/22 15:52"
-    },
-    {
-      "source": "Google News Global",
-      "title": "4天後剉咧等？台積電ADR大暴跌 台指期夜盤一度狂殺500點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5weUlEYUx1SXg4Rjg2TkdYY1BkN1JwUkUxeWVRNFFPbGhsbUFHVzcyb2d5cUdiWHdtajhibk1SSXZ6eGJKNHFNZVdIR1RHeE9HSEZfM0p0b0tYbXRCaEY40gFkQVVfeXFMTkRPaThHbGt6MVdMR08wNnROUEFEVDFvQ3dFSW0tamxhcTQ5ME92OG1WUDFVOUZjRXZtQkVmRlFHUkJqTW42QU1heEc3WTFyZldmR21RbnF0ZG5QM1N3eW53ZmViXw?oc=5",
-      "summary": "4天後剉咧等？台積電ADR大暴跌 台指期夜盤一度狂殺500點 自由財經 颱風假後慘了？ 台指期夜盤失守46K 費半重挫6％ 中時新聞網 MoneyDJ新聞 2026-10-22 06:16:01 黃文章 發佈 MoneyDJ理財網 期貨商論壇／原油期 伺機操作 UDN 〈能源盤後〉伊朗與巴基斯坦討論斡旋 但美伊衝突陰影未散 油價自5個月高點拉回仍守百美元 Yahoo股市",
-      "published": "Thu, 22 Oct 2026 15:35:42 GMT",
-      "display_time": "10/22 15:35"
-    },
-    {
       "source": "Google News Global",
       "title": "馬斯克能決定戰爭通訊？克魯曼籲美接管星鏈 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNS2Nfd2lzVE91MmdRRGxtbG5hVUVDZlZBMG9RV2JXU1pkdXlUMmotLWdCRHVuT2lDdmZIOE02dVRLZENONS1KX3pXZG9RRDlYWGVnQV9FaFVITk54N2FiSUplOFUxWDBKWmFybXlqY1RPNV9oRndMbTlWWl83ZVFkUjE0RFlTd2IyUzJVTkU2TnFTbXpJTW9yblU3cVhRdXdZcmVlWG5BQmZCZHVqdGRwbm0xWG9YaWJhNXlXU1BteTFPeTNaMG9tTEt4QWtfNU5jZF91eXFFLUpkMGlhZS0xdmNMbG1CN1BKSFVSd1BwSjFWeHBxVHVLS1dQVHdyUVpaLUpxWUsyaVZHNEtIeE5pTGJnNVd4MVk5d2IxQkNDRngydGpicF8tcmNxYXFSbml2ejA0b19TTUI?oc=5",
@@ -35,14 +19,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "GPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSUY2REpFNXdGMndnQklKNDJyYWZkZnF1bDFZUDBaMFp3aWpsbzZIclJDTWhZLUhMcFB1UXVlTUs5VlBRTkE4M3RnYnJvLVE?oc=5",
-      "summary": "GPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利 鉅亨網 黃仁勳欽點AI新勢力：它們「需求爆表」 卻被關鍵瓶頸卡住 Yahoo新聞 抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 TechNews 科技新報 Nvidia公布Vera Rubin資料中心參考設計DSX POD，號稱最快2周可完成部署 iThome AI終將毀滅人類？黃仁勳再嗆末日論「捏造又廉價」：打造AI，別試圖扼殺它 Yahoo新聞",
-      "published": "Thu, 22 Oct 2026 14:50:05 GMT",
-      "display_time": "10/22 14:50"
-    },
-    {
-      "source": "Google News Global",
       "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiYk45WUVORm8yWGFvMmp0bUR3ZHlCMG4yM2JIMGVnNkF0SF9XOU5DZllJcXhIWi02T3A3OUd3YlZmVXBfdW45dllGaF9jb1pxMGxVVUJSb1o5M0UxcW1N0gFkQVVfeXFMUHdJM2hPQ2FxdlZpdHRBdHVZXy0yTW52WU1ybEZzLVVzcWxMS0FrbmRBU0RvcFRJLW5HMkoxX3FaWTNhbXVyN0xkRjBiT3l2cWdWc3duU1FRSWtSWDFKRGhmV1E5eg?oc=5",
       "summary": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ 自由財經 Meta自由現金流轉負！ 費半慘崩逾6% 台積電ADR也跌4.5% Yahoo股市 費半殺7%、台積電ADR崩4%！Meta燒錢無底洞、黃仁勳一句話引拋售、美伊亂局油價飆3%…台指期夜盤跳水逼45K 今周刊 美股大跳水！4大指數下跌「費半重挫5.67％」　ADR一片慘綠 ETtoday財經雲 市場投資人難以被滿足，科技大廠資本支出變化引發美股科技股重挫 TechNews 科技新報",
@@ -50,12 +26,12 @@
       "display_time": "10/22 21:47"
     },
     {
-      "source": "Google News Global",
-      "title": "外資重砍台股後怎麼走？ 歷史數據顯示科技市值型反彈強勢 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYU0lEWkx1aE5fcE1FOFoxZWhmM29JUWNGLTkxZ0Ixb0dHUS1NVmYwT2h4eFUtek42aHJqbldVdGNPZk5IbGF5bWNvM0xzVjZGTExPaDE4TVFvZDhZTWtv?oc=5",
-      "summary": "外資重砍台股後怎麼走？ 歷史數據顯示科技市值型反彈強勢 自由財經 外資大逃殺！一週狂砍台股5862億 3檔重災區賣超近38萬張 Yahoo新聞 暴力洗盤求勝法則　外資單日賣超破紀錄散戶甩下車？ ETtoday財經雲 外資近月高位變現7,000億！反手抄底鴻海、2類ETF「內資也狠敲00403A逾216萬張」背後算計全曝光- 上市櫃 旺得富理財網 外資一個月大賣台股7000億元 主力低檔卡位這兩類ETF 最愛00403A 鉅亨網",
-      "published": "Thu, 22 Oct 2026 12:42:06 GMT",
-      "display_time": "10/22 12:42"
+      "source": "Google News Finance",
+      "title": "台股颱風假躲過一劫？美AI股崩跌 日韓股早盤慘摔、午後跌幅收斂 - TVBS新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUVzI4ZUNNTENrOHVOUlpySWI0S25BX0dCaUpGSVVoZDE5OGtOVk1OUHc2Y0F3Y3lqQ21DVXRwNUxyY0ZJUHpZbmpWY21MNms?oc=5",
+      "summary": "台股颱風假躲過一劫？美AI股崩跌 日韓股早盤慘摔、午後跌幅收斂 TVBS新聞網",
+      "published": "Fri, 23 Oct 2026 05:15:00 GMT",
+      "display_time": "10/23 05:15"
     },
     {
       "source": "Google News Global",
@@ -64,6 +40,78 @@
       "summary": "防範美以聯手攻擊 伊朗揚言採「零紅線」戰略 攻擊中東7國油網設施 自由時報 川普怒控伊朗選前炒高油價！荷姆茲海峽運量真比戰前多？ 玩股網 川普稱美軍已痛擊伊朗 可能進一步行動重申阻擁核 Rti 中央廣播電臺 紐時：美以兩軍密集演習 為期中選後攻打伊朗做準備 | 太報 LINE TODAY 傳美以擬選後攻伊 伊朗警告：將打擊波灣7國石油與AI設施 Yahoo新聞",
       "published": "Thu, 22 Oct 2026 19:32:21 GMT",
       "display_time": "10/22 19:32"
+    },
+    {
+      "source": "Google News Global",
+      "title": "烏軍逾600架無人機夜襲！川普斡旋未果 澤倫斯基轟俄動用「這炸彈」 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FaGhINXJCZGhpdTlmcEVCV0dtSGxqV2xaSlZnUUo0NVhtOWVlTXJsVVVyUWdEa0RHelFCSGg5R2wzVC1sM0p1ZEk5ckRsWmxvcUpueUU5bTQtRnF1SzRtVXJ5N0o5UdIBa0FVX3lxTFBFOWp6eFRpTGJ3RmpILVRwRUxrMVlGcjgyay1GWmkwSWo1WnFEazFLZnFlZ2pPajhlU2ljUE5QNWx2Wnpta0dzbDlXZHVGQ3B3YlF0SHJZLUdUclc0Y1NyTC1mMEtPNlIxSVVv?oc=5",
+      "summary": "烏軍逾600架無人機夜襲！川普斡旋未果 澤倫斯基轟俄動用「這炸彈」 自由時報 基輔校園\"地下化\" 砲火成為課堂鐘聲 Yahoo 烏克蘭再遭大規模空襲 澤倫斯基批俄未改變立場 你的公共電視 俄羅斯社群媒體巨頭VK資料中心遭無人機襲擊，大量使用者通報服務異常 iThome 美特使訪俄後戰火持續 基輔與莫斯科相互攻擊 Rti 中央廣播電臺",
+      "published": "Fri, 23 Oct 2026 01:56:54 GMT",
+      "display_time": "10/23 01:56"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股｜Meta財報嚇跑AI股費半急殺近7％ 記憶體大失血台股ADR倒一片- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lb2YyeVVJY1ZkMjBXdzBOQjlhNXFCNS1VQzh0SkdEMWxBcE02S0pLQkNySkZUSUJvU0dGT0luXzFJOW1HX0VJbWFnWnZxSHFiVWRCTWxZSTJLSzNJZ21Z?oc=5",
+      "summary": "美股｜Meta財報嚇跑AI股費半急殺近7％ 記憶體大失血台股ADR倒一片- 國際 工商時報 〈美股盤後〉Meta重燃AI交易恐慌 費半狂瀉近7% 台積電ADR跌超4.5% Yahoo股市 AI投資疑慮加劇美科技股重挫　油價上漲拖累日股收低 經濟日報 「熊市陷阱」失靈！晶片股市值蒸發逾3兆美元 費半下一道防線在哪？ 鉅亨網 費半殺7%、台積電ADR崩4.5%⋯美股大逃殺發生什麼事？Meta引殺機、黃仁勳一句話變利空，台股3天後慘了？ 今周刊",
+      "published": "Fri, 23 Oct 2026 01:24:00 GMT",
+      "display_time": "10/23 01:24"
+    },
+    {
+      "source": "Google News Global",
+      "title": "花蓮鳳林光電弊案涉賄近5千萬 上市公司董座總經理前鎮長等人全押了 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqOFJPYUh5bXR6a0haNzlIbzVEMzJjS05JOU1QdlVpYTVfenVKSFh1Z3lDVU9tRTlFUXJlcWZMazBEZ015bXhHVGJBbWxjZ0ZV0gFWQVVfeXFMT3YzZVVKVUUweERrMHBVVmRIZ09pZVFFMDlBY1ZtSTRDbGNkNTgxN05YZmFfUDBXODVKSGR2SGlHdnJnbDJwemJDNkl5bVNmeFZsS2NZT3c?oc=5",
+      "summary": "花蓮鳳林光電弊案涉賄近5千萬 上市公司董座總經理前鎮長等人全押了 UDN 上市綠能巨頭涉「花蓮鳳林光電弊案」 泓德能源董座總經理7人全數收押 Yahoo新聞 2019年花蓮鳳林光電案涉不法 前鎮長蕭文龍等8人遭聲押 你的公共電視 光電弊案沒有花蓮縣府官員 更生新聞網 花蓮鳳林光電案爆弊端！疑以地方回饋金行賄 蕭文龍等7人羈押禁見 Yahoo新聞",
+      "published": "Fri, 23 Oct 2026 01:01:00 GMT",
+      "display_time": "10/23 01:01"
+    },
+    {
+      "source": "Google News Global",
+      "title": "費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HZGw1Tmx4emptdDhpVHZyc0w5djA2MHBGb2IwWm1FVk9BWHFqXzFGUklqc3BKT1QtWDVlQVk1RVlPTDNlN2hjNWJUSld1d1lN?oc=5",
+      "summary": "費半為何重摔6.7%、黃仁勳說了什麼？六重點一次看| 全球財經| 全球 UDN 天下晨間新聞：費半崩跌6.7%！黃仁勳說出市場最怕的事 天下雜誌 老黃失靈了？「這６檔」名列輝達背板股 股價卻同步翻黑收跌 Yahoo股市 AI股拋售潮延燒！CoreWeave、Nebius陷財務疑慮黃仁勳點出新雲端最大瓶頸- 日報 工商時報 GPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利 鉅亨網",
+      "published": "Fri, 23 Oct 2026 00:57:19 GMT",
+      "display_time": "10/23 00:57"
+    },
+    {
+      "source": "Google News Global",
+      "title": "俄烏談判 澤倫斯基願當前戰線停戰 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CUU40QTR2aDZCSDh2N2xYMFo3czV6Wlc3a1FhUVA5ZTh0aktscC1zQ00xNUR2SmVUdWNCWE0wZW1Zbi1LMmxuWjhBcUhEWWRG0gFWQVVfeXFMTlBVSjRtaVphdTIzWFlhUnd0S3BfV3BBRjB6ZXBGODZoc3BrT1Q3b2RNZmJ6Q3hVdTI5aHZqREROZ1k0cGpPN1RxQXdzWkN3RGRnNnJvNWc?oc=5",
+      "summary": "俄烏談判 澤倫斯基願當前戰線停戰 UDN 澤倫斯基愈發激進！烏歷史學家揭談判紅線：絕不「法律割讓」領土 中時新聞網 停火曙光？澤倫斯基受訪同意「必須凍結戰爭前線」：願保留75％領土換和平 Yahoo新聞 20261022 8點新世界完整版（無網路版權內容除外）｜蒲亭同意重啟美俄烏三方會談，澤倫斯基:安全前提下願凍結戰線 你的公共電視 美俄烏11月重啟和談：川普對俄鬆綁制裁，分析認為普亭「不急著讓步」 TNL The News Lens 關鍵評論網",
+      "published": "Thu, 22 Oct 2026 16:00:00 GMT",
+      "display_time": "10/22 16:00"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Pepsi renews contract with Taco Bell days after KFC switches to Coke in the U.S.",
+      "link": "https://www.cnbc.com/2026/10/22/pepsico-taco-bell-beverage-deal.html",
+      "summary": "Taco Bell is sticking with longtime beverage supplier PepsiCo, even though sister chain KFC defected to Coca-Cola.",
+      "published": "Thu, 22 Oct 2026 15:52:00 GMT",
+      "display_time": "10/22 15:52"
+    },
+    {
+      "source": "Google News Global",
+      "title": "4天後剉咧等？台積電ADR大暴跌 台指期夜盤一度狂殺500點 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5weUlEYUx1SXg4Rjg2TkdYY1BkN1JwUkUxeWVRNFFPbGhsbUFHVzcyb2d5cUdiWHdtajhibk1SSXZ6eGJKNHFNZVdIR1RHeE9HSEZfM0p0b0tYbXRCaEY40gFkQVVfeXFMTkRPaThHbGt6MVdMR08wNnROUEFEVDFvQ3dFSW0tamxhcTQ5ME92OG1WUDFVOUZjRXZtQkVmRlFHUkJqTW42QU1heEc3WTFyZldmR21RbnF0ZG5QM1N3eW53ZmViXw?oc=5",
+      "summary": "4天後剉咧等？台積電ADR大暴跌 台指期夜盤一度狂殺500點 自由財經 颱風假後慘了？ 台指期夜盤失守46K 費半重挫6％ 中時新聞網 MoneyDJ新聞 2026-10-22 06:16:01 黃文章 發佈 MoneyDJ理財網 期貨商論壇／原油期 伺機操作 UDN 〈能源盤後〉伊朗與巴基斯坦討論斡旋 但美伊衝突陰影未散 油價自5個月高點拉回仍守百美元 Yahoo股市",
+      "published": "Thu, 22 Oct 2026 15:35:42 GMT",
+      "display_time": "10/22 15:35"
+    },
+    {
+      "source": "Google News Global",
+      "title": "GPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xSUY2REpFNXdGMndnQklKNDJyYWZkZnF1bDFZUDBaMFp3aWpsbzZIclJDTWhZLUhMcFB1UXVlTUs5VlBRTkE4M3RnYnJvLVE?oc=5",
+      "summary": "GPU只能用4年？CoreWeave債務有解？黃仁勳一次回應 再談DeepSeek高毛利 鉅亨網 黃仁勳欽點AI新勢力：它們「需求爆表」 卻被關鍵瓶頸卡住 Yahoo新聞 抗議者鬧場、機器鴨罷工，黃仁勳柏林演講靠幽默化解插曲 TechNews 科技新報 Nvidia公布Vera Rubin資料中心參考設計DSX POD，號稱最快2周可完成部署 iThome AI終將毀滅人類？黃仁勳再嗆末日論「捏造又廉價」：打造AI，別試圖扼殺它 Yahoo新聞",
+      "published": "Thu, 22 Oct 2026 14:50:05 GMT",
+      "display_time": "10/22 14:50"
+    },
+    {
+      "source": "Google News Global",
+      "title": "外資重砍台股後怎麼走？ 歷史數據顯示科技市值型反彈強勢 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYU0lEWkx1aE5fcE1FOFoxZWhmM29JUWNGLTkxZ0Ixb0dHUS1NVmYwT2h4eFUtek42aHJqbldVdGNPZk5IbGF5bWNvM0xzVjZGTExPaDE4TVFvZDhZTWtv?oc=5",
+      "summary": "外資重砍台股後怎麼走？ 歷史數據顯示科技市值型反彈強勢 自由財經 外資大逃殺！一週狂砍台股5862億 3檔重災區賣超近38萬張 Yahoo新聞 暴力洗盤求勝法則　外資單日賣超破紀錄散戶甩下車？ ETtoday財經雲 外資近月高位變現7,000億！反手抄底鴻海、2類ETF「內資也狠敲00403A逾216萬張」背後算計全曝光- 上市櫃 旺得富理財網 外資一個月大賣台股7000億元 主力低檔卡位這兩類ETF 最愛00403A 鉅亨網",
+      "published": "Thu, 22 Oct 2026 12:42:06 GMT",
+      "display_time": "10/22 12:42"
     },
     {
       "source": "Google News Global",
@@ -80,14 +128,6 @@
       "summary": "澤倫斯基受訪稱願凍結戰線保留75%國土與俄羅斯停火| 國際 中央社 CNA 停火曙光？澤倫斯基受訪同意「必須凍結戰爭前線」：願保留75％領土換和平 Yahoo新聞 俄烏願重啟和談 和平仍遙遠 UDN 20261022 8點新世界完整版（無網路版權內容除外）｜蒲亭同意重啟美俄烏三方會談，澤倫斯基:安全前提下願凍結戰線 你的公共電視 1年前遭川普嚴厲制裁 普廷如今「零損失」換回美俄關係正常化 自由時報",
       "published": "Thu, 22 Oct 2026 10:44:00 GMT",
       "display_time": "10/22 10:44"
-    },
-    {
-      "source": "Google News Global",
-      "title": "俄烏談判 澤倫斯基願當前戰線停戰 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CUU40QTR2aDZCSDh2N2xYMFo3czV6Wlc3a1FhUVA5ZTh0aktscC1zQ00xNUR2SmVUdWNCWE0wZW1Zbi1LMmxuWjhBcUhEWWRG0gFWQVVfeXFMTlBVSjRtaVphdTIzWFlhUnd0S3BfV3BBRjB6ZXBGODZoc3BrT1Q3b2RNZmJ6Q3hVdTI5aHZqREROZ1k0cGpPN1RxQXdzWkN3RGRnNnJvNWc?oc=5",
-      "summary": "俄烏談判 澤倫斯基願當前戰線停戰 UDN 澤倫斯基愈發激進！烏歷史學家揭談判紅線：絕不「法律割讓」領土 中時新聞網 停火曙光？澤倫斯基受訪同意「必須凍結戰爭前線」：願保留75％領土換和平 Yahoo新聞 20261022 8點新世界完整版（無網路版權內容除外）｜蒲亭同意重啟美俄烏三方會談，澤倫斯基:安全前提下願凍結戰線 你的公共電視 美俄烏11月重啟和談：川普對俄鬆綁制裁，分析認為普亭「不急著讓步」 TNL The News Lens 關鍵評論網",
-      "published": "Thu, 22 Oct 2026 16:00:00 GMT",
-      "display_time": "10/22 16:00"
     },
     {
       "source": "Google News Global",
