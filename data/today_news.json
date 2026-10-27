@@ -3,14 +3,6 @@
   "news": [
     {
       "source": "Google News Global",
-      "title": "台股早盤漲逾500點 台積電漲20元 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzVTcVdJRTBlMUhQTGFnZm44aHhZSUlnX2JQQzJtVDE0VHdpejM2WEh2REtQWUNCbVNNNjdYQk9nSlVRSGxpb3d0MEtaWVRyWU1IN3NhZzg0Q3lrRFVRRmhONUtaRjNlZUc0ZEp2VmY3RkQxaUZjWXcwWmxDOXVyVW9ueUZYT3FrRW1pdXlvRG4tVGwzem5BdU8zYWJzcm8xS0ZEblBKYnR4V2FtMTNZOXFvTVItMFBGYnRQYUVUZ1hDaXo0R0pMRGpKX3RhY09oVjNmOWRHVzIyRzluYWlqbl83cHl5X3VoTm9J?oc=5",
-      "summary": "台股早盤漲逾500點 台積電漲20元 Yahoo新聞 台股漲207點！記憶體回神 南亞、台化也暴衝 Yahoo股市 台股開盤》ABF載板、記憶體掌兵權 指數漲逾500點 自由財經 台股本週還沒絕望！美股早盤反彈了　費半開漲160點 NOWnews今日新聞 10月27日盤前／Anthropic IPO 帶動科技股反彈 台股力拚季線支撐 經濟日報",
-      "published": "Tue, 27 Oct 2026 01:30:00 GMT",
-      "display_time": "10/27 01:30"
-    },
-    {
-      "source": "Google News Global",
       "title": "鐵含量只差 2%，磁性狀態就整個翻面：耶魯團隊揭開記憶體材料 FeₓNbS₂ 之謎 - 明日科學",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56cEljVG1vYmx1Z0s2Y3BEd3ZWM3pEeXZ3MTVYOUIyS214em5uLUgwc0RsUWk5YkVidGs1dVlGajdSWU1CbDB4WXlGY2QwRGJPZUxLRUZ6NzVEdVU?oc=5",
       "summary": "鐵含量只差 2%，磁性狀態就整個翻面：耶魯團隊揭開記憶體材料 FeₓNbS₂ 之謎 明日科學",
@@ -26,12 +18,12 @@
       "display_time": "10/27 07:21"
     },
     {
-      "source": "Google News Global",
-      "title": "美股收盤》AI概念股回神領漲、四大主指全收紅 台積電ADR漲1.40％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51RzViRmduZnJ0dmw3TEtKVVRUcTlTSC1xdmRiOUF5UkN4UXZGUzh0b3M4WW5sYlVIQTNCbWgtOGZ4U0twWlUyeUFvUFBuRi1HOTVndWg5WThSeGQtZnd30gFkQVVfeXFMT1k3NTh0ZkRka1A1RDVpSW5jYXpkVmNVVnBNNlJSZEFNcmJJMXkxdVRmbVhzZVFndFRvWmhIaGw3WlRMQ3lGdVAxOC1aWjZGXzBlT283OUZYSkxzeDBydmg3UWtTUg?oc=5",
-      "summary": "美股收盤》AI概念股回神領漲、四大主指全收紅 台積電ADR漲1.40％ 自由財經 〈美股盤後〉Anthropic IPO重燃AI熱情 晶片股反攻 費半勁揚約3% 鉅亨網 美科技股帶動亞股反彈！日經漲逾1200點 韓股狂飆4% Yahoo新聞 快訊／馬斯克送輝達利多！不懼巴西大選震盪 美股開盤「4指數全漲」 三立新聞 26日美股收高台積電ADR上漲 法人：台股27日壓力可望紓緩 Taiwan News",
-      "published": "Mon, 26 Oct 2026 22:40:43 GMT",
-      "display_time": "10/26 22:40"
+      "source": "CNBC Finance",
+      "title": "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+      "link": "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+      "summary": "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+      "published": "Tue, 27 Oct 2026 14:25:34 GMT",
+      "display_time": "10/27 14:25"
     },
     {
       "source": "BBC Business",
@@ -42,20 +34,76 @@
       "display_time": "10/27 06:01"
     },
     {
-      "source": "Google News Global",
-      "title": "台股恐退守半年線爆！「8檔」切勿輕易接刀 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOd3NmWk96N080QWlhTDVKcGtzTk9lZmJJcm9iTTZXS0gxYWVhSVQtYUh5aEFGUjNLMF9qV3RNWGRhOFlkUkNjZmhJUU05cHF5UVdraGQ1VXBJbDdWTFA4OTBaeVdTQ0ZTWE5uNHowd2pCTlBiT2dYeW01bXZpQ2tNNkFfRXJOaUZZUDBEN3VWNFZudjRweU9WWjVzZFJnd2RUOFZIQzd3Wkl6QXdWampEdEpxSDVjODBEOERwdUNCMGNfeFhsZU1vOTlSMjVwVFRrZ3h2SkttQkdDUHJBNFQzb2dHMGVQd01kbXdhRDhweGdFSGp6SWs3d2V4OWhFYWpvaXNET3lpb3JkM3Y4MkFZNmVnc3RoLWM?oc=5",
-      "summary": "台股恐退守半年線爆！「8檔」切勿輕易接刀 Yahoo新聞 【盤前】外資殺紅眼！國家隊、投信聯手難擋賣壓 台積電收低1.45% Yahoo新聞 少開盤少跌一天！明日開盤恐引爆斷頭潮？三大利空萬箭穿心...專家驚曝：這波恐回測「這條生死線」 - 上市櫃 旺得富理財網 台指期 當心遞延賣壓 UDN 台股明開盤恐補跌千點？郭哲榮曝「恐慌盤後有大逆轉」：這6檔逢低布局機會來了 | 張庭維 | 新聞 風傳媒",
-      "published": "Mon, 26 Oct 2026 21:50:00 GMT",
-      "display_time": "10/26 21:50"
-    },
-    {
       "source": "Google News Finance",
       "title": "台股小漲作收4萬6「失而復得」 台積電漲15元 - 壹蘋新聞網",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNEJ5cVg3MWM2MUVaRDNQRXBuNVIxUHdINHZFVldoNFM5V2NlMkpUVzBIRFM5bmJ6Yk1yN251aUJ3ZlZVZGlURzZ2bGs4R0U5UXZkclZQbFVmWVRSZG10dTJoVHVFQTNab2dfWEtTYUJwMEVST1hmeFVlLUVkRmpWY21B?oc=5",
       "summary": "台股小漲作收4萬6「失而復得」 台積電漲15元 壹蘋新聞網",
       "published": "Tue, 27 Oct 2026 05:40:00 GMT",
       "display_time": "10/27 05:40"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股早盤漲逾500點 台積電漲20元 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONzVTcVdJRTBlMUhQTGFnZm44aHhZSUlnX2JQQzJtVDE0VHdpejM2WEh2REtQWUNCbVNNNjdYQk9nSlVRSGxpb3d0MEtaWVRyWU1IN3NhZzg0Q3lrRFVRRmhONUtaRjNlZUc0ZEp2VmY3RkQxaUZjWXcwWmxDOXVyVW9ueUZYT3FrRW1pdXlvRG4tVGwzem5BdU8zYWJzcm8xS0ZEblBKYnR4V2FtMTNZOXFvTVItMFBGYnRQYUVUZ1hDaXo0R0pMRGpKX3RhY09oVjNmOWRHVzIyRzluYWlqbl83cHl5X3VoTm9J?oc=5",
+      "summary": "台股早盤漲逾500點 台積電漲20元 Yahoo新聞 台股漲207點！記憶體回神 南亞、台化也暴衝 Yahoo股市 台股開盤》ABF載板、記憶體掌兵權 指數漲逾500點 自由財經 台股本週還沒絕望！美股早盤反彈了　費半開漲160點 NOWnews今日新聞 10月27日盤前／Anthropic IPO 帶動科技股反彈 台股力拚季線支撐 經濟日報",
+      "published": "Tue, 27 Oct 2026 01:30:00 GMT",
+      "display_time": "10/27 01:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台積尾盤拉一把！機器人出拳、記憶體補血台股震盪900點收紅保住46000點大關｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMingRBVV95cUxORjFQbkhRTnhkLTdKNk1OQW5NSm5jM1VWNEpoNFgtNC13YklqNFJCWUZzc2E1ZEV4S0NCdzI4MFdfZ1NWVjM1ZjdOSnQzWVAzY2t0WTBqS0JHT1JHVDVwUDRNYm1rOGU2d1gwYmxyZjc4bE9NZHdsaVRPZW9CS1lGbmJTQ2JIaHFJLVRCbko2UUtyNGZVRmZua2dzZlFGbG04Z05TTFc4MkdMOXVXZU9vNGpkeWd0SExEU29pbkpQcjdsbTk3T1JZRnQwenptOHVCcGJuVUx2M19maktRTzhuOEgxVTFPeU1tTXB5VnNKNkgzMm9sZ2lzQVFhbmxKclhxWG5VaDhWelprR2lUeXdsNFQxZWJ0dkJuTVRpYVl1X0VqOWo2amJldm41azBoVi1ZRHZCYVhoWF9sbFlyUWZQYmFjbG5QZGRxZ2FzQ3ZfUTI4WlZHX09Qblg0RVJ5VGZkTFVTMWlEdUhCM04yUW4wMnptVzg5U0VETjEzODQ3REl5eXRUbWd3UmRuVDVqcnA5Y3JiQVRzSkpBZjJ4WmtUajNEQ3h2N3ZELWNnQndwUERqQkd2c1plUDVUSUhNdENWc3d4UDE4ZTZLVjJnREl1ZlRMMHE0dTVFSGhyTGlsUDdqR2hYdGRKVEl4dkw3WW92SGJxLVhiSzJuZ01QZlB6S0pELUFHVGxISWctLUlFQ3R0VjJpclBmYVN3Ri0tQQ?oc=5",
+      "summary": "台積尾盤拉一把！機器人出拳、記憶體補血台股震盪900點收紅保住46000點大關｜Yahoo財經掃描 Yahoo股市 中東緊張局勢露曙光 台指期夜盤大漲500點 UDN 美股收紅激勵台股早盤開高走低 終場漲54點、收4萬6096點 你的公共電視 震盪洗盤守住小紅！「12檔」相對抗震 三立新聞 台股開盤大漲逾500點 法人看玻璃布與CCL族群成市場焦點 自由財經",
+      "published": "Tue, 27 Oct 2026 09:16:01 GMT",
+      "display_time": "10/27 09:16"
+    },
+    {
+      "source": "Google News Global",
+      "title": "外資近四個月淨匯出543億美元 央行：遠超上半年 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBnRjNtbVg2N3U2ZVQtT09VSDdSWmNFWEY5cnlqcUdHOEUtV2FRbDRZRnVjRGtsc29BaFR4ek5IV1djMkRna3hlRmpqd2ttZjg50gFWQVVfeXFMT2h5WHpPRTZ2NjBtVzBOZGJjZkY1eVo3VXBKUzROdW0tdC1CVC1IYnViS0hCZlVZamxTRGpuLUNxSnBxOXBEd29Qd0lSSXB6YUxZbGhsV1E?oc=5",
+      "summary": "外資近四個月淨匯出543億美元 央行：遠超上半年 UDN 新台幣狂貶最大元兇！ 央行揭外資今年匯出近2.5兆元 Yahoo股市 楊金龍立院報告 揭外資今年匯出達2.5兆、台股漲幅仍逾6成 Rti 中央廣播電臺 外資賣壓減輕、出口商拋匯助攻！新台幣午後由貶翻升 收32.452元 自由時報 美元連三升 台幣早盤震盪貶值2.8分 | MoneyDJ理財網 LINE TODAY",
+      "published": "Tue, 27 Oct 2026 08:04:14 GMT",
+      "display_time": "10/27 08:04"
+    },
+    {
+      "source": "Google News Global",
+      "title": "45萬股東不妙！投信狂買236億 卻大砍「這檔」4554張 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VaWhtZGpiYnVsajMwNjdKSFJGXzYySFA2RjZ4R3d1NjF4X1JlaFRwbVgxWkwwOHJlR215OXlZY3hmRS13TE83R1hNV0t1aTdkTHJncTdDV0NyMVJNUlRB0gFkQVVfeXFMTzdRcXZTQnpVdy1nOWk3dk1zZ09zTmhtb2hsUjY3NWhqVFJwdndtNnlNZk9XSWNkUHZzTkNmODNaNHZSOHlnX2JWZlF1Z1hBamktaUhuaHRqS2xTYWJNLTFwVlZFNQ?oc=5",
+      "summary": "45萬股東不妙！投信狂買236億 卻大砍「這檔」4554張 自由財經 全年EPS上看15元！「PCB大廠」今開高後重摔逾8% 三大法人大砍8340張、抱回45.6億元 Yahoo股市 外資大砍友達9.6萬張最凶 倒貨3檔主動式ETF、連12賣調節0050 鉅亨網 差點買錯邊！力積電、友達爆量背後藏內外資角力「8大官股養套殺神操作曝光」高檔倒貨力積電 還有它 旺得富理財網 外資連13砍台積電！今賣壓驟減　反手狂買力積電5.6萬張 ETtoday財經雲",
+      "published": "Tue, 27 Oct 2026 07:58:59 GMT",
+      "display_time": "10/27 07:58"
+    },
+    {
+      "source": "Google News Global",
+      "title": "AI巨頭Anthropic上市文件點名台灣！警告台積電供應風險 自爆曾受影響 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aNVNpMmhlS091QzdiYmJTd1FjeDdlSFl3d19hWjU0MkdqSnQ2MklmVl9WT044RTdZWlgtVWtWdVFSUDdHdkY0a2pNV2ZreTNydTBIalVUNm90d9IBX0FVX3lxTE50SVBXQnBOVm1hLTRfaGpKWENFWlNvN0FTMXRwOTJjc0VDUnNsQnl6YlhPQ0tBeDhUbnUzQ0d4VFgxZ3JHS1dMYTRhWTYtYmE4czA3UFBvU1FBdG1KQ0tj?oc=5",
+      "summary": "AI巨頭Anthropic上市文件點名台灣！警告台積電供應風險 自爆曾受影響 經濟日報 Anthropic正式啟動IPO，揭露AI業務高速成長與龐大運算成本 iThome 「它」救了全村！韓股彈逾4% 日股飆千點 Yahoo新聞 Anthropic招股書公布！說了什麼？亞馬遜、Google是大贏家？ 天下雜誌 Anthropic近半營收靠對手 與谷歌、亞馬遜、微軟「亦敵亦友」 鉅亨網",
+      "published": "Mon, 26 Oct 2026 23:51:43 GMT",
+      "display_time": "10/26 23:51"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美股收盤》AI概念股回神領漲、四大主指全收紅 台積電ADR漲1.40％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51RzViRmduZnJ0dmw3TEtKVVRUcTlTSC1xdmRiOUF5UkN4UXZGUzh0b3M4WW5sYlVIQTNCbWgtOGZ4U0twWlUyeUFvUFBuRi1HOTVndWg5WThSeGQtZnd30gFkQVVfeXFMT1k3NTh0ZkRka1A1RDVpSW5jYXpkVmNVVnBNNlJSZEFNcmJJMXkxdVRmbVhzZVFndFRvWmhIaGw3WlRMQ3lGdVAxOC1aWjZGXzBlT283OUZYSkxzeDBydmg3UWtTUg?oc=5",
+      "summary": "美股收盤》AI概念股回神領漲、四大主指全收紅 台積電ADR漲1.40％ 自由財經 〈美股盤後〉Anthropic IPO重燃AI熱情 晶片股反攻 費半勁揚約3% 鉅亨網 美科技股帶動亞股反彈！日經漲逾1200點 韓股狂飆4% Yahoo新聞 快訊／馬斯克送輝達利多！不懼巴西大選震盪 美股開盤「4指數全漲」 三立新聞 26日美股收高台積電ADR上漲 法人：台股27日壓力可望紓緩 Taiwan News",
+      "published": "Mon, 26 Oct 2026 22:40:43 GMT",
+      "display_time": "10/26 22:40"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美以2場大選決定世界下一步！以色列大選今登場 4大重點一次看 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vbVBIcVFoN0Y5NS1hNmNMcUVBMG5KT085Q2V0d1MzbERpNVlzczBXTEJuanRKZWxyZWNuOHRDRE4wakZrNGZvN2JkbV8yUDl30gFWQVVfeXFMTzlpMHFUNUJxazh1Z0JWS3NmcG1tMlAwWHpXaENUU0t6aDMtX1BlaDZwNU1BYnVNck9tV1JTM0tSc1Jnd2FZX0NkZTlpYWxmOTlQaVlvaEE?oc=5",
+      "summary": "美以2場大選決定世界下一步！以色列大選今登場 4大重點一次看 UDN 20261027 8點新世界完整版（無網路版權內容除外）｜以色列大選登場，納坦雅胡拚連任有硬仗、選前大打川普牌 你的公共電視 以巴衝突後首次大選 納坦雅胡迎來生死之戰？郭正亮揭「關鍵角色」 Yahoo新聞 想用轟伊救選情? 納坦雅胡計畫被阻止 恐丟政權 未來接班人將是「他」 Newtalk新聞 以色列迎哈瑪斯突襲後首場大選 現任總理納坦雅胡面臨信任投票 你的公共電視",
+      "published": "Tue, 27 Oct 2026 06:39:32 GMT",
+      "display_time": "10/27 06:39"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股恐退守半年線爆！「8檔」切勿輕易接刀 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOd3NmWk96N080QWlhTDVKcGtzTk9lZmJJcm9iTTZXS0gxYWVhSVQtYUh5aEFGUjNLMF9qV3RNWGRhOFlkUkNjZmhJUU05cHF5UVdraGQ1VXBJbDdWTFA4OTBaeVdTQ0ZTWE5uNHowd2pCTlBiT2dYeW01bXZpQ2tNNkFfRXJOaUZZUDBEN3VWNFZudjRweU9WWjVzZFJnd2RUOFZIQzd3Wkl6QXdWampEdEpxSDVjODBEOERwdUNCMGNfeFhsZU1vOTlSMjVwVFRrZ3h2SkttQkdDUHJBNFQzb2dHMGVQd01kbXdhRDhweGdFSGp6SWs3d2V4OWhFYWpvaXNET3lpb3JkM3Y4MkFZNmVnc3RoLWM?oc=5",
+      "summary": "台股恐退守半年線爆！「8檔」切勿輕易接刀 Yahoo新聞 【盤前】外資殺紅眼！國家隊、投信聯手難擋賣壓 台積電收低1.45% Yahoo新聞 少開盤少跌一天！明日開盤恐引爆斷頭潮？三大利空萬箭穿心...專家驚曝：這波恐回測「這條生死線」 - 上市櫃 旺得富理財網 台指期 當心遞延賣壓 UDN 台股明開盤恐補跌千點？郭哲榮曝「恐慌盤後有大逆轉」：這6檔逢低布局機會來了 | 張庭維 | 新聞 風傳媒",
+      "published": "Mon, 26 Oct 2026 21:50:00 GMT",
+      "display_time": "10/26 21:50"
     },
     {
       "source": "CNBC Finance",
@@ -75,19 +123,19 @@
     },
     {
       "source": "Google News Global",
+      "title": "搶不到台積電晶片！　Anthropic上市文件「點名台灣」曝2大隱憂 - ETtoday新聞雲",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BUDJJVnNidzJGN2NnUGE5bjVNMC1BWU1NNHpWOXItSHc1eHFTTHVVV0I1Q0ZWX0JGWUczNzdzMzNGTzQ3ZGdZdWpkU0JIb3RyY3dSdWY3VUVzQ0F5Z3fSAUtBVV95cUxQUjVobTBDS2l3dXNZa1FxcnctRE04aTFzT0U2Tm1mZXd3WVgzNEQ2NzBEVWpGX1docGphc0VGc3VOVlNBYlV2djFJa2M?oc=5",
+      "summary": "搶不到台積電晶片！　Anthropic上市文件「點名台灣」曝2大隱憂 ETtoday新聞雲 Anthropic IPO治理架構曝光！7名共同創辦人掌握50.1%投票權 外部股東難左右決策 Yahoo股市 Anthropic正式啟動IPO，揭露AI業務高速成長與龐大運算成本 iThome SpaceX並非Anthropic最大合作對象！誰才是第一名？近兆美元大型合約一次看 鉅亨網 Anthropic招股書公布！說了什麼？亞馬遜、Google是大贏家？ 天下雜誌",
+      "published": "Tue, 27 Oct 2026 01:02:00 GMT",
+      "display_time": "10/27 01:02"
+    },
+    {
+      "source": "Google News Global",
       "title": "期中選舉後恐爆衝突！美軍兵力部署就緒 川普令下96小時內可開轟伊朗 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOUV96NlcxTzY4NE8xaVFpVDhKNGJkb0RpdFdrODJaaFRqeE5WdThWNUltYmt5YV9zWWgwZVJsTnBqV19QdW1HLXdTS0l2bmdQSWhHM2x4VHItM3k0OWd3dThUTGZxUXVPcUhPWkhLMUE3R1hWYUROUTlUbUVydjdZSE05X3Fka1ZsNG42U2JBc2NseGpSN3JzcDZzNXpvdU1SbW5DVnVsWnk3ZGZVdzZ3RXRDaDlwdmRvYkQwNEJGZnkzMm1HVGxlQy1GOER2UDg4RHlDQlgzRmJYMWNNd1B3dDNsLTVYcDFPUmVMUk01U3B2bU11ZEstQi1sUDdNTFdQcGZuWXJIdndSb3RZQ1FCVEltNTNjb2RSS0luZlUzQ2VXSDBtY3FjclNTSXZtLUZJUEprRGUxRks1MnViNm9XeFJwR0I3Yk84RmpvWlQzSENEZ0Y1TU1BdnM4Q01hUTJUQnVmRWl6dnZlVWYxdnU1d1ZSaWtnQjJ2aHRRVEV0b0dtQVU0bWxfOV9zb1pza2pQZ19hMVJISzdmUUpPX0U1d2FTdW5xVVM0QW1rZXdtZFVoclVB?oc=5",
       "summary": "期中選舉後恐爆衝突！美軍兵力部署就緒 川普令下96小時內可開轟伊朗 Yahoo新聞 美伊戰爭進入危險階段！紐時揭3大引爆點 一聲槍響恐失控 Yahoo新聞 川普示警對伊朗到了關鍵時刻- 國際新聞- 旺報 中時新聞網 「青壯年飛機」早退休？全球鬧引擎荒 客機遭拆解「賣零件」更賺 | TVBS LINE TODAY 川普喊伊朗問題「必須做個決定了」！徹底終結它或達成協議二選一| 中東戰火連綿| 全球 UDN",
       "published": "Mon, 26 Oct 2026 16:37:00 GMT",
       "display_time": "10/26 16:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "AI巨頭Anthropic上市文件點名台灣！警告台積電供應風險 自爆曾受影響 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aNVNpMmhlS091QzdiYmJTd1FjeDdlSFl3d19hWjU0MkdqSnQ2MklmVl9WT044RTdZWlgtVWtWdVFSUDdHdkY0a2pNV2ZreTNydTBIalVUNm90d9IBX0FVX3lxTE50SVBXQnBOVm1hLTRfaGpKWENFWlNvN0FTMXRwOTJjc0VDUnNsQnl6YlhPQ0tBeDhUbnUzQ0d4VFgxZ3JHS1dMYTRhWTYtYmE4czA3UFBvU1FBdG1KQ0tj?oc=5",
-      "summary": "AI巨頭Anthropic上市文件點名台灣！警告台積電供應風險 自爆曾受影響 經濟日報 Anthropic正式啟動IPO，揭露AI業務高速成長與龐大運算成本 iThome 「它」救了全村！韓股彈逾4% 日股飆千點 Yahoo新聞 Anthropic招股書公布！說了什麼？亞馬遜、Google是大贏家？ 天下雜誌 Anthropic近半營收靠對手 與谷歌、亞馬遜、微軟「亦敵亦友」 鉅亨網",
-      "published": "Mon, 26 Oct 2026 23:51:43 GMT",
-      "display_time": "10/26 23:51"
     },
     {
       "source": "Google News Global",
@@ -131,11 +179,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "看懂2026美國期中選舉：國會版圖牽動川普未來施政 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kV3pXSGtyeURmcXRpSjNWaV9sckF5NnFIVmlZaDdxQVFIaDJDNlFTQ1pqU245WmswU0lMQkhXWi11cFdiMnVpVHlLWEtuVzNIN2h0N2RWU2hmNkZVSTBNRGJDczlYUdIBa0FVX3lxTFBmRk5qQnRhcVRoaklrYk1FU1VBSGM2WWxSekRjZ2VWOS16TFhHdnl5dXJBSnlqbml5ZmRtaUEyRW12OGd5Y1Z0ZmJ4VVA1NzdXNk1OLXctNnBObC10MEV2b0IwWXAxZzlxVWRj?oc=5",
+      "summary": "看懂2026美國期中選舉：國會版圖牽動川普未來施政 自由時報 美國期中選舉日期11/3！共和黨落居下風、川普將成跛腳總統？參眾兩院4套劇本曝光，金融市場怎麼走 今周刊 為了贏不擇手段？ 美媒控川普在關鍵州祭出「交易性承諾」試圖吸選票 Yahoo新聞 川普獨特勝選奧步難模仿共和黨人照抄反拖垮期中選舉| 紐時觀點 聯合報數位版 選前7天最新民調！民主黨續保領先川普支持率回升 選前砸百萬「獎金」能救共和黨？ 鉅亨網",
+      "published": "Mon, 26 Oct 2026 15:59:30 GMT",
+      "display_time": "10/26 15:59"
+    },
+    {
+      "source": "Google News Global",
       "title": "AI多頭大反攻倒數？超級法說周來了一文掌握台股關鍵訊號- 證券 - 工商時報",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yVnZwMXg1Q0pweVhyOXBaY2dINXRlNVVZU2NnTVEzNW0yVHRad0Y4clhPWHF3d0d0UEhyWlBXMktrVHc0RDRZSVpqYWYzUmlqTHlzcktFcFhxMEFaRDdn?oc=5",
       "summary": "AI多頭大反攻倒數？超級法說周來了一文掌握台股關鍵訊號- 證券 工商時報 AI電源AI晶片雙法說！台達電聯發展望連發AI三巨頭財報周！微軟、Alphabet和亞馬遜同期出爐聯準會升息機率不到兩成！ 台灣投資人要注意什麼？｜投資早知道 Yahoo股市 台股重量級法說會登場！聯發科、台達電、聯電上陣 AI需求能變獲利？ UDN 台積電報喜誰接棒？聯發科、台達電法說拚AI財 民報 面板法說接棒上場轉型聚光- 財經要聞- 工商時報 中時新聞網",
       "published": "Mon, 26 Oct 2026 06:56:00 GMT",
       "display_time": "10/26 06:56"
+    },
+    {
+      "source": "Google News Global",
+      "title": "伊朗剉咧等？CNN曝美軍備妥大空襲計畫 待川普令下96小時內出擊 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4b2w4V1AwSk5vNGFwdElOMlJrRUFCempJQnBRYmNZVjVMNnluVk1ueWMzSU0xTk9vaXJ0bFBnbG1uMXdqelY2cFctSXJEQ3VzVDRr0gFYQVVfeXFMTXFIUThlMEhiY29yd2NWd2hiY0dLUWpsTWNTd1dxUlNHNWVSVXRpTnk3ZnRBSnA4Y3NiVkJORV9KbkZDRm5PUy1UMDNkRTFVYV9IaDJ4WUJhOA?oc=5",
+      "summary": "伊朗剉咧等？CNN曝美軍備妥大空襲計畫 待川普令下96小時內出擊 UDN 就等川普下令！ 傳美軍96小時內可攻伊朗 Yahoo新聞 川普喊伊朗問題「必須做個決定了」！徹底終結它或達成協議二選一| 中東戰火連綿| 全球 UDN CNN：美軍備妥大規模攻伊朗計畫 川普可能期中選舉後下令 Rti 中央廣播電臺 川普喊打伊朗 油價逼近120美元 戰事目標曝光 全球能源神經緊張了？ 工商時報",
+      "published": "Mon, 26 Oct 2026 05:25:33 GMT",
+      "display_time": "10/26 05:25"
     },
     {
       "source": "Google News Global",
@@ -152,14 +216,6 @@
       "summary": "勇士390萬美元買大前鋒投資失敗？連兩戰低迷僅拿8分　科爾卻力挺 NOWnews今日新聞 Curry也沒遇過！勇士開季3連敗 菜鳥砍分仍被說重話 Yahoo運動 NBA》昨遭逆轉寫不名譽紀錄！勇士柯瑞等7大主力都缺陣恐吞3連敗 自由體育 Booker轟43分帶隊取勝 勇士苦吞三連敗 _p.2 - NBA - 籃球 運動視界Sports Vision 勇士窮得只剩下柯瑞 窮則變變則通困難重重| 運動專欄| 運動 UDN",
       "published": "Sun, 25 Oct 2026 21:35:00 GMT",
       "display_time": "10/25 21:35"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗剉咧等？CNN曝美軍備妥大空襲計畫 待川普令下96小時內出擊 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4b2w4V1AwSk5vNGFwdElOMlJrRUFCempJQnBRYmNZVjVMNnluVk1ueWMzSU0xTk9vaXJ0bFBnbG1uMXdqelY2cFctSXJEQ3VzVDRr0gFYQVVfeXFMTXFIUThlMEhiY29yd2NWd2hiY0dLUWpsTWNTd1dxUlNHNWVSVXRpTnk3ZnRBSnA4Y3NiVkJORV9KbkZDRm5PUy1UMDNkRTFVYV9IaDJ4WUJhOA?oc=5",
-      "summary": "伊朗剉咧等？CNN曝美軍備妥大空襲計畫 待川普令下96小時內出擊 UDN 就等川普下令！ 傳美軍96小時內可攻伊朗 Yahoo新聞 川普喊伊朗問題「必須做個決定了」！徹底終結它或達成協議二選一| 中東戰火連綿| 全球 UDN CNN：美軍備妥大規模攻伊朗計畫 川普可能期中選舉後下令 Rti 中央廣播電臺 川普喊打伊朗 油價逼近120美元 戰事目標曝光 全球能源神經緊張了？ 工商時報",
-      "published": "Mon, 26 Oct 2026 05:25:33 GMT",
-      "display_time": "10/26 05:25"
     }
   ]
 }
