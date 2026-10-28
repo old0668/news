@@ -9538,5 +9538,10 @@
     "timestamp": "2026-10-28T13:39:23.991646+08:00",
     "average_sentiment": 50.0,
     "news_count": 15
+  },
+  {
+    "timestamp": "2026-10-28T20:51:22.804772+08:00",
+    "average_sentiment": 50.0,
+    "news_count": 19
   }
 ]
