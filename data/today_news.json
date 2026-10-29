@@ -1,213 +1,45 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "news": [
     {
       "source": "Google News Global",
-      "title": "【Yahoo早盤】美股白漲了？台股失守4萬7大關急墜逾700點 分析師呂漢威：不易回平盤 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxOYWRYdkEyMVJnMUI4amI4MW9fSmF2US12MlFjdzlxMWNHWW5IanM3OXdDSElMNjM1S1F6N0ExUWJKS3ZNRmVfTFpRRXZYTW4zWC1mb1d2amp0bUk3UmxSRzZ5ZURzd1RkQUw3WkpRUjQ4SFBNTDRyNEY4TURXQWJIWWpiMjhLcUh4SjRkd3dKNjdEVmFvbUNzNTd4Wm1pR0JNVE5uUkhKUTluZ3JpWGZpTzgySmlfdzd1LTNiZjBHbmYxblI2anNnNzBpYjV3MFhETmt3aXBTSVJVNTNlU3hydVFxcnR1RThmWjAybUlvcUtvd0I5elY5a0RveHlaaWc3c2VOZGhwVktBNlNzZmZvRU1wU2p5Ti1MLUdyNzFnaWpmM1FveHJ4WFVKZ1g1S1ZTNWZvNTc4X0NWa1NBeEI2dzhaTFpfYUZoeXNjb1ItWWozdzAzMTgyTXo3SHdfdFNVYXBkRHBZZk9xSTdlSjFDSGZFdVBjQlJIbG9kSk9zd2EwV3JEUFNLSEp4RGdCRTVxU0tZaDlUdl93a0plalF5ekFYZXdNeHo1dldpcUFISGhfVnM1N2Z4em9Bc2IzMW10TGRjQ1NzbWVyU2hHQjBCaHlTR2Y2M29kZGJWRTVBOE1lY1JyUEZZajVoY2xsV2xsOEpLWG9B?oc=5",
-      "summary": "【Yahoo早盤】美股白漲了？台股失守4萬7大關急墜逾700點 分析師呂漢威：不易回平盤 Yahoo股市 台積電跌10元至2415　台股跌129點來到46906點 ETtoday財經雲 美股收紅難振台股！早盤逆勢走弱 跌逾400點、再陷46K 台視新聞網 台積電走弱、記憶體漲勢降溫！台股一度跌逾400點退守46,600 UDN 台股快訊》Fed拍板利率不變！台股開盤跌逾百點，中小型股「這族群」表現最強| 下班經濟學| 財經 風傳媒",
-      "published": "Thu, 29 Oct 2026 01:59:27 GMT",
-      "display_time": "10/29 01:59"
+      "title": "黃仁勳爆遭中國美女間諜滲透「密切往來」！ 輝達親上火線回應了 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNczI3X3E2SWFQSEFhTGI0ZVIybnlGcmNzSHFzN3pJOXhlQ2cwMFFGWmg5alBGbXkwWVhCR0s0Z3RhUk9IYnJUX3dtY1pRWUVrMlBocUJMT1UxVUZfZXZoYUFBZDNZU0M1ZTJyS1ZwWWllZ0JsQUp6QlJPYTZrQUNxUmFRWjlxZ2dkY1Vydlduckx6b2ZOMUhtTjZmZWZYZlFZcTRsZFJBNm1rWXQycUNFWDNuTFdqYnFtaExZRUh2TV9WSmxpWGFNOEpBb0lWQWNBSjQ0NHlZcDhwTUd5MGdacG1UN3RUbXVyNXY0ZWJPdzhVdW1IZVdLRElKMEc4S1NuOVpsUnBqZWhfVjRqQUxRT01NVDhWZklJVGVsUC03ZWV3eVlhcUk2TnpCdnk2VzhDd1BxRHN4OUQ3RUpILXJ5NHM3aUhvbi1tTjUwMTluNlVJSzJJa01PWUlrOURldDN5b3JCSE5GVlpzZWNZNkVsUGllY3pIX2NFT0hodk9ySXhrbzU0LWRQUzE1alJvdw?oc=5",
+      "summary": "黃仁勳爆遭中國美女間諜滲透「密切往來」！ 輝達親上火線回應了 Yahoo新聞 黃仁勳身邊有中國美女間諜！紐時爆美方監控內幕 川普早知情卻未行動 UDN 中國籍女主管與黃仁勳關係密切 紐時：向北京傳遞情報川普知情沒動作 自由時報 紐時：中國女主管與黃仁勳密切往來 美認定情蒐川普知情未行動 Rti 中央廣播電臺 紐時：美方疑中國情報人員接近黃仁勳川普一年前已知情- 國際 工商時報",
+      "published": "Thu, 29 Oct 2026 14:44:00 GMT",
+      "display_time": "10/29 14:44"
     },
     {
       "source": "Google News Global",
-      "title": "沙烏地最大煉油廠傳遭飛彈攻擊 國際油價一夜急漲 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3bE1HYThvYzJMZTNNX1pqRUozUnIwMHVDcU44VWtGMkJRVzVqd0RNRllnc0hBR3BOUUY2X295cHlKd01KSkJxMmg5NlFMYTI5TFB2MkVMTWlGYVltd19F0gFkQVVfeXFMTTIySmJCUHVTVFllby0yclVYUFpKU3Y0SWJvVE1RVTdDVWxBWjRoWmVhUEZydFR6M3NvalI4b09mMU56WGVsZzkzRWhackJMT0FHa1hvMGcwZElmSmJYVkNtcEpYRQ?oc=5",
-      "summary": "沙烏地最大煉油廠傳遭飛彈攻擊 國際油價一夜急漲 自由財經 〈能源盤後〉中東和談釋出降溫訊號 油價跌近2美元但仍處半年高檔 Yahoo股市 供應風險與航運成本推升 瑞銀上調油價預估-台股 MoneyDJ 美伊不和談就續戰？油市面臨第3種可能：維持僵局成為新常態 經濟日報 《油價》擔憂能源供應 NYMEX原油上漲2.9% | MoneyDJ理財網 LINE TODAY",
-      "published": "Thu, 29 Oct 2026 00:57:43 GMT",
-      "display_time": "10/29 00:57"
+      "title": "Google財報利空衝擊台股重挫667點再失季線！聯電法說會變法會智原穩懋連兩根漲停逆勢高飛｜Yahoo財經掃描 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi5wRBVV95cUxQdXBSMW5IRW0tVnhRRHdXanlBLUlRaDdCdHlwZlpxam45YVhTWjdUWmVweW1VeXp5dXZpYmNvV0lKa0pKeGZUbkhEcjdVMDJoSjZFX3U5QXNiTFhHc29OVEhqZ1MtR0hMcVlWWDhnU1Bpc283SEJ1OGVjTHh0QmNTeHdNazlsYkxaWTdOV2JhSFdvYkRLVzl0cUJ4RzVMd3pnNzRpX1VzcFA0Y2g0dmRPVE8xOVNWMkNhbXhfX3N1enZaNk5hMThENkdRY05xREZKRFB3cTYyT2RFWENzcUwwMURTM3lSWmtJemNSVHFLckV6bWtWZUZhWTE5dEphWEZIUUdrSGszTm5hRXB5TnU1SW5NandtYnE4OGdMWWNFdzVjZDU1NXVSbV9IM1BGSHhkT25Ob0hrTTdvV0Nma2Q0cnZwQl9zbHF4V3B3dVFBMWVrZXF6VXdndmVGMmxwVjBkLTh4UzFlWTRvdFZlRXVrZ1dNaGdJdmhld1VnV2pKSDM2UTlsSFNodVZvTVd0S1BPVlpVSVJhLWd6MzJmRGM4eGZKd3BVSzF5a2toSFFGNllValBDZXBHcVlOemRMenNnbG5mcFVvVzRKYjRxQ3BIQk8wdy1ucjBNX1VuekR0d3ZkVV9YekV4VWFkUWN2aEdtQ0t2Tmt0d2JFQnZsa2xmM05hb1FOOEpaWTU0bkNOMGlfVEl4bHM3N09lbWptZG9sTUtMNEREbnlEZXBHOUtmcUwzUUUwbzVLV21wSTV2bjlhWkRMdHYxVDZWanNMajBTVWk1N3luRDhRY0lEWVowbllOaW9SWms?oc=5",
+      "summary": "Google財報利空衝擊台股重挫667點再失季線！聯電法說會變法會智原穩懋連兩根漲停逆勢高飛｜Yahoo財經掃描 Yahoo股市 法說會開一家死一家？陳嘉偉爆台股陷「完美風暴」：AI估值修正才剛開始 Yahoo新聞 聯電跌停兇手現形！外資狂倒12萬張 面板雙虎也中槍 ETtoday財經雲 小編下班聊點錢》比巴逆逆更神準！空頭之神網瘋傳 龍頭投顧示警了 聯電、欣興、群創、微星...10檔死亡交叉名單1表看 旺得富理財網 Fed決議維持利率不變 台股開平走低守4萬6000點 公視新聞",
+      "published": "Thu, 29 Oct 2026 09:05:39 GMT",
+      "display_time": "10/29 09:05"
     },
     {
       "source": "Google News Global",
-      "title": "投資美股狂賺8位數！胡瓜兒爆淡出演藝圈 鬆吐婚事進度 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNZzBCUjd2Z1Y2SExiazFheE92MkJfcVdHRkxjUEoyVVBCZG45eEwtMFZaZS1HZXh2eEZFYUJtdXdVZHhjOHYzalFPakR3UlU3TUM3NXJ1eERDeVh4eG04eWp4UkNhNlMwYkZLT0gzTF9pTWU0cWlvTXlhc3BmSHFta0RKOXVad0N0eWJKZUxRTU15aWFTdFVzcFk3ZjhDNHlLQldReXlIc094ZkFuOGhlRU1aT0lJbDBzS1pkQlhTZmhFMHpzZW1UT3lyaHpqY1pLa0VteW1hSkp1MWpMSHowdmxYRUdwdGE2SmVmc2dWbzNDOTNNNTVXbkFsb2VGZW0xcXkzNTljSTlNbThNVktzR25GT3hXQnV5aWR4MDhnby1IbkNCTU9kOHlBZUlvSnFaOWhPYmJXOHNtMVlkcFNsNGgxWmlOaVNhdlBDUHNGRWxlM2lQWkoyNlg1YkZrYkdlcVNOa0hrU3pXT1U?oc=5",
-      "summary": "投資美股狂賺8位數！胡瓜兒爆淡出演藝圈 鬆吐婚事進度 Yahoo新聞 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Thu, 29 Oct 2026 07:40:00 GMT",
-      "display_time": "10/29 07:40"
+      "title": "友達布局光通訊/玻璃基板，拚2-3年貢獻營收- 新聞 - MoneyDJ理財網",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU1VLRFRFdFJrUmhQVzJNbVRRN2NiSGdHZG5fRUZ5d0FranBXb3REZjRVWmtSM3VEeHNZZFJHRnpOcnM5cXVGMkZPeFdwWDJCNzY0V3JTX1I0TFFRQnJQYkk2MVR1eTFvUHRHNkVYVE12YzNyR2ZWcmpMWGt1MkhFUS1WUXQtUjJwZGRya18yS2ZTdw?oc=5",
+      "summary": "友達布局光通訊/玻璃基板，拚2-3年貢獻營收- 新聞 MoneyDJ理財網 友達法說談AI轉型 網喊「還是要相信老實樹」分析師看明日股價恐承壓 Yahoo股市 友達Micro LED車用布局加速，2027拚放量 | MoneyDJ理財網 LINE TODAY 友達4.5代Micro LED產線明年量產！彭双浪：相關營收1至2年增數倍 自由時報 友達30年轉型！成立創新研究院 押注Micro LED光通訊、玻璃基板 新成長曲線待考驗 財訊",
+      "published": "Thu, 29 Oct 2026 08:36:00 GMT",
+      "display_time": "10/29 08:36"
     },
     {
       "source": "Google News Global",
-      "title": "華許宣布Fed明年例會減至7次、後年降至6次，通膨過高升息選項未除 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxNbk9NX3Fxa2tSZXplOEQ5NHg1M3ktWHJMcnMzcUVoZkV6NFM3eEtZeTljVjZtVlpMZTlJV183TFVYeUx5MWhPMU5EMUhxdldhQnNGT3J4MDZJejNMbXc5bHFZSTdYV21tTGtKQkI1R0FJVURUOFlrSHBSdVY5OWlNN29jdmJvUWVJUDlsdlJYdEtxQl9RZlJfWGVxN2h4VXk2UTNGNGQ0Y0xtWjRMdEtzU29zaGltMXB1d3R2MTF3NzlUZ3JPWGFGRjAwMDlkY0s5eFpYc2VMR3JWNjM3VE4wOVpDVnl3TGtFZjJRb2Ywa0YxZzdmZjRqY3VGSVZmcDlZNzRud2JGaUJod2FKeUFOci1rYWZfbVFJcGtEajI1YVJnRjIzWnp0WlJ4Rm9ZMF9vQkdzZTFULTB2a1JBaS1yNEJpWDFkeGpoSXQ5bm52aWJvQ1JnWkxQWW1FUFlrcjA5QXRIVUdoanF3ZHpWUC1LbXFEV0U0YXBfemw0eGZJVnpBZ1h4cUR5VUxyVVFrUm12UGp6MEROa3pJeDgy?oc=5",
-      "summary": "華許宣布Fed明年例會減至7次、後年降至6次，通膨過高升息選項未除 Yahoo股市 Fed會議重點一文掌握》暫停升息、未排除12月行動、明年推重大機制改革- 國際 工商時報 美國聯準會最新的利率會議結論 大型金控這樣解讀 經濟日報 【行情快報】聯準會暫停升息，宣布明年起減少利率決策場次！ MacroMicro 貝森特為升息開扇窗？華許：無須刻意讓經濟降溫- 新聞 MoneyDJ",
-      "published": "Wed, 28 Oct 2026 23:22:42 GMT",
-      "display_time": "10/28 23:22"
+      "title": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？ - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jQmhBY2JaUm91REJVa1FuWkp6WnBkX242NTY4Si1CbU9pajlxaUx4bEY1bmp0bGcya2JJNm5fWEVjRXdiejc3RGctVzRucEhjSFlpZ2xrWHR2U0RDZUpCbkRDUTNVaXPSAWxBVV95cUxPN0twbkN6czJOVjQwR1I1ZnhhOTBTazZiazhoYTN0ZVRLM01pakRmcFowX3BpX0E5R0tKZFpBR0VUNW1NRlhqZHpoY2hkWE5OenZ0WnU0N0RxSVpMZmlNSDdpY2MwRHMwRmpnbkI?oc=5",
+      "summary": "以色列大選結束，內塔尼亞胡能否執政為何依然懸而未決？ BBC 以色列大選2大黨估皆未過半 阿拉伯政黨成關鍵「造王者」 公視新聞 「說故事大師」納坦雅胡連任之路：以色列大選再陷僵局，反對派為何無法推倒他？ Yahoo新聞 以色列媒體：納坦雅胡看守內閣可能攻打伊朗最能擋下的是川普| 國際 Newtalk新聞 以色列陷組閣僵局：尼坦雅胡炒作舞弊 全力施壓阿拉伯政黨 | 中央廣播電臺 LINE TODAY",
+      "published": "Thu, 29 Oct 2026 08:04:23 GMT",
+      "display_time": "10/29 08:04"
     },
     {
       "source": "Google News Global",
-      "title": "友達法說會》面板本業還在虧！砸近300億元跨足AI眼鏡、先進封裝 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxOS1g0bC1sWjFiUnpyVjBfelk5T0tDMmpwckVyakVFdk9scDB2SzNCVXlsWWhnU0E4R2pHVzNrMlY5Q0RiSERTak54VE1mdDE2aHN6RDFIc2l5Vnh1OU8yWXFkTkNKQXFaSmk0WWtOUXNxSHhSeVhjOFVrZm05eW9nc0trQm95WUdvVzAzQ1VlMGhuS2tsWHIxWmhmZ3RtQmlCWUpkcC1OWWQzUE9iWEdfelRnUUJzT0JxeHRFSGozdkQ4eC1XMHRZMlVQWE5zQW1lRTR1LS1DUjZMUkFUQUp0N3IxTzRSLVlQZXZkMTN5M0daRFpkaUZCYWdTcWpJbVpJZUJ4ajF1ZHNSa1ZJdEc4SWhYVkJzbFVtaDNaSWFFQWZySTFyOGN6SGx1aDZtTGhvOWhwaFNYX3otNG9MOFdwYVhpNE1VRUM1cWxINXlwMTB5T05HZUFWV3hVeVRJcmstR3JCZXoyeGhzcDhxYTVLQksyYWZJTExIdE9nZTJfZkJWSzFHaUhIMnBvYWpmaWpKdUMzRlNMNklTVnRIMGU0bWFpWlpDUQ?oc=5",
-      "summary": "友達法說會》面板本業還在虧！砸近300億元跨足AI眼鏡、先進封裝 Yahoo股市 彭双浪：友達半導體營收今年成長2位數 光通訊2~3年後對業績顯著貢獻 Yahoo股市 友達Micro LED車用布局加速，2027拚放量- 新聞 MoneyDJ 友達法說會／上季又虧錢彭双浪怎麼看？廠賣台積電388億進帳、廣達197億買廠卻破局…杜金龍揭優勢是它 今周刊 面板產業鏈轉型馬拉松持續跑 3Q26法說聚焦新事業 DIGITIMES",
-      "published": "Thu, 29 Oct 2026 07:14:21 GMT",
-      "display_time": "10/29 07:14"
-    },
-    {
-      "source": "Google News Global",
-      "title": "威剛25年來最猛獲利！前3季賺破336億元 董事長陳立白：從年頭旺到年尾 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOU05jTGRucm12QVFyVHRpNWRkdm9sSEVnY3k5SWpIclVVOVR4VWgySmFDTHFvanhPcGlvR0xwNll2RXZPci1rbVh3R1RsQnBHTUFvR2VMRXduN3hKNEdUR0JFUUpNYU1mZk1aVENwSllVa3NxZHNZQzlRQzFsMncwUVFUU2RUNHJhVHRBd1dDZVhJNElXdlFnU2dxeEZyNzVSeHBocFFGM3ZQMC10ZDN2aUZreHNFR2F0Z0swbzdjVHQ0a3BuQXN1UXU3SE5UdUo4MG5rZGVwWklKTURXeDRmeV9jWjJxYVlZaFgwbDVjZVhycWRMTC1sTm5XX09ad3ZQM1gwT19rNm5KcVZ2ZHpJVDBiTTV0S1RrOXlDY2xVY21kZEFrYkJjQXRfNnU2Rm1mRjU0M2hwZG9HY0NqWmV4MldEdHNueUtnWjM1aTNRWG5QWjRGQnl5a3d2bzJLOGFWdTQ0eXQ0OWd5cXZ2a01Vd1h0SXJHQUU4Ukd1bzVnTzM4RFFZTjVVcGZNX3RJa1NNM0pGSWxkTXl4LVFWd2pJX21rTW5DUGlaRzdjZ1c2TXFrQkVja0hMWktLcW9WcnRE?oc=5",
-      "summary": "威剛25年來最猛獲利！前3季賺破336億元 董事長陳立白：從年頭旺到年尾 Yahoo股市 威剛前3季大賺超過10個股本 陳立白：明年DRAM缺貨更嚴重 自由財經 記憶體廠好猛！威剛前3季EPS破百元 獲利超越過去25年總和 ETtoday財經雲 威剛財報／第3季 EPS 38.69元創新高前3季獲利超越過去25年總和| 個股情報| 股市 UDN 【11:41 即時新聞】威剛(3260)亮燈漲停，資金回流記憶體族群 CMoney",
-      "published": "Thu, 29 Oct 2026 07:10:20 GMT",
-      "display_time": "10/29 07:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股殺盤藏轉機？三星爆出關鍵訊號 哲哲：記憶體準備重返榮耀 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPNFJyY0VFYlFWaHhaRDJhYkhKS1BOWmtSUHEwcGhVYUFRV0NrdHEwSVc4R01SN21kR1BGM2I2VzM4d3FkWXRGUmN5aXpKejMxeWprbXBrNWg3MWY5andlUzRCR2oyQWlNM19lNU50ckhldWFERHl3ajIwN3JjNFA5TFhaaXBPZTJaS2cyM0NubHdDZFN2dHA3Z1BVRTdCOUQ2U0ZBbVVDczJJTllnY3l1My1uV2tKVjZwOWwwM3BqZVZpQmNHb2tBS0FGVEZ3emg2WEFUQVRENDZPUXQzWk9XQUhaU3JlUDNvVGtwQ0FQVFpOeDV2T3AtZkIxOWtOcHZZZUhpRGduZjdGQlVCR0ExelJCZkdwRjY3ZEdUd1psQXBGZFNsSlh4TkJkOU82eDNURnlzSmxmakQwZ3FkOExPeVFFWDN3UkFOVkhfb1Zncm02S1gzdG53OURrZkh1bTM5WEhBcFdFbUdWUWpOcHZfSklHYmxYSVNOS0Zrdnd2bFZybVd1cU43dTBlY1pUUEk?oc=5",
-      "summary": "台股殺盤藏轉機？三星爆出關鍵訊號 哲哲：記憶體準備重返榮耀 Yahoo新聞 台股跌667點！網見三大法人買賣驚：中計了 Yahoo股市 聯電跌停兇手現形！外資狂倒12萬張　面板雙虎也中槍 ETtoday財經雲 〈台股盤後〉權值股、千金股軟腳 跌667點驚險守住46000點 鉅亨網 Fed決議維持利率不變 台股開平走低守4萬6000點 公視新聞",
-      "published": "Thu, 29 Oct 2026 06:40:00 GMT",
-      "display_time": "10/29 06:40"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "FedEx beats expectations, raises outlook in first report since calendar adjustment",
-      "link": "https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html",
-      "summary": "FedEx on Wednesday beat Wall Street expectations on the top and bottom lines for the third quarter of its newly aligned fiscal year.",
-      "published": "Wed, 28 Oct 2026 22:27:00 GMT",
-      "display_time": "10/28 22:27"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed 10月會議聲明全文 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzVEc1SE1iVE9SMFhVUzh3dFF0UDVsVEtaeHF4SVZ6V3ltMEFXc1poclRwOHRUOGRZdm9PZk1NU1RYUC1aWURHcnZGUkZ1N2c?oc=5",
-      "summary": "Fed 10月會議聲明全文 鉅亨網 Fed維持利率不變2官員主張升息2027年起調整會議機制- 國際 工商時報 聯準會利率不動！華許宣布重大改革 2028年每年僅6次利率表決 Yahoo新聞 MoneyDJ新聞 2026-10-28 06:54:31 李彥瑾 發佈 MoneyDJ 通膨還在燒，聯準會為何可能暫停升息？從美國兩難看台灣央行的選擇 TNL The News Lens 關鍵評論網",
-      "published": "Wed, 28 Oct 2026 19:52:25 GMT",
-      "display_time": "10/28 19:52"
-    },
-    {
-      "source": "Google News Global",
-      "title": "記憶體缺貨潮燒到2027年！官股投顧喊買「這4檔」：南亞科目標價800元 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNZGNUQ1pZSnd4OFBXMFZ4QXczeFB6VGhnQWQ0aWJZZlU2SldDYmgzbUl2TE1VcUJFN3Q5VnJleUhYZVlwcG05Mnc2M2VkaDhFcDFfbmFXQWllTzhPVHgxRnNqR1ZXMzNlWUVObjVCR2tvX01Va2FvNjRrdXp0d0FwVDZmOWNaUDVISjY2OUhKbDk5c2ZkbEo5dTlDUklqcDBKVGgyV2dWZDlPSjBtcFdmOWJUSDBYTFk3cmdYSUxBRGdralRNVGF4RFVqbWhQQkdDLS1OTUd4N0xtcGsyMlB5STZ0V05RQXFVSmE1MFFnTG5TVGppUk11b2tHdk1EdDhETjZNcnpIdlN6Qi1DeHVad3lLYWxQb3NHYU1COTRHbXIyWkg2WENyVmxZSlprWURmbGhIUjlZdkRPM1pfdHdxZjBPUFJkSGhzaHdZWGVidU0xVkM0MEl4M0MycXhKd2J2WmhGZENZUzM5VlZBQVMwSE9TSHowZGtCSm53SlNLYjFNUQ?oc=5",
-      "summary": "記憶體缺貨潮燒到2027年！官股投顧喊買「這4檔」：南亞科目標價800元 Yahoo新聞 AI支出疑慮壓低儲存股 華爾街仍看好逾70%漲幅 Yahoo股市 記憶體漲價潮恐延續至2028年！TrendForce估HBM明年營收破2000億美元 鉅亨網 1表看》DRAM太貴手機賣不動？伺服器撐起需求記憶體缺貨潮燒到2027年！官股投顧喊買4檔南亞科、群聯…最新EPS、目標價全說了- 上市櫃 旺得富理財網 記憶體超級循環！「4檔」供應鏈營運爆發 鏡週刊Mirror Media",
-      "published": "Wed, 28 Oct 2026 19:05:00 GMT",
-      "display_time": "10/28 19:05"
-    },
-    {
-      "source": "Google News Global",
-      "title": "進擊的聯電！追加千億國內外擴產 搶攻矽光子、先進封裝 2027年喊漲10％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xdkUyUmQ4QnpLRThNUGxIdGhiVFBKbDh6R2lRZFlrbVB1R3ZKTGxLUlpXQnJpV21rWkNWV1RlZFBmR3luVm5iSDExakxLMVRkbHkyUlRHWnBTR25BVlJB?oc=5",
-      "summary": "進擊的聯電！追加千億國內外擴產 搶攻矽光子、先進封裝 2027年喊漲10％ 工商時報 百萬股東哭！聯電法說變法會 一開盤跳水近9% 寫二個月新低 Yahoo股市 聯電千億盤算》晶圓廠忙翻、獲利卻縮水6成 財報揭原因 民報 聯電Q3營收、出貨創高；追加32億美元資本支出- 新聞 MoneyDJ 聯家軍法說會後兩樣情！聯電摔半根　智原連漲2個停板 ETtoday財經雲",
-      "published": "Wed, 28 Oct 2026 19:00:00 GMT",
-      "display_time": "10/28 19:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "重兵集結波斯灣！美傳選後恐再轟伊朗 密告盟友防報復 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56SE1TLXMxNDFsazMyMHpUTmV5aHhWNXVkRjR6MTdad1JnQzl4cFJhcnNPblJLSm15NzZTajZZNjhkeTh0RnAtVEdNWlJuSEFTLTJsbDVpVzdTNkdBZG94X3dnU1hPQdIBa0FVX3lxTFBhc2E4Q2xtbUtjcWdJaWpJRlRKWjFXVXAzdGtTNjFVRmJlRkJCb3AyVERjZ2J1aGpZUTZjZmFxbGNQeGxGLWJTa2lmSXdzeUNFblVCX01Rd3gtWktjdmM3dnhELVY1cGNwbENv?oc=5",
-      "summary": "重兵集結波斯灣！美傳選後恐再轟伊朗 密告盟友防報復 自由時報 川普考慮打伊朗又有將領離職？赫塞斯突撤美軍最高階戰規主管 UDN 美軍高層再傳大地震！赫格塞斯突撤戰略大將 Yahoo新聞 傳美警告中東盟友 川普可能在期中選舉後再攻伊朗 Rti 中央廣播電臺 選後開戰？美軍增派航母、轟炸機 警告波斯灣國家備戰 東森新聞",
-      "published": "Thu, 29 Oct 2026 01:13:11 GMT",
-      "display_time": "10/29 01:13"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Ford Motor is set to report earnings after the bell. Here's what Wall Street expects",
-      "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-      "summary": "Ford Motor is set to report third-quarter results after markets close Wednesday.",
-      "published": "Wed, 28 Oct 2026 16:00:01 GMT",
-      "display_time": "10/28 16:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股要出大事了？陳嘉偉警告反彈939點「是逃命的」 台積電季線下彎、空頭大屠殺剛開始 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQenJwZ3JfUHdTSlpWWFlFdjk5eF9KZjh6WjhGOVhUUVU5SUk4MjB3dHY2WW5BY1BWYnEyWllnZW84NGpEOVVlWXAtSnhNN0l5b1dYMV9sZWRJclVtRkpUOTlKM01KZElnc2VlWF9fUm50S1NjSjVWOWpqemo3Vy0xNnVCak1pUFE3cXJPcjc1cU0xcXNJSm15LWFGLTM0cFMxelVodEZFb0c0MlFqZi1QdlVOVkt2bF9XT3R6SGxhcS1QZnZwcGEtUXprRTVTRk9RckE4c2l5OXVpS0lYd3R0Z0Rjdi1TWjN1cFZqN1B0bEhaOTZwbktiLXM4aUtlQUZwaFAtdVRRb3B6eTB3RmJra3pVN3lDM3dkZDB2N0hfdXVUTnJRWElQdmxCaXVtZmkxUXJUQXNzVWpTZm9NbWlpeDBIR3JkSWw4a254dWl3OFVPUVpYVnRTb3QtWGttaFQ1aUZ0MTRidnNlOXBhSXZHYm11NzJqS19TZ2hvdEh5R0pqbVNNV1dsci0zenFXZ1d3TVpBbUFKLU9TNHpfdEhSbWhSalpQcExHY3lQWFZtNkYwaFNDczFvVGhsendVb3FjdXJyeXFDTGZhcTNWUGtfc1pKR1E0aEo2UDhlMmgteFBacExLTEViZkhMZEY4ZE9Sb2JtNnZSZjVHendm?oc=5",
-      "summary": "台股要出大事了？陳嘉偉警告反彈939點「是逃命的」 台積電季線下彎、空頭大屠殺剛開始 Yahoo股市 聯發科台積電、台達電南亞科…杜金龍抄底它，再給「打折股名單」！國家隊連買10天，台幣轉升外資歸隊？ 今周刊 AI交易點火晶片類股走強！台積電ADR漲近3％ 台股有望延續漲勢 自由財經 台股年底作帳行情啟動 強勢反彈 重新站上 47K 經濟日報 台股強彈！大型主動ETF漲幅王出爐　00991A漲4.62%奪冠　景碩漲停、南亞科飆8% ETtoday財經雲",
-      "published": "Wed, 28 Oct 2026 15:55:00 GMT",
-      "display_time": "10/28 15:55"
-    },
-    {
-      "source": "Google News Global",
-      "title": "Fed利率決議前夕！美股開盤小漲 台指期夜盤震盪翻黑 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVl9WMFNPUVV4YUV5d0pCM0lRdkt3Qm9IRFVFc2RZTEdHcXNHY2lvUWVfa05PSmFpNjc3SXdvSmtJcER1blN0UWY1ZE1hTldwRldqRnRVaHk4WnpRSk9la05wdEpFQ3RpVmlCYml6eDBIeGtPYWZWVllIbkw2a0ZyaWZvSzVoOEtZa3hNWmFHajBaVVFhQ2tPMUNVSHFqTEdkQldpTkFZSEVwamE3SWZOUVJxOXFrdURSTG8xanN1aDd3dlhPemtCekI1enExa0F5amUtQ2ZsYW1YdktfRTZiXy1xSDlLVFB6UHBrOG92OU1rWHgwVkljVGJZVGM3U1VBQnhFQUV6NFpIb1d1QVdfLXdfMzgwaVFsWGNUb0g3UTduZm90dl9fTTVfQVVaLTVwUnZBQkRERDR0UFhaREluekR6TTRMeE5RTk5WV3NhaHlxT0N0a2c?oc=5",
-      "summary": "Fed利率決議前夕！美股開盤小漲 台指期夜盤震盪翻黑 Yahoo新聞 【盤前】Fed沒升息費半大漲1.75%！台指夜盤反跌128點 台股今拚續攻 Yahoo新聞 美股收盤／Fed按兵不動 費半連漲四天 微軟盤後漲逾4%、字母重摔逾7% UDN 美股收盤》Fed維持利率不變！道瓊連3紅 台積電ADR收高 自由財經 《美股》AI晶片、記憶體、算力股回神 費半連3紅-新聞內容-基金 MoneyDJ",
-      "published": "Wed, 28 Oct 2026 14:29:12 GMT",
-      "display_time": "10/28 14:29"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股早盤／SK海力士財報點火！美股四大指數齊揚 市場緊盯Fed決策 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yNDhxbTd6VjJyZ2RCVmdKMEhCWno0Wk90UE9XTldIaENIYld1RWlyZTdXQmpVN2lkVjNrTWVZWXFrRzVKck8tOHl1M2hYQjJF?oc=5",
-      "summary": "美股早盤／SK海力士財報點火！美股四大指數齊揚 市場緊盯Fed決策 UDN 關鍵夜報到！ 台指期夜盤上半場多空陷入觀望 UDN 快訊／市場警盯Fed利率決策！SK海力士飆破12% 台指期暫小漲 Yahoo新聞 〈美股盤後〉Anthropic IPO熱潮延燒 費半漲3.6% 波音崩逾10%壓抑道瓊 鉅亨網 美股收盤》AI股提振！費半勁揚3.6％ 台積電ADR漲近3％ 自由財經",
-      "published": "Wed, 28 Oct 2026 13:53:52 GMT",
-      "display_time": "10/28 13:53"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台幣貶破32.7元！賴士葆問「睡得好嗎」　楊金龍笑回：很安穩 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTX3A1Mi1xOGJVN3k4em9QMkhDMkFPU1hrQ2xwWlRJcERnLTlMbFJNNHkzOHJRMzNRMUNIeGdabnFiaEctREhVWmtyRUxiYV8tTFHSAVBBVV95cUxNZjhObnktRkNYRzg4N2lrQzhQeGdNdzJEbHNGbVhzOElqMGE1b1RoN0tBWDVpbDZienE5SjFUdHBxeVExWjNzR2dSNEpudjlBQg?oc=5",
-      "summary": "台幣貶破32.7元！賴士葆問「睡得好嗎」　楊金龍笑回：很安穩 ETtoday財經雲 外資狂賣台幣重貶原因找到了？楊金龍：股市賺太多 Yahoo新聞 台灣AI與半導體讓外資大豐收 獲利了結匯出促新台幣走貶 DIGITIMES 新台幣貶值 楊金龍：外資在台股賺逾2千億 匯出金額大所致 Rti 中央廣播電臺 熱錢匯出壓力減 台幣連2紅、靜待Fed決策 自由時報",
-      "published": "Wed, 28 Oct 2026 13:48:00 GMT",
-      "display_time": "10/28 13:48"
-    },
-    {
-      "source": "Google News Global",
-      "title": "一文掌握Fed重點決策：2張反對票、減少利率決策次數、物價穩定優先 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yYWRCa0lickhCZnFNVTl5RWFSUjdQa3BhQjdLd3V0SmxjSWpMUlVlWXpZTkxGZHdZOUlyMDA3eUZEVFAyeHF6bmt0WGRXSXM?oc=5",
-      "summary": "一文掌握Fed重點決策：2張反對票、減少利率決策次數、物價穩定優先 鉅亨網 AI 熱潮不怕升息？華許不認同 Fed 傳聲筒：舉債愈多，利率影響可能愈大 經濟日報 〈陸股盤後〉Fed按兵不動 三大指數走低 Yahoo股市 【行情快報】聯準會暫停升息，宣布明年起減少利率決策場次！ MacroMicro 美聯儲維持利率不變，年內或再加息 日經中文網",
-      "published": "Wed, 28 Oct 2026 21:22:36 GMT",
-      "display_time": "10/28 21:22"
-    },
-    {
-      "source": "Google News Global",
-      "title": "【美股盤前】聯準會明升息？外媒調查：先按兵不動 12月機率高 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPRmpoTV9ISTdhR0pKUWdDZEtXMmFfckIyeWo2LXNJb2thME05b2lYTjNoMkpmUlpOb3ZBZkcwU01UUXR5blBpZHVGSTVoUXF4Z1RiWnZtNTRjLWNxUHFRc1I3VUszUG1mVnBldDB3Z3p5MnFsM1hyOE5RLUQyVXU3cS1Wc21wZlB0T1NYSDh2XzRpeHgyZ3JhakJVZmRka0VRRzl1aEZzdnlhU1Nmdlg1UG1fc1hGZGtmMXRwRFctRWRWTjBDZTVueGVuX3F5UWRYNHp4UUJvajRkYU55NHlHY05XQ3kyQnlwSUZ6VFgzcHpqaE5mWW80ZmEydGhjQkE0MGxGZXh1VklnVFNQaUdnZkZDMTZKNUs0SEVKNXBKRWdGb0VlSm16UVRRakdCNndWdFFHYm94eS1Tc1dpa01ZVk1GX2xkLURhaHJxV3o4UWxOSGxiLWNQSVp3NjFwZTNyNEQzQlVib2hoXzduVG1r?oc=5",
-      "summary": "【美股盤前】聯準會明升息？外媒調查：先按兵不動 12月機率高 Yahoo新聞 Fed利率不動、鷹派不退！兩官員投反對票 主張升息1碼 鉅亨網 Fed決策／利率按兵不動一如市場預期但暗示通膨壓力仍強| 全球財經| 全球 UDN 油價飆漲、通膨惡化！川普逼降息踢鐵板 聯準會恐再出手升息 Yahoo新聞 MoneyDJ新聞 2026-10-28 06:54:31 李彥瑾 發佈 MoneyDJ",
-      "published": "Wed, 28 Oct 2026 13:15:00 GMT",
-      "display_time": "10/28 13:15"
-    },
-    {
-      "source": "Google News Global",
-      "title": "德州選情告急！川普秀「大船入港」靠台灣拚選舉 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNMWQ1dFo1dkFMSkJSZVVsTjRNcUp5T00xX0NhLWVvQUpseEN1OE1tV1dDSXJObnJvS08zRzhjd3J3c2RuZGtRVXE3aC1xZG9NWmVEcWM4NkRJc1A2UTN1aU9senFfcFpnOUM3Wll3OE9GZmxIUHh5SEppWHBCNkN0SkJBMmQxb2F1ZEgwa1ZRcFNnQjZRam9XX1k3U1RWNkplbndnVlBjWk1WN2pNYktMNVJNazRWTGNKVTloSXlMMnBSTGhlTzFjeDFKVlZpZnI0Wkd2TTBiNFFEMml2U1kxcTZSbm1Va2oteElQRUwtbWFUa2VHVTNCcmxLUVZNTkNtQy1PLTFYRG1DVkNPUEF1dXVkNE5uSk1LVjJURDBSNWJJbmlWbE1IUG9QWTd3eXU5cml4VHJNb1ZHNnc?oc=5",
-      "summary": "德州選情告急！川普秀「大船入港」靠台灣拚選舉 Yahoo新聞 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Wed, 28 Oct 2026 13:09:00 GMT",
-      "display_time": "10/28 13:09"
-    },
-    {
-      "source": "Google News Global",
-      "title": "關鍵夜報到！ 台指期夜盤上半場多空陷入觀望 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GT3c5S3Y4Z215b0p4T3R6Y2Y2THl5S2tFcWtyOWhRb0dqLWRKVmUtOGU5ZGswTjFOSnF6YnlsVWNqQTFWcUtFU2hXSzVkUm1a0gFWQVVfeXFMTXIxc3o2aXI0UXl3dUs4ZjZrRDNyM0VpanZpMWpuQkNscng3Ty02N00wUFJCNGVnTmlnWGRUY3NKQm1iQ2p4UzJqUUFvbi0xdHVoVGlBRXc?oc=5",
-      "summary": "關鍵夜報到！ 台指期夜盤上半場多空陷入觀望 UDN 美股收盤》Fed維持利率不變！道瓊連3紅 台積電ADR收高 自由財經 Fed 定調激勵費半、台積電領戰 46,000！AI 與記憶體雙核心鳴槍 TechNews 科技新報 《美股》Fed未升息、SK海力士+甲骨文飆費半嗨- 新聞 MoneyDJ 美股收紅、費半連漲四天！記憶體財報報喜，微軟與Google盤後兩樣情 鉅亨網",
-      "published": "Wed, 28 Oct 2026 13:03:45 GMT",
-      "display_time": "10/28 13:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "選後開戰？美軍增派航母、轟炸機 警告波斯灣國家備戰 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82NVJrYmNxU3dSN1dtdFpZQTlVNGQySk1KaWZTZGpXNFd5dS16cE9wUlpRektzVVNSb2Z3bXRFUkxYVmRCU0VZWWlrN0R2QUdPal9R?oc=5",
-      "summary": "選後開戰？美軍增派航母、轟炸機 警告波斯灣國家備戰 東森新聞 川普選後打算再攻伊朗？傳白宮已通知波灣各國備戰 UDN 紐油、布蘭特重返100、110美元大關！WSJ：美國已告知多個波灣國家 為選後猛攻伊朗預作準備 鉅亨網 真的要動手了？！WSJ：美國已通知中東盟友將重砲開轟伊朗 Yahoo新聞 造勢談伊朗戰爭！川普：何時結束「由我決定」 堅稱德黑蘭不能擁有核武- 國際 工商時報",
-      "published": "Wed, 28 Oct 2026 08:59:00 GMT",
-      "display_time": "10/28 08:59"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股收盤》台積電、聯發科領軍！指數大漲939點收47035點 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqdUFIeWdlWWtyYzNMeEVLWll3X1RCWjcyU3htSXBuWmM2d21YNmM4ZndqS0g0OHdwMzZzZ0h5ZEY0ZlpyRUtpSktkd1pJU2dZbVBYbG5kcURlN0ZHS1FN0gFkQVVfeXFMT0xjVkFEczFUcHo4REYwN1piVnhKeTFsZnl5eFVTcWY5RkhVb1BJQmdxSlBWTzNxa3dITnVybmlBTFJPNW1DVG02SGdSVEVfbnYzby1sdWMtNF9ZT3RpVW9QYXRDVQ?oc=5",
-      "summary": "台股收盤》台積電、聯發科領軍！指數大漲939點收47035點 自由財經 台股年底作帳行情啟動 強勢反彈 重新站上 47K 經濟日報 聯發科台積電、台達電南亞科…杜金龍抄底它，再給「打折股名單」！國家隊連買10天，台幣轉升外資歸隊？ 今周刊 AI交易點火晶片類股走強！台積電ADR漲近3％ 台股有望延續漲勢 自由財經 台股強彈！大型主動ETF漲幅王出爐　00991A漲4.62%奪冠　景碩漲停、南亞科飆8% ETtoday財經雲",
-      "published": "Wed, 28 Oct 2026 05:40:00 GMT",
-      "display_time": "10/28 05:40"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "10月FOMC會議前瞻：9月升息後首度開會，三種情境與台美股影響｜美股觀察｜豐雲學堂2026 年 10 月 - 永豐金證券",
-      "link": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQZzhaTW5jWTZmQ2ZFSU1SY1daUWVoazNSbWg2SmNsa012TWdUd0V2TTVWYkZ4UDNxVWtZbEp1SUl1cjU5R3NyQkVRYTB3R0RvMFpPdy1BbGJhSWxmaVQ1TVdnNXFzRUxZaGpPZ3ZfR0cwM09rdmdXUFRmLXhxT2ZMWFVGd1lWcnhxaTlXdmNqdnEwN2RodVlrRFB1ZFVrUVhIYkhhdmRRdm5DYlVzeXlORC0waldmRnZRYWtzSWluLXVDY0RkZ1U3NEhGWWxkX1dGOEpYeEhTZElCZnpJZEtINDNtc3VZcVl5cnIwRlp3N3dkZ3ZfZzE0dlZiM2JtQzlOaHUwZGl4Ym95UVF0dUQwOUJtTWcwRG9VVDVaMGtMUW4wS2JuUUlxeGtxVG4xUlNoX2RTVjR2OUFLVHpncGladTZFc21wOWNwVVduMUktVHR5STFzTE5XZGtIcENwcDFDV2YtYWE1MHBkcUJBbE90ZXNCdlRqZGNCZUZYcGw0WTNVdXRuZ0M0S0MzcmNPUnFIZ0hwSFZhLVQzaHZWWjN0THNTV1NPMFpXQ3ZOckhZYWxjMzlkX1M0bTM3bF9JVWJEeGJhS2I4cDJ5WDVUOFE?oc=5",
-      "summary": "10月FOMC會議前瞻：9月升息後首度開會，三種情境與台美股影響｜美股觀察｜豐雲學堂2026 年 10 月 永豐金證券",
-      "published": "Wed, 28 Oct 2026 05:08:23 GMT",
-      "display_time": "10/28 05:08"
-    },
-    {
-      "source": "Google News Global",
-      "title": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗 - 轉角國際udn Global",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GdW5MU1pSaGlnTGhtM1l1Y1lxTlFEMldqbGswZGRocjFrTm5LT3lsbVNhNDJZYnlaZ0J0eWllZGtQOWpFc1hFcDdiQjg0MlhIRzRNamtBWDd1OVZtd2x2c3JNMFRUZ9IBa0FVX3lxTE13R283ZWY5SXZsT0sxcER6amtHWG5NZnBSbWlHa21wU1VKdko5ZmlaYThzNlVERkxiRUVKa0daV2VhcndJaWttbmdFcEJoNmltbkNJTEpYY1VEbFBHZmpsQ1hxY0haeXZCOTNR?oc=5",
-      "summary": "以色列大選拉鋸戰：執政聯盟與反對派皆未過半，納坦雅胡的政治生涯面臨嚴峻考驗 轉角國際udn Global 以色列國會僵局 內唐亞胡：攜手川普滅伊朗 UDN 大勢已去? 大選投票截止前錄音曝光 納坦雅胡 : 他們瘋了嗎? 我們會死的! Yahoo新聞 以大選 尼坦雅胡陣營暫領先未過半 中華新聞雲／中華日報 以軍參謀總掌抗命 驚動美國! 為「這國」傳軍、政分歧24小時內「徹底激化」 | Newtalk LINE TODAY",
-      "published": "Wed, 28 Oct 2026 04:34:40 GMT",
-      "display_time": "10/28 04:34"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美國中期選舉是什麼？一文了解選舉制度及重要性 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WdEwwbmRWS0NtX2V1WmJobkc3TDdRTmR4b216OE0wdUxELVk2X09VNmJOcGVhelV2WVJqcVNDV2pUS3lfYkhKUDZoOF82UXJ3NExHdDBoOTRLX25pOE80bXlYME5LbWvSAWxBVV95cUxQZDVoNTdxUy1aSVBoZ0V2X3VqNTZiTjhrS2s5cFJMZDIwWXhqa1FYV3JkM01hYmMydkRicUdEcFZUMlpSLUh5cUtETW5oM0ljVXR3STdobnNHdEExSHZQclo4ZlFfbFp6bllJWlk?oc=5",
-      "summary": "美國中期選舉是什麼？一文了解選舉制度及重要性 BBC 川普成了票房毒藥？美國共和黨候選人為何「與川普保持距離」 轉角國際udn Global 美期中選舉在即 川普：若選舉廉潔不論結果如何都尊重 Rti 中央廣播電臺 美國期中選舉日期11/3！共和黨落居下風、川普將成跛腳總統？參眾兩院4套劇本曝光，金融市場怎麼走 今周刊 美國中期選舉：選舉有何影響、為何重要？七個關鍵問題解析 Yahoo新聞",
-      "published": "Wed, 28 Oct 2026 01:14:26 GMT",
-      "display_time": "10/28 01:14"
+      "title": "為了毛澤東，封殺姆巴佩：「中國獨裁者」迷因圖引發的輿論風暴 - 轉角國際udn Global",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55QWREYzg0WHlZaFlZQXJVWFVYTEFCYktrcmF0ZkZYRVF6UTlHUC11TXNEZkJOSEN3b21OZXNsc3VvTEFmNEFwTG5Hc2ltYTM3dlcxeE45UkJad1dydzhZQ0QyVWNEUdIBa0FVX3lxTFB3akdkbGtyZGdBM1RPYWZaLUJIc3AxZ1hQWEpFajdJaFBRNnhWTDZWR092cGhPdWUxdlNjRmhQeXNVSlNsaGZSWWJPemNyQlBMdWtwUW5yTEJtYk9URjdNLXF6T0RYNEdfU3g4?oc=5",
+      "summary": "為了毛澤東，封殺姆巴佩：「中國獨裁者」迷因圖引發的輿論風暴 轉角國際udn Global 姆巴佩因「辱華」損失近4成收入 中國網友卻不知他說了啥：沒知情權但有抵制義務 Yahoo新聞 力挺姆巴佩 法國生態黨領袖：稱毛澤東為獨裁者沒有錯 Rti 中央廣播電臺 20261028 8點新世界 完整版｜自曝喜愛「中國獨裁者毛澤東」迷因，姆巴佩遭中國封殺，品牌代言終止合作 公視新聞 姆巴佩「獨裁者」言論辱華恐被禁賽1年？馬克宏、川普都出面說話了| 國際 Newtalk新聞",
+      "published": "Thu, 29 Oct 2026 05:52:49 GMT",
+      "display_time": "10/29 05:52"
     }
   ]
 }
