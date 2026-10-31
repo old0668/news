@@ -3,14 +3,6 @@
   "news": [
     {
       "source": "Google News Global",
-      "title": "超賣訊號？谷歌股價出現「死亡交叉」 過去5次有4次半年後反而漲 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0c0UxMGxBdnY0UHh3b2VKV1hoQnllWmcxeTAwbGtvRU04ZXFTazBjcl9DQ0pjTUxVYmRVcmNUMGtVbTVGVUNHelZBVllSR28?oc=5",
-      "summary": "超賣訊號？谷歌股價出現「死亡交叉」 過去5次有4次半年後反而漲 鉅亨網 Google暴跌後能撿便宜？交易員不押反彈也想賺 Yahoo股市 AI巨頭「現金流之亂」免驚？ 郭哲榮讚好機會 點名低基期3黑馬 東森電視 美股收盤》Alphabet財報後狂瀉逾12％！道瓊跌132點 台積電ADR走低 自由財經 Alphabet財報不如預期美股收黑 台股開低跌破4萬6000點 公視新聞",
-      "published": "Fri, 30 Oct 2026 15:50:03 GMT",
-      "display_time": "10/30 15:50"
-    },
-    {
-      "source": "Google News Global",
       "title": "馬斯克唱衰AI／美國科技大咖跌不停 揭台灣AI供應鏈4大關鍵影響 - Yahoo新聞",
       "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQdXdpTnpTeXdwcndyX2RHSmlVVk1SMVZGVXczbUhFNy1xblVIUTVDMERzV3NBcnN6VkZ3NHhqTUdBREt3MExrTGZGT2c5X3ltNW1GTkNrY1dXS0dnQjJGYm9CekpQS3lQZUh3WGpQT3NvWDgxX0pmRGc3cTcwMlROYnNNTFZOQ1NsMlZ4WVRsVWwzc0YxdG85QW5mcEF3d2d6RHRORGptbGRNeXR5MHI0d084NmtQR2JHTFRUR0tYNEdKQXdmVWczT21SZm1VMmJUQ3BDTXR3Nk5PTFhDN19sUkV2RWFKMk80N1Z4RWlhc0syWXg5Z3lPdzExZktGZ2t1RXNJTjVyY0plMDVBc1hLTU92T2FwUDY0VXY0c3plOFdjLUhVandzeE54Szc0emxlUFNrbzRkOUlUd1llaHhWNE9BdHQ3blZwRzhTbFpMZ2hOMW0xMElDdE9KUHNxMEZzX2dMaGIzMU1NOWxRazZiLVl5ZVJKaF9DMzlZTDg4elVyVFdDME9saQ?oc=5",
       "summary": "馬斯克唱衰AI／美國科技大咖跌不停 揭台灣AI供應鏈4大關鍵影響 Yahoo新聞 Elon Musk、黃仁勳新雲端觀點交鋒 AI擴張競賽轉向生存考驗 DIGITIMES 年末市場若修正《Yahoo Finance》點名SpaceX AI業務具潛力- 財經新聞 PChome Online 新聞 SpaceX成了新型雲端商 每1美元營收憑什麼賣63美元？ 鉅亨網 砸錢買算力！馬斯克稱SpaceX 已敲定400 億美元債務融資買GPU，預言 200 多家neocloud 恐面臨倒閉與整併 INSIDE",
@@ -27,11 +19,51 @@
     },
     {
       "source": "Google News Global",
-      "title": "台股重挫千點 國安基金操盤手說話了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83V1FsYUFBYjJZUk5YQUZkWDhydUZ4Q0toUm9Ta3dUcU9UWUpBMUNVX1loQ0FMYmJRdkVBbVdJc3hRN3JubUwwZnJVSWhyd0I5Rjl6QVl6ODVJVVFFbEdV0gFkQVVfeXFMUEtIaVlJN3RnUzJWdDg0SEh6MkZRbTRWelFnRW1yMGRacEdDZEpMS0ltNWx6ZlRsOTVEYjJFVlF6cDM3VFNqdG5uR1lvMFEwamJuQ3VXYVpxX3dFcnhDNXZLVjF4Sw?oc=5",
-      "summary": "台股重挫千點 國安基金操盤手說話了 自由財經 台股悲情10月！股民財富平均每人蒸發60萬元 Yahoo股市 台股重挫失守半年線 法人：AI基本面未轉空 UDN 〈美股早盤〉科技股又挨刀！那指重挫逾2%創兩個多月低點 台積電ADR跌逾3% 鉅亨網 砍在阿呆谷最懊惱！ 分析師直言：短線大反攻要來了 東森電視",
-      "published": "Fri, 30 Oct 2026 09:58:53 GMT",
-      "display_time": "10/30 09:58"
+      "title": "台股暴跌1156點！郭哲榮逆勢喊「千點反攻」 年底沒衝5萬點祭出萬份雞排珍奶 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxPTGlETFVwZ2Yyb1RmVFhnX2hwZkFVMEQ5dElsN2thdDBidm1CX25POFM0aVp0YnJOVU4wWXNsWWxVYS1hLWlEZUxjR2xzMUs2alRSbHFrNTJsa0RvZVlTWGpvZ0xRbDdkTXFUWlhSTFl0WmkwV2hYLXdlN0ZQeW1lOHd2QlMyc01aSElDeXlyYnJka3hzSFNXN0NOM0d1VWphOEFlOV9yb3dtdEhTa2VlU3ByYmdpenoyYlJTQXBKdVdSdDI0RGxiRG4xWlp3YXhQUmxCM2Y2VWpBSWVKMHBQYm9ONDdGdGxNQlZJcGkxUlZjM0VqS2hZVGZ4ZDBwSzRjZVRtdElJZWhIelpPSWhkMlRKMVpfSDRmdThjNlk2d1N2ODM2VVlRdmI5MVhIeE04cVNIZEU1VFJ0Qm1LRnNpbXFXT0Q2OWcxSU9Ja3hVa2dKV3NIUW10Uy14TnF5QmJPLWZ6dVNNNTBRX2JIemNiakxZNF9MNmJJQUc1d040WEV0ZFpjSjZsS0NaSDZCci1ydTBhazBUNUJmaVZ0WkVoS3lkbWhLdUNHQ09CUXE5NU0wdTVPYXUyWWRGdXA0b1dPRnc?oc=5",
+      "summary": "台股暴跌1156點！郭哲榮逆勢喊「千點反攻」 年底沒衝5萬點祭出萬份雞排珍奶 Yahoo股市 台股下周一慘了？黑色星期五費半崩跌7%補刀 專家給避風標的：別當保險箱 Yahoo新聞 〈美股早盤〉科技股又挨刀！那指重挫逾2%創兩個多月低點 台積電ADR跌逾3% 鉅亨網 狂崩1100點能抄底了？阮慕驊逆風出手「這3檔」：再跌我還有子彈- 財經 中時新聞網 台股重挫千點 國安基金操盤手說話了 自由財經",
+      "published": "Sat, 31 Oct 2026 03:58:40 GMT",
+      "display_time": "10/31 03:58"
+    },
+    {
+      "source": "Google News Global",
+      "title": "「麻吉大哥」黃立成幣圈慘賠！一覺醒來資金被清空　帳戶剩40元台幣 - 噓！星聞",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWHp3WEZQc2U2VE1PZGFjR05WQl9KZDQzR00tNTU5MkRBUnR4SWs1Z2lvOG9hOGNlTGdfU3dGaFdqaWo1Q0daNnAwaS1CdndoczFEMm1xVVNoUdIBX0FVX3lxTFA3Y0NtdktGQ1VrdDVuUFUzam1WcVJzWlFpalVRQ3h1djlBdXNScXFVRGtUQUhVZEU5cHlzNDg5X2FJV1ZES2RSTm9jUkVqVTNLekRfTWZwRnh6dTJ5Q1VZ?oc=5",
+      "summary": "「麻吉大哥」黃立成幣圈慘賠！一覺醒來資金被清空　帳戶剩40元台幣 噓！星聞 又爆倉了！麻吉大哥6小時被清算8次　一覺醒來帳戶只剩1.5美元 ETtoday財經雲 幣安遭駭63億美元疑北韓所為 川普稱美國正在調查 Rti 中央廣播電臺 駭入幣安的北韓駭客被稱「能力最強」 已偷走135億美元、透過中國黑幫洗錢 Yahoo新聞 安全事件進展公告#2（2026-10-30） Binance",
+      "published": "Sat, 31 Oct 2026 03:04:44 GMT",
+      "display_time": "10/31 03:04"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美期中選舉民主黨若奪回國會多數 對台軍售等四大影響一次看 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Lc1NPZllENndPMkZPSkt3VWF5bFYwdkpHal81YzUzUDBoa3loQmpfLWRfMGFESnFISGE3Sy1yU2FMYW5DcFg0UjRQX1licTJF0gFWQVVfeXFMTk4yZ0VVejBudVpYWkE4OHZTQVI5aGhtdEx3Ukxsa2dBdmNoZmktdVdtZ2tMZ0wzeC02Zzhtclg5VHRrUFVob3pObHRwckd4dXpPOURjZXc?oc=5",
+      "summary": "美期中選舉民主黨若奪回國會多數 對台軍售等四大影響一次看 UDN 影響深遠的美國2026期中選舉 ETtoday新聞雲 美期中選舉提前投票人數創新高 民主黨選民占比領先 Rti 中央廣播電臺 美國期中選舉》克魯茲警告共和黨可能輸掉８席參議員| 國際 Newtalk新聞 【梅花專論】失去國會之後：川普第二任的下半場- 生活新聞 PChome Online 新聞",
+      "published": "Sat, 31 Oct 2026 01:56:42 GMT",
+      "display_time": "10/31 01:56"
+    },
+    {
+      "source": "Google News Global",
+      "title": "超賣訊號？谷歌股價出現「死亡交叉」 過去5次有4次半年後反而漲 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0c0UxMGxBdnY0UHh3b2VKV1hoQnllWmcxeTAwbGtvRU04ZXFTazBjcl9DQ0pjTUxVYmRVcmNUMGtVbTVGVUNHelZBVllSR28?oc=5",
+      "summary": "超賣訊號？谷歌股價出現「死亡交叉」 過去5次有4次半年後反而漲 鉅亨網 Google暴跌後能撿便宜？交易員不押反彈也想賺 Yahoo股市 AI巨頭「現金流之亂」免驚？ 郭哲榮讚好機會 點名低基期3黑馬 東森電視 美股收盤》Alphabet財報後狂瀉逾12％！道瓊跌132點 台積電ADR走低 自由財經 Alphabet財報不如預期美股收黑 台股開低跌破4萬6000點 公視新聞",
+      "published": "Fri, 30 Oct 2026 15:50:03 GMT",
+      "display_time": "10/30 15:50"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSFp6TlJMRVUxeWw0Vm9kSmdFUGFwNEtSTnVoNXpBNmYxeGJlZGVQRnZtRFppcmNlWG5XR2VVQUUzUXFfZk9zOTlEYThJZHE4VG5R0gFYQVVfeXFMT2NIQTE0X0liUEF6YVpPbDRtLWppZUNlS2dUMW9mMGRwdm5kSTlmZUJDMkcyWGRibFU4NTRKUkVTWHFwbFVRd2ZWNU1MNjdTdlN4al92NFZYOQ?oc=5",
+      "summary": "川普深信最後一擊能逼伊朗談判！美媒：最快期中選舉隔天再轟伊朗 UDN 訊號來了！中東美軍司令向川普作戰簡報 軍政高層全到齊 UDN 川普傳最快「期中選舉隔天」空襲伊朗 羅斯福號航母率9千兵力赴中東 Yahoo新聞 【夏一新專欄】八個月的美伊戰爭 還得靠中東國家搞定？ PChome Online 新聞 鏡論／這塊滾刀肉讓川普傷透腦筋 鏡週刊Mirror Media",
+      "published": "Fri, 30 Oct 2026 23:45:08 GMT",
+      "display_time": "10/30 23:45"
+    },
+    {
+      "source": "Google News Global",
+      "title": "英特爾股價暴跌3成蒸發4.57兆元創半世紀最大跌幅| 證券 - 中央社 CNA",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9fSng5N1d3Yjd1MVBDZkJRNlRfczZVbzZzWnVPVFhKUjcwWnlRRVBUaGRFaHZJZ3VqQmFiUFVXTXBsN0dSVXpYVWFjTVotWS16M29KN3VQTDhkTmY1Mnc?oc=5",
+      "summary": "英特爾股價暴跌3成蒸發4.57兆元創半世紀最大跌幅| 證券 中央社 CNA 英特爾股價暴跌28％！創近50年最慘單日跌幅 原因一次看 自由財經 英特爾復甦行情踩煞車？單日狂瀉近3成創半世紀最慘！財務長最新說法受矚- 國際 工商時報 超微單日重挫11%！英特爾崩近30%揭兩大警訊 下周財報能否突圍？ 鉅亨網 Intel 第三季營收年增 21%，PC 市場與 Q4 展望轉弱拖累股價重挫近 29% XFastest News",
+      "published": "Fri, 30 Oct 2026 23:32:00 GMT",
+      "display_time": "10/30 23:32"
     },
     {
       "source": "Google News Global",
@@ -50,20 +82,20 @@
       "display_time": "10/30 13:52"
     },
     {
-      "source": "Google News Global",
-      "title": "美軍密集增援以色列 川普評估再攻伊朗 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOcDlES1ZPVVlXT284akVGdEFnZzYzSFF2RmFrSVk1b0txcmFjM2luZUhhOEN0ejBocEpLTmt1ZXRWRjZLX0tMODR4NGdFdTNnUmRFMGFuWjFNbW1LMTJ5RVpKMW1lWG02OXpRX3g5dHV1WjA0Vm9kLXI5QzdKb1EzMUhMUXJuT0JGNVJ2cmFmVVJNbmI5UWpTazV3THRQdHMydkpidjVOWTNsZWVURzg4dFVZZEpsVFpDYnpPT3FBQUUwZXpLVXlZNTY3b2RNbUZKc1dUY1M3RlFGRmcwOGhHMy02WXdwSDhJZl9UeUViZEZrcm5jNzJUVmtFYTJOS0ZNeThDY2h2VFowbHhfbEhzMjBpTExiWE01bW9pbk1iWVc?oc=5",
-      "summary": "美軍密集增援以色列 川普評估再攻伊朗 Yahoo新聞 美伊恐重燃戰火！范斯致函伊朗強硬派領袖內容曝光 願親自會談 UDN 卡達代表團再訪德黑蘭 為斡旋美伊和談 Rti 中央廣播電臺 川普最新預告：美伊衝突很快就會落幕 自由時報 攻伊快了？美中東指揮官當面向川普簡報- 國際 旺得富理財網",
-      "published": "Fri, 30 Oct 2026 03:09:27 GMT",
-      "display_time": "10/30 03:09"
-    },
-    {
       "source": "Google News Finance",
       "title": "台股已從歷史高點下跌10%！科技巨頭財報引爆賣壓，法人點名這類股票伺機布局| 林彥呈| 財經 - 風傳媒",
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5zNnJVdEdqQ0tRU096cTBKTFZtNlRRbnNkcWN1U2laRHptYVpid0VFYVE5eVVDbGF2UHotazNOX2tNbHZ2aDViMVFDUEpFdw?oc=5",
       "summary": "台股已從歷史高點下跌10%！科技巨頭財報引爆賣壓，法人點名這類股票伺機布局| 林彥呈| 財經 風傳媒",
       "published": "Fri, 30 Oct 2026 10:02:00 GMT",
       "display_time": "10/30 10:02"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股重挫千點 國安基金操盤手說話了 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83V1FsYUFBYjJZUk5YQUZkWDhydUZ4Q0toUm9Ta3dUcU9UWUpBMUNVX1loQ0FMYmJRdkVBbVdJc3hRN3JubUwwZnJVSWhyd0I5Rjl6QVl6ODVJVVFFbEdV0gFkQVVfeXFMUEtIaVlJN3RnUzJWdDg0SEh6MkZRbTRWelFnRW1yMGRacEdDZEpMS0ltNWx6ZlRsOTVEYjJFVlF6cDM3VFNqdG5uR1lvMFEwamJuQ3VXYVpxX3dFcnhDNXZLVjF4Sw?oc=5",
+      "summary": "台股重挫千點 國安基金操盤手說話了 自由財經 台股悲情10月！股民財富平均每人蒸發60萬元 Yahoo股市 台股重挫失守半年線 法人：AI基本面未轉空 UDN 〈美股早盤〉科技股又挨刀！那指重挫逾2%創兩個多月低點 台積電ADR跌逾3% 鉅亨網 砍在阿呆谷最懊惱！ 分析師直言：短線大反攻要來了 東森電視",
+      "published": "Fri, 30 Oct 2026 09:58:53 GMT",
+      "display_time": "10/30 09:58"
     },
     {
       "source": "Google News Global",
@@ -75,6 +107,14 @@
     },
     {
       "source": "Google News Global",
+      "title": "美軍密集增援以色列 川普評估再攻伊朗 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOcDlES1ZPVVlXT284akVGdEFnZzYzSFF2RmFrSVk1b0txcmFjM2luZUhhOEN0ejBocEpLTmt1ZXRWRjZLX0tMODR4NGdFdTNnUmRFMGFuWjFNbW1LMTJ5RVpKMW1lWG02OXpRX3g5dHV1WjA0Vm9kLXI5QzdKb1EzMUhMUXJuT0JGNVJ2cmFmVVJNbmI5UWpTazV3THRQdHMydkpidjVOWTNsZWVURzg4dFVZZEpsVFpDYnpPT3FBQUUwZXpLVXlZNTY3b2RNbUZKc1dUY1M3RlFGRmcwOGhHMy02WXdwSDhJZl9UeUViZEZrcm5jNzJUVmtFYTJOS0ZNeThDY2h2VFowbHhfbEhzMjBpTExiWE01bW9pbk1iWVc?oc=5",
+      "summary": "美軍密集增援以色列 川普評估再攻伊朗 Yahoo新聞 美伊恐重燃戰火！范斯致函伊朗強硬派領袖內容曝光 願親自會談 UDN 卡達代表團再訪德黑蘭 為斡旋美伊和談 Rti 中央廣播電臺 川普最新預告：美伊衝突很快就會落幕 自由時報 攻伊快了？美中東指揮官當面向川普簡報- 國際 旺得富理財網",
+      "published": "Fri, 30 Oct 2026 03:09:27 GMT",
+      "display_time": "10/30 03:09"
+    },
+    {
+      "source": "Google News Global",
       "title": "以色列大選官方結果出爐尼坦雅胡陣營以53席領先未過半| 國際 - 中央社 CNA",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBENVZ5OEFmZUlGQ3E0M2tlQVRTMklWeHB2MzJlLUdrVGlVOVFoRWZSVzc4OG1mOEYyZDd2cmdpdVRHMUhZQThyaXRUbzUxRkRjQTI0R0FvNWtHaGVWZV9B?oc=5",
       "summary": "以色列大選官方結果出爐尼坦雅胡陣營以53席領先未過半| 國際 中央社 CNA 以大選投票率創27年新高卻「沒贏家」！尼坦雅胡喊「選舉被竊」 反對派警告他可能干擾組閣 Yahoo股市 以色列選後風暴升級！內唐亞胡喊舞弊 疑阻止新國會就職 UDN 以大選執政聯盟未過半 面臨組閣談判 中華新聞雲／中華日報 劉燕婷觀點：伊朗戰爭對撞以色列大選─納坦雅胡未過半，以色列就會變天？ 風傳媒",
@@ -83,19 +123,19 @@
     },
     {
       "source": "Google News Global",
-      "title": "沒戲唱了…政治盟友也不挺波索納洛 直言巴西該往前走 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUNlNLcm5mRldMb1JIbzFTeHJaakttNDFKWEVvTmVmYlRBZW04QUhOc2hWbkFYU3gxa0NVRENOQlNvMy03R3pNZkg1bVJfLXFo0gFWQVVfeXFMUEI0d2J2R21iMHR0ekRrYi1ObmZtZ2pUUVBqSUp5OTlBT25MeDYtd2UtamQ1emdXUUVqSzZYVGVIaVJEZi1tNDdKSW9ZeDdUMnpJUS05SXc?oc=5",
-      "summary": "沒戲唱了…政治盟友也不挺波索納洛 直言巴西該往前走 UDN 巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選 BBC 沒戲唱了 政治盟友也不挺波索納洛 直言巴西該往前走 經濟日報 涉貪遭扣護照仍潛逃邁阿密 佛拉維歐獲川普力挺取得美簽 Rti 中央廣播電臺 小波索納洛抵美否認逃離巴西 控政治迫害、選舉舞弊 公視新聞",
-      "published": "Thu, 29 Oct 2026 22:30:00 GMT",
-      "display_time": "10/29 22:30"
-    },
-    {
-      "source": "Google News Global",
       "title": "影》「有病！」期中選舉逼近川普連連取消紅州造勢被追問健康暴怒飆罵- 國際 - 中時新聞網",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MS3hvdk1UZWszTm1zXy1tUVQzVm5lVTlGbmV0bVptQ2JZeW9yU0lSN0owWjBRY0ZHSENnMkJHdmdEU1VfRFBTeDQxTjFiRTVlSzh5eHJkMlJiQkdNRWRBd21aOUhQSzZZbHJaaEtn?oc=5",
       "summary": "影》「有病！」期中選舉逼近川普連連取消紅州造勢被追問健康暴怒飆罵- 國際 中時新聞網 美期中選舉倒數　川普週末電話、實體造勢衝刺共和黨選情 經濟日報 美期中選舉最後階段 川普取消週末造勢活動改電話集會 Rti 中央廣播電臺 我取消了我又來了！白宮：川普恢復出席堪薩斯及愛荷華造勢活動 Yahoo新聞 他只會來添亂? 川普突取消2州造勢活動 共和黨高層竟鬆口氣：謝天謝地！ Newtalk新聞",
       "published": "Fri, 30 Oct 2026 01:02:47 GMT",
       "display_time": "10/30 01:02"
+    },
+    {
+      "source": "Google News Global",
+      "title": "沒戲唱了…政治盟友也不挺波索納洛 直言巴西該往前走 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUNlNLcm5mRldMb1JIbzFTeHJaakttNDFKWEVvTmVmYlRBZW04QUhOc2hWbkFYU3gxa0NVRENOQlNvMy03R3pNZkg1bVJfLXFo0gFWQVVfeXFMUEI0d2J2R21iMHR0ekRrYi1ObmZtZ2pUUVBqSUp5OTlBT25MeDYtd2UtamQ1emdXUUVqSzZYVGVIaVJEZi1tNDdKSW9ZeDdUMnpJUS05SXc?oc=5",
+      "summary": "沒戲唱了…政治盟友也不挺波索納洛 直言巴西該往前走 UDN 巴西總統盧拉：北京在美國後院的「老朋友」第四次贏得大選 BBC 沒戲唱了 政治盟友也不挺波索納洛 直言巴西該往前走 經濟日報 涉貪遭扣護照仍潛逃邁阿密 佛拉維歐獲川普力挺取得美簽 Rti 中央廣播電臺 小波索納洛抵美否認逃離巴西 控政治迫害、選舉舞弊 公視新聞",
+      "published": "Thu, 29 Oct 2026 22:30:00 GMT",
+      "display_time": "10/29 22:30"
     }
   ]
 }
