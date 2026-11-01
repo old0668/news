@@ -1,133 +1,61 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "news": [
     {
       "source": "Google News Global",
-      "title": "台股暴跌1156點金管會喊基本面！PTT笑翻「麵都吃到吐了」他驚曝：其實講完都會噴 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0gNBVV95cUxNeWpacXBpa1pHXzNvVVJCbngwWU11WUh3cGVEVUxMUUxSTTRpMkJYNGZMQnlNTm5MUkd1SWRRSWhtVzhOVmR0LU90RmNZMWRldlBGeHc0emZjQmtMY0Y5dEJWdE1va3FzMzFVVFJSZ21BVHVEUW9zSEpYYzJYRmlTOXZ4ejJ4UVNpV2liOXB2UFhNOXdqV3E0a1F0VGx1YXpNNm8wSE41N2tGTEo1d0h2ZnNEMHNUamF4dDdUSGlqdWZOUmRoT29hT3ZLR09ucXpIQ0RxeGpQcFZKWEp6WDNXLThvbWtwOXU5YlZxM3R4YTVGUTFXajM1Y0lKNmNhamxXejFoX1VWZ0dycFhVM2djVDBKaEl6a2wtZ1BRcUVJbkxfQnNzWVF0NVNKZDZURVJ5YW1TMlROcFVXVk1NdGJxeWYtaDdCLVNVQXlxaUpGMm04WDhpQno3X1lsRzZTMG1CR2YwRmh2anhLdGd1M244eUY0TVpteHBGb1h1Q1NndVN1bEJSRlU0dkNpd2hIWlhoNDlJbUVpRUQwelFoeExLQUN5M3poZmstQTROcmx1dE1TcERla3E2VmlNcTFMZFpOX3cySUV1em1XVzVwQ2duYW5R?oc=5",
-      "summary": "台股暴跌1156點金管會喊基本面！PTT笑翻「麵都吃到吐了」他驚曝：其實講完都會噴 Yahoo股市 台股明大逃殺？法人：基本面無虞 靜待國際股市回穩 UDN 台積電ADR跌近6％、台指期夜盤同遭重擊！法人：台股下周開盤恐承壓 止穩看3訊號 工商時報 台股進入回檔！外媒：別急著恐慌或抄底 也不要逆勢而行 自由財經 台股為何重挫逾10%？美科技股「1關鍵原因」連2日崩跌拖累…全球資金流向「這類股」 Yahoo新聞",
-      "published": "Sun, 01 Nov 2026 06:29:58 GMT",
-      "display_time": "11/01 06:29"
+      "title": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLUVhWTXlTWlIwX0dGTFJTTFFtVEJ2TlBZMEduUk5KdXJQdG81YXJOM0FvWUExdWZyZDlHNE9kLURMcDlZSk0wMzhSRldlUXZn0gFWQVVfeXFMUG1LSkxMMTQxNkZnYkFuMkZIWWxwSTlQUVhGYmN1aEJNcmNObFQ4bzc0Rjh5TGFnRExIcHBvQzhncGlCdnhfQ3VZS2swNkN3M0dJX1o1R3c?oc=5",
+      "summary": "台股大跌金管會盯緊了！重要均線、三大風險指標全監控 UDN 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Sun, 01 Nov 2026 13:52:40 GMT",
+      "display_time": "11/01 13:52"
+    },
+    {
+      "source": "BBC Business",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "published": "Sun, 01 Nov 2026 13:11:37 GMT",
+      "display_time": "11/01 13:11"
     },
     {
       "source": "Google News Global",
-      "title": "美國期中選舉》川普剩2年恐變「憤怒跛腳鴨」 3招死守國會爆憲政危機 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOYkVuZ1BsZWwweWxhU1Z2bV9TMVVPMjFxQl9YeXliT3NHNlplbjJiaFZYVEZrempTVzdISk5EaV90S0hWS3EySGZ0V0t6UnVmY1h0LTlPWGh1Q04xZ1RBUzdBYktJTnU1OHJQNkRpNHRvUFMyOGhWNVh0YThQajNUQnhTbmRWd01nS09mY0k0R0psV1lia3pObHFpV01meXY2YlFUZ0dSNWtRR3NNcnd1NGU4dlMtUXRPMzd0blN5UnJKcDdEb0hYbW5YMUlfVmdRU2VJYnc0R0ZBY0dqT3ljdURCS0Z2bExpZUZCQjNEdmFQT2NlNmh6M3VFYjdONWlTdmQ1NHhka2dhTHk4UWVsZEtILVgyZENCLU5PTEdWUGJVdVBlUWtydkk5RzZyam1ka0NRWjl6WHVCWUVFeEVWWFBlUHl6RnhqTlYxWFlFRWhhSWhLVHlPdGh1SHp5blA1UVY2eGpYcXJ2SllZZ1o5c3RqYkI4U1NVWGpJRWV3ZXRfQURZZnljM01fdGsxTTN6d0RzR3hLWXU4UkNrLVE?oc=5",
-      "summary": "美國期中選舉》川普剩2年恐變「憤怒跛腳鴨」 3招死守國會爆憲政危機 Yahoo新聞 美國期中選舉》CNN分析：共和黨可能面臨世代清洗級的慘敗 Yahoo新聞 美國期中選舉》克魯茲警告共和黨可能輸掉８席參議員| 國際 Newtalk新聞 美期中選舉倒數2天！川普剩2年恐淪憤怒跛鴨 3奧步阻國會變天 UDN 美學者：參院為川普防線 眾院若大幅失守恐加深共和黨分歧 Rti 中央廣播電臺",
-      "published": "Sun, 01 Nov 2026 06:01:19 GMT",
-      "display_time": "11/01 06:01"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "全球科技股Q4開局慘！韓股、費半重挫逾15% 台股跌近6%今年仍稱霸 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaXdsMXU5S1dtUDlwcmJjUmFncURsYnJwdGRTTXlQbXhiOGZnMTlfX0QxaWFzeWdnNWFETnZObUNhajlJNDJNOXNiWGtfM3J4NFJwcG9vTUpYYnFMZ2pucXZqeDNOdVp0WjZKV1ZmRDlrYW5TY04tbl9DRXlBdDJhX0xn?oc=5",
-      "summary": "全球科技股Q4開局慘！韓股、費半重挫逾15% 台股跌近6%今年仍稱霸 壹蘋新聞網",
-      "published": "Sun, 01 Nov 2026 05:23:00 GMT",
-      "display_time": "11/01 05:23"
+      "title": "美股崩週一台股慘了？陳重銘點15檔「美而廉」股：跟小強一樣活下去 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNdDM0MXJnOVJtU3g2MFAxNXRadVlQR3ZrRFRiX0Uta0xfbGVPYlM1VUp1SE8yMl9vUWhDVTNKZERjd1A5ZnUxUlhYbkpZZVB2bmg3ZGhsRFRWS3BUQkx3MV9XUE0zNEFSdzZuVS11SHB5RjJSemZlSlRNUzJqZXowUUMwUjlOQl9UWkJKanNBV3FSb2JwOERLcm51blFMVEhVZ3V0N0x4OUY0bThFNld2MExXYnVGUk1TVkp4SHR0TkRpRWZHU0RobkVjcDRVenJwcEREWFNtOWhMVGc1eDFQRm1pTmNwV0hlQjMzR0RmSERQMDBrVExUeXVObGl1Z2gzN3BkNkVrUlBSN0MtLTZBZERlWXpheVJEN0c1RjduUHFNV2oyMmw0?oc=5",
+      "summary": "美股崩週一台股慘了？陳重銘點15檔「美而廉」股：跟小強一樣活下去 Yahoo新聞 外資賣千億大砍0050！ 網見買超「這檔」驚：房市要起飛？ 東森電視 美股崩跌，台股明天剉咧等？不敗教主點名15檔抗跌股：像小強一樣活下去 | 張庭維 | 新聞 風傳媒 台股重挫能抄底了嗎？專家警告別急著接刀 | NOWNEWS今日新聞 LINE TODAY 台股悲情10月！外資砍8800億　法人曝「台積電被賣最多的原因」 ETtoday財經雲",
+      "published": "Sun, 01 Nov 2026 09:27:00 GMT",
+      "display_time": "11/01 09:27"
     },
     {
       "source": "Google News Global",
-      "title": "川普萬聖節扮「他」超好認！首談黃仁勳捲間諜案 恐被踢出總統委員會 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GUjhKSXJpcTF6UVZ5alRCWkg4cTgyMExHYk9FYmpBOVU0YzFmSHJiUjdWQ0s1clk1aXZjUlIteFpFMGkyYlZmd1ROSTBDUmZN0gFWQVVfeXFMT3VubWpJSDlwS0w2Y2toOS0wa2JaMVhMTm43ZDNISFZPakY3NDZPT3pOaW9tMW9pa1UwTEJmOUt3ZnRDQmdXZXV0QXRWeF95NU1TZWdzdUE?oc=5",
-      "summary": "川普萬聖節扮「他」超好認！首談黃仁勳捲間諜案 恐被踢出總統委員會 UDN 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Sun, 01 Nov 2026 04:15:51 GMT",
-      "display_time": "11/01 04:15"
+      "title": "幣安追回遭竊資產95％ 宣布分階段恢復提款- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uNHdjN3hoek4wNEh2M0RFel9JTzYxbkpxYVBzNnpVbWphdFU0V2x4RG5QYjd5X0haWndhMlhiWm5QNGgxWDJQR09NVUUyY2hhbVpneVdxcW5tWjZoLUlZ?oc=5",
+      "summary": "幣安追回遭竊資產95％ 宣布分階段恢復提款- 國際 工商時報 幣安爆史上最大竊案「半小時轉走2000億」！FBI證實北韓駭客所為 趙長鵬承諾全額賠償 Yahoo股市 FBI點名北韓洗劫幣安2千億元！川普突喊「還不確定」若屬實想找平壤談 UDN 幣安將於週日分階段恢復提款服務！已補回遭駭客竊走63億美元中的60億美元 鉅亨網 這家上市公司可能賣掉4.5 億美元比特幣：因為幣安被盜和量子風險| 動區動趨-最具影響力的區塊鏈新聞媒體 動區動趨",
+      "published": "Sun, 01 Nov 2026 08:46:00 GMT",
+      "display_time": "11/01 08:46"
     },
     {
       "source": "Google News Global",
-      "title": "股市崩盤好心慌？歷史曝應做「2件事」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdHJrbmt4OENIRzBuU1FyamhQTVVFeXhIYjFsZXEtaWtNVkl1VGN1V1ZGSEsyTUxFTmQxWl9PblpQV3lJZk1JZ1ZBbkpJY29NZmNHRjduZmlSLUxGRWdPQU1PNjRTWE9IQWlkR08xSmcwbWYyTUFNVnhJTlBxbER5UFhwcmdXSTlPcnVHMDktSzJLYTJBVUhBdDFCbUoyd0oyM2VicHhWNXI0WFdId2J2TENLaFRSV3lvMnV2RGNWRWpwM0MydkF1dXlKVGRwMkxfMmFsZDQyeU13U2tvSHJMUWF1cE81ZDFVVWFUdm5IV1k3OXZRaFBPZWR4b2NPWlE?oc=5",
-      "summary": "股市崩盤好心慌？歷史曝應做「2件事」 Yahoo新聞 台股狂瀉好崩潰！巴菲特一句話揭致勝關鍵 金融海嘯靠這招賺翻 自由財經 股市崩盤怎麼辦？外媒揭股神巴菲特「六字箴言」 危機中獲利不是夢 TVBS新聞網 AI泡沫化也不怕！外媒曝巴菲特鎖定這2檔 分析師讚：買了永遠不賣 三立新聞網SETN.com AI資本支出與升息隱憂引發高估值震盪，標普500大漲100%後，最新數據揭2大解方！-財經焦點情報站 CMoney投資網誌",
-      "published": "Sat, 31 Oct 2026 19:15:00 GMT",
-      "display_time": "10/31 19:15"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股10月變調！一度失守4萬5關卡 金控股撐盤、法人看AI需求未變 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMHh5STk4UnFSXzk1R1M1Z3ctTXY3LTZPRUJIODFFLU5EZHZvTDRGWlVReG9FRTFKQjhKaldhdEZ4TE0zM25iU3M2VzlpM2pSUWRkM1llYVc1UVUzWXd2TU1hSTlpYzhnVHBKV1FxaW5zdU5seHhNNUoxaXFkNUFnSDVB?oc=5",
-      "summary": "台股10月變調！一度失守4萬5關卡 金控股撐盤、法人看AI需求未變 壹蘋新聞網",
-      "published": "Sun, 01 Nov 2026 02:51:00 GMT",
-      "display_time": "11/01 02:51"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股高點回檔近1成！法人看籌碼醞釀反彈 點名2大潛力族群 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmZ0MlUwQ1hGM2lVZVlKcERIODNpaWFDQ09tek4zdjUwdC1venpLemR0RjVnZkFyRnhUaTBFMjFXWE9GVHJaeVNoZFp0NGM4SWkzTkRETUMzcG1fenFwQWtKWk5pMXd0b3JhN0h0Y2U5WllGdlFlT2tjSUVHQzl2eFpB?oc=5",
-      "summary": "台股高點回檔近1成！法人看籌碼醞釀反彈 點名2大潛力族群 壹蘋新聞網",
-      "published": "Sun, 01 Nov 2026 02:44:00 GMT",
-      "display_time": "11/01 02:44"
+      "title": "美期中選舉倒數2天！川普剩2年恐淪憤怒跛鴨 3奧步阻國會變天 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EZE1sT2JlNE1mQTRyOHR1Y2JaeUVWM2Y5QVlMWFNPX0c0Vi12RnowSGcyeDNIZHhHdFdLN2tjdmVEUmRpTUFSSFBBZXJsSWVn0gFWQVVfeXFMT1BIellYaHdJT0ZhM3hRQTZtZ1RyRzUyNjdZbFM4YXpRekZ6U210RkhrejRPbGFWam9femc4UWVjZFVCQkRxV0RuVjdJOU15andTMEp3X0E?oc=5",
+      "summary": "美期中選舉倒數2天！川普剩2年恐淪憤怒跛鴨 3奧步阻國會變天 UDN 美國期中選舉》川普剩2年恐變「憤怒跛腳鴨」 3招死守國會爆憲政危機 Yahoo新聞 川普前首席策士：共和黨選後恐爆內戰 保住眾院是「奇蹟」 經濟日報 美國期中選舉共和黨告急！民主黨領先逾8個百分點 眾議院恐易手、參議院也拉警報 鉅亨網 期中選舉為何是「美國總統的試煉場」？川普淪為「杜魯門以來」民調最低總統，共和黨恐難逃魔咒| 李忠謙 | 新聞 風傳媒",
+      "published": "Sun, 01 Nov 2026 03:22:54 GMT",
+      "display_time": "11/01 03:22"
     },
     {
       "source": "Google News Global",
-      "title": "英特爾暴跌拖累美股！台股危險了？分析師揭聯電、台達電操作關鍵、點名3大族群成避風港- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBxN2d4VkEyaVpGamdrbG01bWFScDhIZkRMNDdQZVJaZTYyeDl5emN3LXJ5eUlYRDE4Z1RQXzlIRmpGdGhETXhIV2tPejlTcVh3WkxWZkpfSEw3Nl9lWnZR?oc=5",
-      "summary": "英特爾暴跌拖累美股！台股危險了？分析師揭聯電、台達電操作關鍵、點名3大族群成避風港- 證券 工商時報 英特爾股價慘崩近3成！陸行之點出致命困境：與台積電差在3件事- 國際 工商時報 若紅變藍…期中選舉、財報考驗市場AI信心 UDN 11/1國際早報｜英特爾股價1天崩掉三成、日本免稅今起改成「出境才退稅」、川普要阿拉斯加「別認證參院選票」 風傳媒 討論牆 | 英特爾股價暴跌3成蒸發4.57兆元 創半世紀最大跌幅 LINE TODAY",
-      "published": "Sun, 01 Nov 2026 01:20:00 GMT",
-      "display_time": "11/01 01:20"
+      "title": "美選後對伊朗發動新攻勢？ 魯比歐緩頰：川普還沒決定 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Ec3JwUmNYanUwNUZNZ3FDcnl5czZ0cnlISWxVTG1GVHlSS1RJUklnaGZuWlJmRE1Fb2FhdTQ4U3NMaHprMldnSFhqS1hCRENodUQzZ01hWU9HSlNBblloWkpRb1NzUdIBa0FVX3lxTE5oWkxfWHhQSFpULWMzeXdOOWl3QzkwUlNlT3dMOUFHVVFuQ253a1ItZmdMTHFlalMyYmxOcGpKTGRTampzOF96aTh1RnRqemN3U0cweV9VUC1ERXNKU040dm8zMmJhOTVlcUtR?oc=5",
+      "summary": "美選後對伊朗發動新攻勢？ 魯比歐緩頰：川普還沒決定 自由時報 伊朗正研究范斯提議！但外長稱暫無會談計劃、軍方：將「高強度且不受地理限制」對抗美以 Yahoo股市 包括鎬山 川普稱美國仍須「處理」伊朗1、2處目標 Rti 中央廣播電臺 美伊恐在「這時」開戰！川普說話了 東森新聞 美期中選後是否再攻伊朗　盧比歐：川普尚未決定 經濟日報",
+      "published": "Sat, 31 Oct 2026 23:46:45 GMT",
+      "display_time": "10/31 23:46"
     },
     {
       "source": "Google News Global",
-      "title": "川普期中選舉後再攻伊朗？盧比歐：尚未決定 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbnJXdnRtdWlsOUt4cVZielQxMlljNmVVeU03M24tTFJWNi1FUTFwcTluUTRyNG9CY3NRN0trUFdvMDJ5eWF1NndaNzk5TjZqbWhSWW43d0dPbjRlWV9WTS1XX0Z3cG9CVUNVMkJrUUZ1cmpfOG9maTRmdkhmYk5vcGZEUW9KSl82OUhrY2lTNjg4akc4M1d0ekQ0UlNBT043UTJKN0gxZUFMQjhoWG9mbXhPd2xfTndCSXpaSnZOZWNqU2ZDY2ZzTWhZUVJ1WFFtcThHd0Y3aGJSLThPSlYxQjViZ29HNHJwWlhZazFwNlc5RHZjdGRmNHQ2dEhZQ3JleF9feW9uQzZOWExzdjczSVkxVEJ5V21xTU5adkxLdDdDdEszX3Zab2tjSnhnUQ?oc=5",
-      "summary": "川普期中選舉後再攻伊朗？盧比歐：尚未決定 Yahoo新聞 川普證實與伊談判 擬選後再開火 | 中華日報 LINE TODAY 埃及擔憂美伊衝突升級 恐更具毀滅性、有更大衝擊 自由時報 證實美伊持續談判中 川普：我們還有時間 中央社 CNA 伊朗正研究范斯提議！但外長稱暫無會談計劃、軍方：將「高強度且不受地理限制」對抗美以 鉅亨網",
-      "published": "Sun, 01 Nov 2026 00:30:57 GMT",
-      "display_time": "11/01 00:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "傳美最快期中選舉隔天攻伊朗！波灣盟友證實收到簡報 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZV3U5SWtrRjVnUkRKQmplbDNpUGNrRlltdE5TcGpSeEdpWDRLSEptSm9VYldGTDhWb0tuRXo1dGJNMUlKd2ZBREVHckdJQ2g5SWhZ0gFYQVVfeXFMT0N3NnhvR2ZaQnNOTF81eXFjQm1NQ0NkRG1ZUFhXa0lNaHRuSmlJcGlWZTk0MUN3M2VqM1B0emJUT3JHTXQ2YWhPUW1lUExCLUZiTGc1UWZ1Zg?oc=5",
-      "summary": "傳美最快期中選舉隔天攻伊朗！波灣盟友證實收到簡報 UDN 川普期中選舉後再攻伊朗？盧比歐：尚未決定 Yahoo新聞 美期中選後是否再攻伊朗 盧比歐：川普尚未決定 Rti 中央廣播電臺 川普證實與伊談判 擬選後再開火 | 中華日報 LINE TODAY 證實美伊持續談判中 川普：我們還有時間 中央社 CNA",
-      "published": "Sat, 31 Oct 2026 16:00:00 GMT",
-      "display_time": "10/31 16:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "最快下星期？戰鼓擂！川普選後隔天就轟伊朗？ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZTBNdDJ0X3NzZWdVYjhhaWhrWmtiaUl2cDYyQ2FzUzJKb2poc0QyNFJXMXZKTTk1N29MZEl2RmRmVFpyREVPYlB4S2p0em1ielVoZ2ExblJBWmVYR3pSeWJmRHNwVEJqM0dzMEUteFZtY1lKRnhkT1hzcU81bVcwRG56Ymc5aHNxR1FJUzh4cWtnTk1fUnRoamNJSGw0WTA4a1BGb0R1a0U2VXF2cDl1a0tSbXFtZHd5Mkxkd0lwNVZJUU04eEZ4YWxBWWVtaUpPaEV6UXlVOUFIRGF2OHpRV0YzQ1pBT2tuZGpCRE1NTUtRTnNZRHZsMjEyQldCR3hGZUVFRFpmVHVrazBUU3VRZTRJTHcyWlJUZGREaHRsbUdCV2U3Y0h4THk5WDR4dw?oc=5",
-      "summary": "最快下星期？戰鼓擂！川普選後隔天就轟伊朗？ Yahoo新聞 訊號來了！中東美軍司令向川普作戰簡報 軍政高層全到齊 Yahoo新聞 美期中選後是否再攻伊朗　盧比歐：川普尚未決定 經濟日報 川普證實與伊談判 擬選後再開火 | 中華日報 LINE TODAY 證實美伊持續談判中 川普：我們還有時間 中央社 CNA",
-      "published": "Sat, 31 Oct 2026 15:29:00 GMT",
-      "display_time": "10/31 15:29"
-    },
-    {
-      "source": "Google News Global",
-      "title": "聯發科現金流轉負！ 阮慕驊揭核心關鍵：風險在下一代 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPb0VKSzJVRDFwQmtua0FaWFpTdnh1dGJhY0hpazNra2NQZnFQQW9XRGdQSmdMb0tjT3hZQUl4TDZVdk1sMjBjMU9MbEZPMVdVZ0JoMzV1U3dFNzUxRXpJMEt4QjR0V1hSckZaTE9tX29ReFdadl9GcnN6all2WVNGSHc4SWpmbDNPU3lWRWdFWkRXbEY3Y29sV2ZwclN1QUNTV2k5SDRTSWkwOEpnWlUyTGhDcC1tOTBTMEhuVVR3cEc1WlgxbE9TZHZuREJLYnBHWlg5ZXdOZmNfekpNejBWOXdrV1dZRkw3aUE2a2RwNl80OWtJTllpT1lITEczT001Z1ByWXFFM0dCOHdsMkQzc0NCbnZPcU5zX1VHbFl6TEF3WDV3YXhET1dHWGo0UFdoczB1SVh6UnRiZzFHd0tvZmc4UVd1SlpUNzZvVTBtelRzWWQyeUduZ3BSdw?oc=5",
-      "summary": "聯發科現金流轉負！ 阮慕驊揭核心關鍵：風險在下一代 Yahoo股市 聯發科第三季EPS 17.5元！ ASIC業務傳延期 蔡力行回應了 東森電視 10天前才砍目標價！聯發科法說翻轉財測法人曝改口關鍵：明年EPS預估上修逾3成 - 上市櫃 旺得富理財網 聯發科Q3每股純益17.5元 UDN 破除雜音 聯發科ASIC明年營收衝160億美元 自由財經",
-      "published": "Sat, 31 Oct 2026 13:33:00 GMT",
-      "display_time": "10/31 13:33"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美國期中選舉、費半大跌下周開盤前五件值得留意的國際大事| 全球財經| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LN0dQRUZTdnMzdzhKZ0R0RGFkdlVLRWtCWWd1N2Jqb185R3pTbWhRMmFUQXlRb3RfUlFfYXFLSjdoZk1DMjRkOHpzTG9FUi1R?oc=5",
-      "summary": "美國期中選舉、費半大跌下周開盤前五件值得留意的國際大事| 全球財經| 全球 UDN 英特爾暴跌近29%淪1974年來最慘 川普政府持股蒸發百億美元 鉅亨網 AI警報！美國晶片股大跌 美選、財報考驗市場信心 UDN 超微單日重挫11%！英特爾崩近30%揭兩大警訊 下周財報能否突圍？ Yahoo股市 美股收盤》英特爾崩逾28％！科技股慘跌 台積電ADR重摔近6％ 自由財經",
-      "published": "Sat, 31 Oct 2026 08:42:25 GMT",
-      "display_time": "10/31 08:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "旅程全泡湯！退休婦賣房砸650萬搭豪華郵輪 竟慘被丟包柬埔寨 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NenBBbVBmcGczME42VDFXZHFDeVhYbTc0TlZMVU5UQ25xZlNBZDVTVkk2Mk5fbHhrRnNFenlWM2liM01rUHBXQzlfaUFJV1ow0gFWQVVfeXFMTS14dTJKT1lMRTVDdFk5UjJ1TDFOSk8xZl9kS0JSdUlhRjNSazFIME14UzJMeTgzOE1VVWtyendhMlJSSkNuekduR0FTT2FIVHZfa2cwZUE?oc=5",
-      "summary": "旅程全泡湯！退休婦賣房砸650萬搭豪華郵輪 竟慘被丟包柬埔寨 UDN 賣掉房子環遊世界夢碎！「永久居住」郵輪喊停航 200多名乘客被迫下船：該去哪？ | 太報 LINE TODAY 「住在郵輪上」新創Villa Vie 錢燒光了，在柬埔寨把住戶趕下船| 動區動趨-最具影響力的區塊鏈新聞媒體 動區動趨 美郵輪資金耗盡 逾200旅客遭丟包柬埔寨 中央社 CNA 花千萬買郵輪艙房當家！伊朗戰爭害油價暴漲住戶突被趕下船- 國際新聞 PChome Online 新聞",
-      "published": "Sat, 31 Oct 2026 08:09:51 GMT",
-      "display_time": "10/31 08:09"
-    },
-    {
-      "source": "Google News Global",
-      "title": "英特爾股價慘崩近3成！陸行之點出致命困境：與台積電差在3件事- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yZllJOFJSWVpRcUhoWkFZbzJnTDFGNmsxLXdwc0RIRDExQXBVcXJHZm5OTUtkZGM2NWRaMm5pOHJpdUVaQjhDc2VGdTdFZGdRNkhpLV9VQ3ZSYkhjQmhz?oc=5",
-      "summary": "英特爾股價慘崩近3成！陸行之點出致命困境：與台積電差在3件事- 國際 工商時報 AI警報！美國晶片股大跌美選、財報考驗市場信心| 全球財經| 全球 UDN 11/1國際早報｜英特爾股價1天崩掉三成、日本免稅今起改成「出境才退稅」、川普要阿拉斯加「別認證參院選票」 Yahoo新聞 超微單日重挫11%！英特爾崩近30%揭兩大警訊 下周財報能否突圍？ 鉅亨網 英特爾股價暴跌28％！創近50年最慘單日跌幅 原因一次看 自由財經",
-      "published": "Sat, 31 Oct 2026 07:03:00 GMT",
-      "display_time": "10/31 07:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股｜AI投資疑慮引爆晶片股賣壓！費半慘崩7％ 英特爾跳水29％ 台積ADR跌近6％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YMlFWYmFsUFJHM1BfZllDWWo5UTlEaXl1T0dGRGZKUnNFdmxCcXR2RWo1OGVfdkZuVnEwUTNpcG5pU3lWRFFENnhVM2t0V1RHV2J6bWRiSHhER0Q0aU1z?oc=5",
-      "summary": "美股｜AI投資疑慮引爆晶片股賣壓！費半慘崩7％ 英特爾跳水29％ 台積ADR跌近6％ 工商時報 科技股拖累美股！費半崩7% 那指6月來最糟 Yahoo新聞 AI泡沫爆了嗎？那斯達克大跌跟2000年達康泡沫情景有何異同| 全球財經| 全球 UDN 費半重挫7.2%，華爾街殺紅眼！美股暴跌3大元凶曝光 天下雜誌 財報欠佳加深AI投資疑慮　科技股承壓拖累美股收黑 自由財經",
-      "published": "Sat, 31 Oct 2026 00:19:00 GMT",
-      "display_time": "10/31 00:19"
+      "title": "時論廣場》巴國禁航 賴政府沒轍（徐勉生） - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LUndwRHJNY0V4U01XdzVXam1FTDF3OW51YVlKbEZIaTAzaURuNGpKUmtYRXk5YU0zVDdEMWhmclVaNlJNWlhINy1XSTgtRmZaVkVzRXJHTVc5WE03NThnUVNMeHJBbkk?oc=5",
+      "summary": "時論廣場》巴國禁航 賴政府沒轍（徐勉生） 中時新聞網 兩岸觀策／不只是虛驚一場空域封鎖給賴政府的警訊| 兩岸要聞 聯合報數位版 巴基斯坦突限制台灣航班飛越 中國對台施壓恐從空中延伸海上 自由時報 中國大學生促廢國家主席無限延任 中共秒刪帖 聲明全文「暗網」瘋傳 姆巴佩「辱華」爭議 西甲主席晤中國大使 盼個別事件不損雙方合作 巴基斯坦一度限制台灣航空公司飛越領空 數日後又恢復 卓榮泰表示：全力維護國際航空主權 台灣科威特攜手 AI機器人科技輔具助自 Rti 中央廣播電臺 領空主權、航權許可與違約責任：巴基斯坦禁航爭議的三層法律迷思 TNL The News Lens 關鍵評論網",
+      "published": "Sat, 31 Oct 2026 11:55:06 GMT",
+      "display_time": "10/31 11:55"
     }
   ]
 }
