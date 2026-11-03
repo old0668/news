@@ -1,173 +1,77 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "news": [
     {
-      "source": "Google News Global",
-      "title": "台股受影響？美半導體股殺聲隆隆、台積電ADR跌1.85% 陳重銘喊話了 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMigANBVV95cUxOVEp0ejl1dVVXQ0gxT2NvMGQyaTVPZ0t4bkl0aWVyQlRMeVBMcHZuekt6eWtvbU5mWURGX3ZlSTVYS1FzRjIyUmUxbG0xQ3FTSExuVk9obU9zWjFwUVdrc25hSEgteTlzRFJsalVieVNhVmJlVGxlRDVzMFhtNHktc1FBek5nYURnYm5uRXdLeWZIUk5TYXZSSTg2aVFOYjk3STg2QTBlRzM2bFZZRDBiSmVsWGFUaExQWGVzeFpUTWRWRXRDUU40bl9HMm1HdmpIYW03OTMwb19Pd1lFSGttVXZQUE5YMEFsdnhHc0Y4cEp2cktNVFIxYlFvVVFzY0tBN0hwNUdBRTBuNTBFTFJMNk5WR3NLb0F2Q1ozaHY0R3g2bXZmb1dyd3NLSThKYU42TEFHRGxiTDd3LTJObnZZdURiNC0tV1lFbXNZeHozZTJQcmd2ZUc0N212cnRaX3Zzcy1yR2gyT3A3aWtYeTB5Z0Q2T0JiWDF5MjYxZngySE0?oc=5",
-      "summary": "台股受影響？美半導體股殺聲隆隆、台積電ADR跌1.85% 陳重銘喊話了 Yahoo新聞 台積電連四跌！失守2300元關卡刷新4個月盤中最低 分析師：要築底反彈了 Yahoo股市 台積電跌35元至2295　台股跌767點回測44100 ETtoday財經雲 台股11月恐續探底！法人估下探42,500點 3大落底訊號成關鍵- 日報 工商時報 台股開盤》電子股殺聲隆隆 指數跌逾760點 自由財經",
-      "published": "Tue, 03 Nov 2026 00:03:26 GMT",
-      "display_time": "11/03 00:03"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股重挫台幣續貶專家說還沒看到轉好的訊號一事恐成大問題- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1COHVkUDJEMzBPNWNlMXNXTkUteXdKT0VxQnFXS29PdVpHYXp6X24wOUFyODV5TVEyM1VmUjUzZDJMRzN1SXJwUHFGQXJRUXozVmZCcE9jcWRTTjItN2dZ?oc=5",
-      "summary": "台股重挫台幣續貶專家說還沒看到轉好的訊號一事恐成大問題- 證券 工商時報 外資狂賣？新台幣重貶逾2角「跌破32.8元」 一年半最低 Yahoo股市 MoneyDJ新聞 2026-11-03 17:04:20 陳怡潔 發佈 MoneyDJ 外資賣不停 央行調節守住32.5元 自由財經 Fed年底恐升息 外資大舉賣超韓股、台股 台幣、韓元、日圓普跌 | 信傳媒 LINE TODAY",
-      "published": "Tue, 03 Nov 2026 07:18:00 GMT",
-      "display_time": "11/03 07:18"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股開盤不妙！美半導體股全軍覆沒 台積電ADR失守400美元 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORm94OUZ3VUgyUzV1ZGtUOF9RbkxPLTZhd3Fpck95SnJUemU2SHNDQndhcmNLcng2RnVJU0lDY2dxY2RfV0pXemNpMExsSXFxRkdoR2ZvR0pzZlNBS0s2Qk53OHZfNm9wRWZ0ejAyX0JYcUFuTWdjQjV3YUVTejVleTRR?oc=5",
-      "summary": "台股開盤不妙！美半導體股全軍覆沒 台積電ADR失守400美元 壹蘋新聞網",
-      "published": "Mon, 02 Nov 2026 23:11:00 GMT",
-      "display_time": "11/02 23:11"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普又嗆聲了！未達成協議 恐打擊伊朗地下核設施 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNQzFsUE1XLVpEcHJVOEwtbU5MY2VJc1hPbi1BTENOZm1UVEJEaEtQUGpESVFwaVljT1BrLUdHOG1sakViNks3dkRoUzJJMG9yUjdpdlkwaFloWW82TEptRVItMjNMUFg4Ukc1SlJIc2pMZjFNdThHS0RqLWw2cVhXOXVrbTY0NW9tdzZVYnNPRjJIdjFYT0cyRzVJTUxVbVZac19SdXlfQzd5REhzQnBPdkcta3dqMkZvbVpZakNrR2ZrZHdaSmRoZWhhb01LQW11dFRjQWZrOHJCblNHTnN3cGEzZXFKai1IbEpZVEpNa0ZrTWwyYlJ5NDhQYVNkMGZBUWNlelBGV09GbWdyYW9FcmtKWVdvYUYwOGtVeGFIc2trU3hQaWdvOVRQZzlEdXRlRlJ3dTI2X19uY3hfdEh6YS01bUtCY0I5SkVrcXlrSnJSZw?oc=5",
-      "summary": "川普又嗆聲了！未達成協議 恐打擊伊朗地下核設施 Yahoo新聞 伊朗最大島嶼凌晨發生五次爆炸 美國官員：美軍襲擊格什姆島 鉅亨網 美期中選舉／美伊衝突將如何發展？ 經濟日報 不講武德! 川普才說想和談期中選舉前夕美軍突襲伊朗格什姆島| 國際 Newtalk新聞 影音／遠方戰火燒進眼前選票：川普「強人外交」踢鐵板 高油價引爆國會變天危機 TVBS新聞網",
-      "published": "Tue, 03 Nov 2026 06:46:38 GMT",
-      "display_time": "11/03 06:46"
-    },
-    {
-      "source": "Google News Global",
-      "title": "千金股血流成河剩43檔 大立光旺矽等14檔跌停亮燈 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOYzRRVF9RQjh3eUFTcDNOY25IX2s1bDdQT2dCQlZzM2JQcWRoSFludzN1R3ZZdkFlZ0MtSkVJR3k2SHVFZzRYbmJTeS1UcGROeU1YOUhraEZiM0NmV0c1dWpQNlhmWDNVeFJIajk1X2dwX0pUOXVhWjZvdk9hUWZqVU81MnpZNjdKZ05YT2hyMXZmWVUxMWVIT0Zhd2Y5dTI1ZlZtZkpjM0lPelhnTHFzOXhWT3JxWW9PeFo4ODlMdkplWllCQ0laSXhfSURNNmJaTWRlNzRFZENGQl8wM1VXTjdicExYaXR2aF9qNVo3aEJqQjdZOGNjWlFuRlhJQ2lHMS10b0x5Ukd3d2puXzZpdm9lTVo5cHo1b1hQT29JNW43c1R5akJ1VllaQmIyVEI4eVExd2NzelBTcms2eDl4cm5rMm9lQkxqSUIxeWJIMzBTUQ?oc=5",
-      "summary": "千金股血流成河剩43檔 大立光旺矽等14檔跌停亮燈 Yahoo股市 快訊／台股史上第8大提款！　外資狠砍1073億 ETtoday財經雲 美伊.AI利空夾擊! 台股大跌1612點史上第7大 Yahoo股市 盤後／除美股影響 台股摔1612點戰犯還有它 三立新聞 傳美軍突襲伊朗！12檔千金股跌停 自由財經",
-      "published": "Tue, 03 Nov 2026 06:01:04 GMT",
-      "display_time": "11/03 06:01"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美期中選舉前夕川普支持率僅32% 持續徘徊在歷史低點 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNOFdRUzFzSDZ6S29aUF9vcTN1NEkyUFhBeFZrZWRGcnlaUWJSLWZhOE04ZEZ4YkVrUWJqRDVjV1RJX09kOElhRS1LNElXV00zTi01UmRILUg5QW9ZeTBFWlFIZHVCLUJ2NVNFQkVlS0tKRk9uak16UTNBVXRBNExDOWM2SERHbTRsU2pfNUpTWWZpMVhvX0ZrTHUtN2h2SVVMVGdYVklheFljZE1yQXQySkdOLVpGaHdIQmh2SnhWWXlvVXVwbWJCczJNTUZ0RFU2WTgzMDdVQVZURU53ZlQ5V3ZaVTFZNnFOV1FRTXVkZmJCLXM1UVBCRUpodVp3UjZDc21wUU55NHYyU3Bkc2xaSDZldEIteXZwZGc1LThvMk9zUnlJaDctNnBmQlFsQjF4SE5kZmN1Y2RpcU83TXFqOFRXVm1WSnhKalRCdEtDdGVhSkxEUFhlX3NfbUVaQjg?oc=5",
-      "summary": "美期中選舉前夕川普支持率僅32% 持續徘徊在歷史低點 Yahoo新聞 川普期中選後恐「豁出去」？ 總經學家：難怪外資一直賣台股 東森電視 美期中選舉民主黨沒想像中穩？專家列6理由 Yahoo新聞 整理包／美國期中選舉3日投票！改選哪些席次、何時開票、結果影響什麼？ UDN 美國期中選舉若川普大敗 投信：台股後市可能這樣走 自由財經",
-      "published": "Tue, 03 Nov 2026 05:41:20 GMT",
-      "display_time": "11/03 05:41"
-    },
-    {
-      "source": "Google News Global",
-      "title": "期中選舉前夕 川普否認選後攻擊伊朗、稱可能達協議 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPVVVNTHdOek04SEotRGhuRUprN2laNV9MblJWRDlMNmwwZ1A2dG1NQ2FuZUIxZUQ2RUdUamowTWJ0MXhaNm1aeGUtdXB0WVNNR29qSTBic0ktLUloelI2emNIc3VhX0N6aTlMZmExeWNieU5qTTdBV2pBaU5aTTBTbWVLTklkdlZTRFVTNW53anNLTUFTRktIN3N4RnFEaGs1WENkMHhtand6YVZpVGRlRTBFNE9yYjR5Vnh6RUVQdmJpWE5MU0RQVWRzc0RUbnRvMGZwMk15OWsyUHExallWYkJlNW9kREg5clQ0NTlpaGsxVXpsaWNTV2tFYzJvWGZ5UWZCdUE5UGF2dU9LSUlYcDdqc0M2M0tPbVFqd0VPem9MY3NiSlh4ZE5hOW0tT0FkQ1pyM2xHaFBiem9qT2xYRWZIQTdveHhqN3N0SjRnLXhVdkZWT29EVTlFbDY1dw?oc=5",
-      "summary": "期中選舉前夕 川普否認選後攻擊伊朗、稱可能達協議 Yahoo新聞 川普重大宣布！ 東森新聞 美國中期選舉今日投票 美伊走向仍存變數 中國評論新聞 伊媒稱美伊溝通無進展！川普自稱「正取勝」：不考慮期中選舉後打擊伊朗 鉅亨網 期中選舉前夕 川普、范斯對美伊達成協議表樂觀 | 中央廣播電臺 LINE TODAY",
-      "published": "Mon, 02 Nov 2026 21:24:11 GMT",
-      "display_time": "11/02 21:24"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股短線震盪大 金融機構看好選舉後迎轉折 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBldVBMbE5STnl1aWlGa1NwcXc3NGpWYURxdVpxYVdUS1ZVdVA2V2U1Z3haNDFfVnNqdkh0OXVTWlI0Sm84ZW5PaXhCdHJORm5m0gFWQVVfeXFMTUh3ZWxYanlVTUV0Zk9fV3pVeWtpVk95RWxsM2RSb1hkZWswSnloZjlhNWxYYm0yN3RoRGIyeGxRUXc1NU5BOGxKenpEeE5yODFkdkNkLUE?oc=5",
-      "summary": "台股短線震盪大 金融機構看好選舉後迎轉折 UDN",
-      "published": "Tue, 03 Nov 2026 04:18:33 GMT",
-      "display_time": "11/03 04:18"
-    },
-    {
-      "source": "Google News Global",
-      "title": "邁威爾暴跌13%、Lumentum重挫19%！史上第二大科技併購引拋售 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vQXBndmw1QnBLb3B5UEIwYWpZb3FBcTc5YjBOS21SOVp0TFBEZ29HY3VlTldSY2VvRi12elNGb24wUUhDVW5YWnlsSHlGQTA?oc=5",
-      "summary": "邁威爾暴跌13%、Lumentum重挫19%！史上第二大科技併購引拋售 鉅亨網 美股光通訊巨頭合併台鏈卻全挫跌？穩懋炸逾百億賣壓吞跌停 分析師這樣看 Yahoo股市 Marvell與Lumentum股東抨擊合併協議 交易員：這是個「垃圾報價」 鉅亨網 邁威爾千億美元併購引拋售 23.9％溢價恐變折價 自由財經 Marvell砸1,150億美元收購Lumentum，整合AI晶片與光通訊技術 iThome",
-      "published": "Tue, 03 Nov 2026 02:41:06 GMT",
-      "display_time": "11/03 02:41"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股11月首日收黑291點！聯發科、台達電率隊救駕仍守不住4萬5大關｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxPcDhNX2xPVEQxenpZRFgyS1duTVJKS1pOeFA0YjdfTVhQODd4TzVhTTc3ZUFBdHNmb1hwZE1pcGxZeXFVZ1VwcEUwSmhndmtLYlNsZ3ZwdlJhcGJWaEROUHZQZ1JTN2RpeGF2Ry1HTmRXalhmU0VCVGViTmdjY0hkUU9yaFlVXzBiYkgxazVNVmNEZmF3Smw3S2VEU0lKbGF3cDd1WWZTc3QwUnp2WkhOaFVCRXJCX0ltWFRiTDhmcl9za09hYjBoZW1wU1ZzZ25ESThDN3dEam0yT1dHSXR1Ymtzdk5RelhNZ1I0UHZaYzR4aUhBalhxU1B5U1FpbUdFLVhqendGVFczUnozTmJQZk9BZWZzU1gydHM1T3dlZlhrWW9UaFBNRWRBVXpXaTV2cXR1ekV4OTRGOXVMZm5HcHQ2bUdMQXlSeEdiV2s1NUVybzNVR0s0SnUxazdDZG92UFNpVTlCMFNKUDBTZEpkZms1VVVRTjlNRWQtWDFhR3hNQlVoWkpvdjRrdkNiWFZUaWVPNGhHVmphaXV1VjFHUFVkbnV3dmZZV3N6UEk5NVNia0ZYVjFLMW9tT0dpbzVCSXgxZFVaRFk4SXNhSzJBa2p5azNxMGI5NjVRaHhESGlQOUJUdWtSQlFTVQ?oc=5",
-      "summary": "台股11月首日收黑291點！聯發科、台達電率隊救駕仍守不住4萬5大關｜Yahoo財經掃描 Yahoo股市 法人：台股最壞狀況已過 市場預期美期中選舉後反彈 | 市場焦點 | 證券 經濟日報 台股失守4萬5，更大崩跌在後頭？該砍光持股換現金？台積電、鴻海、川湖…老手揭落底訊號：這5檔搶先撿 今周刊 台積電跌40元 台股下跌291點失守45000點 Rti 中央廣播電臺 台股進入回檔！外媒：別急著恐慌或抄底 也不要逆勢而行 自由財經",
-      "published": "Mon, 02 Nov 2026 17:45:28 GMT",
-      "display_time": "11/02 17:45"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股失守4萬5主跌段已過？投顧揭3大落底訊號 後市不必悲觀 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcHF6ZU1VaFIzdlZzamd4eXp4MThlV3pqLUloeHBqNlhYdGxSN0tWdDdHMENJSDlKc1Z6aElsaW1sMWxvREhUVFNfbWJRcFZlend4SUNKVTAwLTk0NzdEa2Z6NVlPeEg2WHlBbWhPMXNSaEM1MUszQ1BQQXdWTXduSHlR?oc=5",
-      "summary": "台股失守4萬5主跌段已過？投顧揭3大落底訊號 後市不必悲觀 壹蘋新聞網",
-      "published": "Mon, 02 Nov 2026 17:00:00 GMT",
-      "display_time": "11/02 17:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "本來只想把台積電當「分包商」！傳馬斯克態度軟化了：重新協商營運主導權 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxNQVJ1QmFUd2F6dWNrYXBSMFJwcjJNbFh3bW5lZEJ0TW1SeWdGMGhWR3E5U1hkTmFrUDFCN19zbS1Pb0ZzT0JxamtXUmRqZ2stZmFNb0tjLXZ2azlrUzcxNi0ySWl5dHg2dGxzWm1mTmNWRUZ2X2NiaXd3Ny0tUk51QmVRZFktWEhPS0w5Vmh1Z1E5emVlR3ozbVBJTzVsWjNBcTJPM0lNNWhRcEFEbHZUU1BTekxZenRkdlVreDdlbkNkM2t3czBUS0wtRzFtblVmU09fdzNFOGN0Wm5wU0IzNlFaQmxmbkdUWmxBOUZuT0x2ajl6RXZGQ3ZfWnNsY01TYTRTWXBmSDdlckRfZjkwYjhaU2tobThOOGJ5WlNLdEhXRXNwQ3JfZC03UFMyUnJJTjJrMkNBTFNPUHdSOXk4SHVqVVZRMHFRc1JDVkM4UENMY0l2S3JteFVBY003d3dzYUxxS3U2b0VIWWJINGFpTW9SNmJXM09BRlRFbk43VDJtZ3FJOGwteVRQZlpjWC14ZlBRcmdJb3VCQmVRb1VuTzFRY3hSTGpYVzZHUE10bnVkU1RIeTJpNnp4LWJwNzQ?oc=5",
-      "summary": "本來只想把台積電當「分包商」！傳馬斯克態度軟化了：重新協商營運主導權 Yahoo新聞 Elon Musk態度轉趨務實 傳與台積電「重新協商」Terafab合作大計 DIGITIMES 傳馬斯克對台積電軟化了 洽談超級晶片工廠合資和營運 自由財經 台積電股價週一微升 投資人關注全球擴張與特斯拉合作案 蕃新聞 馬斯克放軟？Terafab 台積電合作案傳重新協商，英特爾定位成焦點 鏈新聞 ABMedia",
-      "published": "Mon, 02 Nov 2026 16:30:00 GMT",
-      "display_time": "11/02 16:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美期中選舉今投票 川普說將成「否決先生」 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2OVpocTlzS0t4a0cwSEdVVmNnbGwwblltS0IyMmcwSmpRSmt2dTZLYzBTc2ZBMmkxcFo0ZG9kRVpTc19BczdnLXV1VnRDM1M00gFWQVVfeXFMUHp5SE9SZEJfUnNjU2pOeXFVMXY2d1pyOENXb1dSSEZ4UWJiUjcxSjlld0xBUWtydTBIMXNpdzlLSktTY1VjSThzd1hTQmJpSTVXZDZtMWc?oc=5",
-      "summary": "美期中選舉今投票 川普說將成「否決先生」 UDN 期中選舉前夕川普民調仍低迷 民主黨聲勢大漲 自由時報 川普罕見承認恐敗選 要當否決先生 中時新聞網 美國期中選舉前夕 川普倒影池前舉行最後造勢 公視新聞 美國期中選舉前夕民調出爐！ 川普施政滿意度僅32％ MoneyDJ",
-      "published": "Mon, 02 Nov 2026 16:00:00 GMT",
-      "display_time": "11/02 16:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗最高領袖授予政府與美談判權限 盼結束中東戰爭 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwQTdzcjdCLU81NVQwZnBxbkYwbE5pQUdydzZRcUk1YlVPOUZobldkaUJxc0lHZnB4aktrTWp1N0VYZEktVVBCaWVXX1gydUJZUVFJLTduTFFiYk1EaVJQZzNxN1JwZ9IBa0FVX3lxTE52eENPTkZCMTREem14aGxvY1NrRmpMSVhIZmxvRXBSVDRzWkhQQkIxTmdZZG9lNThBQUdLV1JfOEtHcEVyWkQ1WGg2Qk5xYnlxSkdzQl95Y0xXNEhjdks2NTVhYkZESWxuNGRj?oc=5",
-      "summary": "伊朗最高領袖授予政府與美談判權限 盼結束中東戰爭 自由時報 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Mon, 02 Nov 2026 14:59:38 GMT",
-      "display_time": "11/02 14:59"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈美股早盤〉油價急跌讓華爾街喘口氣！科技股反彈帶動主要指數開高 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nWjlob1dFM0g5SEFuRTlwTUNYZlVodjF3dV9yOUV5VUNEdXNsMXZMWlhXNHRad1hjU2tsTWR2dUg3a0kyNVlVQXVUbjJhVHM?oc=5",
-      "summary": "〈美股早盤〉油價急跌讓華爾街喘口氣！科技股反彈帶動主要指數開高 鉅亨網 美股盤前／AI股回穩 那指期貨漲逾0.8%，市場聚焦蘋果財報與期中選舉 鉅亨網 美股早盤稍止跌！台積電ADR股價疲軟 | NOWNEWS今日新聞 LINE TODAY 新／美股開紅盤 但台指期夜盤失守45K 鏡週刊Mirror Media 美股期指大幅上漲 美媒：本週可迎來爆炸性成長 自由財經",
-      "published": "Mon, 02 Nov 2026 14:41:16 GMT",
-      "display_time": "11/02 14:41"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台指期夜盤崩逾900點！美伊和平曙光難救美股　費半跌3.37% - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xR0FOcVJlSkdVTHIta0VIdzhuelZUUHo0cGRwSDd0S25mbktRckpoeFNPZnJDZHRwUlRkRnllRWJlZ2lwaEtRdFdLMHVXaEFDU0HSAVBBVV95cUxQeU1IN2hvWFBxN1JoODNuUVJYcFVFUjkxalJqck8tYm1NTU1XSWFOTVFPZXp2TE44NDlmU2NlZUUzelZsLVExbWo1cmZ2WlFjbQ?oc=5",
-      "summary": "台指期夜盤崩逾900點！美伊和平曙光難救美股　費半跌3.37% ETtoday財經雲 【盤前】美費半血崩3.3%！台指期夜盤崩917點 台股4萬4關卡拉警報 Yahoo新聞 天下晨間新聞：油價崩了，費半又跌！Anthropic嚇壞華爾街 天下雜誌 〈美股盤後〉川普稱不急於再打伊朗、鎧俠財測拖累記憶體股 費半11月首日挫逾3% 鉅亨網 美股收盤》半導體與科技股全面收黑 台積電ADR下跌1.85％ 自由財經",
-      "published": "Mon, 02 Nov 2026 22:22:00 GMT",
-      "display_time": "11/02 22:22"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電市值從2.2兆上看6.5兆美元 外媒估這時候股價漲3倍 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tQnFkUERwSXBCU0RVUTNHTG1WcFdsYUpCNDk0MlczcDlOR3hIVWltcUpyeXpTZnE3MHB4cDdDSjRhMVNpOWpTOV9aRkZka1RjQlVORGxmSW1RaUdmYlNv0gFkQVVfeXFMUFF3bndIaVdoN2pnLVdFYUl4NVhvVlRSaktsZ1doOFZ0emk2MjNvMTJ1cGMwRkxDeWstOXBwcXF5VmtHNWlrdlRpX2pLRFRtaVBMYnp4N2VVekp6ZHJDTW5lV2RQcQ?oc=5",
-      "summary": "台積電市值從2.2兆上看6.5兆美元 外媒估這時候股價漲3倍 自由財經 科技股真還有救？台積電跌破7月股災低點 投顧副總卻看到轉機：先不用砍 Yahoo新聞 台積電遭誤殺！ 總經學家曝「1情況」：股價有望衝8000元 東森電視 基金-FundDJ基智網 MoneyDJ 焦點股／外資連16日砍16.4萬張！台積電跳空跌逾2% 寫近3個月新低| 產經 非凡新聞台",
-      "published": "Mon, 02 Nov 2026 13:07:35 GMT",
-      "display_time": "11/02 13:07"
-    },
-    {
-      "source": "Google News Global",
-      "title": "伊朗：美方若同意訴求荷莫茲海峽最快2天內重新開放| 中東戰火連綿| 全球 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hbUZ2VnJNSFJ5dnJhbXV1a0Z0LXVRbkRDQjI5akJjSTN2Y1FCQTQ1aHAwQjY4WDlzMTJoVkpmTEQ1dm5jYkFkbEZGYVdnWFBqTERR?oc=5",
-      "summary": "伊朗：美方若同意訴求荷莫茲海峽最快2天內重新開放| 中東戰火連綿| 全球 UDN 伊朗披露「兩天計畫」！美履約後開放荷姆茲海峽、川普傳不願以色列干擾談判 Yahoo股市 伊朗：美方若同意訴求 荷莫茲海峽最快2天內重新開放 中天新聞網 別來干擾美伊談判! 美、以「尖銳」對話以施壓立即攻伊 美軍25加油機待命| 國際 Newtalk新聞 伊朗暫退出停戰談判 傳草案2天內重啟荷姆茲海峽 自由時報",
-      "published": "Mon, 02 Nov 2026 11:42:37 GMT",
-      "display_time": "11/02 11:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "67萬股東心慌了！力積電3天跌8.41％ 幕後兇手曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZkUyMTFBMUJXbkQ0bFJSMTM5T0FHblZRQml0dkp2emFaSzlNeFF4N0NvdWpFRFI4cE12RWVfSjF2TUZqazk0elRaSFFqa1hZQ0o0T1VaYm94bVZtdlVB0gFkQVVfeXFMTWRER0phOUlaSGtYWFY1ZmVrZ2hzZXJIV3M4MzhGUzJjaXdveU1DTGhIaVVGaXp3T1hHY3Vfb2pUVFUtajkxVEhtbk81cHJjNmFfNzZ3VGgzZXlKVG5fbXdsYXV0NA?oc=5",
-      "summary": "67萬股東心慌了！力積電3天跌8.41％ 幕後兇手曝光 自由財經 【Follow法人】外資又提款台積電近350億元 反手卻掃貨鴻海破2萬張 Yahoo股市 外資連3砍！今提款力積電、台積電最多　台股進出前10大一次看 ETtoday財經雲 外資狠砍735億卻狂買「這檔」！一口氣掃2.66萬張股價飆4.7％ 98萬股東笑了 自由財經 外資賣超735億元但大買這十檔 鴻海、航空、面板、傳產龍頭都在內 UDN",
-      "published": "Mon, 02 Nov 2026 08:30:03 GMT",
-      "display_time": "11/02 08:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美民調驚現「藍潮」！民主黨攻挺川大本營 專家警告統計失真風險再現 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1GakM3VEp3SGxMempsYWVNRW9abG8wb3lPT1ZlVGxWc3B5ZzctcjljOHota2ZBeE41U3RyeDZ5T0NvaU95b2tibkotNEQ2bVdk0gFWQVVfeXFMTUEzMDh4NEpUTXJVRVVrWUNaYnpWa1MzYWJXaXVaNXJMUjloNTFibDF2dlQ2aVY1bldkS01tNUNEUGMxOEFqOUNzN1F1TUg0ZWxTVVpyVmc?oc=5",
-      "summary": "美民調驚現「藍潮」！民主黨攻挺川大本營 專家警告統計失真風險再現 UDN 美期中選舉11/3登場 美媒判定勝負機制一次看懂 UDN 川普能源政策迎變數？美國期中選舉牽動油氣、綠能與關鍵礦產投資 ESG遠見 川普稱若民主黨贏得期中選舉 恐動用權力當「否決先生」 公視新聞 美國期中選舉共和黨崩盤？專家學者6大理由不認同 自由時報",
-      "published": "Mon, 02 Nov 2026 07:53:16 GMT",
-      "display_time": "11/02 07:53"
-    },
-    {
       "source": "BBC Business",
-      "title": "North Carolina voters weigh up Trump's track record on cost of living",
-      "link": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
-      "published": "Sun, 01 Nov 2026 22:25:51 GMT",
-      "display_time": "11/01 22:25"
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "published": "Tue, 03 Nov 2026 15:51:23 GMT",
+      "display_time": "11/03 15:51"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
+      "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
+      "summary": "Taco Bell's same-store sales declined as a Cyclospora outbreak tied to lettuce served at its restaurants weighed on traffic.",
+      "published": "Tue, 03 Nov 2026 15:19:14 GMT",
+      "display_time": "11/03 15:19"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
+      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
+      "summary": "Ferrari raised its 2026 guidance Tuesday after third-quarter revenue and adjusted earnings per share edged past Wall Street expectations.",
+      "published": "Tue, 03 Nov 2026 14:43:43 GMT",
+      "display_time": "11/03 14:43"
+    },
+    {
+      "source": "Google News Global",
+      "title": "〈美股早盤〉晶片股回神！那指反彈走高 蘋果卻拖累道瓊 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qbGoyXzJjekFjSnkxMURWMG5pTGlBRDdZSjNDTnFSbEU2VFJQckFRb1lmQ21PZ3NKaDduakZpdUtyNE9acHpCczNBbGpDMTg?oc=5",
+      "summary": "〈美股早盤〉晶片股回神！那指反彈走高 蘋果卻拖累道瓊 鉅亨網 快訊／那指反彈、晶片股回神！蘋果拖累道瓊 台指期飆逾500點 Yahoo股市 市場靜待期中選舉結果美股早盤漲跌互見| 全球財經| 全球 UDN 天下晨間新聞：油價崩了，費半又跌！Anthropic嚇壞華爾街 天下雜誌 美股收盤》半導體與科技股全面收黑 台積電ADR下跌1.85％ 自由財經",
+      "published": "Tue, 03 Nov 2026 14:39:29 GMT",
+      "display_time": "11/03 14:39"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Versant earnings beat expectations as digital platforms drive growth",
+      "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
+      "summary": "Versant posted third-quarter earnings that beat Wall Street expectations and reaffirmed its full-year guidance.",
+      "published": "Tue, 03 Nov 2026 14:17:42 GMT",
+      "display_time": "11/03 14:17"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股暴跌1612點爆「賣好股救套牢」！ 專家：融資不吐400億沒完「跌得痛不等於跌完」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxObnlPdVg1NjlDOGw3NEJIbDF6NzJVaDBMNWwxUWdNRXJzZHQxY3VPSFFwUXc2UDFkNlF5WXViejFTOXlwUWMwYUlFbHVVdHNDMTFaQWRWQ3ZJTFJVMkdvb2t1ZEdZU2VnLXlNOGVxZnNIT1AxWUpxdDBzSC1lQ3RyMVlJeUszYTRnbDNZQy02dmFUTDh2ZlRONVd6ZVJ3Vi00RktQaV83MWIzUjUwbFRWQUJSSzdEeFpRcF9oMkVFMDQxNzNRc0hEZFU2U0dubHdoMTFiV1ZIVDI3QjVTV1Z3ZldhODk4R2V2aFN0V1Z1cTg4bFV0Q0FMVnNlVzAzMmh2dk1LSnd0RE15N2xsVi1SbXJoa1FHVXZEQnNaVTN4dmdadHVXUVBqTi1tQkFHZUhaV3lQY3VRNm5kakhBc1pQWDUtOU9KcEtYYlRUMjlvejY4aHZHREl4YTVobTdxY2d5RmpJUUlybFpoRGpKMGQxamwtN1ZOVW1sbkVkNWU0OEgzNjlKdWtKdEwxWVpYUTEtWE1tLXAxZk5iUXhKckNHM3pLTTlYYUxEb1FydlpOVjgtQWFxbkJhVzlGdHVYZw?oc=5",
+      "summary": "台股暴跌1612點爆「賣好股救套牢」！ 專家：融資不吐400億沒完「跌得痛不等於跌完」 Yahoo新聞 台股血崩！金管會曝「二原因」喊話：基本面無虞- 金融 工商時報 台股血洗6700點落底了？專家估短線仍有千點下跌空間：低點恐在「這時間」 Yahoo新聞 台股下跌1,612.6點 金管會喊話了 經濟日報 股匯雙殺 台股失守4萬4創史上第7大跌點 公視新聞",
+      "published": "Tue, 03 Nov 2026 12:43:00 GMT",
+      "display_time": "11/03 12:43"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美期中選舉／國會誰掌權？民主黨贏恐加強AI監督、共和黨贏添赤字隱憂 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVQWhVWDFDZ01Sd3RpWl9wY0NCanR3V3VxY2lITExWZGJ6bl9paWJ5RUhNRDlCQkJ6Um1fRUUyM3RqZTRjb2pBSjcxbzFoMlYweGV3?oc=5",
+      "summary": "美期中選舉／國會誰掌權？民主黨贏恐加強AI監督、共和黨贏添赤字隱憂 UDN 美國期中選舉今投票！ 一文看懂紅色及藍色浪潮對美股有何影響？ Yahoo股市 美股選後要反彈了？瑞銀點出年底行情兩大助力 鉅亨網 川普期中選後未必跛鴨？ 分析師：「藍潮」衝擊市場氛圍但實質影響小| 美國期中選舉| 全球 UDN 美國中期選舉影響金融市場的三種情景 日經中文網",
+      "published": "Tue, 03 Nov 2026 06:42:35 GMT",
+      "display_time": "11/03 06:42"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美國中期選舉：競選開支120億美元「打破」紀錄，馬斯克已花5億 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVR2xKQ3pxQk5HY2QxZDdoRDdDeUdfeTNIaUZfSVNxeU93MXlwWDNlZ3JlYmNxZzJza0Q2RFgwLXg5SFJlajlkeTU4akJDdGh1RnduV2FJR1ZUTTBHQTlGam54WkdFdTDSAWxBVV95cUxOYjlIdGp1UGNQOV9yV1Q2SXVpQkM2V2VGb2JIMW4wNGk4ZkMxNUM3ZDJWYk9WLURKdE5VT0NvdG1yZU10WjNzR2M3VlV5TDNkWWpBZlV5UzB5TlpEbG4xUThfWFlZZGZyejBkVXE?oc=5",
+      "summary": "美國中期選舉：競選開支120億美元「打破」紀錄，馬斯克已花5億 BBC 川普期中選舉前演說打愛國牌 促隔離2萬張郵寄選票遭駁回 公視新聞 美國期中選舉今起開票 民主黨拚「藍色海嘯」 UDN 美期中選舉投票川普選前之夜唯一公開露面演說不尋常- 國際 中時新聞網 為贏得競選 什麼話題不能提？ Yahoo新聞",
+      "published": "Tue, 03 Nov 2026 05:21:37 GMT",
+      "display_time": "11/03 05:21"
+    },
+    {
+      "source": "Google News Global",
+      "title": "不講武德! 川普才說想和談期中選舉前夕美軍突襲伊朗格什姆島| 國際 - Newtalk新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03eUduMWhRUk84Yk82cEMxdExTTUJPVlZzZkdQVHVyMGxySEphb3ByMGtfM3JQd2xMWjhkT3FIc2RYV05qRGZMYUdNMlRNVDFQX0JOM19ZNXRMT2s?oc=5",
+      "summary": "不講武德! 川普才說想和談期中選舉前夕美軍突襲伊朗格什姆島| 國際 Newtalk新聞 美期中選前震撼！美軍突轟伊朗石油重地 Yahoo新聞 美伊衝突升溫 卡達稱達成協議仍有機會 Rti 中央廣播電臺 別鬧了！美期中選舉後川普要核攻伊朗太荒謬- 國際 中時新聞網 伊朗最大島嶼凌晨發生五次爆炸 美國官員：美軍襲擊格什姆島 鉅亨網",
+      "published": "Tue, 03 Nov 2026 03:03:31 GMT",
+      "display_time": "11/03 03:03"
     }
   ]
 }
