@@ -2,36 +2,20 @@
   "date": "2026-11-05",
   "news": [
     {
-      "source": "CNBC Finance",
-      "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
-      "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
-      "summary": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
-      "published": "Wed, 04 Nov 2026 19:53:32 GMT",
-      "display_time": "11/04 19:53"
+      "source": "Google News Finance",
+      "title": "台股近一月狂瀉逾8,000點、外資提款破兆！ 證交所喊話：相比各國股市仍抗跌| 財經 - Newtalk新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByZGtFUkR1WjAzanRoNFVBYXBXTTVKWVNjdjh3cVgzdGZKZ0t5d3ZBU0hIRVAzaTg2ZERldTlXRm1PRUhvN05EQVNoQmxPbDFDOHhJR3VrNHNuY00?oc=5",
+      "summary": "台股近一月狂瀉逾8,000點、外資提款破兆！ 證交所喊話：相比各國股市仍抗跌| 財經 Newtalk新聞",
+      "published": "Thu, 05 Nov 2026 09:35:17 GMT",
+      "display_time": "11/05 09:35"
     },
     {
-      "source": "CNBC Finance",
-      "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
-      "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
-      "summary": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
-      "published": "Wed, 04 Nov 2026 18:37:11 GMT",
-      "display_time": "11/04 18:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "「敗選就是因為戰爭！」范斯開砲 美油重挫跌破90美元 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWlJnclVsOG85U3p2LU0xSzNkMUh3QkJBVGh4cmc5UWJrbFM0T0R3MEl4MW1CbmJjVVE2bW13TGQ2T2l2WnN2MmFvb0VqS0xWM1g1Ry1MQ0dfYVNMQktha09wb3YzYXRzR2hULXBybG8xUy04b0daQ1NoMTQ0em9Cd0t2b1NwdHZsQklWWXp0aWppRkhCQ193WHU1bGJLaF8zc1lVbVp4MzVuVXFsSVdPcFFodW9BeU1HVlhtR2Y3dzJnTFZ5T0U2dllDWGFiLV9LV1BOcFlLNTd5b05PeVhSVGE2Vm9lSnNtZ0p2M0MzMXF6SzZGRElKLTJDbUstejdzOGltdGhrMEFXQjZfTnFPMWZ0SklLMG1JQUd6ZF85SWVONU9oNjQxZ0pzNnhOT2lYbUFiQWt3QlhiOWEtc1dpS0Q5Nm1XQXBnYU00aU9Ld0E?oc=5",
-      "summary": "「敗選就是因為戰爭！」范斯開砲 美油重挫跌破90美元 Yahoo股市 美選後牽動全球局勢 伊朗觀望和解或衝突 以色列面臨斷援危機 烏克蘭靜待後川普時代 自由時報 國防部長赫塞斯 名列彈劾榜首 UDN 共和黨輸到脫褲！川普要找替死鬼 赫格塞斯料成頭號「代罪羔羊」 工商時報 〈美國期中選舉〉民主黨可望大勝！伊朗議長解讀：美國選民用選票說「不要戰爭」 鉅亨網",
-      "published": "Wed, 04 Nov 2026 17:30:03 GMT",
-      "display_time": "11/04 17:30"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股明天真的有戲？美國大選不確定因素消散 夜盤翻紅了「一度跳漲逾千點」 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOV01lbW9VRURqdGNVbXZlR3N2MXJ2eGlaSDFJRkVIdVp5UWhEaXlNUXlwVmhldlp3RGxYTmx5Mkx5el80Mk94cWc1cWRCcVlKME03ZTY2Y1U4UjFsM1FRZkNZdUNiLS1rYUl0QWFLcWt1R2pDcG1wM2lvMEpvNW10X3pwcDV0YzlZTjFsRXNCREE3eVg0R2VaY3dINm43RFZPVTNxUG50NVFwM2pIdENtRzNPdWpKYXQ1Q0toRWYtdFZ4czlETmctbHVYTWc3cVVuV2RZS3hQUjJkQ1IzdTBwZmx1SlEzWjhNOXNUTTNwaTVUWmgtd3FJUVV0ZUhyRl9kdTQzcDlzcGZWMGtRc1JwMGdDS3lreDk2anFaX3cyblJISEotSnNiNnBic19HdFJrLTFfYk5nQmFxbDdiSWNSbjJsRWRxM3JWQlQyUUxjSVBYYzd5ZlQ3RFNKdkp6LVRPQ2tzbFVyVmR5SnpVSENGbUZNV2RzNnVibV9FOWoyc2xIeTVHOGJmRlBNdG10QUMwcDBhSjEwOVlTVEc1MGFQLXN3blVSNml5c05QQktLU3o5QUZvMmp5Z2ktMk9iTjA?oc=5",
-      "summary": "台股明天真的有戲？美國大選不確定因素消散 夜盤翻紅了「一度跳漲逾千點」 Yahoo新聞 台股盤中暴殺1451點！達人曝「大舉進場黃金時機」：鎖定2大轉折點 Yahoo新聞 美國期中選舉引發市場大震盪 台股五訊號 拚止跌反彈 經濟日報 明天開盤穩了？台指期夜盤漲了 強拉逾480點 自由財經 美期中選舉影響亞股分歧 台股盤中下殺千點終場收4萬2 公視新聞",
-      "published": "Wed, 04 Nov 2026 16:42:40 GMT",
-      "display_time": "11/04 16:42"
+      "source": "Google News Finance",
+      "title": "台股跌17%還沒完？富邦：融資恐再減600億 4萬成關鍵支撐點 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTm5VdXhIa3ZRV1hPS3FvZW4ycjA5dEhXYXNwUTFteGJlV1dUblFQVnY0TWxpelVqdkFJREVZN2U0SnNrQUE4NzNxX0hFWnRETGswRllCTW1JV1BNa2xjT3lvLUZiMURBQUIxUGF1bzNLd1JvNFI0TDdYRjN1TnlYcXRR?oc=5",
+      "summary": "台股跌17%還沒完？富邦：融資恐再減600億 4萬成關鍵支撐點 壹蘋新聞網",
+      "published": "Thu, 05 Nov 2026 08:54:00 GMT",
+      "display_time": "11/05 08:54"
     },
     {
       "source": "BBC Business",
@@ -40,6 +24,38 @@
       "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
       "published": "Thu, 05 Nov 2026 00:00:09 GMT",
       "display_time": "11/05 00:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "史上第10大賣超！外資再砍千億元台股連六挫何時止跌？專家揭兩大觀盤重點- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBocmhTdjVsZF9URlI5WlV1VEdjRnlsZWZrWTVYZm9GVU0xSDdhcmFUYjlac25IR1hxeGlXQ1NxcVdCcUhUUEtocHJfY0MzdVBWbVR5a01JWjlwZjlfU1Qw?oc=5",
+      "summary": "史上第10大賣超！外資再砍千億元台股連六挫何時止跌？專家揭兩大觀盤重點- 證券 工商時報 台股短短1個月大跌8000點 證交所信心喊話：仍有韌性 Yahoo股市 外資賣超1024億元創歷史第十大 狂砍00406A 17萬張、0050 7.2萬張 鉅亨網 外資10月大逃殺！ 淨匯出2,112億元創高 三大類股遭砍殺原因曝- 金融 工商時報 三大法人賣超1234億！外資連6日砍6144億 台股重挫5460點 TVBS新聞網",
+      "published": "Thu, 05 Nov 2026 07:21:00 GMT",
+      "display_time": "11/05 07:21"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美2028白宮爭奪戰開跑！范斯背川普包袱民主黨有新星竄出| 美國期中選舉| 全球 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPUFRwVEN2YVR2MTVwTEpBRkxKUjFpUHplbUV1ekhWX1I5a2c5U2NwcUhicXFSY2M5dkhwRmhaZXZwZDFKQVQ5LXhBYUItVndaYWp3?oc=5",
+      "summary": "美2028白宮爭奪戰開跑！范斯背川普包袱民主黨有新星竄出| 美國期中選舉| 全球 UDN 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Thu, 05 Nov 2026 06:57:46 GMT",
+      "display_time": "11/05 06:57"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普才認開戰害選情！美軍傳已完成「大規模作戰整備」 隨時準備打伊朗 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxNdENIczVvVU1nYjRqUmlUN2JWM0NNOGQwRkZ6LTNmUEZ0X2VkVDlPVjltSzlUb0VSY1gxOVU4RWkwM0ZMOVdjcUhndVRfWHlVbUtpQTJ1dGRISm8yNks5bjF4elBQUTRCRy1DMU55LWZ2V3ByMW1rcXhqb3d5R0JVajl4akVVR2R5TmZPeTFzSDlUSHB3ZVhPS21BNE54TWJxS29iQmYwYlJUZExZTHZfaEpleGd0eGU1ZUtldHlFN25UcS11UUJsQ0NKdWh2SVFIcVpCOWpscktrTkN3ZU9LQWJOT21rcDdPU29zZEVURENGOUQ3NXYwYlc5TGh4VU93LWExUUpMQ1lCMWpTX3RCVlVIWkM2WWxORDdCbFowYmlnUWFtSFhKNEh0MkFfX0JueFRELXdfWkdpczhNbmZhemFmcDZfd3FPRkVmelFRTEVlcHlCMDlXYUxyOTR2R21YNE53aDVVOW1jYlFGNjhYckxDLW1KUC1hN2x3a0VtVmJKdE0zTndkZkp0N2tSNktwRnhla3M4N1A3QWJCYmdFaWo3RlEwV3B3WU51bjhMYUFzTkE?oc=5",
+      "summary": "川普才認開戰害選情！美軍傳已完成「大規模作戰整備」 隨時準備打伊朗 Yahoo新聞 謝步智觀點》為了「續命」不惜全球動盪? 納坦雅胡拱川普再攻伊藏這大陰謀| 國際 Newtalk新聞 川普：美國目前無意立即攻擊伊朗、稱美伊談判持續「已得到想要的一切」 Yahoo股市 川普喊「不急開戰」！官員爆美軍加速備戰 隨時可攻擊伊朗 東森新聞 美軍承認空襲格什姆島！荷莫茲海峽交火、和平談判仍同步進行 | 謝駒蕥 | 新聞 風傳媒",
+      "published": "Thu, 05 Nov 2026 06:31:44 GMT",
+      "display_time": "11/05 06:31"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "股匯雙殺！台股重挫失守4萬2 專家：外資難回補、輸入性通膨壓力增 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFlQdkc2X3BXZlNJQ0R4ZXBoY09XdTFyRmVvQ0JnREFkZXNtYkFuZS1pOFNHSTlRU2xIVHJ0VDFfTTZpZ2hmZFdfYjROVGdIWGFSdzFEWVVKdDFYZlNPTENjdlNtT2YzOEJwRXM4ZFg2dXVCWi1xVmZYNFFSRzVWcnBn?oc=5",
+      "summary": "股匯雙殺！台股重挫失守4萬2 專家：外資難回補、輸入性通膨壓力增 壹蘋新聞網",
+      "published": "Thu, 05 Nov 2026 06:25:00 GMT",
+      "display_time": "11/05 06:25"
     },
     {
       "source": "Google News Global",
@@ -58,12 +74,12 @@
       "display_time": "11/04 22:02"
     },
     {
-      "source": "Google News Global",
-      "title": "【美股盤前】高價收購Lumentum稀釋股權！法人下修Marvell目標價曝 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMmpEeUFldmEzbldXWFN6d2xhWU01NjRJeXBMMWswUDhpOTJpRVRmZE1mX0RqU2h5T0NmUmxyb2pPUFlPeHFOcEZQbDl1U0Noa2JURXVmYXBMYUMwQ2VYRFl2UFFCSEpJTkliZVhxeU9ITzZlOUlXMjVqMm90SU9vUk1aSEtYZGVWS0lxV0tDU3VoWmpBcWEyLTMxYlMzTXhQU255ZDF3N1NNM3o5U0FXNGg3T2x3TjkyM3B6ZE9aRDVRcGhQTWRQV1dnZnQ4OV9XX3kzZWxvLU1JOGQ0ZWVlbjFmeUlpSmIzMkx1bVFXNjNXZVRocHFGdmpDSWYtakNBclpPU1M5UFdpcEVjeHhxWEtZTDdTVnJrazVYb2xuRVUxVmFtZnlCYklieWg4alNUQ3N2cUVOODlHZG9qdFB6SUJpZEVwek1EclJJNm5FYVRDUXlxd2FxcE9R?oc=5",
-      "summary": "【美股盤前】高價收購Lumentum稀釋股權！法人下修Marvell目標價曝 Yahoo新聞 未必是美夢！邁威爾收購Lumentum市值蒸發千億美元巴隆點出特斯拉與SpaceX投資人也該警惕 Yahoo股市 邁威爾搶光源主導權Coherent意外受惠分析一次看- 國際 工商時報 Marvell併Lumentum給手機業者的啟示：供應鏈整合戰怎麼打？ DIGITIMES 【美股盤前】收購股權稀釋！法人砍目標價 鏡週刊Mirror Media",
-      "published": "Wed, 04 Nov 2026 13:43:00 GMT",
-      "display_time": "11/04 13:43"
+      "source": "BBC Business",
+      "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+      "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+      "summary": "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+      "published": "Thu, 05 Nov 2026 06:01:05 GMT",
+      "display_time": "11/05 06:01"
     },
     {
       "source": "Google News Global",
@@ -75,11 +91,27 @@
     },
     {
       "source": "Google News Global",
+      "title": "台股急殺逾千點失守42K關卡 千金股遭提款8檔跌停只剩39檔 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LU1NXa0ZaLUV2dmhBSlgzUVdTbktVSkRqZGpfMERGY1M2MGJnS0duYUU1S0NFa1Q5Slo4TXBNS0ZxcjJINlFpWHZaTEhRV2s?oc=5",
+      "summary": "台股急殺逾千點失守42K關卡 千金股遭提款8檔跌停只剩39檔 鉅亨網 美選後AI前景存疑 富邦投顧總座示警下周融資斷頭潮 恐回防4萬點關卡 鉅亨網 台股6天跌掉近5500點 證交所喊話回歸企業基本面 Rti 中央廣播電臺 今日台股》資金大逃殺！千金股、PCB族群掀跌停潮 台股終場下跌1374點 卡優新聞網 台股大跌1374點收41574點 56家跌停 國巨收跌停價404元 | 信傳媒 LINE TODAY",
+      "published": "Thu, 05 Nov 2026 05:01:59 GMT",
+      "display_time": "11/05 05:01"
+    },
+    {
+      "source": "Google News Global",
       "title": "美國期中選舉變天 產業市場／AI 資料中心面臨「藍色海嘯」 民主黨拿下四大重鎮州長 主張嚴格監管 - 經濟日報",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56TTRJek8zNi05X0JhRElQTnNvWlRmZW1uMUc1WjZKTlEyUENRY2Zla3VsZ0dmM3k3ckFQd1FhaTQxUXZleWgza2NTaHZ5MlRrWmRrTEs1Um1fd9IBX0FVX3lxTE9xb0dnU0tsN2hLc21HMHRuUEJycVZHQmF4TloxRzJvT05JMGdxSjBXZXdmemFVMTQtenZOaG4ydnlzRnM0c1lVMlFOSmJLc2pvVURFa1pUMWxXcGhFQ0Jv?oc=5",
       "summary": "美國期中選舉變天 產業市場／AI 資料中心面臨「藍色海嘯」 民主黨拿下四大重鎮州長 主張嚴格監管 經濟日報 民主黨重奪國會！美議員促用新權力施壓川普放行對台軍售 UDN 共和黨敗選只因伊朗戰爭？全美民調：政府貪腐更令選民在意 Yahoo新聞 川普期中考被活當！謝金河揭AI衝擊：台股5萬等明年 東森新聞 美國復興的糾錯力量 ETtoday新聞雲",
       "published": "Wed, 04 Nov 2026 20:18:35 GMT",
       "display_time": "11/04 20:18"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "New Flutter CEO bets on FanDuel promotions to win customers as profits suffer",
+      "link": "https://www.cnbc.com/2026/11/04/flutter-fanduel-promotions-q3-2026.html",
+      "summary": "Flutter's new CEO Dan Taylor issued his first earnings report as CEO on Wednesday.",
+      "published": "Wed, 04 Nov 2026 19:53:32 GMT",
+      "display_time": "11/04 19:53"
     },
     {
       "source": "Google News Global",
@@ -88,6 +120,70 @@
       "summary": "台股破底後急拉千點八大長老出手護盤聯電等17檔由黑翻紅- 日報 工商時報 台股早盤跌逾千點 失守4萬2 台積電平盤震盪 Yahoo新聞 台股開盤》指數失守42000了！早盤大跌超過1000點 自由財經 台股神V轉締六紀錄 三大利多撐腰 法人看好年底戰50K 工商時報 快訊／台光電跌455元至4100　台股跌1019點來到41930點 ETtoday財經雲",
       "published": "Wed, 04 Nov 2026 19:00:00 GMT",
       "display_time": "11/04 19:00"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "台積電股價有望衝3200元！群益蔡明彥揭進場時機 台股年底反彈有戲 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTUV5WU04VWxIaXhpVFZSU2toZjdDSjRTZWVuWTdScVlSNWRDS3NEZXVNdFI0Q0UyR2tRMDZfa0ZjeXE2cDFhMFc4R3gwTjczQ3pEQnBJejJEVm5lQld4U2ZPdnloa2JzOGhzYURsT3Bic1d1a2EwZ212bXE4NnBtSDhB?oc=5",
+      "summary": "台積電股價有望衝3200元！群益蔡明彥揭進場時機 台股年底反彈有戲 壹蘋新聞網",
+      "published": "Thu, 05 Nov 2026 02:52:00 GMT",
+      "display_time": "11/05 02:52"
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Trump hammers Fox News, blaming network for GOP losses as ratings slide",
+      "link": "https://www.cnbc.com/2026/11/04/trump-fox-news-gop-midterm-losses.html",
+      "summary": "Trump is a frequent critic of media companies, especially broadcasters that he views as being biased against him.",
+      "published": "Wed, 04 Nov 2026 18:37:11 GMT",
+      "display_time": "11/04 18:37"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "民主黨拿下美國兩院！投顧揭AI政策4大轉變 這幾檔台股恐受影響 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeC1CQVF6N2NUeHBGUWl2eVNvMlZOUnpaWEo2ZlFrSXVEWVNOOWpHNVhFY3ctNHlERHhpLWpHUDdvUTlwVjJqVG9FRlB4NGV6ckJtX1VyTXB0RmNYNHNuemE1NHRxY00teGtIWnVYZy15eFVUZ0JPX0pZSjVmVExQLXdB?oc=5",
+      "summary": "民主黨拿下美國兩院！投顧揭AI政策4大轉變 這幾檔台股恐受影響 壹蘋新聞網",
+      "published": "Thu, 05 Nov 2026 02:14:00 GMT",
+      "display_time": "11/05 02:14"
+    },
+    {
+      "source": "Google News Global",
+      "title": "「敗選就是因為戰爭！」范斯開砲 美油重挫跌破90美元 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNWlJnclVsOG85U3p2LU0xSzNkMUh3QkJBVGh4cmc5UWJrbFM0T0R3MEl4MW1CbmJjVVE2bW13TGQ2T2l2WnN2MmFvb0VqS0xWM1g1Ry1MQ0dfYVNMQktha09wb3YzYXRzR2hULXBybG8xUy04b0daQ1NoMTQ0em9Cd0t2b1NwdHZsQklWWXp0aWppRkhCQ193WHU1bGJLaF8zc1lVbVp4MzVuVXFsSVdPcFFodW9BeU1HVlhtR2Y3dzJnTFZ5T0U2dllDWGFiLV9LV1BOcFlLNTd5b05PeVhSVGE2Vm9lSnNtZ0p2M0MzMXF6SzZGRElKLTJDbUstejdzOGltdGhrMEFXQjZfTnFPMWZ0SklLMG1JQUd6ZF85SWVONU9oNjQxZ0pzNnhOT2lYbUFiQWt3QlhiOWEtc1dpS0Q5Nm1XQXBnYU00aU9Ld0E?oc=5",
+      "summary": "「敗選就是因為戰爭！」范斯開砲 美油重挫跌破90美元 Yahoo股市 美選後牽動全球局勢 伊朗觀望和解或衝突 以色列面臨斷援危機 烏克蘭靜待後川普時代 自由時報 國防部長赫塞斯 名列彈劾榜首 UDN 共和黨輸到脫褲！川普要找替死鬼 赫格塞斯料成頭號「代罪羔羊」 工商時報 〈美國期中選舉〉民主黨可望大勝！伊朗議長解讀：美國選民用選票說「不要戰爭」 鉅亨網",
+      "published": "Wed, 04 Nov 2026 17:30:03 GMT",
+      "display_time": "11/04 17:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "台股明天真的有戲？美國大選不確定因素消散 夜盤翻紅了「一度跳漲逾千點」 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMivwNBVV95cUxOV01lbW9VRURqdGNVbXZlR3N2MXJ2eGlaSDFJRkVIdVp5UWhEaXlNUXlwVmhldlp3RGxYTmx5Mkx5el80Mk94cWc1cWRCcVlKME03ZTY2Y1U4UjFsM1FRZkNZdUNiLS1rYUl0QWFLcWt1R2pDcG1wM2lvMEpvNW10X3pwcDV0YzlZTjFsRXNCREE3eVg0R2VaY3dINm43RFZPVTNxUG50NVFwM2pIdENtRzNPdWpKYXQ1Q0toRWYtdFZ4czlETmctbHVYTWc3cVVuV2RZS3hQUjJkQ1IzdTBwZmx1SlEzWjhNOXNUTTNwaTVUWmgtd3FJUVV0ZUhyRl9kdTQzcDlzcGZWMGtRc1JwMGdDS3lreDk2anFaX3cyblJISEotSnNiNnBic19HdFJrLTFfYk5nQmFxbDdiSWNSbjJsRWRxM3JWQlQyUUxjSVBYYzd5ZlQ3RFNKdkp6LVRPQ2tzbFVyVmR5SnpVSENGbUZNV2RzNnVibV9FOWoyc2xIeTVHOGJmRlBNdG10QUMwcDBhSjEwOVlTVEc1MGFQLXN3blVSNml5c05QQktLU3o5QUZvMmp5Z2ktMk9iTjA?oc=5",
+      "summary": "台股明天真的有戲？美國大選不確定因素消散 夜盤翻紅了「一度跳漲逾千點」 Yahoo新聞 台股盤中暴殺1451點！達人曝「大舉進場黃金時機」：鎖定2大轉折點 Yahoo新聞 美國期中選舉引發市場大震盪 台股五訊號 拚止跌反彈 經濟日報 明天開盤穩了？台指期夜盤漲了 強拉逾480點 自由財經 美期中選舉影響亞股分歧 台股盤中下殺千點終場收4萬2 公視新聞",
+      "published": "Wed, 04 Nov 2026 16:42:40 GMT",
+      "display_time": "11/04 16:42"
+    },
+    {
+      "source": "Google News Global",
+      "title": "股匯震盪 匯銀：外資匯出露緩和跡象 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XZzhFdGhlWnVVbE96LXM3SUF4dGgtQndoZ0ZTUWFPYlhNQUxFeGZTWjlvdUxjSlJzcFBiUjFWcm5vR1hKdjR6dDAtdmFBZGVI0gFWQVVfeXFMTXZNZVF5OWdkaWNiX1dIQkxrak1rR1l6dVpPNWM3V1pscEFhX1hBMDIzSGJsX0dZbHVkMm5wdy1QMUJfVEZLU0tWT05SZnYybnF5c0d3UXc?oc=5",
+      "summary": "股匯震盪 匯銀：外資匯出露緩和跡象 UDN 台股開盤跌282點 新台幣貶1.9分為32.84元 Rti 中央廣播電臺 外資狂砍1,499億創史上第五大！新台幣成亞幣最弱33元關卡拉警報- 日報 工商時報 股匯齊挫！新台幣早盤再貶快1角破32.9元 Yahoo新聞 MoneyDJ新聞 2026-11-04 17:04:48 陳怡潔 發佈 MoneyDJ",
+      "published": "Wed, 04 Nov 2026 16:00:00 GMT",
+      "display_time": "11/04 16:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "【美股盤前】高價收購Lumentum稀釋股權！法人下修Marvell目標價曝 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPMmpEeUFldmEzbldXWFN6d2xhWU01NjRJeXBMMWswUDhpOTJpRVRmZE1mX0RqU2h5T0NmUmxyb2pPUFlPeHFOcEZQbDl1U0Noa2JURXVmYXBMYUMwQ2VYRFl2UFFCSEpJTkliZVhxeU9ITzZlOUlXMjVqMm90SU9vUk1aSEtYZGVWS0lxV0tDU3VoWmpBcWEyLTMxYlMzTXhQU255ZDF3N1NNM3o5U0FXNGg3T2x3TjkyM3B6ZE9aRDVRcGhQTWRQV1dnZnQ4OV9XX3kzZWxvLU1JOGQ0ZWVlbjFmeUlpSmIzMkx1bVFXNjNXZVRocHFGdmpDSWYtakNBclpPU1M5UFdpcEVjeHhxWEtZTDdTVnJrazVYb2xuRVUxVmFtZnlCYklieWg4alNUQ3N2cUVOODlHZG9qdFB6SUJpZEVwek1EclJJNm5FYVRDUXlxd2FxcE9R?oc=5",
+      "summary": "【美股盤前】高價收購Lumentum稀釋股權！法人下修Marvell目標價曝 Yahoo新聞 未必是美夢！邁威爾收購Lumentum市值蒸發千億美元巴隆點出特斯拉與SpaceX投資人也該警惕 Yahoo股市 邁威爾搶光源主導權Coherent意外受惠分析一次看- 國際 工商時報 Marvell併Lumentum給手機業者的啟示：供應鏈整合戰怎麼打？ DIGITIMES 【美股盤前】收購股權稀釋！法人砍目標價 鏡週刊Mirror Media",
+      "published": "Wed, 04 Nov 2026 13:43:00 GMT",
+      "display_time": "11/04 13:43"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美國中期選舉：共和黨為何慘敗？五大原因解析特朗普的選舉挫折 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LdHFJcWlqTlF5R1hQalZKbmw0R3QzNW9Rb3Npem9CSW1ITXdDRVRSOWZDcW5xYlVkNy1sS1B2YXgtMGx6Z2dpS08zdUdGbjNONWtCUzFPQVNZX0w0cEViXzhxejVpakHSAWxBVV95cUxQejNUaDI0WkQzYWM4b2wxZUVIZjlXeWZZRFRoUHBHU2VSbFhOanZLNzZrMjdDbTVOUHQtMUFCU3BWTjN1b0ttV280SnAwQjk0Nml2bFJ0WDJvQlBXZm91WGZSZl92VzFnS2ZKeFc?oc=5",
+      "summary": "美國中期選舉：共和黨為何慘敗？五大原因解析特朗普的選舉挫折 BBC 華爾街最怕的事來了！民主黨重掌國會完全執政 債務上限從「共和黨大刀」變「談判王牌」 Yahoo股市 美國人怎麼看期中選舉結果？收入高低決定態度、有錢人更開心 鉅亨網 川普為何輸掉國會？經濟選民不滿物價怒火爆發 逾半轉挺民主黨 Rti 中央廣播電臺 【即時短評】美國民主黨大勝的訊號 能振奮藍營戰鬥力？ UDN",
+      "published": "Wed, 04 Nov 2026 20:27:54 GMT",
+      "display_time": "11/04 20:27"
     },
     {
       "source": "Google News Global",
@@ -107,14 +203,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "股匯震盪 匯銀：外資匯出露緩和跡象 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XZzhFdGhlWnVVbE96LXM3SUF4dGgtQndoZ0ZTUWFPYlhNQUxFeGZTWjlvdUxjSlJzcFBiUjFWcm5vR1hKdjR6dDAtdmFBZGVI0gFWQVVfeXFMTXZNZVF5OWdkaWNiX1dIQkxrak1rR1l6dVpPNWM3V1pscEFhX1hBMDIzSGJsX0dZbHVkMm5wdy1QMUJfVEZLU0tWT05SZnYybnF5c0d3UXc?oc=5",
-      "summary": "股匯震盪 匯銀：外資匯出露緩和跡象 UDN 台股開盤跌282點 新台幣貶1.9分為32.84元 Rti 中央廣播電臺 外資狂砍1,499億創史上第五大！新台幣成亞幣最弱33元關卡拉警報- 日報 工商時報 股匯齊挫！新台幣早盤再貶快1角破32.9元 Yahoo新聞 MoneyDJ新聞 2026-11-04 17:04:48 陳怡潔 發佈 MoneyDJ",
-      "published": "Wed, 04 Nov 2026 16:00:00 GMT",
-      "display_time": "11/04 16:00"
-    },
-    {
-      "source": "Google News Global",
       "title": "快訊／外資超兇提款！　今賣超台股1499億刷史上第5大 - ETtoday財經雲",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PR1BNdE5hb2U0UGxjdjhFVzNhNVQxd2t3VU1qQm1rSTZGVzNSdUlJdFZybXpBRVc1MmdYZGhiR2c2Njc1ZkllNFBvcXdyeWhCV1HSAVBBVV95cUxNMWpzTXZiT29Cc2ZqZ1FacG9KNTRpTHFJd2FlT1h2YTJnU19kaWswYWNxc3pjYlF6LXMtdDkzS1VjWWxIbmpJRFpKSU5FNWFGaQ?oc=5",
       "summary": "快訊／外資超兇提款！　今賣超台股1499億刷史上第5大 ETtoday財經雲 外資賣超1,499億元史上第五大！0050遭砍7.7萬張 賣超前十ETF占6檔 UDN 外資週狂砍台股逾1700億元 這3檔賣超近26萬張成苦主！ Yahoo新聞 夜盤狂彈千點！國家隊神級高出低進又賺爛「中信金、聯電、台玻低基期避險」這檔面板轉機股竟慘遭割愛 旺得富理財網 台股大跌原因抓出來！外資又賣超1498億第5大、殺盤1450點再拉千點42K保住，融資多殺多夠了？ 今周刊",
@@ -123,19 +211,19 @@
     },
     {
       "source": "Google News Global",
-      "title": "伊朗要美明確答覆「7條件」! 川普再次威脅不排除動武伊稱絕不投降| 國際 - Newtalk新聞",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zZjlkTndNOFp6WVRwZ3dhcXhQOXU1Rk1sdzdBcXhraFJsaXpiRWRsOGFnd29XTG5yWXMyaTg5eHU4WXR2RGd4SEVFYzllbWtaU0JnVkdkeEVUc0k?oc=5",
-      "summary": "伊朗要美明確答覆「7條件」! 川普再次威脅不排除動武伊稱絕不投降| 國際 Newtalk新聞 謝步智觀點》為了「續命」不惜全球動盪? 納坦雅胡拱川普再攻伊藏這大陰謀| 國際 Newtalk新聞 美期中選舉／物價民怨掀「藍潮」 川普票倉失守 看懂期中選舉五大轉折 經濟日報 美軍承認空襲格什姆島！荷莫茲海峽交火、和平談判仍同步進行 | 謝駒蕥 | 新聞 風傳媒 川普：美國目前無意立即攻擊伊朗、稱美伊談判持續「已得到想要的一切」 鉅亨網",
-      "published": "Wed, 04 Nov 2026 01:51:33 GMT",
-      "display_time": "11/04 01:51"
-    },
-    {
-      "source": "Google News Global",
       "title": "民主黨奪回眾院多數 裴洛西點名下任議長由他創造歷史 - UDN",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sSjMzcERVTHBlN1NZdlhEUkg0djlBWTdhYmJCU1dBVEhaNjU0b1hfOEhmOG1iQmVCV0pSWTVrSks3TWxGVXFVRzZHX2FVSXBMb19v0gFYQVVfeXFMT1pTMGJQLVhFekE2MmxjRS0wQ1FaZ0pFdHVwQkgyQ0VIUFg2UGVQV1djem8tUHFFMTgzYzFBaHh0Y3lLTy1mVVVOM3JZdXN6WFB0NkdEV2ROVg?oc=5",
       "summary": "民主黨奪回眾院多數 裴洛西點名下任議長由他創造歷史 UDN 美眾院民主黨團：無人提彈劾總統新會期聚焦民生法案| 國際 中央社 CNA 美國期中選舉掀「藍色浪潮」翻轉政局 陳冠廷：跨黨派挺台共識不變 Yahoo新聞 川普輸慘！民主黨議員突喊話台灣 東森新聞 美國會變天牽動挺台版圖！參院關鍵席次新面孔對台立場一次看- 國際 工商時報",
       "published": "Wed, 04 Nov 2026 05:21:42 GMT",
       "display_time": "11/04 05:21"
+    },
+    {
+      "source": "Google News Global",
+      "title": "伊朗要美明確答覆「7條件」! 川普再次威脅不排除動武伊稱絕不投降| 國際 - Newtalk新聞",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zZjlkTndNOFp6WVRwZ3dhcXhQOXU1Rk1sdzdBcXhraFJsaXpiRWRsOGFnd29XTG5yWXMyaTg5eHU4WXR2RGd4SEVFYzllbWtaU0JnVkdkeEVUc0k?oc=5",
+      "summary": "伊朗要美明確答覆「7條件」! 川普再次威脅不排除動武伊稱絕不投降| 國際 Newtalk新聞 謝步智觀點》為了「續命」不惜全球動盪? 納坦雅胡拱川普再攻伊藏這大陰謀| 國際 Newtalk新聞 美期中選舉／物價民怨掀「藍潮」 川普票倉失守 看懂期中選舉五大轉折 經濟日報 美軍承認空襲格什姆島！荷莫茲海峽交火、和平談判仍同步進行 | 謝駒蕥 | 新聞 風傳媒 川普：美國目前無意立即攻擊伊朗、稱美伊談判持續「已得到想要的一切」 鉅亨網",
+      "published": "Wed, 04 Nov 2026 01:51:33 GMT",
+      "display_time": "11/04 01:51"
     }
   ]
 }
