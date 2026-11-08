@@ -1,181 +1,45 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "news": [
     {
-      "source": "Google News Finance",
-      "title": "AI雜音干擾 台股狂殺崩跌跌破4萬點！法人：中長線仍偏多 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE95VkdiY183MDUwc1I2Z1Bjb051RWV3MGNDOUROTkdwTTIteUNua0NMbDNVRWNWblJwYi1qcTRXdzNEWW0xUVR0c2NCQ1Q2blE?oc=5",
-      "summary": "AI雜音干擾 台股狂殺崩跌跌破4萬點！法人：中長線仍偏多 TVBS新聞網",
-      "published": "Sun, 08 Nov 2026 02:03:00 GMT",
-      "display_time": "11/08 02:03"
+      "source": "CNBC Finance",
+      "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+      "link": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
+      "summary": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+      "published": "Sun, 08 Nov 2026 14:00:01 GMT",
+      "display_time": "11/08 14:00"
     },
     {
       "source": "Google News Global",
-      "title": "明台股「開高」等於有救？陳嘉偉直言無禁空令會補跌：超級好的空點 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3djRrNmZKY0ZyWXNENWVETjZyQ3IybDkyREJFTjdpRDhabjdEMjBQVFgtcXJNdTQ4ek5oczBDalBxYWVrNmVyeURfSWlzMWNtREHSAVdBVV95cUxQdE12YjkweVZ6TzJUOVZsbWdFREZSdVdUZ3VzNjU2V2VRcjg0TmJLQXotVDk5ZW9PRzZmbG1hZTU2WTRWaWJPSC1UWG1JdW5HV0RrX2V4YkE?oc=5",
-      "summary": "明台股「開高」等於有救？陳嘉偉直言無禁空令會補跌：超級好的空點 UDN 反AI恐慌襲捲股市！謝金河指1關鍵：會修正回來 Yahoo股市 台股綠油油！網問「虧的錢已經可以環遊世界的人舉手」釣出一票苦主 自由財經 〈台股風向球〉國安基金進場對決外資提款 拚年線上築出大盤底部 鉅亨網 台股市值跌掉3名排第7！　市值蒸發近33兆 ETtoday財經雲",
-      "published": "Sun, 08 Nov 2026 09:20:16 GMT",
-      "display_time": "11/08 09:20"
+      "title": "台股週一有望強彈？國安基金迎戰外資賣壓 法人示警：別急著抄底 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxNLVd5M1l3MVRBSnNPQkJ3eEFkMHBNWG9Eb1NtRlpCTEEwOF93eE1rYWxjbjZKS2JfdlgtdDk3bnJPT2hyRmdxYlRjZU5seXRwQ3pMWDU4UDBFaEU3MDdHWjJqLVhHU2JjcEN3S0theVNKbFh2cE0tblhWZUx4Y1BvY2RiT0xUSC0yb2pxNGhwQmFTaVdjb1k2bDExcVFabVVUOWZzYnhvODVkSkRiemU0cWM2aDRLSlpmckI4MkktSlVsMWZRZG9adVBfbFhGQk1qZmZlUmZZV0kzMXJfY2dvcnRPWHN0QWd6VEctVndFNmVmOTFSSThBaWRRZzhfNXNubFduNlBlb3pUbGI5NGRrT2tYRUxEMmV2b21WVjZMRHlqakdVbndTOUI4aXNfeE5nNEFLVVNXelpiWDlVaTRsbGctMFIxY2hZRVp2YnptbDBVeHZvTkZPSGl2SkVjUHBuYmtONnNIVXpjbEd2LWxDUzQ1bFc2a3NQZmpUOFlTb29VQWlUMjdBVENNaWRsQk9TZFVlZko2T2Y?oc=5",
+      "summary": "台股週一有望強彈？國安基金迎戰外資賣壓 法人示警：別急著抄底 Yahoo股市 國安基金進場+限空令護盤雙管齊下 台股週一能漲多少? Yahoo股市 台指期重返4萬、台積電ADR狂飆6％！國安基金又送幸福「周一開盤鐵定跳空開高？」專家大點兵：5檔股票穩中穩- 上市櫃 旺得富理財網 〈財經主筆室〉緊急啟動護盤與限空令 台灣救市動作為何比日韓大？ Taiwan News 台股明日能翻身？下周「3大指標」必看　達人：比股價漲跌更重要 ETtoday財經雲",
+      "published": "Sun, 08 Nov 2026 12:30:00 GMT",
+      "display_time": "11/08 12:30"
     },
     {
       "source": "Google News Global",
-      "title": "台股週一有望迎強彈！法人籲「別盲目搶短」緊盯1事 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQUnktRnYxUHE0dDVMQk1sUFgyTGJHeklMMV9aN3dMc01qR2w5WUFGazhDbkFIWUdyMk50TUtjVkdNeFE4Nm81SEV0OEVSMlQ3QnUzRHpUZHBtckNhYkxycDhMeng1Wl9oOFlabVc2R01Zc0pNSEcxRDl4c1RIOXdBaVh0QjhZQnVKNkVnM0ZqeU9jaTZ3Zy1aSlNPb2ZRU0ZVTWk4UVYwOUltZU42NG1TaGVyRjhYdDFfVTE5eGNfMk1keXZhUXQwT2F3ZjhZSkhPM2tlQjFYM0ZWdFZ6QjZiZ1ZzNGJZWGRfS3RpVk1vd2tLQkVJZ29wOGVCVEVIMG5vUlI5c21BeFN0ZktZVEZaa0VuMlZzdmlRd1RSa0g2MFd0aWtmUVMxN3k3dml4ZVBMQUMzUHRaUklQVEFUeXFyNjEwWm1HQQ?oc=5",
-      "summary": "台股週一有望迎強彈！法人籲「別盲目搶短」緊盯1事 Yahoo股市 台股明日能翻身？下周「3大指標」必看　達人：比股價漲跌更重要 ETtoday財經雲 週一漲台股多少？ 老司機點名關鍵在週二 東森新聞 法國世界報 - 台灣：台積電股價飆升掀股市熱，部分普通民眾甚至每天都買賣股票 RFI 台指期重返4萬、台積電ADR狂飆6％！國安基金又送幸福「周一開盤鐵定跳空開高？」專家大點兵：5檔股票穩中穩- 上市櫃 旺得富理財網",
-      "published": "Sun, 08 Nov 2026 07:28:12 GMT",
-      "display_time": "11/08 07:28"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "全球股市慘遭血洗！台股暴跌3700點 外媒揭真正元凶 - 鏡報",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiTlprOFRKdDlialVJYzBTOGVzSGFuTG5zem00NTdOSlZEYmFNTmp1WGRWTnFCM0VTcG9MZ1BMRXQ0UWZWOEFzOWxQSTlpN3IzVnc?oc=5",
-      "summary": "全球股市慘遭血洗！台股暴跌3700點 外媒揭真正元凶 鏡報",
-      "published": "Sun, 08 Nov 2026 07:20:00 GMT",
-      "display_time": "11/08 07:20"
+      "title": "台積電擬跨足記憶體？業界看3點喊誤會： 科技網站亂傳「應罰張忠謀自傳讀一百次」 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GZVVkb1FwNHZBSjRLWFRJdkVSWTNXUDBPZlUtR0NzRmVIYnRjRUtrYjdBelRJRGc0eFAxSHIyM0NhLS1NN1I5bmllVVg1NW5kbXlqUHRxY0g0Z9IBX0FVX3lxTE1NbnFRbC1IQ0xXM0R2aWcycU5Lb0VjakZDMTJzLTRHczg4bFJLamtlOUNQT3pGcmN4UVRoVVFraEdLR2tIcUZaaHkxQ2Zia042Yzl5SjR1ZzRDcUNTWkM0?oc=5",
+      "summary": "台積電擬跨足記憶體？業界看3點喊誤會： 科技網站亂傳「應罰張忠謀自傳讀一百次」 經濟日報 台積電到底要不要做記憶體？公司回應強調這句話- 產業 工商時報 科技網站傳台積電擬跨足記憶體？業界看3點批亂傳：完全是誤會 UDN 台積電評估跨足3D DRAM｜新聞事件整理與重點摘要 Yahoo股市 工業技術與資訊》追根究柢 做到極致-貫徹台積精神、建立產業標竿的關鍵推手 自由評論網",
+      "published": "Sun, 08 Nov 2026 06:05:50 GMT",
+      "display_time": "11/08 06:05"
     },
     {
       "source": "Google News Global",
-      "title": "伊朗稱2違規油輪在荷姆茲海峽觸雷起火 多地傳爆炸聲 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNX1ZlbXFHRG9SX3NwZ0ozU2h6NzBILUZ5RVJqdFJ3ZW5Ld0xvc0dkSW9aV1hnMEhPSmMtSldMa19FSGI1TlZHQmxNTTlKTjN1V184S0xKQU42dVZmTEVDS1ZZVkZKUWIwaWY5bnBNVExicmliOHFQeWR6OUp3dThXWmlfWXBQaTQwV2FnQWp3NU9TLWtJMEJGcEJLdnlCa2J2UHFSVVYxYmt1VkJJQnl6QkhHLW9Xa0hMTElaOVpWSl9YejJIVmNoeHI1Z2NhcWF1cVZ3bmdpNXYwVHZrcVpyaG9TZUVTNVpjdDVPMGhuMnBoeFhHUHNtaEhaTDBpdU8yWTFnc25BU0VtOFRZb1d1Q3RlRFdNTGxtSDZEV09FVHgxd2dULWlIN09SZTYxUGpmUUVWSlRGT1BxNzBVUW1vYVBmZzZKUklibzlZM2NzbkVVWVJpT3BUQ0Z6TWJyY0ZrZUxWMHRGbkpQdw?oc=5",
-      "summary": "伊朗稱2違規油輪在荷姆茲海峽觸雷起火 多地傳爆炸聲 Yahoo新聞 伊朗稱2艘油輪在荷莫茲海峽觸雷起火　多地傳爆炸聲 經濟日報 荷莫茲海峽2艘油輪起火 伊朗稱船觸雷 Rti 中央廣播電臺 油輪遇襲引供應疑慮　國際油價大漲 自由財經 伊朗稱荷莫茲海峽兩油輪觸水雷起火 指控違規航行未獲授權 | 民視新聞網 LINE TODAY",
-      "published": "Sun, 08 Nov 2026 07:16:57 GMT",
-      "display_time": "11/08 07:16"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-      "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
-      "published": "Sat, 07 Nov 2026 23:02:35 GMT",
-      "display_time": "11/07 23:02"
+      "title": "國安基金進場 法人點名台積電與0050直接受惠 - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yM0xRN0ttU2oxMWJYbHFnMlZLeWRhRE84c0lNdlk5SUJSUDdBLWRsbDBidktCY21DbFV3dnNlTVp3d05LRzduTzlrMHRzZ0J0b2pyQkV3YWZXbEkxV1hV0gFkQVVfeXFMTjdCZi1JR2dmbHZKMkw3ZVgwVzFxaGV0SHA0dEF3ZUhWenFBOEdXaVlmVVFaZGtCeGNabkxKMmlYOTZPc3hkZmV6aUZwQmMzYUxjakNVRlpQR2tDeGtmLWJPSjlYVw?oc=5",
+      "summary": "國安基金進場 法人點名台積電與0050直接受惠 自由財經 明台股「開高」等於有救？陳嘉偉直言無禁空令會補跌：超級好的空點 UDN 11/9起祭5項禁空令穩定股市 5千億國安基金進場護盤 公視新聞 外資狂提款1.5兆大盤驚入熊市！國安基金宣布第10次護盤「盤點大盤5天、1個月勝率」15檔官股穩盤名單最吸金- 上市櫃 旺得富理財網 國安基金進場台股穩了嗎？分析師揭「第13天反攻密碼」 點名二檔融資減、法人逆勢加碼股- 證券 工商時報",
+      "published": "Sun, 08 Nov 2026 03:58:06 GMT",
+      "display_time": "11/08 03:58"
     },
     {
       "source": "Google News Global",
-      "title": "應輝達要求揮軍3D DRAM？台積電回應了 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wVkJNS2NnemJfSlQ1MjV5MFA0VFFJOVlJWmFXRHV3VWxZaUM2X21aeGlaNUdxU0Job2lURHVpQ3Jnd3pLakh0VVFpTFlhNGh4NmVfSThiMlY3bnJsQk1z0gFkQVVfeXFMUC0yclRhVlFpVzVLXzJiSFd0UGtOd2hGZmRSNG0teW1FQnFzY0RvMEVsSHg2NUQwYnRnTEo5Mno1Uk44T2dIbEJmVzF6QmUwaDMwUEt4MUNiWVc4aW4xTF9VaDRyQg?oc=5",
-      "summary": "應輝達要求揮軍3D DRAM？台積電回應了 自由財經 3D DRAM也要台積電「一條龍」？ 外媒爆料1內幕「韓廠憂心」官方回應了 Yahoo新聞 韓廠壓力大！韓媒：台積電跨足記憶體恐全碗端走AI晶片供應業務 自由財經 科技網站傳台積電擬跨足記憶體？業界看3點批亂傳：完全是誤會 UDN 華邦電重啟Spansion品牌採獨立運作 焦佑鈞評台積電進軍3D DRAM DIGITIMES",
-      "published": "Sun, 08 Nov 2026 06:09:54 GMT",
-      "display_time": "11/08 06:09"
-    },
-    {
-      "source": "Google News Global",
-      "title": "前任只撐5天…川普改求UFC總裁接白宮發言人 他首度回應賣關子 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iY1BpeUc3QVl1RGRmRnBOd0s2M19MbnhtLVVZQmx4TDV2RnZyNHp0ZmhPLUtMaGd1N1BxQkN1aWhvemdkT0xtYks4cVo3SWRV0gFWQVVfeXFMTnRySGRuZ3hEUlhiMUk4UU9NeUhnRmVXQVYtdUhkdXlLMm9odGNMZkpRdW94NlhNQ0FVVEFMQ1VDdWJLbzg4ZTFfY1ZkblZJOG5fSGpmaGc?oc=5",
-      "summary": "前任只撐5天…川普改求UFC總裁接白宮發言人 他首度回應賣關子 UDN 白宮新聞秘書仍懸缺 川普邀綜合格鬥賽UFC總裁出任 Rti 中央廣播電臺 川普邀白大拿當新聞秘書 附格鬥冠軍當助理 Yahoo新聞 期中慘敗後反擊！川普下令查民主黨政敵、邀「好友」接白宮新聞秘書 三立新聞網SETN.com 期中選舉慘敗不收手！川普欽點UFC總裁任白宮發言人 還要送政敵入獄 | 上報 LINE TODAY",
-      "published": "Sun, 08 Nov 2026 03:54:34 GMT",
-      "display_time": "11/08 03:54"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股驚魂！暴跌3737點摜破年線後急拉 法人看好AI後市5大族群 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2lZMHdqZUlzaFVYX1JOME9HeVdpS3hPbTdTajMzYzRyN0ZFQWM1NUZiLUtPb1JhTHdhX2tNQUtLejlVWkoxNDVKTFRsUnhYdVZTVjdvdW1TZ1g3TEw0eV9ORTlWdjl1RUd0aG1kMmd5a0M3djQ0Q2dTV3A4RC1xSFd3?oc=5",
-      "summary": "台股驚魂！暴跌3737點摜破年線後急拉 法人看好AI後市5大族群 壹蘋新聞網",
-      "published": "Sun, 08 Nov 2026 03:20:00 GMT",
-      "display_time": "11/08 03:20"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川習會前夕美中經貿官員視訊交鋒 中「嚴正關切」調降三百億美元關稅 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9GVm9PRDZ1dnFGSWpSZm9tdGdhVnpQOG1WS1hYYlVuT0p6c3doWjNnY2ppc181TTh2SEVWX1I0VkdDMlZydXF5UmRxemY5VEE10gFWQVVfeXFMT0RYRHdpaWg0UTM5Vk41aGlUb0lFWHh3aDAyNlB2cF9vUjl5S1NlWTJHT2N4dTZtWGtQTXZwZWNFeE9USUlGMmV4NGtHc1FPeEwwX2RVNUE?oc=5",
-      "summary": "川習會前夕美中經貿官員視訊交鋒 中「嚴正關切」調降三百億美元關稅 UDN 期中選後硬起來？川普政府警告中國：立刻履行稀土與農產品承諾 Yahoo新聞 深圳APEC峰會前中美對話現分歧 學者預期川習三會難有大突破 UDN 川習會前...美催陸履行貿易承諾稀土成焦點- 國際 工商時報 鋪路川習會 何立峰通話貝森特、葛里爾 台視新聞網",
-      "published": "Sat, 07 Nov 2026 16:00:00 GMT",
-      "display_time": "11/07 16:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "國安基金5000億夠救市？外資賣超逾1.5兆 分析師曝台股反彈關鍵 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNLU1MNVVCa1JrY2ZaX0pycnF4V19RMTEyUEVUVEtUU2Y4ZFFtZno2RlZtMXU2VXZaMDFhRzd5U3I5RHRWVnI0NU55MlNzX1JkRXVmT0hab3VsVXlMWXhWbU04ckxaa0JUeklhT1ZfdWlPLUwyT0didmlPYU9vd3VOS0pMU2llLS1qcl9vTEtiSkpOOTdsNXNjZ2hVNjEzZDNGZnpkMnZuSkN1NXktVVNaa085b1N2Qm5KTnJhNUdCaVBTVWRhaVpyYV9oTXI2SVdkNVJQVDJvVF8ydDVORE9RU1g0QS1rbGhCYi1qc2l0LS1BZmlqSDhUZnFPMWJMOVB2VXhESW1lTEpqTHZDTVdUS2JDQ3paWnRST005UEMyeHdrRXFIMWJHN2JuQkRUc2tjbGFKZW5LZ2FTcDZkeUR2Z2NBSF9FdXZqM2FpWFg2RWlrV1BpVnI3aTFWZ04tSXlQSk10eVhvMzlsQldtOUJ0WXpTaUFmZFd3bFN0ZmlQOA?oc=5",
-      "summary": "國安基金5000億夠救市？外資賣超逾1.5兆 分析師曝台股反彈關鍵 Yahoo新聞 台股暴跌！ 過來人憶金融海嘯慘狀：不碰股票也遭殃 Yahoo股市 國安基金口袋名單曝光 15檔躍大盤築底反彈先鋒 | 市場焦點 | 證券 經濟日報 限空令是什麼？11/9開始實施！5大措施、影響…過去6次禁空令/限空令台股表現如何一表看 今周刊 AI股反彈「特賣會結束了」？邱沁宜搖頭：要觀察修正還反映 ETtoday財經雲",
-      "published": "Sat, 07 Nov 2026 15:41:11 GMT",
-      "display_time": "11/07 15:41"
-    },
-    {
-      "source": "Google News Global",
-      "title": "許志豪股災慘賠50萬！「淪落街頭」睡公園 喊話翁鈺鈞：鑽戒沒了 - 自由娛樂",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mSFgyZjQzWVQzNTFFc0tIRW91Wm9LcFgyMl8yMkczYnBlRng1blJYckZaMXJGNUU5aDc3SDZXSFJDLWQ5OW1IbEo5b0tWYUtjYUtlN0dEZmFJcmVy0gFiQVVfeXFMTWw5ZUdHTm13d000XzBuWkpWRmltRENyS2pIVmEyMmZXZHRnMUo4Q3ZmeENsOTdnSnp0UTBVMW9hYjF0bUZ4bDh1aFUzY052ZDhZcVhQWWUxc2NUQnRUb1o0dHc?oc=5",
-      "summary": "許志豪股災慘賠50萬！「淪落街頭」睡公園 喊話翁鈺鈞：鑽戒沒了 自由娛樂 陳志強股災重傷！年領60萬股利也難逃　1週蒸發1張高價球證 UDN 台股暴跌慘賠50萬！許志豪自嘲要睡公園 喊話緋聞女友翁鈺鈞：鑽戒沒了 Yahoo新聞 台股重挫還能存股？達人資產蒸發230萬仍照買曝長期投資4原則：別恐慌賣出- 基金 旺得富理財網 許志豪股災蒸發50萬「慘到睡公園」！翁鈺鈞求婚鑽戒飛了　月接30場拚命賺 鏡週刊Mirror Media",
-      "published": "Sat, 07 Nov 2026 23:27:36 GMT",
-      "display_time": "11/07 23:27"
-    },
-    {
-      "source": "Google News Global",
-      "title": "5000億銀彈都買哪幾檔？國安基金護盤10大迷思：會歐印嗎、勞退基金被挪去救市？ - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQS1lUb1M3dXBKRGo5Z0RPYTBBeHB5VHVXbkg4b0htaWZid1J5bFpRNjZ3Z2xKNURZcjJqS0tmRkJOOVBVMG5LU0gzRHNOWUNZOEV5UE9pT1RxbVRHbUdaNWdwU2x2QTBXakRHcUw2NGwtTU1PUzVyb1BqaklZVjB1c2N4MFZubzJPcEVPdEE2WXYwUmZTOVlaNHlQc2lybUpJZWRHQVpNWFFBcExCeVZDeVJmNjNvUFB6QW93dzlrRE5vam02c3NMZEFSOXlvSlNuMTZGNFpTMG1GQUhZUXY1Y3dFOExjcW9iQ0V6SVdFT3B5eXgyNE11cG5tcV9tU09VeUhwcU9XV0IzY1h1ckpobk94bTJFc1cxOURoZmRueHVETVNyak5QVDJSUXF3dHR5Ui1hOGl1NEhxSzB6a2locEJ4NmVPQWVlem5TaGRaLU4wUXMtYlVzQ05FbXRmZzg5MTViNHhGMHp3cnBBNVpWNVVHTko1aHRWN3kzTjBLY04xOTZBMzBqdlh1WndoRkFxMDJmYW1hQWc5S09ISUE4NE5jdDB5QTdDRVJIQWh6aklvOUJpbERIMS1WUmE3X0E3SHFCamVYOA?oc=5",
-      "summary": "5000億銀彈都買哪幾檔？國安基金護盤10大迷思：會歐印嗎、勞退基金被挪去救市？ Yahoo新聞 國安基金下周一進場護盤！阮清華嫌2000億不夠 喊話擴至1兆、上演軋空秀 Yahoo股市 限空令是什麼？11/9開始實施！5大措施、影響…過去6次禁空令/限空令台股表現如何一表看 今周刊 台股大跌國安基金啟動護盤、金管會祭雙重限空令……本周不可不知的五件財經大事| 金融脈動| 金融 經濟日報 股民注意！台指期夜盤反彈了 上漲646點收復4萬點大關 自由財經",
-      "published": "Sat, 07 Nov 2026 14:34:18 GMT",
-      "display_time": "11/07 14:34"
-    },
-    {
-      "source": "Google News Global",
-      "title": "中期選舉慘敗後首次人事調整：特朗普換掉白宮幕僚長 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxORXBGNEpJOHZLZjlvN1IxVUhZWk1kMmhpYWpSU1Q4YUlFMGw3N1VzUGVBbmpmWXdMdlNMZE1tcjVKUFZQdGpIaU9DWmpvVEZjRlRYR0pyOG9adWM4anItVmNuaVREc0RWZ2toMlM5Wl9oT1ozRVlqOTJrbDFKRnU2cUhRT3lTb1hYcUkxVl9KSEtZOEY0b1M4YTRQaVZ6Y0lEa19XT2ZVQXFrdGJ2aUR5ZU10aUxZcFpMVzRGcHVDZk9US2o4VXRwOS0xUGZYZVh3T09sdEJHSU5hZWZpUHhSS05qd3ZQdzlnZllFSWM0a1dZZ1NsQTFMUjlyR1VSdlkzVUd6ZkxkQl8zR3V0VHdVLVEwTkEzVDRkbGpvTG9OVUlTeDA4NF9EODFQdFZQczg0SDBUQWl4MEZPWEx6eEw4RUU2MDVQTXJLYXdralprdUM1N29qOTdnOXlXTDE2NDV5M2k3RG84T1E?oc=5",
-      "summary": "中期選舉慘敗後首次人事調整：特朗普換掉白宮幕僚長 Yahoo新聞 共和黨敗選後川普預告調整人事 戰爭部長暫不撤換 Rti 中央廣播電臺 20261107 公視早安新聞 完整版（無網路版權內容除外）｜期中選舉後白宮人事異動 米勒接替威爾斯任幕僚長 公視新聞 主導鐵腕打擊移民 川普頭號親信米勒將任幕僚長 | 路透社 LINE TODAY 敗選人事改組換白宮幕僚長 川普找強硬派對付民主黨 中央社 CNA",
-      "published": "Sat, 07 Nov 2026 12:37:00 GMT",
-      "display_time": "11/07 12:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股「一片極光」竟笑了！陳珮騏加碼6位數進場 重押這檔股票賺30% - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNLWVVRUpLU2VBTlZQRE9EX2xKd1ZCREl3N2dOV0ZvZmRrVHQxYklVX1BPWGNhbG13TEJFRHR1Tm4yZ3VBTzM3b3RUcmFhU3ZLRElscjdxaXdwNHFQcXNzZ3NxT3dITTA0MlFnU2NLZktldlFydW95ektjZ2VZck5mYTVTNlUwTE4zS0ozWjZvSVBuYnd6OXFYdzdjS1VYMjVkN1k0dUpBcF82MC00X25sdXhMa0RYMHE0VDdibmNIRUgwSUpwVXpFcVpjSWlNNk5zSm1iZnliLVZSMjdQRmJFVzRTMzJYdUVOVXVBN0EwckFNQURRNlJzUHU2ZE9aV1hDVTBfZ3Q2OWVDeEVxa3dySnd3ckFFeW5MbHlHOGNfUDY5VlQzZDJ1TFBrdmdKNTlTb3BSbDJ6YUs3TGR1ZG9HZ1JkenNQYXhvZnBQbDdoT1dNV1EtVkVfVnpjSEQyc2kwNHpOZVZKWVZSWkNhMDdsQU96Z1NOWEZ6TU9UeQ?oc=5",
-      "summary": "台股「一片極光」竟笑了！陳珮騏加碼6位數進場 重押這檔股票賺30% Yahoo新聞 陳珮騏不怕股市「極光」！憑愛國情操買這檔股票賺30% 噓！星聞 陳珮騏投入動保15年燒光5000萬！沒存款全靠股市 買1檔飆漲30％ Yahoo新聞 燒5千萬救援浪浪15年！陳珮騏連拍2檔戲 認停經半年 東森電視 49歲陳珮騏「已停經半年」親揭身體異狀 喊話：老天爺跟我開玩笑 自由娛樂",
-      "published": "Sat, 07 Nov 2026 09:49:00 GMT",
-      "display_time": "11/07 09:49"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美俄烏下週阿布達比重啟談判！川普稱接近達成協議、俄軍突襲基輔釀2傷 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XUERIYkVhVXdXWXU5dHFwYzZQRTZ1TG1MQVdYSGd3REd3b3JZZWQ5VTRfVWQ5Wk15LXpkc2VwTEMxNzVROHFHV0FvdzNyaG8?oc=5",
-      "summary": "美俄烏下週阿布達比重啟談判！川普稱接近達成協議、俄軍突襲基輔釀2傷 鉅亨網 美俄烏三方談判下週登場 克宮：外交與軍方高層將加入 Rti 中央廣播電臺 美第一夫人梅蘭妮亞會俄烏代表籲建立長久停火協議｜20261106 公視早安新聞｜ 公視新聞PNN 公視新聞 結束俄烏戰爭川普：協議可能涵蓋全歐- 國際 旺得富理財網 美俄烏三方下週議和 歐盟跳腳因上不了談判桌 中央社 CNA",
-      "published": "Sat, 07 Nov 2026 08:10:03 GMT",
-      "display_time": "11/07 08:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美軍再度空襲伊朗！川普曝「5至15分鐘」摧毀防空系統　當地傳爆炸聲 - 三立新聞",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1PdEtBbnkwNFhlZTFVWVBiRGtIOGY3Y1luQlVEVXVSZ1Y0N0s2dDBHcVJVbnV1Qm5nMWtlRUNXZG9nVlVPNFk4cNIBTEFVX3lxTE1uLXNpT2pZdmZFc3JYZlNVNjlCQVJvaHBmNEtUOFBGVUdBYmxOOWNVMmtuSlNNekdMYlpYTVVlOW5JbU9NamdYdVRaaU8?oc=5",
-      "summary": "美軍再度空襲伊朗！川普曝「5至15分鐘」摧毀防空系統　當地傳爆炸聲 三立新聞 美期中選後首襲伊朗？川普證實：15分鐘搞定- 國際 工商時報 美副總統范斯耗時雙周 貼身參與美伊會談 經濟日報 川普證實美軍再度「空襲伊朗」：5～15分鐘摧毀防空系統 東森新聞 伊朗葛希姆島傳遭飛彈襲擊 卡達稱持續斡旋美伊談判 Rti 中央廣播電臺",
-      "published": "Sat, 07 Nov 2026 06:58:00 GMT",
-      "display_time": "11/07 06:58"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈華邦電展望〉AI一枝獨秀！擴產效益明年顯現 焦佑鈞示警「擔心下一個不景氣太晚來」 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45THp3WHNvMThWTHFsU282Mnd6eXlJLXJHSEZMREZSMFV6aW9tWU9XUlZHWU44NVZ6REJjSURWS25ENU9GUVdKWUs3ZEhQM2c?oc=5",
-      "summary": "〈華邦電展望〉AI一枝獨秀！擴產效益明年顯現 焦佑鈞示警「擔心下一個不景氣太晚來」 鉅亨網 記憶體還會再漲價？華邦電董座許願「不景氣早點來」：不然傷的是百姓 Yahoo股市 大紅包是真的！ 焦佑鈞：華邦電員工平均獎金30個月 自由財經 華邦電分紅太狂！平均30個月獎金有望入袋　董座親揭真相 ETtoday財經雲 焦佑鈞：2027~2028 年記憶體需求明確，下一波循環預計 2029 年開始 TechNews 科技新報",
-      "published": "Sat, 07 Nov 2026 06:40:17 GMT",
-      "display_time": "11/07 06:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈華邦電展望〉焦佑鈞證實員工分紅30個月 談營運「賠錢很煩、賺錢很累」 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vM0Y2d29SUXlra2hVUmtZZ1NYVUNxcGZXTGZkQ3VlYkhjUllfdndQZ3VnRHRucUU4SGJjYnZ3cDBRdUZQOTBqdzJwM2J1NDA?oc=5",
-      "summary": "〈華邦電展望〉焦佑鈞證實員工分紅30個月 談營運「賠錢很煩、賺錢很累」 鉅亨網 焦佑鈞憂資金限制 AI投資2029成關卡 UDN Q3 EPS大賺7.58元！「記憶體大廠」獲目標價300元 自營商投6.13億元連3週進場 Yahoo股市 華邦電分紅太狂！平均30個月獎金有望入袋　董座親揭真相 ETtoday財經雲 大紅包是真的！ 焦佑鈞：華邦電員工平均獎金30個月 自由時報",
-      "published": "Sat, 07 Nov 2026 05:48:09 GMT",
-      "display_time": "11/07 05:48"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股崩盤「全台灣他最緊張」？名醫示警再跌一、兩周恐出大事：連任黑天鵝已現 | 李瑋萱 | 新聞 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BLVhscjc0SE1OaTZUS2xmM1FVN2dJTmY0cGI4RV9RUXg2bGJkMzVQYkZodnFOaDl6alRNNF9RQmNQeVQtXzh2VWNlOXV3QQ?oc=5",
-      "summary": "台股崩盤「全台灣他最緊張」？名醫示警再跌一、兩周恐出大事：連任黑天鵝已現 | 李瑋萱 | 新聞 風傳媒 台股暴跌！ 過來人憶金融海嘯慘狀：不碰股票也遭殃 Yahoo股市 「五貸同堂」重押正2ETF！28歲男慘賠700萬　月剩2千元靠外送還債 ETtoday財經雲 台股股災》國安基金、限空令上場救援，可以逢低買進了嗎？投資人關鍵五問 天下雜誌 美國在AI賽道沒有回頭路 謝金河：殺過頭的股價會修正回來 自由時報",
-      "published": "Sat, 07 Nov 2026 02:45:00 GMT",
-      "display_time": "11/07 02:45"
-    },
-    {
-      "source": "Google News Global",
-      "title": "1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAySUtSbkZpZFE2RVplblN2RE40M0xBT1FFVnBDU2s1RmZORVBFZWRheEc3cE9FSEJLOHY5RlUyTF84NGozM3JacjJUaHFyVW8?oc=5",
-      "summary": "1998還是2000？高盛：AI股暴跌更像LTCM危機而非網路泡沫化 但最大疑問仍是投資回報 鉅亨網 誰開第一槍？美股血流成河、AI股賣壓狂湧剖析華爾街科技股股災| 全球財經| 全球 UDN 美國期中選舉戳破AI泡沫　全球股市市值一天蒸發115兆元 ETtoday財經雲 AI股跌夠了嗎？美股下周兩大考驗：CPI看升息、CoreWeave看資金 Yahoo股市 AI行情結束抑或暫時回檔？專家：關鍵在股價暴跌是否「對此」傷筋動骨 自由財經",
-      "published": "Sat, 07 Nov 2026 00:50:03 GMT",
-      "display_time": "11/07 00:50"
-    },
-    {
-      "source": "Google News Global",
-      "title": "德州變天 AI資料中心要踩煞車？童子賢：美國不會喊停 但點出「這難題」 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6N1ItRGFGTUNXdzFqVXA4ck1JQzBtQ3VJeGZYZDJBRWNjQ1NJTGJqSUlCOG9zYTRhd3QxWFFIOU1TV3Q2Ty13M251c3FiYVI1NjFVUXpLc19kOWpVRWpZ?oc=5",
-      "summary": "德州變天 AI資料中心要踩煞車？童子賢：美國不會喊停 但點出「這難題」 工商時報 郭崇倫會客室EP287｜藍色海嘯席捲美國期中選舉 分裂政府與否決先生 聯合報數位版 美民主黨掌控國會難撼川普關稅政策！電動車補貼、AI監管成新焦點 鉅亨網 ESG每週必讀》期中選舉重擊美國AI擴張，綠能、天然氣與核能SMR， 誰成最大贏家？ ESG遠見 BBC看美國期中選舉：共和黨兵敗參眾兩院，如何影響「對中政策」與「對台軍售」？ | BBC News 中文 | 新聞 風傳媒",
-      "published": "Fri, 06 Nov 2026 23:18:00 GMT",
-      "display_time": "11/06 23:18"
+      "title": "楊艾俐專欄》川普會瘋狂嗎？ - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOQkJwRjlkd2MzRVRpYVBlZmQtWHRaenE5cGpodnpIMFRVLUdpdnhJeUF6UHdwVTI1QkJBOGZ1MXM2T0RWZzVqa3VSaUJoTWIzcnlobXMxeHpWb3ozdjIyQ1JmQ3kwbVE?oc=5",
+      "summary": "楊艾俐專欄》川普會瘋狂嗎？ 中時新聞網 美國期中選舉對台3大衝擊》拒蓋AI資料中心、德州投資添變數、台美軍援卡關？ 天下雜誌 【MM一週盤前】民主黨橫掃國會血洗科技股，本週 CPI 即將登場！ MacroMicro 長鑫4F2驚爆一場空？記憶體無預警狂殺「這6檔」慘遭腰斬- 財經 中時新聞網 〈社論〉川普大敗，兩岸、國際關係更加詭譎！ 中華新聞雲／中華日報",
+      "published": "Sat, 07 Nov 2026 12:00:58 GMT",
+      "display_time": "11/07 12:00"
     }
   ]
 }
