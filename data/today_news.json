@@ -1,189 +1,53 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "news": [
     {
-      "source": "BBC Business",
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "published": "Tue, 10 Nov 2026 01:44:53 GMT",
-      "display_time": "11/10 01:44"
+      "source": "Google News Global",
+      "title": "《Minecraft》推50人伺服器訂閱服務Realms Pro 提供25GB存檔空間 - 4Gamers",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc3pIRlJiS21xNW5WZVlqS3JGekJDbFRScHVPTjRuNFhDNk5rTUE1UXdhYU9UTzBsZjVSbUxFaGFHcTZIYXpWRUROcG1FQ01KQzRJb3Ruc243eXNmOVlyUTRveC1VOVNjRHBDdE05RVNzazVNazR6ckxnSF9VN0VETk1INHQ4T1F2SzVaX3lUWC1qYVBIODRoMWYzaw?oc=5",
+      "summary": "《Minecraft》推50人伺服器訂閱服務Realms Pro 提供25GB存檔空間 4Gamers",
+      "published": "Tue, 10 Nov 2026 14:14:07 GMT",
+      "display_time": "11/10 14:14"
     },
     {
       "source": "Google News Global",
-      "title": "美中俄三方會談恐生變？華爾街日報：北京提1要求遭美方拒絕 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9QcDlUbllVQmdfdFFwLUdoQzc2TlBISWFLOEhhcmNOV0NaajhzVm1Ua0FpVHl5NzlaZ3V4SE9oa1pITm1VVkVFT1JaVC1sTno10gFWQVVfeXFMT1pDQU9taC15djlHUkhaUnZWdXJ1RTBzZVg4cy04N1U2eC1mVzNWZy1qQXlsMFJ5ZkZfdVBuZmhqbDcwZkNnTmRiWm5TVm04ZWhnanAzbmc?oc=5",
-      "summary": "美中俄三方會談恐生變？華爾街日報：北京提1要求遭美方拒絕 UDN 川普下週赴中國出席APEC 盼會習近平普丁談伊朗戰事 Rti 中央廣播電臺 川普：將在中國會晤習近平與普京 談非核化 大紀元 中國深圳APEC峰會即將登場！ 美中俄領導人有望三方會談- 新聞 MoneyDJ 川普預告APEC見習近平、普欽！ 民主黨嗆查「史上最腐敗白宮家族」 | TVBS LINE TODAY",
-      "published": "Tue, 10 Nov 2026 01:12:36 GMT",
-      "display_time": "11/10 01:12"
+      "title": "道指4天3度暴漲暴跌逾千點 分析師警告震盪未完、緊盯一指標 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16MDFjOS1ESFM5Ylk0cGtkNWg5cjNFS1BVRnUtSHRqcHljMlIyOFhHNWwydnU1UXFUVGZFbUNJZ2lEaFBRSGJBelc0ZEh4Ykk?oc=5",
+      "summary": "道指4天3度暴漲暴跌逾千點 分析師警告震盪未完、緊盯一指標 鉅亨網 僅輝達受傷的世界...科技股回魂 美股收紅 Yahoo新聞 黃仁勳婚外情重創輝達！股價狂洩5.58％　單日市值蒸發7.5兆 ETtoday財經雲 這波反彈要追多嗎？專家：輝達醜聞還有得燒 天下雜誌 市場評估黃仁勳婚外情衝擊 輝達早盤股價再跌4% UDN",
+      "published": "Tue, 10 Nov 2026 14:00:05 GMT",
+      "display_time": "11/10 14:00"
     },
     {
       "source": "Google News Global",
-      "title": "台股狂漲近2000點外資卻賣超900億！股民傻眼：到底誰在買？ - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkcGpNQVBELTllYVJFWkJIZFQ5ano0dWJ4OENFWHNGa3VXUUJ4U3dFRmtiMEJ0TXRIT05DYkxkTl9TOS1qdFpNdm9qNE8zQ0dHc3fSAVdBVV95cUxOR2NxMjBkWU54ZGx6UGNLUEppelZUTzVTcmd6SG5PSUdJdjNGTXFMNHNTZ0w1SWZNVXFoSnhTVGlsMkdPVjBnNC1TN05UMzRDQ29qbDJPYWM?oc=5",
-      "summary": "台股狂漲近2000點外資卻賣超900億！股民傻眼：到底誰在買？ UDN 台股開盤衝1200點！台達電再飆漲停、欣興不到10分鐘攻頂 國安基金助攻挑戰收復43K Yahoo股市 台達電連2根漲停！權值5強猛攻 台股狂飆1460點收復43K ETtoday財經雲 台股史詩級反彈後轉慢牛？法人揭5大反攻指標黃仁勳出軌風波添變數- 日報 工商時報 「正五腳底抹油」終結連19增！融資又進場60億、維持率升至162.66％ 聯電、友達、欣興…增減排行一次看- 上市櫃 旺得富理財網",
-      "published": "Mon, 09 Nov 2026 23:54:32 GMT",
-      "display_time": "11/09 23:54"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-      "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-      "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
-      "published": "Mon, 09 Nov 2026 23:31:17 GMT",
-      "display_time": "11/09 23:31"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-      "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-      "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
-      "published": "Mon, 09 Nov 2026 23:14:38 GMT",
-      "display_time": "11/09 23:14"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-      "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-      "summary": "The quarterly results are the first since Lucid CEO Silvio Napoli, who started leading the company in June, announced a restructuring plan.",
-      "published": "Mon, 09 Nov 2026 23:05:53 GMT",
-      "display_time": "11/09 23:05"
+      "title": "台股反彈這2檔卻遭鎖定！「這檔金融」遭三大法人砍逾2萬張淪賣超王群創營收呈月減7.4％也被調節 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPRG43RExDMVNkVlVnc0t0YkJnQlltdUJiMHJlTWgtYkI4bDNIZkxIS21HSG5QNEtvVFp1SFRxc2JybF9lZUFmdmc0VVdMZHJyMEdhaUpPUUk2bmpvRkJQQXB3eW01YktHSGN0a1RSRGRNSVcwVUJadzRTR1RtZUpkdWg5M1R4R3NVTXdreGtQeXZyVEJpcU16aWhNa1BKZTVuZ0lRZmtQdEhMb3UxbzFCSklTQ3JlNkdONTNtLVJmRTVvVWttUEQ3ZEQtV1ZQQVJNbElTTV9jTkZHVS1Bbm1DWmw0eWJsVk1faFJmNkZFNVp4YXl5UmIxS2tfM3lkSThzQ0dSTjg5bkljVlZ0TFluYTRSSjM1amR3VUdxLVFHUEdjMDZ1alFPUVlrNkZ6LUpqRHpyRkxMNWVKX0JOQ0RRV25UdDc3c3Q5Qy1BRGVsRVRsUXpWb2ZfLXV4Nng3U1ZaYUphZlJyQVdMRFdneThwMm1KRU9Rd0pyMk1ldG1Fak9YbzRxY2NVUEFyVTc0ekFQOXNPakN1Nlh5S19xUUtCVmMxSU1PQk9BLWlWRlJLbWVsMFpBeFo4MEZsQk9KRWdlZ29SQlRwNWh1bnppYV81bVpNbWhTVlJHWkJHVUEwYjU4Zzd1emp1OHFzTkgtbmEzRUZzNGpUTXA5MWhSa3c?oc=5",
+      "summary": "台股反彈這2檔卻遭鎖定！「這檔金融」遭三大法人砍逾2萬張淪賣超王群創營收呈月減7.4％也被調節 Yahoo股市 【Follow法人】外資連9賣狂砍8298億元！提款台積電187億元 面板雙虎也遭賣超逾3萬張 Yahoo股市 外資對台積電連23砍！今提款群創最兇　買賣超前10名一次看 ETtoday財經雲 國安基金護盤助攻 台股早盤強勢反彈站回4萬3 公視新聞 外資鐵了心要走！連9賣今日再賣341.16億元 自由時報",
+      "published": "Tue, 10 Nov 2026 13:30:00 GMT",
+      "display_time": "11/10 13:30"
     },
     {
       "source": "Google News Global",
-      "title": "0050跌破90元撿便宜！他89.5元進場憂「會被套嗎？」 網：低於100隨便買 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQNFNKQ1ozZkZoMEFySTE2RU9heXFrN2F3Qk1yM25lbDE1QTJVUnJHUk1wQmlNMlBmcU5CTVFmekczTE1KQnh0akItSExXVXBleFVOS29SVlhHVVhPbEtFOHhQdjFLcjdIeEpLaEotaE8tbVdBVzVXdjZrV3ROVmkxVWtZQ043dDJ5a0pmTkI2THI0ZUF2Wlk0VzB5bjB3bTlTbWtldDZlSjA5eUMyVFZsSmhXVTVWREtUY096UVkxclR1elVCWmtST1ZrUFhDQkcxZzJfVlhoel8zWmtpclY1M3V6MGZQYU0xYjJnUHlxenppZzBUTF8yN0RoU2FUeHRrUV9IVzVyck82V1UtR3J6RVZIXzdTZVpwRzI3RUJxakNDWHJPdElzUEZqazc?oc=5",
-      "summary": "0050跌破90元撿便宜！他89.5元進場憂「會被套嗎？」 網：低於100隨便買 Yahoo股市 台股重挫！ 股民狂抄底「這2檔」成交量破百萬張 東森電視 台股正2 ETF 四檔搶鏡 經濟日報 焦點股》00631L：開盤飆漲逾千點 散戶喊撿到鑽石 自由時報 第四法人沒在怕！3大ETF狂吸抄底買盤 鏡週刊Mirror Media",
-      "published": "Mon, 09 Nov 2026 22:35:00 GMT",
-      "display_time": "11/09 22:35"
+      "title": "川普宣稱伊朗戰爭「已實質結束」！　目前沒必要打但隨時備戰 - ETtoday新聞雲",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NWFpTWGNZZzJ4bE13R2tiTTRhRkxGd3BFRUg5VG9yOXd4NjBhVE9tcFgydEQyMEJVZEgyc3pQMkl6czdMVDFQSVNmM1lDYTFGaGc2WndlZjlOSkpsOXfSAUtBVV95cUxQQWRxNFhPZkgxcWphdnktXzZUbVhaalQ5U1RxbWdOVXNvOW5VY0dRa0ZDblc0WU9fX3g3VFNHNTYxUzhrVEZNMENGdzA?oc=5",
+      "summary": "川普宣稱伊朗戰爭「已實質結束」！　目前沒必要打但隨時備戰 ETtoday新聞雲 與卡達總理會面後 川普：伊朗戰爭軍事上已「實質結束」 Rti 中央廣播電臺 衝突降溫 川普：美伊戰事基本上結束 UDN 油價崩了！美伊傳達成核談判初步共識川普曝戰事轉機- 國際 工商時報 范斯將掌大權？美伊和談將迎來新進展 但美選民較挺 「這人」..... Yahoo新聞",
+      "published": "Tue, 10 Nov 2026 07:40:00 GMT",
+      "display_time": "11/10 07:40"
     },
     {
       "source": "Google News Global",
-      "title": "美股收盤》主指全收紅！輝達逆勢重跌4.27％ 台積電ADR上漲3.51％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUDh2dHF5aXU3ZkdnSndwcURmSjhhQkdRVzIwcldzSXJ1Vk5JY0RCS0x1S3FhWjh0UmhpanlRVWswOS11OWczaGItWWpScktpbEFzaS1oaTdiaV9XTUsw0gFkQVVfeXFMTklHel9aRDVqMnB6Q1JBX1dYekdDWVdHTWY0bEZqRUlLSjNwY0lKcWNRQlY5bGZTaUk5TWlJbWlBZEFHY054Ym12dTAtYTlaOFdDWGZIZWUtTTZ2ZE84b3RwUTd2Sw?oc=5",
-      "summary": "美股收盤》主指全收紅！輝達逆勢重跌4.27％ 台積電ADR上漲3.51％ 自由財經 僅輝達受傷的世界...科技股回魂 美股收紅 Yahoo新聞 《美股》收盤速報：美股強彈 那指漲逾2% 旺得富理財網 《美股》AI股反攻+油價挫費半強彈輝達獨垂淚- 新聞 MoneyDJ 〈美股盤後〉道瓊飆逾1100點 標普創4月來最佳日 輝達逆勢跌超4% 鉅亨網",
-      "published": "Mon, 09 Nov 2026 22:34:11 GMT",
-      "display_time": "11/09 22:34"
+      "title": "為何不讓赫格塞斯走？CNN揭川普盤算與「最危險時刻」 - 中時新聞網",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tbUdNcUswQlF1MXBLMkE1VlhJRDZiYWZtWXNuSzRhNWVEdXdUbXZKeWVSUUNIVUc4NG9rZUtKeTM1anMxbWw0UGhoM1JiRjlUXzdtSm9yWnNBTTRyNTlPVFpNdU9xNkYtSkdERzh3?oc=5",
+      "summary": "為何不讓赫格塞斯走？CNN揭川普盤算與「最危險時刻」 中時新聞網 美防長赫格塞斯遭提彈劾如何影響國防股？ 鉅亨網 遭撤職中將當選國會議員 拉科爾怒轟赫格塞斯：最沒資格當防長 自由軍武頻道 控未經國會授權對伊朗動武眾議員對赫格塞斯提彈劾案｜20261110 公視晚間新聞｜ 公視新聞PNN 公視新聞 共和黨議員提彈劾案 美防長本週面臨眾議院投票 Rti 中央廣播電臺",
+      "published": "Tue, 10 Nov 2026 07:11:17 GMT",
+      "display_time": "11/10 07:11"
     },
     {
       "source": "Google News Global",
-      "title": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZZHNVSldqT2dNQ0VsWU5jSjZCZVFwM0lzaEJPQmtQRzJwY3lYUHhHclhlbUtsSFpkRGRnb1BGVVg4WlEyNXRucDBQRG82cU0?oc=5",
-      "summary": "〈能源盤後〉川普稱不太可能再攻擊伊朗 Brent盤後跌逾7美元 創8月底來新低 鉅亨網 卡達沙烏地等國籲克制川普稱暫緩軍事打擊伊朗| 中東戰火連綿| 全球 UDN 油價崩了！美伊傳達成核談判初步共識川普曝戰事轉機- 國際 工商時報 川普稱「極不可能」大規模再襲伊! 美軍陸海封鎖荷姆茲多艘油輪再遭襲| 國際 Newtalk新聞 與卡達總理會面後 川普：伊朗戰爭軍事上已「實質結束」 Rti 中央廣播電臺",
-      "published": "Mon, 09 Nov 2026 22:01:23 GMT",
-      "display_time": "11/09 22:01"
-    },
-    {
-      "source": "Google News Global",
-      "title": "〈台股盤前要聞〉10月進出口創單月新高連36紅、台達電及國巨10月營收同寫新猷 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXWXBtTlpNeFN3MVZveWsyMHBIRS1rY0xZajlKOGQ2VzRRQlB5QXVGbE1laU83NU9QZDBIME9PQUN3ZGFBdXYtamVWQlkzdU0?oc=5",
-      "summary": "〈台股盤前要聞〉10月進出口創單月新高連36紅、台達電及國巨10月營收同寫新猷 鉅亨網 10月出口967億美元「驚喜又驚奇」 今年全球外銷排名將坐八望七 UDN MoneyDJ新聞 2026-11-09 23:32:08 丁于珊 發佈 MoneyDJ 改寫兩項歷史紀錄！今年出口確定超車日本 全球排名「坐8望7」 自由財經 【台灣】10 月出口再創新高，AI 出貨瓶頸逐漸疏通！ | 財經Ｍ平方短評 LINE TODAY",
-      "published": "Mon, 09 Nov 2026 21:21:06 GMT",
-      "display_time": "11/09 21:21"
-    },
-    {
-      "source": "Google News Global",
-      "title": "不演了？ 台股漲幅大收斂 他追旺宏、華邦電秒被套 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQdE9qV0k2SGRBeXRXWFd5LWF3WnI5dFMtZkpIaWJiRzFRaXNlaTdkQkVLZEU5dklnaVNTajY2dWVHMFBIcF9mdFVBSXVXekUweEVQZDJrTmNMVUluNjRNanJnaG1oc0ZOcVYtM2lPRlhrVkFVTXh4SEh4RTZBTlplTGh1bU9FSzRWTm9qbnN5YkpRX2wxcm85TFVrWFlXYU1NV3dJd2t0Q2dVdjdaaTVYTXhJaXMxbU1BaTNoTUxmNXBtRUtFMG1NWnAxa3lrWGdSamtCM3htNVpNSHg0YjZBUzA2QTMyV09GUkFsRi1reEMzOURUZzkzUnZMM0x5bmI0UUZCMlFuZ3BzZTgtQTZ1UUwyV1FjVVk2UHBOWFdvaEoyallpOWFuSGY1UlJreUM0bDROdDRUaWtON3EtNlV5ZjlGb3NYX0owaE1HaVlyQQ?oc=5",
-      "summary": "不演了？ 台股漲幅大收斂 他追旺宏、華邦電秒被套 Yahoo股市 外資對台積電連23砍！今提款群創最兇　買賣超前10名一次看 ETtoday財經雲 98萬股東看傻！這檔「昨漲停今下殺」 幕後黑手抓到了 Yahoo新聞 外資2天狂賣1241億卻獨寵「這檔」！狂掃10.22萬張 連拉2根漲停 自由財經 外資投信大對作！一賣341億、一買368億 三大法人賣超148.23億元 鉅亨網",
-      "published": "Tue, 10 Nov 2026 04:34:05 GMT",
-      "display_time": "11/10 04:34"
-    },
-    {
-      "source": "Google News Global",
-      "title": "范斯將掌大權？美伊和談將迎來新進展 但美選民較挺 「這人」..... - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQa1lBLUNwelJVMlZPQlZuZkZhSTY2SFdGMWpyREViczlYWDBvUHR3S3BXak5VUUlCM1o3YjB5eGxla1NWak1LazYycGRvZnl2Nnk2WmYyRHZyNnBJRXZ1VklkOF9PeXJyQnFQSU1KX0VQM0lfUjQ1bXR1RW81cEZVQ3lKOFNRZHlBUDZIZnd2Z0NFLVZEVHVnYVBtQ3NNZUVXOFJpazg4WmlUV1RBYy1tcHdxRGRjQ0V1aHlHNFBCRVBCVWF6bW1ldm9iNXdwd25saExjcFp5c25HbF9iemxHN0ROQkF0aFNIM1ljRFZSQ2xIY3BEMVVJRG9EcUVleGM3VTNlS005TWRVcjliUnR6SXdQWDc4TVZUNS1NblFYRzh6dDIyQV9SaVB5QkZxdTBfVkp6Z1F6Znk0U3duUlBxcmZ1YzQzY1VhS2x0c1ExN2doeWpSV1dVSDRXRG05LVdjMGZsa0pZV01HQ3duTzRhM0ozNWJ4VUk?oc=5",
-      "summary": "范斯將掌大權？美伊和談將迎來新進展 但美選民較挺 「這人」..... Yahoo新聞 川普會卡達首相釋停戰信號：美伊戰爭現收尾曙光 美軍仍戒備 伊朗：七項條件必須落實 鉅亨網 與卡達總理會面後 川普：伊朗戰爭軍事上已「實質結束」 Rti 中央廣播電臺 油價崩了！美伊傳達成核談判初步共識川普曝戰事轉機- 國際 工商時報 川普有條件不再空襲伊朗 布蘭特原油跌到93美元 UDN",
-      "published": "Tue, 10 Nov 2026 03:43:50 GMT",
-      "display_time": "11/10 03:43"
-    },
-    {
-      "source": "Google News Global",
-      "title": "鬧翻！川普嗆1共和黨議員敗選是「超級大輸家」 原因曝光 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNZnlBSzhlRnNoTTNwWDEtQ0xhM3hRTC1RNXBEWGtQdzcxLXRzekU1ejNObXhSUGl3SXJKdjNJR0FYSlhGWmlfUUtYR0tReHQtc3hSSXFqbEhUMTMwZ2JhWFh5MVpHTU5YRXhiWExfNW9TN0xDc2hDWWMtY0w4UGFmZTdGbk5xUjJPSkhDdUNwSGR0U0tOa2dUdy1HUlppdmx4Wm1Sdjl5aWs2YlB0bERodWlHa3BQYldDbFNDR29UckxVVVo0WFJmaHhSUk9xOFdvaTlqNUhhc2JYRlE2d3RjYWNiNE4zTnllSTZudGptZ3BYWGIyU0s0VmpWYjZvYzNkSlBrUzZucnFrM2lLb05CbXRYUUFTZ2Y0RVdadXEwZzVfcGg1Y0dJQ3pZb19yVVpXc3VHZlZleFpmbXhGZGZzWjNrNk9iWWR6OXo1Q3VhcHhHbzNlcWw4R2ZSbkd0N0RM?oc=5",
-      "summary": "鬧翻！川普嗆1共和黨議員敗選是「超級大輸家」 原因曝光 Yahoo新聞 遭撤職中將當選國會議員 拉科爾怒轟赫格塞斯：最沒資格當防長 自由軍武頻道 選後首波清算！共和黨人提案彈劾赫格塞斯川普表態力挺專家：雖具政治象徵意義但地緣風險溢價恐延長 鉅亨網 美防長赫格塞斯面臨彈劾川普1.5兆軍費案添變數- 新聞 MoneyDJ 美眾院本週可能表決赫格塞斯彈劾案 川普表態力挺 Taiwan News",
-      "published": "Tue, 10 Nov 2026 02:37:01 GMT",
-      "display_time": "11/10 02:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "營收報喜！台達電股價腰斬後大復仇連拉2根漲停法人揭下一波目標價- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qSS1rbTNCdnBFMk1HUHRjUVZHLXpIRm9mUkRDc3N3YnBYdlFfeVZ1allnd2hiT1NEVE14M0p3Sm1mZjVwMmNxR1B6ZHVVSjhhRnFUMjUxekxhLUdCVU5F?oc=5",
-      "summary": "營收報喜！台達電股價腰斬後大復仇連拉2根漲停法人揭下一波目標價- 證券 工商時報 台達電營收首破700億元！一字鎖再閃第二紅燈 分析師曝「上檔壓力區」 Yahoo股市 不是說缺電？台達電股價卻腰斬！市場究竟在擔心什麼？ 工商時報 台達電要起飛了？ 10月營收年增3成 創歷史新高 東森電視 台達電連2日亮燈漲停！股民嗨喊：達哥回來了 自由時報",
-      "published": "Tue, 10 Nov 2026 01:37:00 GMT",
-      "display_time": "11/10 01:37"
-    },
-    {
-      "source": "Google News Global",
-      "title": "輝達開盤暴跌8％ 專家：黃仁勳外遇升高美科技出口管制壓力 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zbkVnOUxXcGpoaTZSTnVYT1QzbFpmUVB3MGhmclZvNkxMaFBmdEgycEd0ZU02ZkswZDNVa09KeXVNLXVuWnM5M0N1ZFAzZlRBQWVfODdsM3RsN0lBZjRB0gFkQVVfeXFMUHpxZWZ2X1BRbjRrRVVsem9VWnFtYjhBcENqV0M3S2NodFpEbHhqcVd0c1FaMkxXalZfRnJMZ3FyNUtaczVRYUhZVlJjdGhCRlNuRkltdGpETUhlN005cFNJUUkzTw?oc=5",
-      "summary": "輝達開盤暴跌8％ 專家：黃仁勳外遇升高美科技出口管制壓力 自由財經 輝達逆勢跌逾6%！黃仁勳調查案衝擊多大？華爾街點出三大風險 Yahoo股市 〈美股早盤〉買盤回來了！油價下跌助攻 道瓊漲600點 鉅亨網 快訊／黃仁勳出軌拖累　美科技股狂漲「只有輝達下殺8%」 ETtoday財經雲 新／美股反彈！道瓊、台指期飆逾900點 鏡週刊Mirror Media",
-      "published": "Mon, 09 Nov 2026 15:39:09 GMT",
-      "display_time": "11/09 15:39"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黃仁勳婚外情拖累！Google、超微、Meta、台積電ADR齊揚 惟輝達重挫8.4% - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQYW9sbXlOTkM4ZjR6Y2xfZEMzV2ZiRXk4b2R1ZzR6RU5RdFJ6bi1EY2VXMTNxMTRhdDBJeDNBZ2pET0laTkljck5ScTZZZjVlSXRGX2o4Uzc3M1dGaF9acEE1RTBQWjBRa0FjeXNPeXhWQzg4Z1VKSUlTX2hKS29CZThiclZ4cVR3QXlJbFB6M2xNLWwwU2RCYjJoN1ZJbTlTc041QkdQdGRhNkZsQ3VzMWRTV0NDeEd4ZzdUQWJ3UV9GUWU0d2JQcDlOcTFuS3UzaHpwRlNSQkM2TlU3c0x6VzhXb0JsQWRhYktaVllwbUlTYmdtajIwMHZuUXJCWG1DdXIzUVNrcUo3NnJCUnV2UFRoWVNES0s1aGRpRVp2Vms5bEZOOUE?oc=5",
-      "summary": "黃仁勳婚外情拖累！Google、超微、Meta、台積電ADR齊揚 惟輝達重挫8.4% Yahoo股市 黃仁勳認了婚外情，女方疑是中國間諜，輝達急查、執行長會下台？ 天下雜誌 輝達執行長黃仁勳外遇對象黃樂 可能走私晶片到大陸 經濟日報 黃仁勳權力如AI央行總裁 外遇風暴恐引熊市逼近 自由財經 走進黃仁勳商業圈的女人！Alice Huang創辦的Megaspeed什麼來頭？ 鉅亨網",
-      "published": "Mon, 09 Nov 2026 15:08:00 GMT",
-      "display_time": "11/09 15:08"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Goodyear Tire CEO Mark Stewart steps down as company continues turnaround plan",
-      "link": "https://www.cnbc.com/2026/11/09/goodyear-roger-wood-interim-ceo.html",
-      "summary": "Goodyear Tire & Rubber appointed board member Roger Wood interim CEO and president, replacing Mark Stewart as the tire maker continues its turnaround plan.",
-      "published": "Mon, 09 Nov 2026 14:56:47 GMT",
-      "display_time": "11/09 14:56"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股｜油價跌緩解通膨擔憂 道瓊飆1,104點 費半漲近7％ 台積電ADR揚3.5％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yVUVOQjhVRG1NWHItbVJSYm5kT2JSbFMyc0lNQTZEczh4Wm5rd3pEZ2wtQVNHbTQyTnM5czVranZzRVdvdE44ei1JZlNBa05QMkttbzB6Z1R5MVp1bWRB?oc=5",
-      "summary": "美股｜油價跌緩解通膨擔憂 道瓊飆1,104點 費半漲近7％ 台積電ADR揚3.5％ 工商時報 僅輝達受傷的世界...科技股回魂 美股收紅 Yahoo新聞 商周-黃仁勳風波竟可能讓微軟、Google受惠！華爾街為何仍看好輝達？ - 商業周刊 商業周刊 這波反彈要追多嗎？專家：輝達醜聞還有得燒 天下雜誌 美股全面反攻！唯獨輝達躺平 葉育碩：留意「錯殺機會」分批布局 三立新聞網SETN.com",
-      "published": "Mon, 09 Nov 2026 22:39:00 GMT",
-      "display_time": "11/09 22:39"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股大反彈V轉還是死貓跳？散戶見外資1舉動驚呼「大中計」 專家曝市場2種情緒 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMizwNBVV95cUxOT2lET24tMF9JRHlEMHpPTlBjUS1VSHV5Y1Q5Vi1CSnNxdmNoS2xGNnpxUzVldWRtOUpKOUM2OXVRTVQxU2tVUGdIcmFKOERiRGJNZURZZm5jV3J4MVh2Y1ZpVG5DSzFxbFQ4RkE2VExnTjhQRVpBTWJWc28xYjFmQUxuUXNwOTh3N3RyTGpYTGpLQ3J3WUQ2dE1fZHdjSHFwM3VZYU9jVktic01rbmxJVTlFZ09kSjBEU3NQVVZfQWR1bnZpUzR1cDBHaV9pZUVCZHdROU1pNUhaR3Z1eDllZzh0NHg5c21ILXNHTTl5OEJsa0tYQXJkMTFiZm5jOGh4T29hZ1JHMGJ6dldpSl9SWF9OQkNzYVI0cm5xTkRCQ052bXRiSGFwcklXRXFZMFBDdUJJQ2ZXcnNQR1NjU1RKYk41eHh2QU5LeG5zb0ozZldwTEpXVFdBanRaY0dXa1dEOGpXMW0weTRoMEhuTHpNMlpWNG5MY2JNVDhGcENpQ0tERzRYYkN2ZXlJazl0aVdNWWN0ZE44UjBfN2xSV2l5YlVreXV4UUN3RGRpeFNyajhVSmtXQlJvWDVaNWVFLXR2Tm5WcjhpUTFxRmluVGNR?oc=5",
-      "summary": "台股大反彈V轉還是死貓跳？散戶見外資1舉動驚呼「大中計」 專家曝市場2種情緒 Yahoo新聞 台股報復反彈1960點！ 網見外資動作驚呆：大中計 東森電視 12檔雙優強勢股短多聚焦 法人預期仍有漲升力道 | 市場焦點 | 證券 經濟日報 散戶不死心又進場了！ 今日上市融資增加58.63億元 自由財經 外資還在作空 集中市場賣超900億元期貨再加空 空單數衝破10萬口登頂 鉅亨網",
-      "published": "Mon, 09 Nov 2026 14:00:00 GMT",
-      "display_time": "11/09 14:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "共和黨議員將對赫格塞斯開彈劾第一槍 民主黨喊加碼查川普金主馬斯克 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPNFpVelU2cGU2WVJ4ekpPcHNrYTRTUUNaanhlM3VTTDVGdkVlY0tfcXRZNFZFSmN0QzBlY3pVSVVNWlhYTzRMODk4Z3g1ZTBvUmIwVzFLNS0wOTFOSFdJVDJFbEFmN3BXVG9xbi1nMFZMVHNXT1pVWUpqR0k3VWRONE43Q3F6VVpySHQtMzRLQ2Jrd29MMExvamJhLXhvZWw1NjlCem8xZUx3QjNrWkFVbXo2OS1NakdOTmdVN0ZyenRmQkI1c19jcmtnN09sbXRSUWdOcVV0WnRJcFYwcDZwMHV3RXF6d3JUS0pKbnplZzljUzg5OEJDVkNDaDFscUM1VXNhRzVWSEE2MkNTcVYyRTdjVUl2WTE1NUpjcmFwdklMYVd1U0gwbFZHQUVzSEpLbWNoMjlId0l4SFFTUHpGZ1NTbEZUNy1pemJpYXFWVG9HOXNnR0lmVVZ4bElxUHJiUTJGUzRKN2pNbE5CUnhLT2dkbURjaUdYSnh6WEg4NmFjZzFTMU9veFhiam5aVkVVaVBWTGt5Q1hBektKa3dyM3dhenJCY0g5aFYwX0FYTlEySWluQXZlR29Ccl9wUQ?oc=5",
-      "summary": "共和黨議員將對赫格塞斯開彈劾第一槍 民主黨喊加碼查川普金主馬斯克 Yahoo新聞 共和黨議員提彈劾案 美防長本週面臨眾議院投票 Rti 中央廣播電臺 美防長赫格塞斯面臨彈劾川普1.5兆軍費案添變數- 新聞 MoneyDJ 伊朗戰爭讓共和黨慘敗？原因不只物價飛漲 明居正：川普讓美國人想起「這場惡夢」 Yahoo新聞 眾議員提赫格塞斯彈劾案 川普力挺下屬：「打勝仗還要被彈劾？」 自由時報",
-      "published": "Mon, 09 Nov 2026 09:17:08 GMT",
-      "display_time": "11/09 09:17"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美俄烏明重啟和談！川普暗示烏須割地：版圖會不一樣 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQV2hEOGphQXhZNWVUeDQ4QXQxdzBseVhTa3dWYkZmSzNvaERvM193WVFiZGlRcnJ6MkJOdDZMb3VUUUdFTG9JWEgxLTU0ZlY2V1piZjdtZkRBNThXTTlXT3NwdkNVQkZTNUVYbmowc2RUaDBPek1sU0tHZHUzM0dmcWtvcDlPMWw4RlBWQ25nVV9lNUp0eVpHQVpST2ZKaFc0cE9OUE0yQnNJNlpSZU1BVFM3eFk3TXZyeFlTSDRXWnRSV0Jta2M3VG5sYW1ScWg5ZTdmWTl2TWNEaENYR3VGNkt2dkZpRzRhWExDekowNW5QcFdHVFhGVmQ2TnRBUDFFU3VsMXlkUnBOemhLZVhlOXpqUzlZbzM5alM3cjJpX2RFaDdFQnZvX1oxVGFKUEpkYXlkeEtTYjFGcTY2X3R6X3NnWlN1d0dmc015MnZ1RHdoNzQ?oc=5",
-      "summary": "美俄烏明重啟和談！川普暗示烏須割地：版圖會不一樣 Yahoo新聞 美俄烏下周重啟終戰談判！川普期中選舉慘輸 普亭盤算生變？ UDN 法國外長：歐洲國家將派員參與阿布達比俄烏問題會談 Rti 中央廣播電臺 美斡旋俄烏停戰協議 歐洲安全架構成關鍵 中華新聞雲／中華日報 有進展！俄烏戰後安全架構有影 魯比歐：阿布達比會談可望再突破 自由時報",
-      "published": "Mon, 09 Nov 2026 08:10:35 GMT",
-      "display_time": "11/09 08:10"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股漲逾1900點站上4萬1大關 台積電飆100元 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzdvc0hOb3lwRk9uUFlHVnJKUUlRMXgxajZwUTlMamFDNzJLRWJLMktOTURDM05FTTdVVlRGX2MyMXlEUHY2RE9rNzNkS3RJNmM4RUE5d1lGUVYzVGpFUWFhSEpZWGU4OXA3bl96dHZFM1lENlJmYnlIYmg3Z3JLanJn?oc=5",
-      "summary": "台股漲逾1900點站上4萬1大關 台積電飆100元 壹蘋新聞網",
-      "published": "Mon, 09 Nov 2026 05:40:00 GMT",
-      "display_time": "11/09 05:40"
-    },
-    {
-      "source": "Google News Global",
-      "title": "尼坦雅胡最強對手獲邀組閣- 國際新聞- 旺報 - 中時新聞網",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qeUVHN0Z1VjJxamgzemdMWG1ibHNRaXgtRlBJYjUxcWtpZE5lNldUQWFzSmVVWHFxdlF0eVdoaDlmM2RQazFQMzYxc0tHS20zWG51ZnhsUkE3M04wMzA2Y0pRSk1yNTJoc1hj?oc=5",
-      "summary": "尼坦雅胡最強對手獲邀組閣- 國際新聞- 旺報 中時新聞網 以色列政壇大地震！納坦雅胡失勢 恐對伊朗開戰翻盤 嚴震生揭政治危機 Yahoo新聞 阿拉伯政黨19席挺艾森科特 納坦雅胡陷困境 公視新聞 選前押注納坦雅胡! 以總理換人川普首度表態了「他」最快這時間接掌政權| 國際 Newtalk新聞 以色列極右翼時代即將終結？納坦雅胡執政19年面臨最大危機 阿拉伯裔政黨倒戈成關鍵 鉅亨網",
-      "published": "Sun, 08 Nov 2026 20:10:00 GMT",
-      "display_time": "11/08 20:10"
+      "title": "IPO 揭露近 9,000 億美元天價帳單，Anthropic 遭科技巨頭「保底合約」套牢 - TechNews 科技新報",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZFVPNlJtWUhyVmV4NU1EYXd3a3JJSkdkNV9oMHp1aElyeWdlWDRsb1hzSjh6SkJsZ0JmbXdwVkxEVEtQNlhvTUFMTlMyV1lZRVZvdnctZHp3OWxNSUtGY1BfakxCcnRLS0p5eVFSTUlkbGJOVWpuZjZBQ0hKMnpseW81WUFPb01peFN3?oc=5",
+      "summary": "IPO 揭露近 9,000 億美元天價帳單，Anthropic 遭科技巨頭「保底合約」套牢 TechNews 科技新報 Anthropic招股意外泄露融資細節！台積電等7大科技巨頭傳砸260億美元投資、估值遭下修 鉅亨網 Anthropic 發表 Fable 5.2 與 Mythos 5.2，模型「懷疑自己正在受測」的頻率高於近期Claude 模型 INSIDE Anthropic 計劃為 IPO 舉行直播活動 讓公司 CEO 與摩根大通 CEO 對談 | 美股動態 | 國際 經濟日報 Anthropic 推出 Claude Fable 5.2、Mythos 5.2！效能大幅提升，可打造作業系統、解決黑洞難題 電腦王阿達",
+      "published": "Tue, 10 Nov 2026 04:33:17 GMT",
+      "display_time": "11/10 04:33"
     }
   ]
 }
