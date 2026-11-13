@@ -2,6 +2,14 @@
   "date": "2026-11-14",
   "news": [
     {
+      "source": "BBC Business",
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+      "published": "Fri, 13 Nov 2026 19:53:57 GMT",
+      "display_time": "11/13 19:53"
+    },
+    {
       "source": "Google News Global",
       "title": "72萬股東關心！凱基金前10月賺394億元 EPS2.29元 - Yahoo股市",
       "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPU3BobVRXVWx5YUpNQVM0TjR5cWlsSmJtT3czSG4wQWg1M3pqbXlBdHMzRmJHejZsWGdROEJoRzR4djNuYWk4VHk1anp0ekJUX0Jlal9IX3FrTXNPUWZFZEdsMnNpSG9tTFVrVVRiSVF1WVRfOWF6SExHUDFqeWotMHhQOUx3ZUJWMDZVcmhocnFra045azg0UTFUUFhmMmVCZEkzNmRFRjh1VFNDN214QmRqRzcyNmgwLWd0SGVEcGhidklmbUFOTDVLcXRKRWxON0pfZ1MtRU9CcTlvdmhSaFdXd3l3cTlvcWRSOG9pb1JHVTNLTENadGhRUFdNWUNTdmVBQ3lTMzJfNXBLRzdzSnJUZjYxYldpZC13U3lIQWRTUQ?oc=5",
@@ -19,11 +27,43 @@
     },
     {
       "source": "Google News Global",
+      "title": "黃仁勳走了還沒完！美財長開砲商務部 輝達也得說清楚 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNUlBFMEp5ZEQzSDJtdm1iQjFqUGVjWlZRSGFaU0xpR0lUMW84VHBjak1SZ3piemtZZlJvU2oteUJiOTU4Yl9kU2twVVljWmRnSTZNOENsWm9Ja0g5WnM1WXV5UVIxODhldE1tWFd6Q3E4QThuaXp3NzZiTUtrWC1xeHFxc2pTTVpPX0hGLXNZb0kzS0U4Q3JUS01XY0gzVFNwM0ZoMS16Yk1qazhLTk01TWd6Q1l6SUtfQkMzQXB3Z2wyNXZiZVpyN1BqY0oxcmoxeXE3TmpwNkRERkd3VGZNdndJZVVXLUp3SmRUdHlTQ3QtdmRrU2YxNHRFRXoyLUJLVGFWWnZFcGRSMm4yOHhWQzIxRW5JV0c4WDlXUkxqT2NaLXhSSjRrcFRNWkhEM1VfODZEcWptU2FqdDd5X1F6MFJsWXdqb25FRFZvNUtab21ieUlnbVdUcURNbmVIY1dtYzFjSXFrTkJMUENpQmhpRmFB?oc=5",
+      "summary": "黃仁勳走了還沒完！美財長開砲商務部 輝達也得說清楚 Yahoo股市 拖延Megaspeed列黑名單 盧特尼克恐遭撤換 自由時報 彭博：黃樂創辦的中國公司曾取得禁止輸中輝達晶片 Rti 中央廣播電臺 黃仁勳一倒、華府高層互咬，輝達晶片引爆川普內閣權鬥 天下雜誌 淪大陸走私晶片跳板？星、馬自清 祭出強硬執法 經濟日報",
+      "published": "Fri, 13 Nov 2026 15:30:22 GMT",
+      "display_time": "11/13 15:30"
+    },
+    {
+      "source": "Google News Global",
+      "title": "黃仁勳突卸輝達執行長震撼矽谷 Twitter前CEO預測他3年後王者歸來 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDZ20xTFlvQ3RhVURRNE9VTG1DOURpT0RUdmpmUnNUal9JT1pRR1RpTE5PR1pYMUh1bVBGbG5laVNZTlJ2TUFTY3JQXy1EM0U?oc=5",
+      "summary": "黃仁勳突卸輝達執行長震撼矽谷 Twitter前CEO預測他3年後王者歸來 鉅亨網 黃仁勳閃辭後豪宅不平靜！ 親友湧入、炸雞外送 神祕貨車搬走一批紙箱 Yahoo股市 美股CEO吃窩邊草 踩治理紅線多下台 自由時報 【Hello World】當晶片的巨人在間諜醜聞中難堪倒下，黃仁勳下台風暴洗牌美中台晶片賽局？ 報導者The Reporter 到底是誰毀掉黃仁勳？ 天下雜誌",
+      "published": "Fri, 13 Nov 2026 14:56:12 GMT",
+      "display_time": "11/13 14:56"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普點名庫克接棒黃仁勳！分析師打臉「機率幾乎為零」 蘋果前執行長為何不該掌舵輝達？ - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMUTRjZ0JnbzZFS212OERrVDM4NTFvejZNb1dNelRuYzZKeURXXzdnMU1TSWtmbEtNYXk2UmV2UFpXUjZodTRHRmZmU2RWd2c?oc=5",
+      "summary": "川普點名庫克接棒黃仁勳！分析師打臉「機率幾乎為零」 蘋果前執行長為何不該掌舵輝達？ 鉅亨網 金融時報：輝達尋找新掌門人 安謀執行長哈斯列接班名單 Rti 中央廣播電臺 克瑞斯不走老黃路?AI布局恐生變- 日報 工商時報 輝達董事會討論黃仁勳去留 紐時揭疑有第二段婚外情 公視新聞 陷桃色風暴…黃仁勳自責「爛透了」 員工盼他回鍋 UDN",
+      "published": "Fri, 13 Nov 2026 14:00:09 GMT",
+      "display_time": "11/13 14:00"
+    },
+    {
+      "source": "Google News Global",
       "title": "後黃仁勳時代來了！輝達一度暴跌14%，台股為何反而大漲？-Alpha's Newsletter - CMoney投資網誌",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcWRQdkZpRTF5cDlTeTY4YnRsVEtBUjNDLXNzLURraVNSVU1DT2V0ZUV6LUF1UGdxWUd3ZzJBUnBxOVJUTm5CNHBmRmVzWGhTaGNqRGY5akk3eWxMUUQzdkQ1dTY1b3JhcnpDRlZZZVpod1g0Znozd0pDbzdrRkZQMTloVW9ENlIyQWU0?oc=5",
       "summary": "後黃仁勳時代來了！輝達一度暴跌14%，台股為何反而大漲？-Alpha's Newsletter CMoney投資網誌 黃仁勳辭職誰最傷？15檔營收靠輝達「依賴度曝光」法人點名4檔反受惠 Yahoo新聞 華爾街變心了？輝達失寵 3檔個股受惠、台積電入榜 自由財經 台股周漲3,973點創紀錄！外資終止連11賣專家點出觸底訊號- 證券 工商時報 黃仁勳請辭引發輝達動盪 美媒：台積電、超微與博通有望受惠 Rti 中央廣播電臺",
       "published": "Fri, 13 Nov 2026 05:50:07 GMT",
       "display_time": "11/13 05:50"
+    },
+    {
+      "source": "Google News Global",
+      "title": "「仁勳黃黃」衝擊台廠！法人推演最壞情境「輝達砍單30％」上市櫃總獲利恐少6400億元緯創、鴻海、欣興…8大承壓股與7檔轉單黑馬一次看 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPd0Q4bFhiSG9pSGhyRVdwWm42enlGTkZ4Q3NhMkVrVXB2XzQxTmRDcUNQSEdXM1F1VjJJYkZJNm41bzVVc3Uxb1pKVzI0a29iWmVOYURWcjJDSGJGZ0JXSmV2a19iQ0V6RWFBd2p4V1pSRFhZOWtEQ2RJbzl4UGZQTUpXSXNsRE5ad3hUMm5lUVJ1MURJRlBCUml2YjN1QTh4VDYwVVpyRTlnVVlQYmRCdHVBNW4xZHRSSmRuUGNQOFdFemoxX1NrU2xJNEl2YVl2c2ZmNGFxaTFMMVJ5NmJZNTJUUjBTM0ktVDZHTHRQRmNLUDFtcEZYQl9mbFBucENRcC14bUZXSWhsX3E3TjBnVm1JazFNSGZPcFFUeWNXaUxIWml0RkpVQV96cmJlTkFpY19sZl8zMEdDdTNvLTNrVXFnYzBMM0JfRHF1SmlUVXF4eHh6ZExMOG9JZE0yTkcwY0NlWGdndTdZOGJMM0NEY0JEUlRmb3JnSnVFWVRQaVRwNy1xbmhHQkg2dWdvOHQzWUpSM3lKU0xMYnY0ZThqbzlZdkRYS0VMNFpKVWo2UXQ5SUJDWThqbHp5dG1kc2Z6NjQyQnpaUGhVc3pwQ00zYQ?oc=5",
+      "summary": "「仁勳黃黃」衝擊台廠！法人推演最壞情境「輝達砍單30％」上市櫃總獲利恐少6400億元緯創、鴻海、欣興…8大承壓股與7檔轉單黑馬一次看 Yahoo股市 沒黃仁勳罩！台廠背板股剉著等？專家曝「7檔最危險」這4家大逆襲 Yahoo股市 黃仁勳離職台股照噴！郭哲榮點名：這幾檔「低本益比、轉單股」必噴 Yahoo新聞 盧市長關懷台中AI供應鏈 經發局：長單合作關係穩固 主要企業營運穩定 臺中市政府全球資訊網 黃仁勳請辭引發輝達動盪 美媒：台積電、超微與博通有望受惠 Rti 中央廣播電臺",
+      "published": "Fri, 13 Nov 2026 11:47:43 GMT",
+      "display_time": "11/13 11:47"
     },
     {
       "source": "Google News Global",
@@ -40,6 +80,38 @@
       "summary": "俄烏談判有突破！普廷同意歐洲加入 澤倫斯基：美俄談「1事」很奇怪 自由時報 澤倫斯基稱歐洲將參與和平談判 俄方稱尚未同意 Rti 中央廣播電臺 美俄烏重啟三方和談：川普推「全歐安全架構」，烏克蘭電網被斷迎來最寒冷冬天 TNL The News Lens 關鍵評論網 美國斡旋俄烏議和談妥換俘 至於停火仍沒進展得繼續喬 中央社 CNA 普丁同意歐洲參與烏克蘭和談　澤倫斯基表示樂見 經濟日報",
       "published": "Fri, 13 Nov 2026 03:22:43 GMT",
       "display_time": "11/13 03:22"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "黃仁勳辭CEO恐掀輝達減單危機！投顧估台股獲利最多下修6.6% - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNXNNd3Z6UmRpUjNwQjVvUzI1b194N05RbWpIMEtlQm9JdWZOc2phN0FWd1N4aDg0bXFfb0NHZEhzcmUyLV91aE9yem1Ta2duak9obWNFaTNtMVJYNGZ3SlJUZVF6WUZFa3lwNmlrdFVVQUpCZ21LeUY2dXZyMkhEUTh3?oc=5",
+      "summary": "黃仁勳辭CEO恐掀輝達減單危機！投顧估台股獲利最多下修6.6% 壹蘋新聞網",
+      "published": "Fri, 13 Nov 2026 09:21:00 GMT",
+      "display_time": "11/13 09:21"
+    },
+    {
+      "source": "Google News Global",
+      "title": "U23世界盃／林佾葳連2次國際賽壓制南韓 韓媒感嘆：再次成為剋星 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sRUprbUFOV3kzSlZmMnljNDVWQTh5R2pxNUtrRjRraDRMVTF2enBKZVVwRG52QmFyNzJGWlhaRTRPclFvR1pEQW55Z0xrR3BB0gFWQVVfeXFMT0hQVkF1YnZDRGc3MVVHOWpSMzJZN2FYVmU1Nng2V25ZOTBPVExlMFZycWNseXlaWUhFRjNfVlZHWGxTTDRrdjlLREhzRkNIaDIwZzVwUnc?oc=5",
+      "summary": "U23世界盃／林佾葳連2次國際賽壓制南韓 韓媒感嘆：再次成為剋星 UDN U23世界盃「抗韓殺手」林佾葳6局失1分複製亞運奇蹟！6比1擊退韓國奪勝 Yahoo運動 WBSC U-23 Baseball World Cup 2026 presented by RAXUS: Game Report - Five-run second inning lifts Chinese Taipei past Korea World Baseball Softball Confederation (WBSC) 快訊／台韓大戰贏了！林佾葳再顯威U23複賽台灣首戰6：1擊敗韓國| 運動 三立新聞網SETN.com U23中華隊3投手被看好旅外！吳丞顥雷皓博王翾祈受矚目！ JUKSY 街星",
+      "published": "Fri, 13 Nov 2026 08:03:52 GMT",
+      "display_time": "11/13 08:03"
+    },
+    {
+      "source": "Google News Global",
+      "title": "純屬巧合？美眾議員卡納和川普在黃仁勳醜聞爆發前拋售輝達股票 | 信傳媒 - LINE TODAY",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jT3BoVDM1ZU5ENmttV1FMSXNtMWtaSVBEeFVQZGV2bkxlZWdFMUMyVXdQdXl5RE5tVHVpeUdEYmluN1lwVEJic2hhSFBDR2VUWnJRWENB?oc=5",
+      "summary": "純屬巧合？美眾議員卡納和川普在黃仁勳醜聞爆發前拋售輝達股票 | 信傳媒 LINE TODAY 美恐嚴審晶片出口 台鏈蒙陰影 Yahoo 「白宮股神」川普先賣了！8月套現最多百萬美元輝達股票 輝達如今創16個月新低 鉅亨網 富邦投顧：輝達若砍單恐衝擊台股 AI供應鏈面臨重整壓力 自由時報 伺服器台鏈主動查核客戶 怕掃到輝達事件颱風尾 經濟日報",
+      "published": "Fri, 13 Nov 2026 06:54:59 GMT",
+      "display_time": "11/13 06:54"
+    },
+    {
+      "source": "Google News Global",
+      "title": "民主黨展開輝達調查：質疑黃仁勳與川普的晶片交易與2600萬美元政治捐款 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wclBnc1NyWnN5d3BEZ3QxajNNWnJCLUNxRm5xamJGdXJUaTRzUmpRZTlxRjZFQ2tkVmFWckZZMkFNUjJuZmUtZjhfMkRPTkk?oc=5",
+      "summary": "民主黨展開輝達調查：質疑黃仁勳與川普的晶片交易與2600萬美元政治捐款 鉅亨網 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Fri, 13 Nov 2026 06:50:03 GMT",
+      "display_time": "11/13 06:50"
     },
     {
       "source": "Google News Global",
