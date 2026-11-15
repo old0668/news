@@ -1,157 +1,53 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "news": [
     {
-      "source": "Google News Finance",
-      "title": "台股震盪、企業獲利卻創高！AI三雄營收破紀錄 00961掌握科技金融雙引擎 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mcWgyNEpqZUZ4MWthbzQxS0dmcEZTbXpKa3BTSGZwQ2RJUkhNYTdNaGhoMVFROEl2Rjh0UUJtaVZEcExPVmRBZThYYjhNRVE?oc=5",
-      "summary": "台股震盪、企業獲利卻創高！AI三雄營收破紀錄 00961掌握科技金融雙引擎 鉅亨網",
-      "published": "Sun, 15 Nov 2026 01:30:05 GMT",
-      "display_time": "11/15 01:30"
-    },
-    {
       "source": "Google News Global",
-      "title": "黃仁勳離開輝達台廠也變天！分析師點名鴻海、台達電1類股超危…但ASIC將噴發法人選「這2檔」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQT05XQUxDd0hNS1NKemt3NGtoNVZRR18tTXdJWTQ1dnYwZ0pJWk94ZnpDYTFSb19vWkV1RnJucXVxZXBBMW9sMHFMd3Y3RktfR3hYVFV1WmtKWHdHQzRjaDRYaVQ5Rmt1TFVpMUtFcVlVaDlqa1FLRzh2Z0ROYlljYS10cC0ydDRnbmJENFQ5YUszRHJoQ0gydFJtZXhOY3JKbGw0SVlYNGwwdl96UHp1MG9fQm5WdmlTVnVFeGNlRGZUdzJkM2R3ZGstakY1MDdCZldfQzlibzdPUkJ2SURDdEpLZnlYMFo4YXNGUGtoN2FsR094U2l1UUZVSXR2TzNZeTg1NDRKWFRYX0JVVGlxbVk4QjBzZTQyWmVKNDV4MWttejJ0TlFSdnFiSThBNmNvb3FlYWVjTVlEWDVVMklXdldScU4zTUZ4TXFvc2l2MjlVdjQ0T0J3RDFyUWx3aUtReGtvVVZ6RzE1OEZBSW9CS0NfekZfN2tBTWoxQ0tPTXZ4YWs5bGRUSXFHYl9wdFBjbWhDY2wzVVFkbzR5YXF3OTU3M01VLWRHek1FcEVER1dTZVpwTGdOZUtUSkpxTjVtOFliQmVGbFEyeUFzcjJySmdUV3E2d3BlM19RVE13N2N3ZG1sRDAzdEJ4MUduNTgzQ2dj?oc=5",
-      "summary": "黃仁勳離開輝達台廠也變天！分析師點名鴻海、台達電1類股超危…但ASIC將噴發法人選「這2檔」 Yahoo股市 黃仁勳辭輝達執行長專家：AI發展趨健康、台灣產業鏈不受影響| 產經 中央社 CNA 時機敏感！黃仁勳閃辭 輝達2款高階顯卡突然暴跌 自由財經 黃仁勳下台「夥伴會換人」？ 專家點名影響「7家台廠」 MoneyDJ 台股仍屬跌深修復階段 法人：黃仁勳去職餘波蕩漾 UDN",
-      "published": "Sun, 15 Nov 2026 07:43:35 GMT",
-      "display_time": "11/15 07:43"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股暴跌後反彈近4000點！法人喊修正近尾聲 點名明年3大趨勢 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX0ZEN2dud1lsQXJiSVJIdWEzcW9JZFBlWXdyRF9sLVBOVVB4c2ljY0xGdllkUmNFaFVjSlZRMDNheFFCTGh5RGFJQkZCRTg2anctdlg1ampKMHlKVDNxR0xQTGFvSnFJa1kxaXROTUpyUzl2a0k2VXhDLUlSUGdqQXBn?oc=5",
-      "summary": "台股暴跌後反彈近4000點！法人喊修正近尾聲 點名明年3大趨勢 壹蘋新聞網",
-      "published": "Sun, 15 Nov 2026 04:22:00 GMT",
-      "display_time": "11/15 04:22"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "黃仁勳辭職台廠、股市剉咧等？專家：影響有限、台股安 - TVBS新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BTl9qLWlFWXB4MTZOVFNhVFY1QmswWXAtaWVwNkhfT1FGRFl4RjItWmdPd08zY3RXSlJIalhFOG9XR3ZySloyYm5FUXZEeE0?oc=5",
-      "summary": "黃仁勳辭職台廠、股市剉咧等？專家：影響有限、台股安 TVBS新聞網",
-      "published": "Sun, 15 Nov 2026 02:06:00 GMT",
-      "display_time": "11/15 02:06"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "台股一度崩1.2萬點！定期定額ETF大軍不怕護盤反攻 人氣5檔出爐 - 壹蘋新聞網",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdXZrcmtFbFZTazZ6UmRUN0pibWxaS05SUWk3cmxIekpQVUpteVFtUkJjV0F3RUtuQkN6NlZIYTlNY1Z4Qk44VC0xbVE1V2FCb1hiOXMtZ2ppUEQxSWxBUGZlQ0NybGRUcS04b09EUldRYVhJaF95WEw2bHd2WDkwTXh3?oc=5",
-      "summary": "台股一度崩1.2萬點！定期定額ETF大軍不怕護盤反攻 人氣5檔出爐 壹蘋新聞網",
-      "published": "Sun, 15 Nov 2026 02:00:00 GMT",
-      "display_time": "11/15 02:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "澤倫斯基：美方提出烏克蘭撤出頓巴斯換取加入北約| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VT1dpbVFfQjZGVkRvbnFvOEthTVN4MWVlbTVFaEdlT0M3ZlZ4QjdwOWNtOE51UHU1NkJ2blVtVlF2NmR0cWxpZV9UYi1DdUgtM1NFelp5YWgwR2JIcklr?oc=5",
-      "summary": "澤倫斯基：美方提出烏克蘭撤出頓巴斯換取加入北約| 國際 中央社 CNA 美國問烏克蘭：願放棄頓巴斯換加入北約嗎？ 鉅亨網 歐盟敲定歐洲談判代表 英法德義波5國將參與俄烏和談 Rti 中央廣播電臺 美俄烏重啟三方和談：川普推「全歐安全架構」，烏克蘭電網被斷迎來最寒冷冬天 TNL The News Lens 關鍵評論網 澤連斯基不忍了大爆料: 美要烏放棄頓巴斯換取北約成員國資格| 國際 Newtalk新聞",
-      "published": "Sat, 14 Nov 2026 14:00:00 GMT",
-      "display_time": "11/14 14:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電壓倒性市佔率難以撼動 日本打出2奈米便宜三成卻還沒做出來 技術真相曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11TDJWckp1Z21HZGkwZkNqdmNpaFA2Q1BtSEM5WHQ5bFNDSkR6U1prTWZzUjhCYndjZmNmQUpaNlZOLVR6aC1yeG1oRkZOOElOUHMxSkx2dEYwOWlVem5Z0gFkQVVfeXFMTzBKVkpBNERqMVBEOVB1bVZxMTFwTTJtWUFqdDZyT1ZuTDlPWXFJTmJoOGdyTmNNX25nZ1RWV0k5akVBRmNsMHZmVEhpTjdBTElkZEU5a29fbUlkZVR2Y1RxVDBTSQ?oc=5",
-      "summary": "台積電壓倒性市佔率難以撼動 日本打出2奈米便宜三成卻還沒做出來 技術真相曝光 自由財經 日本半導體雄心受挫 外購2nm製程良率不佳 明年量產恐無望 XFastest News 財經觀察：撥款兩萬億日元，項目已延誤數月，日本「孤註一擲」，為何造不出尖端芯片？ 風火輪傳媒有限公司 良率提升不順？Rapidus 2奈米傳延後1年量產 台視全球資訊網 追台積電受挫　傳日政府砸錢晶片廠仍落後 鏡週刊Mirror Media",
-      "published": "Sat, 14 Nov 2026 13:13:38 GMT",
-      "display_time": "11/14 13:13"
-    },
-    {
-      "source": "Google News Global",
-      "title": "輝達風暴延燒科技股賣壓沈重拖累費半慘跌- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SdzFFcDh2Z3lHbTBKTmtSZEM3eThOaTUyR1NkckVtUlphLXpxSUhxUUNLYjlySzhTUkdQaWZrMnBoOXBjNThpcjQ2UVYwbTh6RzNfVGtiS3ZWMmUxRXhr?oc=5",
-      "summary": "輝達風暴延燒科技股賣壓沈重拖累費半慘跌- 國際 工商時報 黃仁勳風波續燒、輝達跌沒停！美股4大指數漲跌互見台積電ADR跌1.67%、台指期夜盤摔133點 Yahoo股市 輝達衝擊外溢！美晶片股下挫超微重摔…本周盯兩件大事| 全球財經| 全球 UDN 輝達暴跌14％卻急拉！阮慕驊拆解7段走勢：真正殺盤只有2則消息？ - 國際 旺得富理財網 〈美股盤後〉黑色星期五！輝達單週慘崩13% 費半跌超3.4% 但三大指數仍創8月初來最佳一週 鉅亨網",
-      "published": "Sat, 14 Nov 2026 13:08:00 GMT",
-      "display_time": "11/14 13:08"
+      "title": "本週操盤筆記：AI交易關鍵時刻！輝達首份無黃仁勳財報、Anthropic重磅IPO 「川習普」三方會議登場 - 鉅亨網",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tc2drU2l6SEJOSHRJWGdvWGxQeEdQd0MtbHJBUlhHMDJPVzRIdzFBeEFrRnFUaFVYd21XM1k0XzR5YVFBSEFhQi1femFXS2M?oc=5",
+      "summary": "本週操盤筆記：AI交易關鍵時刻！輝達首份無黃仁勳財報、Anthropic重磅IPO 「川習普」三方會議登場 鉅亨網 黃仁勳離開輝達台廠也變天！分析師點名鴻海、台達電1類股超危…但ASIC將噴發法人選「這2檔」 Yahoo股市 後黃仁勳時代的NVIDIA 能否撐起全球AI龐大帝國？ DIGITIMES 黃仁勳王者歸來有望？傳輝達高層及工程師揚言集體出走 施壓董事會 自由財經 天下財經週報：黃仁勳辭職，輝達撐得住嗎？本週法說會萬眾矚目 天下雜誌",
+      "published": "Sun, 15 Nov 2026 13:30:04 GMT",
+      "display_time": "11/15 13:30"
     },
     {
       "source": "CNBC Finance",
-      "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-      "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
-      "published": "Sat, 14 Nov 2026 12:00:01 GMT",
-      "display_time": "11/14 12:00"
+      "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+      "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+      "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+      "published": "Sun, 15 Nov 2026 13:00:02 GMT",
+      "display_time": "11/15 13:00"
     },
     {
       "source": "Google News Global",
-      "title": "沒有黃仁勳的法說會17日登場 輝達恐難逃7大拷問 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6WXFMeFdXNThKX0kxLUItYWNLY19zVW5SR1Y5azhINWxJV0RaMkJPc09FMmdfVHhqRm1DQ3pSbkFXaHcxcmFHQ0pscVdSUlVjUERCQXFGQVFVNVRBZ0dB0gFkQVVfeXFMT2NoVHJ3QkEzaFEtVXU4WjI5SjRoODJSYVV6SjNGTDI1djdwNHZHSV9jbkJOUXYyQXJnNkdMR0Z1SUhOSUhYdzB5N21LQklyOTY4TXdaUGw1WFlHczF1WTJIRzhfcA?oc=5",
-      "summary": "沒有黃仁勳的法說會17日登場 輝達恐難逃7大拷問 自由財經 輝達財報後股價將波動多少？市場估單週漲跌幅達9% Yahoo股市 「一切都沒變」黃仁勳遭撤換 為何部分輝達多頭仍不改看法？ 鉅亨網 給投資人什麼教訓？輝達股價自由落體連跌6周留意標普500這個問題| 全球財經| 全球 UDN 驚天動地48小時登場！輝達換帥首份財報 ANT上兆美元IPO 川習普三強會談 聚財網",
-      "published": "Sat, 14 Nov 2026 11:46:33 GMT",
-      "display_time": "11/14 11:46"
+      "title": "Steam免費犯罪沙盒《ROB RUN》搶先體驗同上玩家破41萬 公開十大FAQ - 4Gamers",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR1R3b2ZHd0tNTkJQdjJsXzJkdmk3V0ZXMUdFc2h6SDhrcUdQWk9hUHkzR2V5dGE3VDB1WVEyOW5EMENRYzNKZTJOeHlWSkY2ZmY0VFp1V3MyclBYVVlSd1VsM3dqbElVaHhmOWhITVl2ZkoyemI0Si15aURBdG5RQjhTRlBRb09QRU5sdTFhc3U1aVpiOEE?oc=5",
+      "summary": "Steam免費犯罪沙盒《ROB RUN》搶先體驗同上玩家破41萬 公開十大FAQ 4Gamers 低配版GTA爆紅！《ROB RUN》自選警匪陣營　Steam同上人數飆14萬 NOWnews今日新聞 Steam免費犯罪沙盒爆紅 玩家數突破36萬搶劫玩法惹爭議 GameApps.hk 《ROB RUN》亞洲伺服器至少要等今年底之後 Kefir：正在評估技術可行性 Ludens Media Rob Run Equipment：強力裝備獲取與配置指南 games.gg",
+      "published": "Sun, 15 Nov 2026 07:15:37 GMT",
+      "display_time": "11/15 07:15"
     },
     {
       "source": "Google News Global",
-      "title": "台北市長政見會！唐新民再爆驚天奇言嗆川普：我的罪狀大黃仁勳一千倍 - 三立新聞網SETN.com",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CaEhONGdRMHVfUmYyd3gwYlVOQ1BqX2hLVElmUGU2WnBsdFNoc3BNLWlHRFl1cFZlNGZMTjRTM2Y3SENDRnU5U9IBTEFVX3lxTE1oTi11aE1oN0o0ZG8xQXFnNUZMbWw1emJXWEhfai01OU4zYXlKSGZyRUlWZnhxTDFWYm84cWRKQ2dFSmxPOTI5aW9vVm4?oc=5",
-      "summary": "台北市長政見會！唐新民再爆驚天奇言嗆川普：我的罪狀大黃仁勳一千倍 三立新聞網SETN.com 台北要跟上市民的努力！沈伯洋提HEART五大政見 力拚照顧長幼與三明治世代 Yahoo 北市公辦政見發表蔣提4年施政沈攻兒虐、營養午餐議題｜20261114 公視晚間新聞｜ 公視新聞PNN 公視新聞 拒絕對立、撕裂彼此蔣萬安政見發表喊：台北不是政治實驗室| 2026九合一選舉 UDN 政見會交鋒！ 沈自比「火影忍者」、蔣喊繼續「安可」 東森新聞",
-      "published": "Sat, 14 Nov 2026 08:47:00 GMT",
-      "display_time": "11/14 08:47"
+      "title": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZUxiUFU4ZkZPSjJNVkRlU1FOQXMwVmw1U3Y0M2NySmJnVWNlTnFTR3lsNS1yT0tKVFJwbWhWbWVVVG03RXpoN0hPWmJvSVVhR3diQVE5ZlFKWnc3Z05FaFk1aTByTknSAWxBVV95cUxQWElfbnBONDNVZFZvVUt1NUl6YmhMZGZHSWtteFA5eUZTMmJUejZ5ZS1MbmVaMlZnQjNmY19DOGZlYlk4TFNGOHBKMWo3bjk1M0VsVDFpU25SU2JKZHc3VkhQOU5DSkU3ZGh5ZE4?oc=5",
+      "summary": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤 BBC 美中俄領袖首度三方峰會 分析指不會是「新版雅爾達會議」 Rti 中央廣播電臺 美俄宣布「習特普」峰會將在深圳舉行 北京處境微妙 Yahoo新聞 曾狂言1.5小時懂飛彈！川普欲推核裁軍但「外交狂想曲」恐困難重重- 國際 工商時報 美陸俄APEC會談前 高市擬見川普 | 中華日報 LINE TODAY",
+      "published": "Sun, 15 Nov 2026 06:16:28 GMT",
+      "display_time": "11/15 06:16"
     },
     {
       "source": "Google News Global",
-      "title": "黃仁勳小三曾任高層！外媒直擊Megaspeed新加坡辦公室 現況曝光 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jdWluQlozOGxIWC1lcXRaaThGemRvZVBtMjlqdUVob1lkT3dnYktuTTEzVG5xQXFYQVhQbWZFb0FRUXdUcmNPRWZBbjVuUDYxSldWNGZoQWNnS3FhcjU40gFkQVVfeXFMTnVyanM5dlFqVm5HdW0tOERQMFdET05RTzFUdUMzbk1KdTAwNVRkbDdtQUxvSTRMeFRidndhRURFdms2SmxzVEl3Y25QZ0NWUTlMN1hKZ05oQkwyaDdhQXRET2tVLQ?oc=5",
-      "summary": "黃仁勳小三曾任高層！外媒直擊Megaspeed新加坡辦公室 現況曝光 自由財經 黃仁勳風波再爆新料！彭博追查黃樂創辦中企 曾拿到多款禁止輸中輝達晶片 Yahoo股市 輝達醜聞使美商務部長盧特尼克面臨下台危機！《巴隆》恐牽動鋼鐵、加密貨幣與政府投資 鉅亨網 黃仁勳風暴燒向白宮？美商務部長家族公司與輝達關係曝光 自由財經 新加坡否認黃仁勳外遇對象因間諜被查！公開調查經過，是為了伺服器申報問題 | 李靖棠 | 新聞 風傳媒",
-      "published": "Sat, 14 Nov 2026 07:36:03 GMT",
-      "display_time": "11/14 07:36"
+      "title": "停火協議難擋空襲！以軍擊斃拉法旅指揮官 曾策劃10/7攻擊 - 自由時報",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYSjJmVi1rNkwyc1JLRTl6cHZsbU1CZ010UlpTQWRTRkNXeUhYX05MSGI2WXdUWkdJWHRBTHRtaUoxNzFiOHhuTkl6b0ZmWkVqd2FwYTdYQkxlbUxKQkg3NmVFaFdSUdIBa0FVX3lxTFBZSVkzVVpTd21xcTFROUhocnlzbjFqR21YSWxYVzZQWENqMDZhczdnb0NGQUJ0QzJxOUwxQS1kUE13MmltUUNQRGpLX1dzaS1RMjJodDFQTzRVLWRXRHltREJSUWhVMUtsY0M0?oc=5",
+      "summary": "停火協議難擋空襲！以軍擊斃拉法旅指揮官 曾策劃10/7攻擊 自由時報 以軍空襲汗尤尼斯 擊斃哈瑪斯武裝部門高階指揮官 Rti 中央廣播電臺 以軍轟炸加薩醫院釀6死30傷 聯合國與WHO嚴正譴責 公視新聞 以色列襲擊加薩一所醫院，造成至少6人死亡 华尔街日报中文网 以色列空襲加沙致兩人死亡 伊朗稱霍爾木茲海峽油輪遇襲起火 巴士的報",
+      "published": "Sun, 15 Nov 2026 02:23:40 GMT",
+      "display_time": "11/15 02:23"
     },
     {
       "source": "Google News Global",
-      "title": "黃仁勳風暴扯出中國間諜網！華爾街日報揭60萬情報大軍鎖定AI晶片 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KM1V2bjJTajhLZFFCbHdYTDlfSzRydVFraVF5Wjg2a3owRmt3UDdWdDVwMDVaaFFlQXI2Z25MdVZHekF4LW9YaWNsU1BXRVpBYm9ibzA2Y1BLQ3N1ZEtv0gFkQVVfeXFMTzZEb2pzc1N0YnJ2V2RqNGcwNkZtalFmVGpmWFNSRU1MVWc1Z0hHdkh1eUp2M0tYRDRVMUpHeUJEWnE2N1R2TTdiOXptbVN4ZTJvSnZoeVN6bXIxTE9nOXJBZUhYMw?oc=5",
-      "summary": "黃仁勳風暴扯出中國間諜網！華爾街日報揭60萬情報大軍鎖定AI晶片 自由財經 川普見習近平不談黃仁勳 白宮曝原因 Yahoo新聞 黃仁勳慘遭拔官內幕曝！華郵爆是他「親手策劃」 桃色風暴淪華府權鬥 三立新聞網SETN.com 一場成本極低的情報勝利：逼退黃仁勳，中共不費一槍一彈就重創美國AI優勢 TNL The News Lens 關鍵評論網 宛如 40 年前賈伯斯遭逼宮重演：黃仁勳深陷地緣政治風暴，輝達帝國面臨權力危機 TechNews 科技新報",
-      "published": "Sat, 14 Nov 2026 07:34:28 GMT",
-      "display_time": "11/14 07:34"
-    },
-    {
-      "source": "Google News Global",
-      "title": "U23中華隊扳倒日本仍無緣爭金！末戰對委內瑞拉拚銅牌戰 - ETtoday運動雲",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HRmppSm1JSGtnbVZ4VldHcDJQZF84V016Yzdia193ZVFNal80cTVTclV0WFNoWUxQV1RhTjMwMXQxM3Vsdm12UjVIeGVaRm1H0gFPQVVfeXFMTTlxODljaHFoUjBvX0dIdUg1MDBwQVZGa2xxWEE4aWc3YVJjT0VnLTR2c0RVS2d3Vml6T1ZRRmZub1M2bHNzWnZNU1FKSnRURQ?oc=5",
-      "summary": "U23中華隊扳倒日本仍無緣爭金！末戰對委內瑞拉拚銅牌戰 ETtoday運動雲 黃鈞麟一棒擊沉日本！U23中華隊2比1逆轉勝 晉級獎牌戰差一步 Yahoo新聞 U23世界盃》兄弟新星超前轟、混血火球男完投！台灣克日本奪2連勝 自由體育 由RAXUS呈現，2026年WBSC U-23世界盃棒球賽：戰報—黃俊麟第六局全壘打建功，助中華隊力克日本 World Baseball Softball Confederation (WBSC) U23中華隊3投手被看好旅外！吳丞顥雷皓博王翾祈受矚目！ JUKSY 街星",
-      "published": "Sat, 14 Nov 2026 07:14:00 GMT",
-      "display_time": "11/14 07:14"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "AI成金融系統最大威脅！Fed最新調查87%受訪者示警 遠高於股市修正與網攻風險 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZUlJfelFwWGZMQmF6NUU5Y1BiUWJlMF9NNWNNODduR0ZlLVE4RC1ZWjRhS09HMjRMUUZiQTJYVEU3YlBtU01aRG02bGIwN0U?oc=5",
-      "summary": "AI成金融系統最大威脅！Fed最新調查87%受訪者示警 遠高於股市修正與網攻風險 鉅亨網",
-      "published": "Sat, 14 Nov 2026 03:10:05 GMT",
-      "display_time": "11/14 03:10"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台股下周刺激了？費半重挫3.4%、輝達又跌專家揭周二有件大事：沒黃仁勳救場了| 李瑋萱 | 新聞 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83NkM0RnZoVFl0TlNUMDRiS0RfUlpWQk5JSUJIMjAxc19MZTF0R2E4TDhCMlpFYS1RRWxxZFVNcFJkLW9YZUZzN3N4VWttZw?oc=5",
-      "summary": "台股下周刺激了？費半重挫3.4%、輝達又跌專家揭周二有件大事：沒黃仁勳救場了| 李瑋萱 | 新聞 風傳媒 黃仁勳辭職震撼亞洲 紐時揭連鎖效應 Yahoo新聞 黃仁勳閃辭爆骨牌效應！外媒揭對手「瘋狂挖角」輝達恐現集體離職潮 Yahoo新聞 黃仁勳請辭「7台廠恐出事？」專家示警了 東森新聞 黃仁勳閃辭！輝達恐迎「3大魔王考驗」 專家憂：台灣供應鏈掀變數 三立新聞網SETN.com",
-      "published": "Sat, 14 Nov 2026 02:41:00 GMT",
-      "display_time": "11/14 02:41"
-    },
-    {
-      "source": "Google News Global",
-      "title": "快訊／U23中華隊2比1力退日本！黃鈞麟超前轟、雷皓博完投7局 - ETtoday運動雲",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZTmJXamZMaFA5V1BBSUdRd25aS01lWUM4ZUgwWWw1bVl1NjBtS3Z4Z2RobVdYczdaNGU5TWNuZ1RyM2ViZFVCSUd3M1NUQjYz0gFPQVVfeXFMUHAwUFc5OHl3akVMTkpLbkZHNkRTMGFXNngtMllMYWxPaHFlMXFCby1TYXdxRE9QWGlMc0NaNUFkSHRDVkp2QlFWb1N5ekpvUQ?oc=5",
-      "summary": "快訊／U23中華隊2比1力退日本！黃鈞麟超前轟、雷皓博完投7局 ETtoday運動雲 黃鈞麟一棒擊沉日本！U23中華隊2比1逆轉勝 晉級獎牌戰差一步 Yahoo新聞 U23世界盃》兄弟新星超前轟、混血火球男完投！台灣克日本奪2連勝 自由體育 由RAXUS呈現，2026年WBSC U-23世界盃棒球賽：戰報—黃俊麟第六局全壘打建功，助中華隊力克日本 World Baseball Softball Confederation (WBSC) U23世界盃／中華隊擊敗日本無緣金牌戰！明勝委內瑞拉保銅牌機會 NOWnews今日新聞",
-      "published": "Sat, 14 Nov 2026 02:09:00 GMT",
-      "display_time": "11/14 02:09"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美中俄領袖史無前例聚首！ 川普、習近平、普廷下週APEC場邊會談 - 自由時報",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uYXUtTlJIcF9wWlV1eGtlV090SWg0cThycFRJd2EyYUVCOVN6ZzhFaTF6VWRPTHBkOWx4OUg5R2FoanIxaVRLYzFfUnBhMUN6ZzlNRVhsazYtMWRDc3hvWkMxTkktZ9IBa0FVX3lxTE9fOGJ1NGd0OUdlRms1eGJzVG9uTTM0amU3OEh4NFl5am0yenluZkJMcjJFVTVmTGlkekplT3c0aDN2VVh5b0dTa1JoZXNPVWE0ci14NElhazFBSmcyeS1aWkdtYTMtMWJfLXNz?oc=5",
-      "summary": "美中俄領袖史無前例聚首！ 川普、習近平、普廷下週APEC場邊會談 自由時報 白宮確認川習普19日會談！不談烏克蘭 晶片管制場外升溫 Yahoo股市 白宮證實美中俄峰會19日深圳登場 討論核武伊戰、不談烏戰黃仁勳 Rti 中央廣播電臺 川普重大宣布！ 東森新聞 APEC元首會面》施振榮爭取高市會晤機會- 日報 工商時報",
-      "published": "Sat, 14 Nov 2026 01:02:13 GMT",
-      "display_time": "11/14 01:02"
-    },
-    {
-      "source": "Google News Global",
-      "title": "一場成本極低的情報勝利：逼退黃仁勳，中共不費一槍一彈就重創美國AI優勢 - TNL The News Lens 關鍵評論網",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RYy0yZmVjb3FlZWRXSWlIUVBXRkREMjVCdk8zS3Rwal9CYS1rWTVXdWtkMUNtcHhncFVORk5Bemkzd19rX25WaDg5SmN1M3VZUE1ZSQ?oc=5",
-      "summary": "一場成本極低的情報勝利：逼退黃仁勳，中共不費一槍一彈就重創美國AI優勢 TNL The News Lens 關鍵評論網 黃仁勳下台後 科技巨頭與白宮的「好交情」恐變燙手山芋 Yahoo股市 華爾街日報：黃仁勳風波背後中國龐大間諜網鎖定AI與晶片技術| 國際 中央社 CNA 宛如 40 年前賈伯斯遭逼宮重演：黃仁勳深陷地緣政治風暴，輝達帝國面臨權力危機 TechNews 科技新報 馬斯克隨川普訪中出席APEC！美官員：不提黃仁勳間諜醜聞、不談晶片管制 鉅亨網",
-      "published": "Fri, 13 Nov 2026 23:59:00 GMT",
-      "display_time": "11/13 23:59"
+      "title": "美國航班大亂 FAA估15日晚間恢復正常 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMzIyYzdFckE3bVNadlpkUlVuWHJORUhKR0xLWklVYXhqT2tzdGVLMHpyaWJWd1Uyai12S3Z3bV84VXNEc2RjOEt6a2JJWXNSWGpyakNTTkNFUjd0ZFJOcVVEV0F1dkxESklHblBMVFVXY291VGMyVlpreFk2dU5mYmx3cmpjM0ptQWdQc1FBVzM0MThubFAzemFySGVxSVBIekFTeHFBaW5sYWt2a2JVSVM5T2gxVFZHNzdXVHI1WGlpeFE0azdxSFgyaDFDWHIzNmlYQzRuQmNrejhyQ2RlRE42QW5QcmoyanowVWtGMW9yMkRlek1RalYtN3RqQ0wySlRr?oc=5",
+      "summary": "美國航班大亂 FAA估15日晚間恢復正常 Yahoo新聞 更換系統釀當機全美航班停飛 川普歸咎拜登政府 UDN 美國飛航崩潰「數十萬人困機場」 這群人卻賺翻了爽曬「滿桌鈔票」 Yahoo新聞 美調查飛行系統故障原因運輸部稱更新設備時出現異常｜20261115 公視晚間新聞｜ 公視新聞PNN 公視新聞 承包商路由器出包釀全美航班停擺 FAA預估15日恢復正常 Rti 中央廣播電臺",
+      "published": "Sat, 14 Nov 2026 23:12:37 GMT",
+      "display_time": "11/14 23:12"
     }
   ]
 }
