@@ -3,14 +3,6 @@
   "news": [
     {
       "source": "BBC Business",
-      "title": "How high is UK inflation and how will you be affected?",
-      "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-      "published": "Wed, 18 Nov 2026 19:37:27 GMT",
-      "display_time": "11/18 19:37"
-    },
-    {
-      "source": "BBC Business",
       "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
       "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
       "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
@@ -43,6 +35,14 @@
     },
     {
       "source": "Google News Global",
+      "title": "台股創收盤史上第7大跌點失守年線 謝金河：台灣相對有底氣 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxPU1hXanVWZVBaa0tGQWJFUURFNnpPbWVYeEtPcVV5ZEdNNUJ4WXNpWEdaUlN6RUFaX1dRNXdwS0phRFVkV1dPbDJLekgtdnF0MGlEQjVIbjY3R3FCRTZmNjJPLTJNNlB5OGR0UG1sR1dremloMkp4Wmd0aWtDa2hrQnlGclRmYVVPVjkybkhVMFFUVU9ob1dKcm9oU0hEdks1NUNOc3hUNGl1UEdOaGNJWE4xeVNBNnRBM2RqWWtMSm12VjhzeXRQWXlOOHRjVWUtcWFJaUh5ZG5Xb3RlU3otMWZib2prdFdTSmxVRGRqcFl1YVNsTzg5MTZNaFM0RW9feVFveFBadEFySkVRR2I3Yk92QzVSVzhOcEc5Nm1POVRmQXVFdE9Zb25Wc21SeW5uM1Z2YlNCcFk1em9OUVRSeFJnVXRzQmtXUWdabm9qal9GSl9YQ1ZxaFN2d3N5blF6Q3RVYVNNa1pOYTRaM1BSMEhNcDdiSHkyWmE0OHctT3BpYkRTbm9fWDB6QQ?oc=5",
+      "summary": "台股創收盤史上第7大跌點失守年線 謝金河：台灣相對有底氣 Yahoo股市 9月淨利暴增2.8萬％仍崩3根跌停！台玻遭外資狂砍逾10萬張淪賣超王「這檔」面臨20.7％關稅承壓也入列 Yahoo股市 國家隊拋定心丸！八大行庫豪砸329億救駕「已連4買」 ETF、個股低接清單一次看 鴻海、南亞科、友達竟遭提款 旺得富理財網 台股重挫1768點跌破年線 金管會宣布限空令2.0 公視新聞 金管會曝實施「限空令2.0」3理由　明千餘檔個股有條件禁空 ETtoday財經雲",
+      "published": "Thu, 19 Nov 2026 09:43:03 GMT",
+      "display_time": "11/19 09:43"
+    },
+    {
+      "source": "Google News Global",
       "title": "IPO前夕！軟銀孫正義認了「錯過Anthropic」：只押OpenAI 是一場代價千億的遺憾 - 鉅亨網",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FNGZoX3gtZlUybUpabHg0M3c4NDlob0NBX1VfQUk1bjkxek9zZG04b2l5cmRWYnJEZ3kxTkdkSTB1YXM0eksxd09mREVVMjQ?oc=5",
       "summary": "IPO前夕！軟銀孫正義認了「錯過Anthropic」：只押OpenAI 是一場代價千億的遺憾 鉅亨網 天下晨間新聞：輝達財報難救股價，Anthropic IPO熱到破紀錄！ 天下雜誌 Anthropic本週拚1.4兆美元IPO！AI進入算力變現時代 009831布局電力與軟體商機 Yahoo股市 Anthropic史上最大IPO定價超標激勵美股期指上漲AI信心再闖關| 全球財經| 全球 UDN Anthropic估值1.5兆美元 超越SpaceX改寫史上最大IPO紀錄 中央社 CNA",
@@ -56,6 +56,118 @@
       "summary": "跌勢擴大！台股早盤下殺逾500點 千金股幾乎全倒、聯發科逆勢撐盤 壹蘋新聞網",
       "published": "Thu, 19 Nov 2026 01:25:00 GMT",
       "display_time": "11/19 01:25"
+    },
+    {
+      "source": "Google News Global",
+      "title": "【台股暴跌撼選情】台股單周血崩5248點投票率會更高？學者點頭：更想求變 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQN2RVaVpkZkV0M0pyUEgtY2ZaRkhjNEVOcG5JX1A1UTluR2ZqRzNib2t0V0tKM0V5dzU3bUgxRTZVQlA3Z24zaVZIaUFaT1ZweWpzMUw5WmdVR1RKajl6ZzlpWjNKVU9vSXFKWkpBVGhXTUNSMVY1MU10UTdwdDhJblJ5WUlJNWkyenowbDlad3ZFYW83V21CcGdEZHJKVExRTjIyOWVHSkJnSV9HWlphMVFXdDRVSTNqT2Rxc1JzSnB6MHRUSmpxOTE4bkYwTEFDMWlTN2tHczRHM0l4YXFVRW8ydUVleVdKWUVDcG9lR0Z1YkdxOGZCNTUtTC1jM3dENElybzJJMEJYZ3B3MjdRSV9PVVJ5RHBHQzBvNjd3RVU2VUtubmF3LVhYZXp3ZlFLV3hhdWFGMVN0amhsamVjWG9hY0kzbU9wVDMxeFZ6WlhBcWN1aXhoQWdDMFJSX21iak5zRnh3SHFLNDR5dnl1cHZnNUM0RUo2OTA2SGEzT29oVFRPbFlSdFdkTUdLTkl4aUhTNWw5NGVrTmdkUEtiY19YY0dkYVdVaDV0NkkxZEhQT3ZUT0pqTWNaMDhPeVJqd0Vxd2E2TFRDLXc3UW92TExNVnpkUnpwck5uTkEwYVI?oc=5",
+      "summary": "【台股暴跌撼選情】台股單周血崩5248點投票率會更高？學者點頭：更想求變 Yahoo股市 【台股暴跌撼選情2】台股單周血崩5248點投票率會更高？學者點頭：更想求變 Yahoo股市 國巨營收才衰退3.28％股價早崩800元！陳嘉偉示警AI泡沫：義隆漲6倍幾乎跌光 UDN TWA00 加權指數- 人心不古，小心爲上- 股市爆料同學會 CMoney 【選前一周失守4萬點 1】台股重挫成選戰變數？專家示警：執政黨經濟政績恐遭反噬 Yahoo股市",
+      "published": "Thu, 19 Nov 2026 08:12:35 GMT",
+      "display_time": "11/19 08:12"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "台股高點狂崩1.2萬點！投顧示警去槓桿未完 留3成現金、7檔受關注 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMC1jMDJmay1ETnBpc1Z3UmM1VTZxSzMySjJIdkRFajJ0SmYzN214NlV3LW56aWpjR2JyMG9mRDJsVUIyVVEwMHBFX2VPZU5iRHJPWVZyYTUtU1Y5Z2VBVTBMYnpoSlBUMERnQUgzWm94ZkxlUnhCdm1qTlNBTkNHcURn?oc=5",
+      "summary": "台股高點狂崩1.2萬點！投顧示警去槓桿未完 留3成現金、7檔受關注 壹蘋新聞網",
+      "published": "Thu, 19 Nov 2026 08:11:00 GMT",
+      "display_time": "11/19 08:11"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "台股市值摔至全球第七！兩個月連掉3名 投信揭AI股布局策略 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMy1yODg0a1VuZm9FeGdQbE5uUjFkTXctZmJHNlJ0MHZtMHdod2R6YTRXZ1JoZlNuRzhBNDFrckxGTXVJbVBpNFJrSzlOcFB6TlMtN0c0NGJJbThEX0RwYjZnUzlZTkVZZTJOanNQNWRlSVRSVmRsU0Frc1VyTVZlcHBn?oc=5",
+      "summary": "台股市值摔至全球第七！兩個月連掉3名 投信揭AI股布局策略 壹蘋新聞網",
+      "published": "Thu, 19 Nov 2026 07:52:00 GMT",
+      "display_time": "11/19 07:52"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "台股全球市值「4哥摔成第7」！　國泰投信點名2類股 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSUGM2Y0dMZF90cG5lT294WVBqNmJSenpRNE05UXZnMXE5MnhReWpaaE4yTUc3M0RROUw1Rl83RUptLWpoNDY1dUh6enVwcUxXVUHSAVBBVV95cUxQamUyeGd6aFBJSmF2LUc2U25Yd3p4X1VUOGhoR0o5OFdaRHAzQ1hPbzB5UTk2NTJ0b0tMQzFmYWNvS20yLXhoMFFmUlB3VVpLWg?oc=5",
+      "summary": "台股全球市值「4哥摔成第7」！　國泰投信點名2類股 ETtoday財經雲",
+      "published": "Thu, 19 Nov 2026 07:16:00 GMT",
+      "display_time": "11/19 07:16"
+    },
+    {
+      "source": "Google News Finance",
+      "title": "台股狂瀉1768點史上第七慘！投顧估明年探3萬6 反彈等這時候 - 壹蘋新聞網",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRjFHV1lyUHc4a25vVFZWZ21GX3BCb2hkelpwa1Mtd2c1OFN5bDNOTEV3UTlIMFF3UllCdTExOS1PMzJkU0dhSXZpYjN6eW41SE1vNUpmUFdVZl91V1JqUnp5SFVDZ1N4YmRNNDJTLVpNdkxzVVNUWGlrQ3JwTUl4dWRB?oc=5",
+      "summary": "台股狂瀉1768點史上第七慘！投顧估明年探3萬6 反彈等這時候 壹蘋新聞網",
+      "published": "Thu, 19 Nov 2026 06:48:00 GMT",
+      "display_time": "11/19 06:48"
+    },
+    {
+      "source": "Google News Global",
+      "title": "日月光拚擴產！擬砸2489億興建高雄仁武心廠 - 東森電視",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BaUYteTJrdTlNTnhjVmd0VHRBZ1RfRG5ZNEVqeWhDLUdQUW9vVHo5Znlmb1NhdmF1Y2g4OEdSQWFzb1BnUFhNMWtOckQxalRtYlFKa3Y0OUF1dw?oc=5",
+      "summary": "日月光拚擴產！擬砸2489億興建高雄仁武心廠 東森電視 日月光再砸2489億擴廠 吳田玉打造最大測試基地 Yahoo新聞 日月光仁武K52新廠砸2,489億元 AI測試產能2029前到位 DIGITIMES 福雷電子加碼2,489億元布局仁武園區助攻半導體S廊帶高值化發展- 生活新聞 PChome Online 新聞 日月光仁武K52廠房動土 議長挺企業在高雄安心投資 中華新聞雲／中華日報",
+      "published": "Thu, 19 Nov 2026 06:26:00 GMT",
+      "display_time": "11/19 06:26"
+    },
+    {
+      "source": "BBC Business",
+      "title": "How high is UK inflation and how will you be affected?",
+      "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+      "published": "Wed, 18 Nov 2026 19:37:27 GMT",
+      "display_time": "11/18 19:37"
+    },
+    {
+      "source": "Google News Global",
+      "title": "813 億美元寫下 IPO 新紀錄，Anthropic 每股 83 美元定價衝破區間上緣、規模超越 SpaceX - INSIDE",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWtZSXJMeU01N2xsaExxMUNrcFVHRkFzbnlhMjJHZXp0aElZTFZKN09UejNmSWI2ZmNoM3FjMDlEVVc0TkphUVRuNDVSaGJiRjdsSDZnc0IzQlphREVOS0dCZHBDc2prTTNZS3c3WjZMUUxEdGtmSHZBc3cxUk45YlNiTWlTbkRidHdzeg?oc=5",
+      "summary": "813 億美元寫下 IPO 新紀錄，Anthropic 每股 83 美元定價衝破區間上緣、規模超越 SpaceX INSIDE 早年押注Anthropic狂賺1470%！南韓SK電信持股飆至32億美元 台積電、輝達也參與私募 Yahoo股市 Anthropic將掛牌上市 IPO募資金額創紀錄 公視新聞 Anthropic IPO 後股票怎麼買？ANT 上市時程、估值解析與台灣投資人參與方式？ StockFeel 股感 Anthropic IPO破紀錄！風光上市表象下 潛藏AI股面臨的3隱憂 UDN",
+      "published": "Thu, 19 Nov 2026 03:28:20 GMT",
+      "display_time": "11/19 03:28"
+    },
+    {
+      "source": "Google News Global",
+      "title": "美國麻疹疫情升溫！台灣調旅遊警示至第二級 疾管署：2類人避前往 - 健康醫療網",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Pazl1WDZKNzVjdnRRM2xmZWtCMnRULWpfdnBneU51YTk1b093X25fd1J3VFZlTHBPT192MnIwRXF1ZE9TNkJNOFFabE1UbVQ1Q3NNOG9B?oc=5",
+      "summary": "美國麻疹疫情升溫！台灣調旅遊警示至第二級 疾管署：2類人避前往 健康醫療網 美國「麻疹消除國」地位撤銷 我疾管署：旅遊疫情升至第2級 公視新聞 美國麻疹根除地位遭取消 疫苗接種率下降致確診數攀升 Rti 中央廣播電臺 美國出現新生兒麻疹病例慎防致命！醫籲提高疫苗接種率- 國際 工商時報 美國失去維持26年麻疹根除地位：今年確診破5400例，川普政府挨批疫苗訊息混亂 TNL The News Lens 關鍵評論網",
+      "published": "Thu, 19 Nov 2026 03:00:00 GMT",
+      "display_time": "11/19 03:00"
+    },
+    {
+      "source": "Google News Global",
+      "title": "川普再挺黃仁勳「沒聽說黃樂是間諜」！大讚老黃無可取代：應獲美國善待 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxNNXVUR0JBSXNCeWRRZ0lyUUpfekFaTnpKR2o4RGZJYXREcXJkZVFVYmRBYlVFajN3NXZkUDNDbXdCM1JFc2dKbW5BUm1kMzZFUFZ1dnk1aHBTbW1iYTg2N3ZhT2pOSDJkcGc5VWJtb0VmUXI4NHl2R1hYb0lpdFVnanhTS2ZKR3BrQ1RUdlN4Z2tWVU4yejJzWGFtMXB3XzFWUWNMT3hmUnhMWXdDbnNqdjNQSUowT3pCLVAzUGdtb3kyN1J3RVkycjQ1bzFEaENuUmRDWEJKZWg2VjM2MVdHX1RTNzI4S1dvREM1aXhpbl96Q0dMLUtGY1J4NW1WdWJRWlJSMHFuNEx4MDBjbWdUSlloaDBWclBMMWh1T01CZnJYY2Rxd256ZHpXelRhcldOSzVvX3JvVHNLNmpqcGpSdm9jRzVTZENmWENuN3BGQ3VVRGxBd0VTV3BZM0NrTlEzb2JLVkxYZFJRcEZpYU5FR2ZuaWVhdGZ6bmFYSXdYNy14REZIR2ZWMmxOS2d3X3dyNE5EQUQxbGFnVVBlYlE5bTlQdm14aG1QVDdxQ0pwZXU2VExPbGFnbEh6aw?oc=5",
+      "summary": "川普再挺黃仁勳「沒聽說黃樂是間諜」！大讚老黃無可取代：應獲美國善待 Yahoo股市 談黃仁勳下台是場悲劇！川普再發聲力挺「無法被取代」：他領先業界10年 Yahoo新聞 「黃仁勳有對美不忠？」記者對川普提問 陸當局喊粗魯禁參加峰會 UDN 與習近平討論AI議題 川普：僅「簡短」談及黃仁勳 Rti 中央廣播電臺 【APEC】川普晚宴向習近平提黃仁勳！盼輝達讓他復職 否認中國間諜涉國安 上報Up Media",
+      "published": "Thu, 19 Nov 2026 02:58:15 GMT",
+      "display_time": "11/19 02:58"
+    },
+    {
+      "source": "Google News Global",
+      "title": "「謝謝哥」親中有收穫？習近平鍾愛韓總統李在明 APEC給C位緊貼川普 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxObktqYVNFaVV4cWZMODJLakUxY016ZEtpNklielV1eU1xX0pjUU5qYVhmYnZVclJIWFMzV2JnU0ZKZW03eXFZSFNfVnEwX0ktZlVON2FoRkFzclJEakltamduWE9qaDlDRHRKNEQ2dElQR2tBMFo1U1Y5bFJfQ3RKTVVNZmc4QmtaSHNRQmo3SHpRUDdnME0yTlJIaWtyQm1VazZ6ZHZRNWV6WkNVc0phOE1BWG8teG5BYW1ER09IVC1rMFF5UlV5Ykk1MkZDR0d5c2JjUkZjWUFidnFER2JNc3BnRXFPZHpCdXhqcUlobkY5RzVQMXZvN0psc1psWXFPeGFVSFYzVGtTMmNTUHJoNlNwcTZOaWVCQ3k4VDFlMG9LUWRUVGtPbUFtVmVQWWJramF2bG9BS08xVHhIWFRLOUFEbG9qd0tXMm1MQ2hGZVRxaVZYQ1BjRGVkamJrdTYxaURSNV9TbUNrX0RMMWtMRzZPeHYwRnJlbzhWTG9OTXAzRFVUa3ppM1B3?oc=5",
+      "summary": "「謝謝哥」親中有收穫？習近平鍾愛韓總統李在明 APEC給C位緊貼川普 Yahoo新聞 韓國總統APEC提3大願景 強調AI創新與供應鏈韌性 Rti 中央廣播電臺 韓中FTA服務投資談判達協議影視、觀光等規定鬆綁| 國際 中央社 CNA K-pop等到中國「開門」？萬人演唱會成「限韓令」試金石 工商時報 韓中簽多項協議「限韓令」鬆綁 韓國總統李在明盼重啟兩韓對話 | 信傳媒 LINE TODAY",
+      "published": "Thu, 19 Nov 2026 02:39:17 GMT",
+      "display_time": "11/19 02:39"
+    },
+    {
+      "source": "Google News Global",
+      "title": "APEC現場》待遇只比高市早苗好？中方派「參贊」迎接施振榮台灣代表團：不滿意但接受| 鍾秉哲 | 新聞 - 風傳媒",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wSk9XNW1Hbm9WNUJzWEoyaXhvU05NMHhhRW4wT0RNc2txMDJsLU1DUXJ3MC1kbVpqVlRlakxHYk9IUnVVV2lyemh3SzVDUQ?oc=5",
+      "summary": "APEC現場》待遇只比高市早苗好？中方派「參贊」迎接施振榮台灣代表團：不滿意但接受| 鍾秉哲 | 新聞 風傳媒 施振榮脫稿喊「血壓偏高」：當領袖太不自由！曝與各國領袖深談 Yahoo新聞 施振榮APEC返國脫稿吐心聲 笑說壓力大血壓高、幸好腦筋清醒 自由時報 施振榮APEC與川普握手互動 會中提AI合作三大方向 公視新聞 結束APEC行程返台施振榮：圓滿達成總統交付任務| 政治 中央社 CNA",
+      "published": "Thu, 19 Nov 2026 02:31:00 GMT",
+      "display_time": "11/19 02:31"
+    },
+    {
+      "source": "Google News Global",
+      "title": "棒球／中華隊穩住世界第2！委內瑞拉連2座世界冠軍排名超越美韓 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JbmtYOTJQQ3ZIY2U0MldWMkVnTERhcEVRVEtKZTN1WTJ4RXVqNWRsUFBqeXFta1J6bUZqN0hmdS04TnVuenBvaXE3aGRxUDd60gFWQVVfeXFMTVNxUEJ2ZjlkRnFoNHZxYl91SHhaUEtfMjZkRFpOUG5qakRVNTlCbnZDTG9DNmtmQ3Vwd3lDTllVUTFkYko3ajY1ZjlUZjZ3WllhcnJRQ1E?oc=5",
+      "summary": "棒球／中華隊穩住世界第2！委內瑞拉連2座世界冠軍排名超越美韓 UDN 世界棒壘球總會公布最新排名！「這國家」爆衝到第3名、台灣仍穩居第2名僅次日本 Yahoo運動 委內瑞拉在U-23世界盃奪冠後，攀升至WBSC/SHARP男子棒球世界排名第三位- World Baseball Softball Confederation World Baseball Softball Confederation (WBSC) WBC棒球世界排名更新 台灣穩居第2緊追日本 公視新聞 棒球》不如日本、台灣！南韓世界排名跌至第5名 韓媒點出國際賽問題 自由體育",
+      "published": "Thu, 19 Nov 2026 01:54:29 GMT",
+      "display_time": "11/19 01:54"
+    },
+    {
+      "source": "Google News Global",
+      "title": "輝達財報亮眼 代理 CEO 柯蕾絲喊「 Vera Rubin 晶片起步氣勢驚人」 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84NksxVGpONmJEQ090QzVXLVhVNS1KU3JJUU1QMlhIcXJMa1B3WWV6YkQxbmI3R0VJRUgxaE1TN25yWEFHamQwVVBGNHBGMG5fM2QyZVZIWDIyWThW0gFiQVVfeXFMUFFfOUE5R25PanpsaDdEV0tKV1NzNjZtbnEzNU15S181SkI5QWM0NkkzczVhaHRxV2JNcHE1UXZ5NzU2MVBOVGo5d3FZWmFKcXpOSUV0Z2RvUXpfb3MwaFNmUGc?oc=5",
+      "summary": "輝達財報亮眼 代理 CEO 柯蕾絲喊「 Vera Rubin 晶片起步氣勢驚人」 經濟日報 Nvidia營收翻倍，黃仁勳首度表態願回任Nvidia執行長 iThome 拒絕黃仁勳回鍋！輝達全員大會祭加薪、股權獎勵 穩定員工士氣 Yahoo股市 輝達緊縮融資 將開始精挑細選投資對象 新雲端業者首當其衝 經濟日報 輝達換帥後喊「照常營運」！最新點名9家重要合作夥伴：台廠就包辦6席 工商時報",
+      "published": "Wed, 18 Nov 2026 17:47:09 GMT",
+      "display_time": "11/18 17:47"
     },
     {
       "source": "Google News Global",
@@ -91,14 +203,6 @@
     },
     {
       "source": "Google News Global",
-      "title": "輝達財報亮眼 代理 CEO 柯蕾絲喊「 Vera Rubin 晶片起步氣勢驚人」 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84NksxVGpONmJEQ090QzVXLVhVNS1KU3JJUU1QMlhIcXJMa1B3WWV6YkQxbmI3R0VJRUgxaE1TN25yWEFHamQwVVBGNHBGMG5fM2QyZVZIWDIyWThW0gFiQVVfeXFMUFFfOUE5R25PanpsaDdEV0tKV1NzNjZtbnEzNU15S181SkI5QWM0NkkzczVhaHRxV2JNcHE1UXZ5NzU2MVBOVGo5d3FZWmFKcXpOSUV0Z2RvUXpfb3MwaFNmUGc?oc=5",
-      "summary": "輝達財報亮眼 代理 CEO 柯蕾絲喊「 Vera Rubin 晶片起步氣勢驚人」 經濟日報 Nvidia營收翻倍，黃仁勳首度表態願回任Nvidia執行長 iThome 拒絕黃仁勳回鍋！輝達全員大會祭加薪、股權獎勵 穩定員工士氣 Yahoo股市 輝達緊縮融資 將開始精挑細選投資對象 新雲端業者首當其衝 經濟日報 輝達換帥後喊「照常營運」！最新點名9家重要合作夥伴：台廠就包辦6席 工商時報",
-      "published": "Wed, 18 Nov 2026 17:47:09 GMT",
-      "display_time": "11/18 17:47"
-    },
-    {
-      "source": "Google News Global",
       "title": "比肩Kobe！湖人射手轟47分 主帥：他進入Zone了 - Yahoo運動",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPN3VOSEJkTkhBUDhlbmhSLTNsZ3RvRVFfYlkxOU1UakJZR1lmZzBqMEU4a3gzeEV6YzJ4dkJTNEZfU0wtQWhwODFZRk9KVDFnM1ZSb2ZleTJuVGYtdmJ5eUwxY3dOUkhCd0N5aU94bVRTTXB6bHZGRTg3SjRza3hJYlg0UGt1aDdLalRkUE1KZ291Wnc2LVpPanVrVXlPMjFJZzdFLTNsd0pyZG5URXRTUG9zQ2NlanpvU3QzM1dEdmVWNEd6a3dMM2k3MldHaWhBRGRtd2RFS0xGMDRoRWF5UlJXN3p4VHlqT2d0NVhXdXdoblVVVFZJRmZJRnEtcHFheG9hWTRTTm9Od3BFMEQtMU5YcE9WQQ?oc=5",
       "summary": "比肩Kobe！湖人射手轟47分 主帥：他進入Zone了 Yahoo運動 NBA／精心策劃？黃蜂主帥關鍵時刻不讓主力上場 球迷怒轟：FBI必須調查 UDN 湖人格蘭姆斯是誰？曾是五星高中生　生涯歷經四度轉隊差點被淘汰 NOWnews今日新聞 唰！像咬下清脆蘋果追平三分！Grimes狂轟10記三分率湖人逆轉奪9連勝 - NBA - 籃球 運動視界Sports Vision 湖人捍衛主場戰黃蜂拚9連勝 今日賽事預告與轉播 自由體育",
@@ -120,6 +224,14 @@
       "summary": "台股收漲百點守住4萬點大關 台積電漲5元 壹蘋新聞網",
       "published": "Wed, 18 Nov 2026 05:40:00 GMT",
       "display_time": "11/18 05:40"
+    },
+    {
+      "source": "Google News Global",
+      "title": "習近平親自接機迎川普 BBC分析用意 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pR2xBaG9DRkZuRzRHQW5UbXN4dGw3VmVzUnNQdHh2WDF3LXc3TDFXX3dXQmFJTlhBNmVWOVBfWXBpY0lDYlpNcUpfU3F5Zl9ULWRN0gFYQVVfeXFMTklGS1ZuX3ppNVlQcGNFcFhmWnNqWEhKQzF3aHY2dEw5S2FaNmlrRzJ6Xy1pREtNcFdEVHI5RC1tSG1wN2JjekdUSHJLMlpyWHpLcUpqeW0yYw?oc=5",
+      "summary": "習近平親自接機迎川普 BBC分析用意 UDN 美俄中歷史性三方元首峰會 會後《和平宣言》聚焦核風險與能源安全 Yahoo股市 美中俄領袖峰會落幕 川普搭乘空軍一號返華府 Rti 中央廣播電臺 APEC中俄美同框！三國發布和平宣言 核戰立場曝光 東森新聞 川習三會 分析：台海議題內容在預期之內 經濟日報",
+      "published": "Wed, 18 Nov 2026 10:13:40 GMT",
+      "display_time": "11/18 10:13"
     },
     {
       "source": "Google News Finance",
