@@ -1,221 +1,69 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "news": [
     {
-      "source": "Google News Global",
-      "title": "欣興1400元一路攤平到650元！杜金龍苦笑親授4招：別死等回到原買價解套 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOejhjLTcyOEM5emhkcGpNLWEweDRuS3ZER01LdnhEVDJHbTkzZzFibExrd2xVdlhfWXFLZUViSjBTN1RfYWxLbVlZVjY3bEdSYXZ2RVR5R1l2TnhDcFJEYWd3Q3VPZ0FLZ0kxNG5LOHIxRjYxYU40czE2UHh6ZEx4TWQxNTFWRWZhWEVUQ1poSjFPcmFQWVJFZ083MUNsdW5BSjMyZ2ZPcDBSeTRYbWt4eWhBb1FzclNEU21FUEpsLVdFQUpobFRPdmpKMUZNeUpkajBIaldxUFQ1YmlyMTV0TFBiZFp5TkdOaER6TXN6TUhFQllQUnd0clQ3TG12bXROdzNub0l6VXNBSVpncEl4RXBSNDJhVDBDNnlJa1Jtdnh5YnZxd0ppT1lOUndsYlNLNHJhRWYwZVJmbzZyMVBoRUFCanpzZGVsWGV2aFBwXzRJY28xaXV1cFM1TnJXT2pUNE5qRFJoTkczcy1yb1Zud1dCNUx4aktnR3BQa0NXcUpzRDE2X3NJbUoyRVN5TVZzbnFpYXUxV0xUQQ?oc=5",
-      "summary": "欣興1400元一路攤平到650元！杜金龍苦笑親授4招：別死等回到原買價解套 Yahoo新聞 焦點股》欣興：輝達包產能 黃仁勳回歸信心大振 自由時報 欣興1400元一路攤平到650元！杜金龍自曝下半年「小蜜蜂白做工」：這波反彈如何解套？ - 上市櫃 旺得富理財網 【即時新聞】欣興股價最新下探555元挫逾9%，營收創高還能追嗎？ CMoney投資網誌 3037 欣興- 欣興、南電、中探針盤後解析- 股市爆料同學會 CMoney",
-      "published": "Wed, 25 Nov 2026 11:38:00 GMT",
-      "display_time": "11/25 11:38"
-    },
-    {
-      "source": "Google News Global",
-      "title": "股災還沒完？台指期夜盤再跌925點 美股盤前半導體哀號 台積電ADR跌3.96％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BWWJ5aGdvU1c5LU1xVW5zd04tTUhUVFhfZ0N2ZXhXV19lMldMTU5LMFdBTHh5Z0pLLU05Y2RKMjVlYXpWbG1pdGZ3TEZuLWtJeUNUOF9sSzZISENlYVNJ0gFkQVVfeXFMTzJnVjJOSzh4YUo2d2plS2hBbS1pTy05SVlsMkUzZEJUWjNkb0wwQ1Vtck9XczVyZDFONlJYd2RZNU9aRjQ4WEgtM1ZaNXdnTmVqUXhTWVhVSkNmUnNaSXh5ME5QOQ?oc=5",
-      "summary": "股災還沒完？台指期夜盤再跌925點 美股盤前半導體哀號 台積電ADR跌3.96％ 自由財經 【Follow法人】外資提款台積電、鴻海合計逾663億元 再砍聯電逾6萬張 Yahoo股市 台股今重挫！哲哲點名6檔股「抱緊等逆轉勝」：All in的人別看盤了 ETtoday財經雲 股匯雙殺！台股重挫1926點 新台幣重貶1.87角失守33元大關 Rti 中央廣播電臺 傳美恐祭新關稅 台股盤中大跌逾3400點 公視新聞",
-      "published": "Wed, 25 Nov 2026 11:08:14 GMT",
-      "display_time": "11/25 11:08"
+      "source": "BBC Business",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "published": "Wed, 25 Nov 2026 19:38:05 GMT",
+      "display_time": "11/25 19:38"
     },
     {
       "source": "BBC Business",
-      "title": "Interest rate affect on Guernsey's housing market",
-      "link": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
-      "summary": "As interest rates rise, we look at the impact this could have on Guernsey's housing market.",
-      "published": "Wed, 25 Nov 2026 09:56:33 GMT",
-      "display_time": "11/25 09:56"
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
+      "published": "Wed, 25 Nov 2026 16:42:11 GMT",
+      "display_time": "11/25 16:42"
     },
     {
       "source": "Google News Global",
-      "title": "黃仁勳回歸救不了全村！台股早盤重摔逾2000點崩回3萬8 「3檔飆股」直奔漲停護盤 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPYW42dE9LR25YeDlMdjQtalVQR3pNNzlWMmtZWTlrT2doUFNUQnFWaTM1Y3JXSldDYnk5ODRlaXRpdG8xUzRyUWx3R2U3RVF0RGVLclRYNDJzVGtMLXdqYzdNcGpMS0oxTXRhODhCdG8ycHUzVThRalNuelhvcHlZSWpqSnFrSllJZFVNci1TRHgtTUp2cHJvYkJsUFg4U3NIcnUteldTa0dkd0NMUWZYWXpiaGFFQVRBeEZ4YmFwMTVPdlZPTnUxb3ZNTlNlMGpIaHNWUHduMFRqRjYxTURRQkVEUko1dm9kbTA4NDMtbFJOQUhreEhxNXVJTjlNV0xqTDRCeVExd3RNTWxzRjBWNG5XS0RoN2dHTEYzYURXWWhidU9wS1ZxWmt1TTVfTUdJQVFhXzFaa3pmMVFxZUVrYi11MGhsOUdVeTUyOXNmUll4cTM2VE5kWkJWTGZGb1hrdWRwVkdWQXU2TnhzcXpjdDdpaDRpWmhWZklnNjZiLTloRk1QMFhVbkFPTk9rUF9wNGlsSzBCODdxdWJpVmhYNzdYcjdhVF80MXhDeUFYTGFzcWdDaDItMENQcUstaWt5TWN3V2JOTTdVWThOcmxYRA?oc=5",
-      "summary": "黃仁勳回歸救不了全村！台股早盤重摔逾2000點崩回3萬8 「3檔飆股」直奔漲停護盤 Yahoo股市 台股盤中跌逾2000點、4萬點又沒了！川普揮關稅大刀 昨漲幅吐掉一半 Yahoo股市 台積電暴跌140元史上第2慘！指數狂瀉逾2000點 自由財經 黃仁勳慶祝行情涼了？川普關稅揮刀 台股再狂瀉近3,000點 工商時報 台股一度重挫2000點關稅威脅再起扼殺黃仁勳慶祝行情| 股市要聞| 股市 UDN",
-      "published": "Wed, 25 Nov 2026 01:32:26 GMT",
-      "display_time": "11/25 01:32"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
-      "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
-      "published": "Wed, 25 Nov 2026 01:03:05 GMT",
-      "display_time": "11/25 01:03"
-    },
-    {
-      "source": "BBC Business",
-      "title": "The rising cost of putting food on the table in India",
-      "link": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
-      "summary": "India's food inflation is broadening, squeezing household budgets.",
-      "published": "Wed, 25 Nov 2026 01:02:13 GMT",
-      "display_time": "11/25 01:02"
-    },
-    {
-      "source": "BBC Business",
-      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
-      "published": "Wed, 25 Nov 2026 00:30:52 GMT",
-      "display_time": "11/25 00:30"
+      "title": "通膨關稅夾擊！輝達早盤重挫7.5％ 費半、台積電ADR都摔逾6％ - 自由財經",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83NEpPZ1ZUV2VXd2cxcWlwMXFVS0tiNExzemJtckZKQVpQX0lxb240M0JGdnRVOVEzN2hjNTFwOFZ3ME1JRFRNZ1diWlFudjZyc1h5RUE5cXBNa2JBNE1V0gFkQVVfeXFMTVRDX3dOd1dKNE9kRmZLd1ZJLVUyRE9JM1l2MGU0TlJXeEtVczZWYjBkbE1yUUJQQ1A1Tkx6dEtUZS16bXA4ME5SY1hCVmtpbk5qRVJtZlJHQTFsTHVJbFl6dWZvZA?oc=5",
+      "summary": "通膨關稅夾擊！輝達早盤重挫7.5％ 費半、台積電ADR都摔逾6％ 自由財經 美股四指開盤全倒「費半大跌7%」！輝達重挫8.6%、美光暴跌近11% 台積電ADR跌7%、台指期夜盤殺1900點 Yahoo股市 科技股逢賣壓 美股多收黑 自由時報 〈美股早盤〉AI賣壓、通膨與關稅夾擊！那指跌逾4% 台積電ADR挫逾7% 鉅亨網 美股開盤雪崩！費半暴跌逾6％、台指期夜盤跟著遭殃 ETtoday財經雲",
+      "published": "Wed, 25 Nov 2026 15:59:40 GMT",
+      "display_time": "11/25 15:59"
     },
     {
       "source": "Google News Global",
-      "title": "黃仁勳回歸輝達有神助？網朝聖「台南武廟月老點燈文」 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMmdkRGV2MnBmX3NyeHJWVWVCWmJKTmpRbmpqQThYQmk1LVVWcGxZdmhMS3hXM0g0Y25kLU9sVEtrOGdZM1VfTmgtNXJycURNejlPc1BZcmdFbUx4LXM5dC0tZGgwTEgzd3p6ZnRvbEItd1ZENWI3UEZIdDdLZlQyU0QtUGN5MFg4MDlKRXNNUXFyWWp4RTVyRDFFR2ZjZHg0R0xHRTk4Z3lnMmdKakNLN3RPcWJKcEh3VVNVS0hqSWJUNjZhUEstcEM1RVN0RGFRNUEwTjN3MmRnSGtKUnpRNjdmWjRqODJkSjNoSk5BaldGaEcyZTdqQXNpQ3gxaXg1Y3Q3RnRGWTZSVG43NHhvUnR6M1gyME9seFYxUGhTRk0zSDFsMVNtNmFNV1FNUU5hUHZJbEp1NnJKaVJkY2pGNzJWNi0yYXdSU2dSWXVFc1NsNWFJMUQzQ25KSE5SbkxzODY3WmZ3?oc=5",
-      "summary": "黃仁勳回歸輝達有神助？網朝聖「台南武廟月老點燈文」 Yahoo股市 緊抱黃仁勳15秒的她是誰？背後藏暖心洋蔥 Yahoo新聞 川普救回黃仁勳惹議！共和黨人士也警告：選民受夠雙重標準 鉅亨網 路透：黃仁勳重掌輝達對AI信用市場減壓有限| 國際 中央社 CNA 黃仁勳閃電復職發表道歉宣言 坦言正在接受心理諮商 公視新聞",
-      "published": "Wed, 25 Nov 2026 07:45:16 GMT",
-      "display_time": "11/25 07:45"
+      "title": "矽谷贏了、MAGA怒了！川普救回黃仁勳內幕曝 掀共和黨內鬨 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQYXF0M19KenNzcGNWZnNhUGlzVGZPTmwwOHFBZFpiMUNJNFBFeGJHSTdMWHQ2bmpTMDN4c21hOWZLZ0hUcF9zcnpBUE5rbEdRMkl0a0Vnc0xnOXpIOTJBYWZUbWhDWUkxUHJUQUFUX3Z5dTVnVWNNdmdqdzBGN0tzdHhyUVZnOXRFRmR1and1VzdwZWgzZGJtMFZJZWlRX0szc2VhUHFtTjNQMjhucVRXbnhOalBQenBGRGE3Z2JkZTQ2RzRoWjV1NWkzRl9Eak5HbEotRWk1aHFiWGozYWt0Y2puVXl3MUZUY3Q0NmcwVG9PdkZ6S0Y5ZlZQejRwdUhiT3ZJQ3hZZ1RRUTFJT0hQQ0hqSkVhNXN0Mnc1VFpCNmFtNllLeUprUVcwZlB3bHpxRXlDVUxTWHNoOTFfektaYzdTaktHZjlLUGRaTTlubjFYeE9HQ25nYVZYaVcxdy0tUGw0cjctcHhRcmR4?oc=5",
+      "summary": "矽谷贏了、MAGA怒了！川普救回黃仁勳內幕曝 掀共和黨內鬨 Yahoo股市 前往 Google 新聞瀏覽更多頭條新聞和觀點",
+      "published": "Wed, 25 Nov 2026 13:54:59 GMT",
+      "display_time": "11/25 13:54"
     },
     {
       "source": "Google News Global",
-      "title": "美股｜風向變了！費半跌近8％ 輝達挫5.9％ Anthropic破發 台積電ADR挫3.96％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YaUF2QVB0bG52RHNzdnlldW5JbkpsWWkyd3hXYlZ3Z01ncE1Ob3c0d2JEbnBrOFVRQ2VJMko2dmhfNHVtUWVkd2oyaU82Tm9EQ3pJU0RHcHZ3SGNYb3Iw?oc=5",
-      "summary": "美股｜風向變了！費半跌近8％ 輝達挫5.9％ Anthropic破發 台積電ADR挫3.96％ 工商時報 快訊／台指期夜盤跌近2000點　台積電夜盤跌近4% ETtoday財經雲 費半挫7.88%台指期夜盤跌逾1800點台股強彈後面臨壓力| 證券 中央社 CNA 美股收盤／費半又暴跌8%、輝達跌6% 晶片股慘摔 川普新關稅加重賣壓 經濟日報 《美股》輝達拉回+Anthropic破發 費半挫 等PCE MoneyDJ",
-      "published": "Tue, 24 Nov 2026 22:21:00 GMT",
-      "display_time": "11/24 22:21"
+      "title": "301調查結果出爐！美打擊產能過剩 擬對台課15%、對中加徵20%關稅 - UDN",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91YW11U3o4SkZkVGlzY2sxZklnRGZzSEU5OFJPY0NHVkJ1RkVhbml0WDkwZDFMWl9LTEh1SkNMNE1sWFAtb1VMOUFxMi1PTzhP?oc=5",
+      "summary": "301調查結果出爐！美打擊產能過剩 擬對台課15%、對中加徵20%關稅 UDN 美國為何擬對台加關稅？USTR列9項理由 半導體、電子業遭點名 Yahoo股市 關稅15％不疊加 政院有信心落實 自由時報 美301調查出爐擬對14經濟體加關稅 台灣協議稅率至少15% 中央社 CNA 川普關稅再出招！美擬對14貿易夥伴課新稅 台灣也在列 鉅亨網",
+      "published": "Wed, 25 Nov 2026 13:37:28 GMT",
+      "display_time": "11/25 13:37"
     },
     {
       "source": "Google News Global",
-      "title": "人倫悲劇！告知家人懷孕2個月 伊朗19歲女遭父母「榮譽處決」勒斃 - Yahoo新聞",
-      "link": "https://news.google.com/rss/articles/CBMiiANBVV95cUxQUkNJQTJZSUd0eU9Fb3ZhMlhUY241Q0NCd0N3Q3BBN2pOZjV3RmliRWp0Zzl0Y19jLWhQVmJidm5QN0FXSkgxRU9EbXNyOWYzcWtXY3Y4TXdnT1dGMlRudDVaY1JTTkI5MFMwc1U2VkRpQ3U1a0wzcF9EUFJ1STZELVc4dnFsazNLUWFicS1ZVXdJMURRSVB5TzhLcVVvbTd4LTlBUWpfbVhZMjVUNFAxcWJrYUJ0c25VTFBhSXdmSVdnNDN4VGxqYVdqY1l1Uk81WDFTSE01Qmh1dEhPdktZeDh1cGtHYWdnQUs0UmxhSHNRTlZ3Z2lvMXZWVUo5TFZnWjBuYUxMaWk0LXF2TXRrNUhHVHQtcjcybVd2VU1RNnFaMWN3TVBhb2twRVBnOFFGVnJIQzhtdjdCUHBoeXlhVVJxNVQ4elVfaWFvX2U0bmJ5OVE3QWN2cUlZWHJQMFFjTDhFUXIxUWxCVVdxRktWYk9CbDA2OUZaVkZBenl1SW9LOGtDeWhteg?oc=5",
-      "summary": "人倫悲劇！告知家人懷孕2個月 伊朗19歲女遭父母「榮譽處決」勒斃 Yahoo新聞 伊朗爆「榮譽處決」悲劇！16歲少女求救無門　遭父親推下5樓身亡 三立新聞 伊朗19歲少女懷孕「遭榮譽處決」！　親生父母灌藥毒打悶死她 ETtoday新聞雲 伊朗又傳榮譽處決！19歲女未婚懷孕 慘遭親生父母「灌藥毆打致死」 TVBS新聞 【伊朗19歲少女懷孕「遭榮譽處決」！ 親生父母灌藥毒打悶死她】 這真的是父母嗎... （#01J） Facebook",
-      "published": "Wed, 25 Nov 2026 05:55:28 GMT",
-      "display_time": "11/25 05:55"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "揭台股大跌原因！ 達人曝「2大未爆彈」：昨漲停沒買到應該慶幸 - TVBS新聞",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BQjBQSUZySFVoWkFab0x3ajJsejVNS0tPd2tqcFg5YWo3NllqWXhQWDZQVHltaC1wMC1UWFRJQUNyUWE5N29WazBnLTc5UUU?oc=5",
-      "summary": "揭台股大跌原因！ 達人曝「2大未爆彈」：昨漲停沒買到應該慶幸 TVBS新聞",
-      "published": "Wed, 25 Nov 2026 04:50:00 GMT",
-      "display_time": "11/25 04:50"
+      "title": "川普開金口 美股電子盤、黃金腳軟 台指期夜盤倒地 - 經濟日報",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAySHp5V1hPNlI3UTVJcFo3YmFCUzJWcFJrV1lrQnk0R256eWJEZG5hNVlva1Q3N0wweWVhSlFvUFZqSE9XRkdXQnktVThIX3JwLXBnTVlnZlAzdDjSAWBBVV95cUxOOWZVZW1ObmNXdnpaOXJIM0VMaTFyd21COVozaGN5OXlZOVV6OUVmMTFZV3RuRk56b2FVS3FWaDB5blRsZ05KMlhIcUlHbmdBNnBveUhmdHdjSGZwZzctWWo?oc=5",
+      "summary": "川普開金口 美股電子盤、黃金腳軟 台指期夜盤倒地 經濟日報 【Follow法人】外資提款台積電、鴻海合計逾663億元 再砍聯電逾6萬張 Yahoo股市 台股今重挫！哲哲點名6檔股「抱緊等逆轉勝」：All in的人別看盤了 ETtoday財經雲 股災還沒完？台指期夜盤跌1343點美股盤前台積電ADR跌近5％ 專家建議拉高現金部位、降低槓桿 自由時報 蔡明芳專欄》將台股大跌歸責於301關稅調查結果 是不正確的 Rti 中央廣播電臺",
+      "published": "Wed, 25 Nov 2026 13:04:54 GMT",
+      "display_time": "11/25 13:04"
     },
     {
       "source": "Google News Global",
-      "title": "台股反攻是假象？昨天漲停搶不到，今天跌停不敢買！台玻欣興、華通川湖健策該買該賣？3指標看懂進場時機 - 今周刊",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONV9tTF9GcnptNzQwSmtzbjR5QUpqUEFwSUgxT1RldWNLYkMxT3dRVXhjV0FkY3pKMlM2bjFlanVHRkxEQnpLMFhQeVhHbm9XVmREUFN4VEd1Xy1hNXFyOVFFTHBHSUNpal9jSkFRUmtVVkxUOC1RWTY3ZVFZaGx5Tg?oc=5",
-      "summary": "台股反攻是假象？昨天漲停搶不到，今天跌停不敢買！台玻欣興、華通川湖健策該買該賣？3指標看懂進場時機 今周刊 今天大跌是抄底的好時機？陳龍揭「800億投信銀彈」內幕：黃仁勳回鍋就是天大利多 UDN 台股昨強彈今天現套！他不解股民追高加碼「有守紀律嗎」 網揭心態：想趕快回本 Yahoo股市 2026/11/25 Rti精選新聞 Rti 中央廣播電臺 【昨天搶不到，今天不敢買？】反攻是假象？3大考驗決定台股能否再創高！ 鉅亨網",
-      "published": "Wed, 25 Nov 2026 04:08:14 GMT",
-      "display_time": "11/25 04:08"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Retail turnarounds are taking hold just in time for the holiday season",
-      "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-      "summary": "Retail earnings reports on Tuesday pointed to a mix of factors behind the strong results, including a resilient consumer and stronger execution.",
-      "published": "Tue, 24 Nov 2026 19:26:39 GMT",
-      "display_time": "11/24 19:26"
+      "title": "瑤池金母對戰關稅帝君！ 00981A觸跌停再爆百萬張巨量 - ETtoday財經雲",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44ejg0WUJZd3owekh0c0JuUFR0cFotTTNuYkI3SnZDaGFRbnFIUS1fOElpVFp0WDk3N1hjYWprVGZPb2d6cmRIenRvX3lOYXVSUEE?oc=5",
+      "summary": "瑤池金母對戰關稅帝君！ 00981A觸跌停再爆百萬張巨量 ETtoday財經雲 輝黃僅1天／4個月沒加碼股票！分析師11月股災終於出手 買這檔ETF一張不到7000元 | 鏡週刊 LINE TODAY 外資養肥再殺？「這檔ETF」成交量爆118萬張 股價卻重挫逾5% Yahoo新聞 最受歡迎的10大ETF出爐！0050破400萬人奪冠 專家揭「3大市場趨勢」 三立新聞 外資、自營商狠砍「這檔ETF」近9萬張！盤中下殺跌停 國家隊3.7億救援 Yahoo新聞",
+      "published": "Wed, 25 Nov 2026 04:38:00 GMT",
+      "display_time": "11/25 04:38"
     },
     {
       "source": "Google News Global",
-      "title": "卡普空服務型遊戲《異域龍潮》宣布終止營運 關閉後無線下模式 - 4Gamers",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQY3lpbnliUXBzc3ZGeDVPZllacnhZRGM2YUdDZ2FqZTFXMmN4VENxS3YzcGZLamhhSl9uLWtfc085c0ZRLXJSdnNvZG1MU012RWpJZHVLam10NGdMaVNUdUV3X292OFVHcUYwV2N2aTh4ekRMcjc0eDFxVXFmRnlyZHBEOWV4bXFIN2c?oc=5",
-      "summary": "卡普空服務型遊戲《異域龍潮》宣布終止營運 關閉後無線下模式 4Gamers Capcom《異域龍潮 Exoprimal》明年 9 月底終止服務 將下架遊戲本體及所有 DLC GNN 新聞網 Capcom 服務型線上遊戲《Exoprimal》將在明年 9 月正式關閉 XFastest News Capcom《Exoprimal》2027 年 9 月 30 日終止服務 本體與 DLC 提前停售 Ludens Media CAPCOM 恐龍機甲射擊遊戲《異域龍潮》宣布 2027 年 9 月終止營運！伺服器關閉後已購買玩家也無法繼續遊玩 Paradaily",
-      "published": "Wed, 25 Nov 2026 03:19:31 GMT",
-      "display_time": "11/25 03:19"
-    },
-    {
-      "source": "Google News Global",
-      "title": "影／索羅斯案延燒！告傅崐萁敗訴　沈伯洋曝理由：法官認為沒人信 - NOWnews今日新聞",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WWm9mMVN4d1RObDRwVUMxZ0lOcm5vZlcyamZWblhuMGgyS3dCVmZDU0lWV1Z6aThzVHE2QXNZMGpwQUJ0UUtBcWpuRWPSAVJBVV95cUxNN1RFUUdvSDZybTVybEpBY2FhSUw2c0NBTmlWRFlaNnZPNXVMRWpkMWQ5TkZjOC0tR2x6M3oza0RsTlJBamtXNWktRUNrQ19MUFZB?oc=5",
-      "summary": "影／索羅斯案延燒！告傅崐萁敗訴　沈伯洋曝理由：法官認為沒人信 NOWnews今日新聞 沈伯洋認拿索羅斯錢 蔣萬安：索是爭議人物、沈為何會去申請金援？ UDN 收索羅斯資金？黃國昌提告「坐等抓人」 網友火速刪文 自由時報 藍白猛攻索羅斯！台灣民主實驗室打臉「理事長是無給職」：包含沈伯洋 三立新聞 拿台灣做實驗？爆索羅斯放空台積電4000萬美金謝寒冰起底沈伯洋補助風波：政治版黃琪| 張庭維 | 新聞 風傳媒",
-      "published": "Wed, 25 Nov 2026 03:06:26 GMT",
-      "display_time": "11/25 03:06"
-    },
-    {
-      "source": "Google News Global",
-      "title": "台積電美國製造商機再擴大！先進製程德州擴廠法人解析三階段受惠台鏈- 日報 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9RUEtJNXp2RUFZQjI0TUtsVGxDb3VtMUhiaXQ1bTAyY2tPSnk5cjlGQm5KTGM2djZrdnZtMUR5cF9pZHN1aHBQUVpDWGMtOE8xZVM4dDZrcWQ5MVJveDRV?oc=5",
-      "summary": "台積電美國製造商機再擴大！先進製程德州擴廠法人解析三階段受惠台鏈- 日報 工商時報 傳減稅與否成落腳德州關鍵 台積電這麼說 自由財經 台積戰略揭祕！最先進生態系將扎根美國 UDN 美對台關稅恐再出招 川普控「台灣偷晶片」：2年後關稅上看200％ 台視新聞網 亞利桑那享天時德州有地利台積電美國先進製程雙管齊下- 日報 工商時報",
-      "published": "Tue, 24 Nov 2026 19:00:00 GMT",
-      "display_time": "11/24 19:00"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "AI教父回歸！ 台股收復40K 漲3310點「史上第1」 - 華視新聞網",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ieUo0WlR6VzFmTkdHMFVPUVhGZjVPS3pUN3Bvc09DWlEtX1NBdVlqV2lDdWFpOHlsQXROTHZ2dmpGMkpJb2NKR2lKMXYzemNsdVhBZG0yVy1VVW9WS3FhNWdtMWV3Yi02RjdIcUp3?oc=5",
-      "summary": "AI教父回歸！ 台股收復40K 漲3310點「史上第1」 華視新聞網",
-      "published": "Wed, 25 Nov 2026 02:05:00 GMT",
-      "display_time": "11/25 02:05"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美擬課產能過剩稅 301調查結果最快本周宣布 我力拚最終稅率15% - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TVnBRVnl3ZXo0Tzk5VUtYcW45NGp1ZHRzV0xaMzllR0RDUnc0SjR4di1pY2gtbDdyZ2tRR1RXSUMzdVRwRjhCaVlsQzdJY0JxbW9WTDVMaXFNd9IBX0FVX3lxTE00d3kxMzRBRGg3d1NMcW1mT3EtSGIyVVVzbkEzbU5xd0gtTTNzeFdZMWFHZ2d0MHdHbFZ1NXFjRlNybno3c1B4cnlJajlJY2VwUE5nRE9BR2pTRXZYejRZ?oc=5",
-      "summary": "美擬課產能過剩稅 301調查結果最快本周宣布 我力拚最終稅率15% 經濟日報 川普新關稅最快本週公布！台灣等16個經濟體入列 中國恐遭課最高稅率 Yahoo新聞 蔡明芳專欄》 「結構性產能過剩」 301調查結果下的關稅可能情境分析 Rti 中央廣播電臺 傳美國準備調高對中國與其他國家關稅 最快本週公布 自由財經 關稅惡夢準備重演？美USTR工業補貼調查結果將出爐陸稅率恐更高- 日報 工商時報",
-      "published": "Tue, 24 Nov 2026 17:33:44 GMT",
-      "display_time": "11/24 17:33"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-      "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
-      "published": "Tue, 24 Nov 2026 17:04:20 GMT",
-      "display_time": "11/24 17:04"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "黃仁勳復職嗨爆股市 分析師揭陸股「這族群」狂衝漲停：有望帶動台美股供應鏈 | 林子靖 | 新聞 - 風傳媒",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFByU2cxYk1UdTlRajlzUmRyc2JpWVNXTkZQWG4xSmJ4cnFWaFdxclRjcWt1WWtHTVJEa1FTMy1WMEdGTmQ5ZFFfWjh0c0hrQQ?oc=5",
-      "summary": "黃仁勳復職嗨爆股市 分析師揭陸股「這族群」狂衝漲停：有望帶動台美股供應鏈 | 林子靖 | 新聞 風傳媒",
-      "published": "Tue, 24 Nov 2026 15:49:00 GMT",
-      "display_time": "11/24 15:49"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-      "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-      "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
-      "published": "Tue, 24 Nov 2026 14:51:58 GMT",
-      "display_time": "11/24 14:51"
-    },
-    {
-      "source": "CNBC Finance",
-      "title": "Some U.S. food banks see demand top pandemic levels",
-      "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
-      "summary": "A combination of high costs and restrictions to federal aid have led to soaring demand at many food banks in the U.S.",
-      "published": "Tue, 24 Nov 2026 12:00:01 GMT",
-      "display_time": "11/24 12:00"
-    },
-    {
-      "source": "Google News Global",
-      "title": "403萬股民注意！0050再創新紀錄 - 東森新聞",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lOUJGQzh2R2NRS002MmZJN3A2NmpacEc5S0VKTkVlRmo4RG9xb3haQzd2Smo5aWdyeWthOVBPQTVrcjd4ZVBiUXVudGtiX0dLcDBLa21nOA?oc=5",
-      "summary": "403萬股民注意！0050再創新紀錄 東森新聞 0050吸金破兆元！散戶搶在黃仁勳復職前卡位 買氣一年增三成 Yahoo股市 創紀錄！台股上沖下洗0050全年淨申購破兆元 自由時報 買盤危機入市 台股 ETF 單日吸金428億 經濟日報 趁台股大跌彎腰撿ETF 今全噴！0050帶頭亮燈- 新聞 MoneyDJ",
-      "published": "Tue, 24 Nov 2026 10:51:00 GMT",
-      "display_time": "11/24 10:51"
-    },
-    {
-      "source": "Google News Global",
-      "title": "連ETF都會翻車！ 元大台灣50反1首見鉅額違約交割3,946.9萬元- 證券 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WeEV0bDFLWXlkT0dpMlJ3Ty1ocksyUEVRMUVBSjR3amxUSVhQMFFWcHFpOVQxNkh6OFhoLUpwNElydm9UVXBlN2I1dVZmaTFNOFhIaGFEaVd6NWkzaEVV?oc=5",
-      "summary": "連ETF都會翻車！ 元大台灣50反1首見鉅額違約交割3,946.9萬元- 證券 工商時報 違約交割潮未歇！景碩、金像電、富喬5檔爆近2億元 Yahoo股市 追空反向ETF踢鐵板！台股重回四萬點大關 00632R爆3,946萬元違約交割 UDN 押反1慘翻車！00632R爆近4千萬鉅額違約交割 暌違近2年再現ETF案例 鉅亨網 0050反1爆近4千萬違約交割！投資達人看傻：明明當天大漲 ETtoday財經雲",
-      "published": "Tue, 24 Nov 2026 10:38:00 GMT",
-      "display_time": "11/24 10:38"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美國民主黨：將動用全部權力徹查川普政府、黃仁勳 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5Wkc1VnFKQ0ZWT1FaaklSbDRMb0JvbzkyZGxSZDlPcC1TZFdUV2lSQ3VfSFVBeldkYzBSVDBOOHFKeWFLZmJmYVlyeFNENUU?oc=5",
-      "summary": "美國民主黨：將動用全部權力徹查川普政府、黃仁勳 鉅亨網 黃仁勳請辭11天火速回鍋！中國外交部8字回應 Yahoo新聞 黃仁勳重掌輝達迎雙重考驗　下周赴國會說明、GTC演講未定 ETtoday財經雲 川普力促黃仁勳回歸分析：可能助長加強晶片出口管制呼聲| 國際 中央社 CNA 川普力促黃仁勳復職引發兩黨議員抨擊 美國國會將擴大調查 Rti 中央廣播電臺",
-      "published": "Tue, 24 Nov 2026 06:27:12 GMT",
-      "display_time": "11/24 06:27"
-    },
-    {
-      "source": "Google News Global",
-      "title": "黃仁勳回歸華爾街投行連夜改報告花旗、高盛、瑞銀齊唱多- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RT0pueGtpZEJCeTRPSTRsaEpQQklES2oxZko0Yi1JUW1vbHNqSWdxN0xPeTd6UEdibWNVWHRfRng5RDhySHJBX3ZINFlQNzUxWDItYXVyOHhiNGVaZlFN?oc=5",
-      "summary": "黃仁勳回歸華爾街投行連夜改報告花旗、高盛、瑞銀齊唱多- 國際 工商時報 AI類股漲勢回落！投資人靜待通膨數據 美股開盤走低 Yahoo股市 「不能沒有你」：黃仁勳回歸，台灣股市的狂歡與半導體「 黑天鵝」風險 BBC 反指標女神喊「明天要崩」！點名讚中華電抗跌　股民嚇瘋：別過來 ETtoday財經雲 黃仁勳強勢回歸 晶華潘思亮：最好的感恩節禮物 自由財經",
-      "published": "Tue, 24 Nov 2026 04:53:00 GMT",
-      "display_time": "11/24 04:53"
-    },
-    {
-      "source": "Google News Global",
-      "title": "晶片不進中國，算力照樣越境：美國BIS新規納管遠端運算，台灣如何轉型治理夥伴？ - TNL The News Lens 關鍵評論網",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PR0drNXkxczZuYTNIMnRWaEN6TDduOW5yTnRhUjhYc1NkNUhXbVh0SFJnaWRPYkM1bjR2UUhiNTMxXy1DOF9kM2haQm1YY2hDRVBSVw?oc=5",
-      "summary": "晶片不進中國，算力照樣越境：美國BIS新規納管遠端運算，台灣如何轉型治理夥伴？ TNL The News Lens 關鍵評論網 中國希望輝達退出、但還不是時候？美媒 : 背後有「兩難」 自由財經 美國對印尼等擴大SI晶片/伺服器出口管制 恐影響印尼DC產業 台視全球資訊網 輝達晶片銷中決策惹爭議 川普稱若是舊型晶片免追究 公視新聞 川普稱只想賣給中國「落後晶片」 北京弱弱地回了「這一句」 Yahoo新聞",
-      "published": "Mon, 23 Nov 2026 23:58:00 GMT",
-      "display_time": "11/23 23:58"
+      "title": "川普再嗆「台灣偷晶片」 放話2年後關稅上看200％ 台積電德州廠時間軸很微妙- 國際 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtRVh1NjAtUmFseFEtcVJBRVFsUl9VYnNrMGFnOWRUX2RDY3FJbE5LbWhYY3ZKU2ctS2s1VmVtZzk0LWdUNDJLR1lGV3RaTUZMcGgyZTZiNHZhZFRYRkFv?oc=5",
+      "summary": "川普再嗆「台灣偷晶片」 放話2年後關稅上看200％ 台積電德州廠時間軸很微妙- 國際 工商時報 台美ART將拍板 張建一：關稅不會超過15％、半導體不在其中 Yahoo股市 彭博：川普下周將親臨台積電亞利桑那廠擴建典禮| 全球財經| 全球 UDN 台積電亞利桑那擴建、評估德州建廠台灣仍是研發與先進製程核心| 產經 中央社 CNA DIGITIMES Today：魏哲家、川普即將同台| 駭客鎖定台灣半導體供應鏈| 上海市「一把手」如何主掌科技產業布局？ DIGITIMES",
+      "published": "Wed, 25 Nov 2026 01:58:00 GMT",
+      "display_time": "11/25 01:58"
     }
   ]
 }
