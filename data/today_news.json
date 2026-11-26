@@ -1,149 +1,61 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "news": [
     {
       "source": "Google News Global",
-      "title": "輝達買權翻倍還沒賣！《大賣空》貝瑞曝盤算：股價接近200美元擬再放空 - 鉅亨網",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Fd0ZZTFJKV2xuSUJmQlpudW5LUlBra0ZVdUQySmhyQXBITkxmZ1NBcUxJU0lVUjVRUVI1a3lxVmRIY2tBS2M4WXZvZ2oxc0E?oc=5",
-      "summary": "輝達買權翻倍還沒賣！《大賣空》貝瑞曝盤算：股價接近200美元擬再放空 鉅亨網 就是不看好輝達！《大賣空》貝瑞喊「200元就放空」 沒把黃仁勳回歸放眼裡 Yahoo股市 天下晨間新聞：美股巨震，輝達跌到連「大賣空」都反手做多 天下雜誌 大賣空本尊改喊「輝達200美元再放空」　手握25%現金 ETtoday財經雲 「大賣空」貝瑞罕見轉多！空單幾乎清零 握25％現金準備抄底納指 自由時報",
-      "published": "Thu, 26 Nov 2026 11:04:40 GMT",
-      "display_time": "11/26 11:04"
-    },
-    {
-      "source": "Google News Global",
-      "title": "股匯雙漲！「老大」出手新台幣強升1.76角　台股飆1200點 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85YWFsNE9OcWl5ZzhodklBdnFFcGxqV1JvaGtuZHlFYWUwZEZ4UExzdG5USHZqQVpPMmFXVEN6ZkE2MjRYSGlfU04xTnBsbmVmSnfSAVBBVV95cUxPUXZzd1pKNkhKRUZveXdONUEyR255aUlKR3Y0MjVfUV8yT1ZvaTlZVUdnblUwZVpjeFN2Y2hWTE1rUzFDS2ZiMjh1ZmxWS2ZMNA?oc=5",
-      "summary": "股匯雙漲！「老大」出手新台幣強升1.76角　台股飆1200點 ETtoday財經雲 央行出手了？新台幣狂飆近2角重返32.9價位 一舉收復33元大關 Yahoo股市 股匯雙殺 台幣失守33元關卡 UDN GDP飆48年新高，新台幣為何還在貶？看懂出口繁榮與匯率背離的真相 TNL The News Lens 關鍵評論網 〈台股盤前要聞〉匯市爆63.62億美元創第三大、鴻海印度子公司遭控欠款 鉅亨網",
-      "published": "Thu, 26 Nov 2026 02:27:00 GMT",
-      "display_time": "11/26 02:27"
-    },
-    {
-      "source": "Google News Global",
-      "title": "301台灣稅率15％不疊加 鄭麗君：2232個豁免品項比ART還多 - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YVlB4ZmpFSHRqclNtb0JKSVN6S0xqX0RaVS1KTmR0Q0wycURJbVQzNDZEUENFZ3ZHaUt6ZUpIaF9IMTljTzkzamNCTzdGQ1YtbDBoQnhjcmZMWW0yV2p30gFkQVVfeXFMUFk2amxmSTY3T3pRSXd5cDBVbl9xZjVtMlpZd2swYlZBeEZvNFR3aGdkXzA4cFdjWTQ0b0RDMTFKeGdsbGpVaDMyUnpUYXpDc3dCUXZNOTlsbTVQQktsMERrTkNhTQ?oc=5",
-      "summary": "301台灣稅率15％不疊加 鄭麗君：2232個豁免品項比ART還多 自由財經 美國301調查出爐 工總提三大建言籲落實談判避免產業不確定性 鉅亨網 美關稅豁免名單曝！晶片、伺服器全數過關 AirPods恐遭課35%關稅 Yahoo股市 美國關稅不確定性消除？ 政府盼守住15%協議、鞏固台灣AI供應鏈優勢 DIGITIMES 232晶片關稅未公布 鄭麗君：免擔心 台美MOU已爭取最惠待遇 Rti 中央廣播電臺",
-      "published": "Thu, 26 Nov 2026 01:58:42 GMT",
-      "display_time": "11/26 01:58"
-    },
-    {
-      "source": "Google News Global",
-      "title": "12強資格賽／尼加拉瓜擋住英國反撲氣焰 B組首戰率先搶1勝 - Yahoo運動",
-      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQTVBuUGp0RDk0REpMOWR2ejhkS1U0OEZFeXd6aGtjZ3gzTXZ2UUhBcWh0b3o1aDFGbzgwek5aWDhWLVgyazVLVVRWLWllT3lrRjQ2TlNOU0xRajNUNDJ4V0FrcExOYUhjLWdFVkpwbTczdlJwR3dCdE9yazBKbHBYbnNEMkZYbjg1T3NPRm9WYUF0U0R1YVR5WXNrZlpBc2dyZG1BbkFFU0pPM1dRN0tjUGFPdjI4WXA2SHBYR1h3cDdST0JlUVJvNTREeUdFeHBxN195VXoyc1hnMFZFSEdSVXJwY1hGcGRlSEhDZUJWQlVvUmwwWlhocFFVM3JwNHpYUGlGOVBQbUUwazhuYnhDRWZhZkNqZUt4bUJkTDFJMHU2U3luSVNUSFF5Qkd5bTJfREpmQURERXBVV1dQZHhqQlVYVDZ4RlAtaWF4MGRvV2RoOWdyZktRQ3A3bjVDejBXOTREU3pUek10Z0lGMHlSMTdCc0dEZ2Vx?oc=5",
-      "summary": "12強資格賽／尼加拉瓜擋住英國反撲氣焰 B組首戰率先搶1勝 Yahoo運動 12強資格賽／中國隊球衣紅色變藍、白配色 尼加拉瓜神似富邦悍將 Yahoo運動 12強》奇襲！看穿捷克在台灣的罩門 中國隊罕見戰術奪首勝 自由體育 世界12強／資格賽B組開打 尼加拉瓜勝英國、中國擊敗捷克奪首勝 UDN WBSC世界棒球十二強錦標賽中山資格賽開打前夕，各隊總教練期待上演精彩棒球對決 World Baseball Softball Confederation (WBSC)",
-      "published": "Thu, 26 Nov 2026 09:54:00 GMT",
-      "display_time": "11/26 09:54"
-    },
-    {
-      "source": "Google News Global",
-      "title": "股王信驊股后川湖帶頭衝！千金股重返33檔 健策大立光9檔閃紅燈 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxPR0t0YUJHNnpsazQ3dDlValRzT1dTaVhFakMyMU1kZU5MT0JDOU9sR181MjRBTnVhTUp4REszRUdEeEhHTmZtM2hoWXVFcGlxR0o4bV9fX1ZGM21vYmc1TEJpc2V2aDVMU3JYWVJUNWxvTTlZYVQxTDNheHk1YXJyU2IyODFpSEJGcEZCMXZNY24xMGZnVERMbFMyQjFVZm5wd0FkVk13b05VbTdhNExENEE5WkthN3BXY0VXQnF6b1JJLU9mR1MzdWcyVmpMdUl6WFI1Tm85bUJCa3VBb3NNYkwyc0d4d3lkbG1KamowbWRCNTZCODNsSGw1VVVNRHk0dFVRUm8yNW5mZDBQbkV6STZRRFJSM2Y4NGVBdUw3VGI0amxCVGNMZ0dIV0puZVRSZXJVblNkcThfc1RrODJiVnJydUQ0WDhRVktIWmZKWl8xQldGRFBweWs0alZLNU1KY0tXVF9tWmk4UXZ4VF9OcWxtMWVKbG1LTmwtdWl0QV91SHl4aW9tQW8tcEE4akpIakFaSlFrR0g4LUFXYk8waDBmX3E?oc=5",
-      "summary": "股王信驊股后川湖帶頭衝！千金股重返33檔 健策大立光9檔閃紅燈 Yahoo股市 台股吹響反攻號漲破900點！「瑤池金母」偕00991A漲破5%炸96萬 00406A上揚飆63.8萬張 Yahoo股市 聯發科、川湖領漲千金股台股早盤強彈千點收復39K 台積電還在掙扎- 證券 工商時報 20261124 公視午間新聞完整版（無網路版權內容除外）｜台股開高收復4萬大關盤中大漲3368點刷新紀錄｜ 公視新聞PNN 公視新聞 台股盤中強漲1200點 投顧：短線呈跌深反彈 Rti 中央廣播電臺",
-      "published": "Thu, 26 Nov 2026 01:53:10 GMT",
-      "display_time": "11/26 01:53"
-    },
-    {
-      "source": "Google News Global",
-      "title": "大立光國巨紅燈雙響炮！台積尾盤挨刀翻黑 台股照漲956點攻回3萬9｜Yahoo財經掃描 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxOeVExZXU5cFdCbUJ5VTFrVEZqWnhuR2hTc3k3aWUySktMVGVObUYzX0xMSlE2ZS1SdGZMelpaM0R5eTVscDdfNDFLWVo1ZGtucnF2ZlF1bkg2cUZuS1NTMDlEbGEzb09MQVQ5SkZQVjNKdFNHSGUzOWxwYzQwZ0pKUVMwLXJyaFhwWVgwNU5URFQzWXFjaWtWVmluUWZqcGlTTGVDbTBLeERUTXBUSzNLRVB3a09fczRzU0xEbUdTUGIyTnEyZ3JrNTl2SHEzb19kaHhSX0ZFOUZUWTdqQ2J0S2hDR0k0UDUwNlV4X1VuVXNGcU9Ea2FkbDBPekUwVFc5akdDdlVreUVGRGtZT3ltNnhqemF0STUzQmJHdkNoRTBWWHQyQ3Z3dGVXcnd0YjFCS3ZTZWM0TEpPWUFWdExkX3lzZ2ZXOFg3ZnFobjF0b2pRWkRTLUQ1ZFFnVmtlYWdXU1hpQlAzWDU4bXduODV6WDRfTlRYZEF3RzBJRmFJQzZYQ3I0d2xkVDdCeTFhazVjWlY3RXJmb3F2ZzhKdENITU9qbEE1dTN3V25FZi0xQUVxQy1GU1pNcHFJeHF1cXJEeHhSeWZ0OTVzVF9QUHQ4RlFYbF9lcWlqckVxbHhaWlBPRlpXd1JNSEhR?oc=5",
-      "summary": "大立光國巨紅燈雙響炮！台積尾盤挨刀翻黑 台股照漲956點攻回3萬9｜Yahoo財經掃描 Yahoo股市 台股狂飆956點別高興太早！陳嘉偉喊「最後逃命」示警12月五大利空：恐跌破35542點 Yahoo股市 台股上漲956點收39151點 PCB散熱族群反彈 Rti 中央廣播電臺 11/26盤後解析｜關稅疑慮降溫強彈956點，中小型電子領攻，外資續賣、期貨空單再增 聚財網 今日台股》美國301調查報告出爐！台股上漲956點 台積電逆勢下跌5元 卡優新聞網",
-      "published": "Thu, 26 Nov 2026 09:09:40 GMT",
-      "display_time": "11/26 09:09"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "大立光、ABF載板及被動元件股大漲！ 台股早盤報復性反彈逾1100點收復39K - 知新聞",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxcGRmY1BmLV9YQmVlUnpUMUFSTFZiNzcwN3hSZzBmWlk2bTMwbzJPbWMwM1ZVSnA1VjR3ajFteDJGUWtobzhoc25WSHFTYzVNVGxIb1FBMFJwbFVaU1NMdDBaQzNnM1FBX2NSaV9TWQ?oc=5",
-      "summary": "大立光、ABF載板及被動元件股大漲！ 台股早盤報復性反彈逾1100點收復39K 知新聞",
-      "published": "Thu, 26 Nov 2026 01:05:00 GMT",
-      "display_time": "11/26 01:05"
-    },
-    {
-      "source": "Google News Finance",
-      "title": "《台北股市》三大金融機構看台股：AI疑慮未除 - 富聯網",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGxfYlpkTERCT0FiX2VaekxRZkZDaXZqUDRVNTJobHZtQUh1cm42ZHNGNmhWVmNjNE9xX1lzWFhBTDdEZEp1OTlPUDlQb1o4MkZaUU5WaWZsNjNPa2h3TDlnUnlYaElfbUFmTEpwR0tSWlRnZ1FFTk5USlBQUVduamowWWpaZmNY?oc=5",
-      "summary": "《台北股市》三大金融機構看台股：AI疑慮未除 富聯網",
-      "published": "Thu, 26 Nov 2026 00:13:00 GMT",
-      "display_time": "11/26 00:13"
-    },
-    {
-      "source": "Google News Global",
-      "title": "美股｜AI股跌勢未歇！道瓊盤中崩逾千點 終場收紅164點 輝達再挫近4％ - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ET09zYXE3MEFVQmR2aXBkMGppWG5YZll5akRQMm1PN2hGd2YySTc1cG51cGhHd2hCQmhCcno5U2t3Q1daZ09EY0NYdXJFUjVwcWN6N2QxX2thYndmMWtz?oc=5",
-      "summary": "美股｜AI股跌勢未歇！道瓊盤中崩逾千點 終場收紅164點 輝達再挫近4％ 工商時報 台指期夜盤殺2190點竟翻紅！道瓊狂拉逾千點上演大逆轉 輝達仍挫3.9％、台積電期貨收紅 Yahoo股市 美股收盤／驚魂後拉回 那斯達克100指數一度跌入熊市 道瓊逆勢翻紅 經濟日報 感恩節前美科技股走弱301新關稅成台股變數| 證券 中央社 CNA 驚天大逆轉！道瓊狂瀉逾千點翻紅 台指期夜盤震盪2464點 東森新聞",
-      "published": "Wed, 25 Nov 2026 22:42:00 GMT",
-      "display_time": "11/25 22:42"
-    },
-    {
-      "source": "Google News Global",
-      "title": "CNN：美情報機構疑遇駭源頭初步指向中國| 國際 - 中央社 CNA",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pRGZmTzNLMTJ2QzlWb0VieGFTczN0a1ZGYlVzZEZHZFRYMnBwV2pFQ0RPd1NtakRYbmVlTFZWc3N6cTBBZkhSLUxRTFNrWkpLWm84ejVSZkh6MEVfSFBz?oc=5",
-      "summary": "CNN：美情報機構疑遇駭源頭初步指向中國| 國際 中央社 CNA 美媒：CIA遭網路入侵 非機密資料外洩 Rti 中央廣播電臺 美國農業部遭網路攻擊 農民補助與農貸系統停擺 官方稱無資料外洩 蕃新聞 FBI遭駭川普「反叫好」！盼趁機揭發通俄門與選舉舞弊 TVBS新聞網 輪到CIA了 「非機密系統」也被駭 UDN",
-      "published": "Wed, 25 Nov 2026 20:18:00 GMT",
-      "display_time": "11/25 20:18"
+      "title": "CDPR：《巫師4》進步幅度將媲美《GTA 5》到《GTA 6》的程度，幾乎所有面向都要全面提升！ - Nmia Gaming",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU9oUTQ0TGI4YzVOY2NadC1kbV85LWhtT2p4ZHNxaXhzclRPSy1rZ0NydGxhUXdYNXFUX3lZOXdLT0VtdUczQmNHeDdyWFE5RnA2YmZQb0FaU29RV09uaGpsMmFlb2gyTU1rS1FHRW4zcnZZRGlmRjlwWTU2M1lSeVd2NFpJblBoZVhMSDNUcXVjNmdFNmpfZTFVRlg1OElXWXVrQm1aOXVNamEzSk53bEN5aE1oWXdYeUUtWFFvbw?oc=5",
+      "summary": "CDPR：《巫師4》進步幅度將媲美《GTA 5》到《GTA 6》的程度，幾乎所有面向都要全面提升！ Nmia Gaming 《巫師4》換主角怕玩家不買單　CDPR認壓力爆棚：絕不改掉原味 ETtoday遊戲雲 CD PROJEKT 公開第三季財報 《巫師 3》重製版與《邊緣行者 2》帶動遊戲人數創新高、重申《巫師 4》2028 上市 GNN 新聞網 CDPR財報會議上聲稱《巫師4》的進步將類似《GTA5》到《GTA6》 4Gamers 《巫師 4》行銷由 Sony 協力 CD Projekt 簽署 PlayStation 與 PS Plus 合作協議 蕃新聞",
+      "published": "Thu, 26 Nov 2026 20:53:39 GMT",
+      "display_time": "11/26 20:53"
     },
     {
       "source": "BBC Business",
-      "title": "What we know about Trump's Thanksgiving tariffs",
-      "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
-      "published": "Wed, 25 Nov 2026 19:38:05 GMT",
-      "display_time": "11/25 19:38"
-    },
-    {
-      "source": "BBC Business",
-      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-      "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant.",
-      "published": "Wed, 25 Nov 2026 16:42:11 GMT",
-      "display_time": "11/25 16:42"
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "published": "Thu, 26 Nov 2026 19:55:58 GMT",
+      "display_time": "11/26 19:55"
     },
     {
       "source": "Google News Global",
-      "title": "通膨關稅夾擊！輝達早盤重挫7.5％ 費半、台積電ADR都摔逾6％ - 自由財經",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83NEpPZ1ZUV2VXd2cxcWlwMXFVS0tiNExzemJtckZKQVpQX0lxb240M0JGdnRVOVEzN2hjNTFwOFZ3ME1JRFRNZ1diWlFudjZyc1h5RUE5cXBNa2JBNE1V0gFkQVVfeXFMTVRDX3dOd1dKNE9kRmZLd1ZJLVUyRE9JM1l2MGU0TlJXeEtVczZWYjBkbE1yUUJQQ1A1Tkx6dEtUZS16bXA4ME5SY1hCVmtpbk5qRVJtZlJHQTFsTHVJbFl6dWZvZA?oc=5",
-      "summary": "通膨關稅夾擊！輝達早盤重挫7.5％ 費半、台積電ADR都摔逾6％ 自由財經 美股四指開盤全倒「費半大跌7%」！輝達重挫8.6%、美光暴跌近11% 台積電ADR跌7%、台指期夜盤殺1900點 Yahoo股市 科技股逢賣壓 美股多收黑 自由時報 〈美股早盤〉AI賣壓、通膨與關稅夾擊！那指跌逾4% 台積電ADR挫逾7% 鉅亨網 美股開盤雪崩！費半暴跌逾6％、台指期夜盤跟著遭殃 ETtoday財經雲",
-      "published": "Wed, 25 Nov 2026 15:59:40 GMT",
-      "display_time": "11/25 15:59"
+      "title": "國家隊連9日撒金護盤！今反手出貨題材股 群創、力積電、南亞科全進賣超名單 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNX3RlRm9UNjEwWl82bGJ0bVpaUTJmbG1UZ0QwOF9jZkozUVphbDJtOVNneGpjamQzd1M5cDFySG9Vc0dXZm1CNndsdEVXSW1EWUZOZjIySE01TmNBQ3V5SU9lRFRtNEYtaWRaV0tTSUpXdWxaMFpZSXJNU3dFQ1FDQXUtU0hKcUxBVlEyVTk2azdJSVAyanc2MWFzNEVZWUkxZHppN0J4VjhGSnE4UjdaRFJ4cnVETmJDbWdEUzFkNDZlS1RrYTlWYm5ISmUzOTV1YTFsU3BDWjJvc1YtOFRwOXVmdnhEeDM1TFMwQVZ6RmctU1Z4QnMyc2dKVVc3TGU1bzBhN0JpR05vbUd3bXVOUnRnRF9iSTZnc3U4d2E5S09rNEhGeWJOSUp0U0J1YWJ2b01pZWlqalVxblFia0lTREFRa2llRDVmWkFfZU9KbXZYTkQ4RjczTDU3UUNxRlFtMTdPWGZCMEgzYkRRVlpDdWJXREwyZVFJR2NEMjVGRnlvWmZoOU1tMGtuUV82bEhKSWU2THF2bTVrdThjanVoWjU1Rk0yeTY4MkY2OFpLY0RYeU9VYVZySnV1Y3E3N1RPd1dHMXBLcHc3cmVBWnk4bld3SEVuUQ?oc=5",
+      "summary": "國家隊連9日撒金護盤！今反手出貨題材股 群創、力積電、南亞科全進賣超名單 Yahoo股市 【Follow法人】外資提款台積電392億元！同步翻臉重砍台玻8萬張 中華電也難逃萬張賣超 Yahoo股市 台股收復3萬9關 外資續砍491億、三大法人賣超132.65億元 鉅亨網 外資連10砍台積電12萬張！今提款台股491億　進出前10大曝光 ETtoday財經雲 群創暴跌後強彈7.36％！幕後功臣是「這群人」 98萬股東笑了 自由時報",
+      "published": "Thu, 26 Nov 2026 14:36:00 GMT",
+      "display_time": "11/26 14:36"
     },
     {
       "source": "Google News Global",
-      "title": "矽谷贏了、MAGA怒了！川普救回黃仁勳內幕曝 掀共和黨內鬨 - Yahoo股市",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQYXF0M19KenNzcGNWZnNhUGlzVGZPTmwwOHFBZFpiMUNJNFBFeGJHSTdMWHQ2bmpTMDN4c21hOWZLZ0hUcF9zcnpBUE5rbEdRMkl0a0Vnc0xnOXpIOTJBYWZUbWhDWUkxUHJUQUFUX3Z5dTVnVWNNdmdqdzBGN0tzdHhyUVZnOXRFRmR1and1VzdwZWgzZGJtMFZJZWlRX0szc2VhUHFtTjNQMjhucVRXbnhOalBQenBGRGE3Z2JkZTQ2RzRoWjV1NWkzRl9Eak5HbEotRWk1aHFiWGozYWt0Y2puVXl3MUZUY3Q0NmcwVG9PdkZ6S0Y5ZlZQejRwdUhiT3ZJQ3hZZ1RRUTFJT0hQQ0hqSkVhNXN0Mnc1VFpCNmFtNllLeUprUVcwZlB3bHpxRXlDVUxTWHNoOTFfektaYzdTaktHZjlLUGRaTTlubjFYeE9HQ25nYVZYaVcxdy0tUGw0cjctcHhRcmR4?oc=5",
-      "summary": "矽谷贏了、MAGA怒了！川普救回黃仁勳內幕曝 掀共和黨內鬨 Yahoo股市 前往 Google 新聞瀏覽更多頭條新聞和觀點",
-      "published": "Wed, 25 Nov 2026 13:54:59 GMT",
-      "display_time": "11/25 13:54"
+      "title": "索羅斯4200萬花去哪？藍要沈伯洋公開財報 - Yahoo新聞",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZWRfd1ZfQXRQMXFhSGlvcW5KZHdNckIxNkVzcnRMeDg5UERaRlZDdVFBX2FyZXhlemhiYURueDBlUFJjQUJUNUZJTHpoT05vR0xxaWx6cGJwWHFaWm42Ym9fakU4MS01M2E3ajZxTVlnVl95ZG1hcnFGSGNvSDlxN2VEcjVPNHViQkZMbmhMcEx0LVBnUGcxd09WU1NUQnJJOXZ2cDRrakcwbmEtRDlTQ2hPREJqOG1tQ1BINk1OZUIyWW1pVjlSWENVNlpUdmt0MWlqbE1UVFY4bHViMXBkZzc3TWFmdmYxYlBaX2VoSFh2VWd1bFFsTE1VM0dyNU43UkwxanlrVGVjTXJmbm5CLTJLbnM5WG1vVWc?oc=5",
+      "summary": "索羅斯4200萬花去哪？藍要沈伯洋公開財報 Yahoo新聞 拿外國的錢就是境外介選？一次看懂索羅斯基金會和沈伯洋敗訴判決 TNL The News Lens 關鍵評論網 提告傅崐萁索羅斯案敗訴沈伯洋：法官認太扯沒人信| 政治 中央社 CNA 聯合報黑白集／誰的實力好？ UDN 汪志雄觀點：沈伯洋拿境外資金理直氣壯 國家安全也能雙標？ | 汪志雄 | 評論 Storm.mg",
+      "published": "Thu, 26 Nov 2026 09:34:55 GMT",
+      "display_time": "11/26 09:34"
     },
     {
       "source": "Google News Global",
-      "title": "301調查結果出爐！美打擊產能過剩 擬對台課15%、對中加徵20%關稅 - UDN",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91YW11U3o4SkZkVGlzY2sxZklnRGZzSEU5OFJPY0NHVkJ1RkVhbml0WDkwZDFMWl9LTEh1SkNMNE1sWFAtb1VMOUFxMi1PTzhP?oc=5",
-      "summary": "301調查結果出爐！美打擊產能過剩 擬對台課15%、對中加徵20%關稅 UDN 美國為何擬對台加關稅？USTR列9項理由 半導體、電子業遭點名 Yahoo股市 關稅15％不疊加 政院有信心落實 自由時報 美301調查出爐擬對14經濟體加關稅 台灣協議稅率至少15% 中央社 CNA 川普關稅再出招！美擬對14貿易夥伴課新稅 台灣也在列 鉅亨網",
-      "published": "Wed, 25 Nov 2026 13:37:28 GMT",
-      "display_time": "11/25 13:37"
+      "title": "232半導體關稅未定！鄭麗君：台灣已握MOU保障 配額內免稅、配額外不疊加 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMi2ANBVV95cUxNU3VCLS11Um9kbk5hLXNQbVFpT2RaRzZtdmZXd1ZiejZTdU4tRTE2NnNuTzl0eGkyWDNkVHFsT0luM05SLXFrX196NHN5NWdGaEg5cHBMMXJDdWhRTGNkZWsxb09oOW5DTEJmVk5nM0piak5LeHd2X0JCbGpkU2pMS3RZQkZzYnByRnFidGtfS012eVpsVmY3U2hCQjBQOGFoT1VCMEZQRXRGSVppa0tkRkRuWnI1ZnNJRnVBVXVNcnVncnIzNUctMWVQYWZGbGRFN2ZxWGdNdFA2aGhuTHA5czR3Umlra2FSbGZVLUk5bHc2YTVkanJBWDZ4V3dlRy03M0ZLc1oyS1JCMVBMczlsUXNGSUJpMWNlWS1mRFZ3RUVuZHgxZDJsSzl4WEo2RnZVd1FPZWhUemtiS3BzYWg2Y2dNdWpieWdMSUdqaE5QSGctQjc0dm9OXzIzeGlQeWRkeDlXOTBheDJtQ3VkQkZSb3BQVU5OcUh0c0JBX2pFczZLN2oyUDlsRjlFaUVCNHRqU1ZBekViN2F2Sko2YTJRT3d1RXl5X3I2QlpmRzB6M0dIcWN0SjlfMDFYaE9oQ2dlZXU5Rk55V2xFX3VwaURpaVgyTzYyMVNG?oc=5",
+      "summary": "232半導體關稅未定！鄭麗君：台灣已握MOU保障 配額內免稅、配額外不疊加 Yahoo股市 台灣鬼頭刀剉咧等？圖解美301調查 14國關稅怎麼課 聯合報數位版 與日韓、歐盟同列最低級別待遇 經部：翻轉無自貿協定劣勢 自由財經 風評：川普新關稅台灣增加50%，值得高興嗎？ | 主筆室 | 評論 Storm.mg 川普新關稅逼貿易談判加速- 日報 工商時報",
+      "published": "Thu, 26 Nov 2026 08:27:39 GMT",
+      "display_time": "11/26 08:27"
     },
     {
       "source": "Google News Global",
-      "title": "川普開金口 美股電子盤、黃金腳軟 台指期夜盤倒地 - 經濟日報",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAySHp5V1hPNlI3UTVJcFo3YmFCUzJWcFJrV1lrQnk0R256eWJEZG5hNVlva1Q3N0wweWVhSlFvUFZqSE9XRkdXQnktVThIX3JwLXBnTVlnZlAzdDjSAWBBVV95cUxOOWZVZW1ObmNXdnpaOXJIM0VMaTFyd21COVozaGN5OXlZOVV6OUVmMTFZV3RuRk56b2FVS3FWaDB5blRsZ05KMlhIcUlHbmdBNnBveUhmdHdjSGZwZzctWWo?oc=5",
-      "summary": "川普開金口 美股電子盤、黃金腳軟 台指期夜盤倒地 經濟日報 【Follow法人】外資提款台積電、鴻海合計逾663億元 再砍聯電逾6萬張 Yahoo股市 台股今重挫！哲哲點名6檔股「抱緊等逆轉勝」：All in的人別看盤了 ETtoday財經雲 股災還沒完？台指期夜盤跌1343點美股盤前台積電ADR跌近5％ 專家建議拉高現金部位、降低槓桿 自由時報 蔡明芳專欄》將台股大跌歸責於301關稅調查結果 是不正確的 Rti 中央廣播電臺",
-      "published": "Wed, 25 Nov 2026 13:04:54 GMT",
-      "display_time": "11/25 13:04"
+      "title": "台指期漲逾千點夜盤翻黑- 證券 - 工商時報",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YdFZxN2pXWWtwVFBOaktob0dBR0Vrbl9seXdJcHhqbXM0Skl0eTlrckdrQjF0T1k2eXJrOFJNZktvdV9laVpBUnJRR09BYlJDdjB0VkwxVGlELWlrNlE0?oc=5",
+      "summary": "台指期漲逾千點夜盤翻黑- 證券 工商時報 台股狂飆956點別高興太早！陳嘉偉喊「最後逃命」示警12月五大利空：恐跌破35542點 Yahoo股市 台股大漲近千點 主動式ETF超級熱 自由時報 台股上漲956點收39151點 PCB散熱族群反彈 Rti 中央廣播電臺 再戰年線3萬9！「33檔」操作節奏這樣抓 三立新聞",
+      "published": "Thu, 26 Nov 2026 07:32:00 GMT",
+      "display_time": "11/26 07:32"
     },
     {
       "source": "Google News Global",
-      "title": "瑤池金母對戰關稅帝君！ 00981A觸跌停再爆百萬張巨量 - ETtoday財經雲",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44ejg0WUJZd3owekh0c0JuUFR0cFotTTNuYkI3SnZDaGFRbnFIUS1fOElpVFp0WDk3N1hjYWprVGZPb2d6cmRIenRvX3lOYXVSUEE?oc=5",
-      "summary": "瑤池金母對戰關稅帝君！ 00981A觸跌停再爆百萬張巨量 ETtoday財經雲 輝黃僅1天／4個月沒加碼股票！分析師11月股災終於出手 買這檔ETF一張不到7000元 | 鏡週刊 LINE TODAY 外資養肥再殺？「這檔ETF」成交量爆118萬張 股價卻重挫逾5% Yahoo新聞 最受歡迎的10大ETF出爐！0050破400萬人奪冠 專家揭「3大市場趨勢」 三立新聞 外資、自營商狠砍「這檔ETF」近9萬張！盤中下殺跌停 國家隊3.7億救援 Yahoo新聞",
-      "published": "Wed, 25 Nov 2026 04:38:00 GMT",
-      "display_time": "11/25 04:38"
-    },
-    {
-      "source": "Google News Global",
-      "title": "川普再嗆「台灣偷晶片」 放話2年後關稅上看200％ 台積電德州廠時間軸很微妙- 國際 - 工商時報",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtRVh1NjAtUmFseFEtcVJBRVFsUl9VYnNrMGFnOWRUX2RDY3FJbE5LbWhYY3ZKU2ctS2s1VmVtZzk0LWdUNDJLR1lGV3RaTUZMcGgyZTZiNHZhZFRYRkFv?oc=5",
-      "summary": "川普再嗆「台灣偷晶片」 放話2年後關稅上看200％ 台積電德州廠時間軸很微妙- 國際 工商時報 台美ART將拍板 張建一：關稅不會超過15％、半導體不在其中 Yahoo股市 彭博：川普下周將親臨台積電亞利桑那廠擴建典禮| 全球財經| 全球 UDN 台積電亞利桑那擴建、評估德州建廠台灣仍是研發與先進製程核心| 產經 中央社 CNA DIGITIMES Today：魏哲家、川普即將同台| 駭客鎖定台灣半導體供應鏈| 上海市「一把手」如何主掌科技產業布局？ DIGITIMES",
-      "published": "Wed, 25 Nov 2026 01:58:00 GMT",
-      "display_time": "11/25 01:58"
+      "title": "【九合一選舉燒台股】從沈伯洋、蔣萬安等政見挖寶！分析師點名「三大受惠族群」 - Yahoo股市",
+      "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOSi13QzlWTGE4Vk1QcE1iTjg0YmRHRWd6U2dSTzltU2FNb2wxWl9icEVtUTFMVVlfYm13TjA5UHBhbzVDMjhzZ3FKOFF4SHdSX2NpQnE4Z2pmQkpjeWVYeEJaWktGdXBSTk00cDBlZjVCZWhQa1loMUtKQVcxTHRhaERpVm9RekdpUTFOUVU3MTJPT0tOZ1ItVHkwbm9DMzRnd2ZQM3ZjRGI3OXVkZUl3YzdPZW1GdWxJLXQ4ZjFwNG9oeUItQlN1RlN5QS0wSGtLMkN1dnFMcktoZm0yZXN4Y2hXeDRHVGd3MF9Mbm5kZEhuLVFNcDdGenhNcnNpcU5qMmM5VzRNcmtxSVN4MFVILUNDMHNsNXF3eWNFLTZjM2xjRFp4QkdhWG1mbkdYOVBScnBGVk15T2l0SG0xMEJDMXdhbkxhcUQxQmZ2S29fWkZjTE5LWHpwRW1DSXhOaEtLcFcwZWdFcGRzRUxLajRTNXE4V0RwbXZVdXI2NmNvc2xHZkpvaFJnanUybmlaWTBOSFpaYjV0cUgtMkY2N3VUSEdvNGRGU3lSR2h5UF9KRmhyeFRydXBVXzBHem1oem9Wak1PUkVXZ0ZxNVNqOVJ2M0p4dE1DY21GdVo5d01YbEJUTm14VjU3WXk5R3dLcEpBakZFRDdBeTVYRzFCdHlnZnpQV2ZPWFJsZm5xU2paeFZadDAzRlh3?oc=5",
+      "summary": "【九合一選舉燒台股】從沈伯洋、蔣萬安等政見挖寶！分析師點名「三大受惠族群」 Yahoo股市 瑞媒評台灣地方選舉　民生議題與中國因素不可迴避 經濟日報 2026九合一大選11月28日登場！中央社開票直播、選後政局解析帶您掌握選戰關鍵| 政治 中央社 CNA AI、「脆」成今年選戰亮點！ Rti 中央廣播電臺 端LIVE：開票之夜，從三地角度看台灣地方大選 端傳媒Initium Media",
+      "published": "Thu, 26 Nov 2026 02:25:28 GMT",
+      "display_time": "11/26 02:25"
     }
   ]
 }
